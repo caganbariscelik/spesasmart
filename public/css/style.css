@@ -243,3 +243,56 @@ main {
     0% { background-position: -200% 0; }
     100% { background-position: 200% 0; }
 }
+
+/* --- Language Switcher --- */
+.lang-switcher {
+    position: absolute;
+    top: 2rem;
+    right: 2rem;
+    display: flex;
+    align-items: center;
+    gap: 0.5rem;
+    padding: 0.6rem 1rem;
+    background: hsla(0, 0%, 100%, 0.05);
+    backdrop-filter: blur(10px);
+    border: 1px solid hsla(0, 0%, 100%, 0.1);
+    border-radius: 1rem;
+    z-index: 100;
+}
+
+.lang-btn {
+    background: none;
+    border: none;
+    color: var(--text-secondary);
+    font-size: 0.8rem;
+    font-weight: 700;
+    cursor: pointer;
+    transition: all 0.3s ease;
+    padding: 0.2rem 0.5rem;
+    border-radius: 0.5rem;
+}
+
+.lang-btn:hover {
+    color: var(--text-primary);
+}
+
+.lang-btn.active {
+    color: var(--accent-emerald);
+    background: hsla(142, 70%, 50%, 0.1);
+}
+
+.lang-divider {
+    color: var(--text-secondary);
+    opacity: 0.3;
+    font-size: 0.8rem;
+}
+
+/* Responsive adjustments */
+@media (max-width: 768px) {
+    .lang-switcher {
+        top: 1rem;
+        right: 1rem;
+        padding: 0.4rem 0.8rem;
+    }
+}
+
