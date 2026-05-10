@@ -1,0 +1,1001 @@
+product_id,store_name,product_name,brand,price_eur,last_updated,city
+CP0001,Esselunga,Atlante Mozzarella 125g,Atlante,2.4,2026-02-22T04:03:00,Milan
+CP0002,Esselunga,Mozzarella di Bufala 125g,Bio,2.38,2026-01-25T00:00:00,Milan
+CP0003,Esselunga,Esselunga Fior di latte mozzarella,Esselunga,2.17,2026-03-10T00:00:00,Milan
+CP0004,Esselunga,Fidaty Greek Yogurt 170g,Fidaty,2.92,2026-01-10T00:00:00,Milan
+CP0005,Esselunga,Strawberry Yogurt,Smart,1.59,2026-03-23T00:00:00,Milan
+CP0006,Esselunga,Top Plain Yogurt, Top ,1.71,2026-01-03T00:00:00,Milan
+CP0007,Esselunga,Top Whole Milk,Top,2.3,2026-03-11T00:00:00,Milan
+CP0008,Esselunga,Esselunga Semi-skimmed Milk 1l,Esselunga ,1.72,2026-01-27T00:00:00,Milan
+CP0009,Esselunga,Ferrero Lactose Free Milk 1l,Ferrero,2.33,2026-03-31T00:00:00,Milan
+CP0010,Esselunga,Unsalted Butter,Esselunga,2.52,2026-03-18T09:15:00,Milan
+CP0011,Esselunga,Salted Butter 250g,Smart,1.86,2026-01-22T00:00:00,Milan
+CP0012,Esselunga,Bio Parmigiano Reggiano,Bio,2.72,2026-01-14T23:48:00,Milan
+CP0013,Esselunga,Atlante Gorgonzola 150g,Atlante,1.82,2026-02-04T06:55:00,Milan
+CP0014,Esselunga,Rio Mare Ricotta 250g,rio mare,3.31,2026-01-27T16:49:00,Milan
+CP0015,Esselunga,whole wheat bread,Fidaty ,2.23,2026-02-28T10:38:00,Milan
+CP0016,Esselunga,Ciabatta 300g,Smart,2.57,2026-04-05T00:00:00,Milan
+CP0017,Esselunga,Top Sandwich Bread,Top,3.05,2026-03-26T00:00:00,Milan
+CP0018,Esselunga,Butter Croissant,Atlante,2.19,2026-03-22T18:31:00,Milan
+CP0019,Esselunga,Smart Chocolate Croissant 6pcs,Smart,1.83,2026-02-08T00:00:00,Milan
+CP0020,Esselunga,Chocolate Chip Cookies 300g,Lavazza,3.32,2026-03-22T21:08:00,Milan
+CP0021,Esselunga,Digestive Biscuits 400g,Naturama,2.67,2026-03-17T08:02:00,Milan
+CP0022,Esselunga,Cherry Tomatoes 500g,Top,3.0,2026-04-10T04:20:00,Milan
+CP0023,Esselunga,Naturama Round Tomatoes 1kg,Naturama,4.16,2026-01-25T00:00:00,Milan
+CP0024,Esselunga,Iceberg Lettuce,Top,3.95,2026-04-10T00:00:00,Milan
+CP0025,Esselunga,Smart Rocket Salad,Smart,2.46,2026-01-10T00:00:00,Milan
+CP0026,Esselunga, Atlante Golden Apples 1kg,Atlante,3.41,2026-03-28T08:34:00,Milan
+CP0027,Esselunga,Pink Lady Apples,Atlante,3.36,2026-04-01T05:54:00,Milan
+CP0028,Esselunga,Bananas 1kg,Top,3.34,2026-05-01T00:00:00,Milan
+CP0029,Esselunga,Smart Potatoes,Smart,1.92,2026-01-06T22:06:00,Milan
+CP0030,Esselunga,Naturama Chicken Breast,Naturama,6.99,2026-02-21T16:52:00,Milan
+CP0031,Esselunga,Naturama Chicken Thighs 500g,Naturama,9.41,2026-02-14T23:49:00,Milan
+CP0032,Esselunga,Minced Beef,Esselunga ,9.27,2026-02-23T15:28:00,Milan
+CP0033,Esselunga,Beef Steak 300g,Esselunga,7.61,2026-03-31T00:52:00,Milan
+CP0034,Esselunga,Prosciutto Cotto, Atlante ,4.19,2026-02-05T11:43:00,Milan
+CP0035,Esselunga,De Cecco Salame Milano,De Cecco,6.97,2026-03-09T21:23:00,Milan
+CP0036,Esselunga,Spaghetti,Rio Mare,2.17,2026-04-24T04:02:00,Milan
+CP0037,Esselunga,Penne Rigate 500g,Fidaty,4.36,2026-01-23T11:42:00,Milan
+CP0038,Esselunga,Fusilli,Fidaty,3.34,2026-03-08T17:45:00,Milan
+CP0039,Esselunga,Carnaroli Rice,Aia,2.73,2026-04-21T00:00:00,Milan
+CP0040,Esselunga,Atlante Basmati Rice 1kg,Atlante,3.66,2026-04-09T00:00:00,Milan
+CP0041,Esselunga,Bio Tomato Passata 700ml,Bio,4.12,2026-04-22T23:14:00,Milan
+CP0042,Esselunga,Pesto Genovese,Esselunga,4.42,2026-03-13T00:00:00,Milan
+CP0043,Esselunga,Smart Extra Virgin Olive Oil,Smart,2.07,2026-04-17T18:57:00,Milan
+CP0044,Esselunga,Sunflower Oil,Naturama,2.88,2026-04-23T01:38:00,Milan
+CP0045,esselunga,Barilla All Purpose Flour,Barilla,3.64,2026-02-18T22:45:00,Milan
+CP0046,Esselunga,00 Flour,de cecco,3.3,2026-01-12T15:38:00,Milan
+CP0047,Esselunga, Atlante White Sugar 1kg,Atlante,4.35,2026-01-01T13:08:00,Milan
+CP0048,Esselunga,Lavazza Brown Sugar 1kg,Lavazza,2.71,2026-02-19T00:00:00,Milan
+CP0049,Esselunga,Ground Coffee,Top,2.83,2026-04-23T00:00:00,Milan
+CP0050,Esselunga, Coffee Beans,Bio,2.19,2026-04-20T16:30:00,Milan
+CP0051,Esselunga,Corn Flakes,Bio,3.18,2026-03-14T04:47:00,Milan
+CP0052,Esselunga,Aia Muesli 750g,Aia,4.55,2026-03-23T00:00:00,Milan
+CP0053,Esselunga,Lavazza Margherita Pizza 350g,Lavazza,6.13,2026-02-23T00:00:00,Milan
+CP0054,Esselunga,Smart Vegetable Pizza 380g,smart,4.21,2026-02-27T00:00:00,Milan
+CP0055,Esselunga,Atlante Frozen Peas 450g, Atlante,5.44,2026-02-04T00:00:00,Milan
+CP0056,Esselunga,Frozen Spinach 450g,Bio,5.31,2026-02-24T07:56:00,Milan
+CP0057,Esselunga,Frozen Salmon Fillets 400g,Smart,4.11,2026-02-25T00:00:00,Milan
+CP0058,Esselunga,Fish Fingers,Fidaty,5.77,2026-03-08T00:00:00,Milan
+CP0059,Esselunga,Rio Mare Still Water 1.5l,Rio Mare,2.68,2026-02-05T00:00:00,Milan
+CP0060,Esselunga,SPARKLING WATER 1.5L,Top,1.7,2026-04-04T00:00:00,Milan
+CP0061,Esselunga,Esselunga Orange Juice,Esselunga,2.29,2026-01-31T00:00:00,Milan
+CP0062,Esselunga,Naturama Apple Juice,Naturama,1.37,2026-03-18T00:00:00,Milan
+CP0063,Esselunga,Barilla Cola,Barilla,1.96,2026-02-26T00:00:00,Milan
+CP0064,Esselunga,Lemon Soda,Esselunga,1.86,2026-01-08T19:24:00,Milan
+CP0065,Esselunga,Smart Green Tea 20pcs,Smart,1.13,2026-01-18T00:00:00,Milan
+CP0066,Esselunga,Smart Black Tea,Smart,1.85,2026-04-11T00:00:00,Milan
+CP0067,Esselunga,Atlante Dish Soap 750ml,Atlante,4.32,2026-03-28T10:03:00,Milan
+CP0068,Esselunga,Laundry Detergent 1.5l,Top,7.11,2026-01-23T00:00:00,Milan
+CP0069,Esselunga,Naturama Toilet Paper,Naturama,7.31,2026-02-20T00:00:00,Milan
+CP0070,Esselunga,Top Kitchen Towels 4pcs,Top,0.0,2026-04-23T18:40:00,Milan
+CP0071,Esselunga,Multi Surface Cleaner 750ml,PARMALAT,5.43,2026-04-29T07:54:00,Milan
+CP0072,Esselunga,Smart Bleach,Smart,4.43,2026-01-31T02:25:00,Milan
+CP0073,Esselunga,Shampoo 250ml,Top,2.8,2026-04-23T00:00:00,Milan
+CP0074,Esselunga,Atlante Conditioner 250ml,Atlante,6.84,2026-01-17T00:00:00,Milan
+CP0075,Esselunga,Lavazza Hand Soap,Lavazza,5.09,2026-01-26T00:03:00,Milan
+CP0076,Esselunga,Bio Body Wash 500ml,Bio,6.51,2026-02-05T00:00:00,Milan
+CP0077,Esselunga,Toothpaste,Mulino Bianco,4.66,2026-01-02T00:00:00,Milan
+CP0078,Esselunga,Mozzarella Premium 93.75g,Ferrero,3.4,2026-02-05T14:05:00,Milan
+CP0079,Esselunga,Mozzarella di Bufala Premium,Fidaty,1.63,2026-02-10T00:00:00,Milan
+CP0080,Esselunga,Naturama Fior di latte mozzarella Premium 200g,Naturama,3.48,2026-01-01T00:00:00,Milan
+CP0081,Esselunga,Smart Greek Yogurt Premium,Smart,2.94,2026-03-04T00:00:00,Milan
+CP0082,Esselunga,Naturama Strawberry Yogurt Premium,Naturama,2.27,2026-03-09T00:00:00,Milan
+CP0083,Esselunga,Plain Yogurt Premium 500g, Fidaty,3.06,2026-02-09T00:00:00,Milan
+CP0084,Esselunga,Bio Whole Milk Premium 0.75l,Bio,1.56,2026-04-25T07:23:00,Milan
+CP0085,Esselunga,Semi-skimmed Milk Premium 1.5l, Smart ,1.71,2026-01-21T00:00:00,Milan
+CP0086,Esselunga,Ferrero Lactose Free Milk Premium 0.75l,Ferrero,1.45,2026-01-02T00:00:00,Milan
+CP0087,Esselunga,Smart Unsalted Butter Premium 375g,Smart,2.45,2026-01-04T07:35:00,Milan
+CP0088,Esselunga,Naturama Salted Butter Premium,Naturama,3.3,2026-05-01T14:47:00,Milan
+CP0089,Esselunga,Bio Parmigiano Reggiano Premium,Bio,3.05,2026-02-12T07:46:00,Milan
+CP0090,Esselunga,Gorgonzola Premium,Ferrero,2.05,2026-02-17T10:31:00,Milan
+CP0091,Esselunga,Parmalat Ricotta Premium 187.5g,Parmalat,3.51,2026-01-08T13:33:00,Milan
+CP0092,Esselunga,Whole Wheat Bread Premium,Granarolo,2.58,2026-02-02T00:00:00,Milan
+CP0093,Esselunga,Fidaty Ciabatta Premium,Fidaty,2.56,2026-04-05T20:27:00,Milan
+CP0094,Esselunga, Top Sandwich Bread Premium 825g,Top,2.48,2026-01-26T00:00:00,Milan
+CP0095,Esselunga,Atlante Butter Croissant Premium 9pcs,Atlante,2.67,2026-03-17T03:15:00,Milan
+CP0096,Esselunga,Chocolate Croissant Premium,Atlante,2.94,2026-03-10T00:00:00,Milan
+CP0097,Esselunga,Bio Chocolate Chip Cookies Premium,bio,3.53,2026-01-13T00:00:00,Milan
+CP0098,Esselunga,Lavazza Digestive Biscuits Premium, Lavazza ,2.51,2026-01-05T21:45:00,Milan
+CP0099,Esselunga,CHERRY TOMATOES PREMIUM 750G,Smart,2.14,2026-02-02T10:24:00,Milan
+CP0100,Esselunga,Round Tomatoes Premium,Granarolo,2.04,2026-04-30T00:38:00,Milan
+CP0101,Esselunga,Atlante Iceberg Lettuce Premium 1pcs,Atlante,3.31,2026-02-05T12:56:00,Milan
+CP0102,Esselunga,Rocket Salad Premium,Top,2.45,2026-04-22T00:00:00,Milan
+CP0103,Esselunga,Golden Apples Premium ,Top,3.18,2026-04-30T01:00:00,Milan
+CP0104,Esselunga,De Cecco Pink Lady Apples Premium,De Cecco,1.82,2026-01-22T00:00:00,Milan
+CP0105,Esselunga,Bananas Premium 0.75kg,Smart,3.69,2026-05-01T00:00:00,Milan
+CP0106,Esselunga,De Cecco Potatoes Premium 2kg,De Cecco,2.55,2026-01-23T00:00:00,Milan
+CP0107,Esselunga,Chicken Breast Premium,Bio,0.0,2026-02-24T16:37:00,Milan
+CP0108,Esselunga,Smart Chicken Thighs Premium 500g,Smart,4.92,2026-04-16T06:47:00,Milan
+CP0109,Esselunga,Minced Beef Premium,Esselunga,5.51,2026-02-01T00:00:00,Milan
+CP0110,Esselunga,Barilla Beef Steak Premium,Barilla,6.31,2026-01-30T00:00:00,Milan
+CP0111,Esselunga,Smart Prosciutto Cotto Premium 120g,Smart,4.88,2026-03-04T00:00:00,Milan
+CP0112,Esselunga,Salame Milano Premium,Top,5.13,2026-03-15T02:28:00,Milan
+CP0113,Esselunga,Bio Spaghetti Premium 375g,Bio,4.77,2026-01-10T16:05:00,Milan
+CP0114,Esselunga,Penne Rigate Premium,Mulino Bianco,3.6,2026-01-31T00:00:00,Milan
+CP0115,Esselunga,Fusilli Premium 625g,Smart,3.07,2026-01-30T15:20:00,Milan
+CP0116,Esselunga,Carnaroli Rice Premium 0.75kg,Aia,5.08,2026-03-03T00:00:00,Milan
+CP0117,Esselunga,Mutti Basmati Rice Premium,Mutti,3.54,2026-01-15T00:00:00,Milan
+CP0118,Esselunga,Tomato Passata Premium,Atlante,4.75,2026-02-24T01:46:00,Milan
+CP0119,Esselunga,Top Pesto Genovese Premium,Top,3.3,2026-04-04T00:00:00,Milan
+CP0120,Esselunga, Fidaty Extra Virgin Olive Oil Premium ,Fidaty,4.13,2026-03-06T00:00:00,Milan
+CP0121,Esselunga,Bio Sunflower Oil Premium 0.75l,Bio,2.62,2026-04-29T00:00:00,Milan
+CP0122,Esselunga,Galbani All Purpose Flour Premium,Galbani,3.17,2026-02-19T00:00:00,Milan
+CP0123,Esselunga, 00 Flour Premium ,Fidaty,4.9,2026-01-07T00:00:00,Milan
+CP0124,Esselunga,Naturama White Sugar Premium 0.75kg,Naturama,4.12,2026-03-05T06:09:00,Milan
+CP0125,Esselunga,Brown Sugar Premium 1.25kg,Smart,3.57,2026-03-25T00:00:00,Milan
+CP0126,Esselunga,Ground Coffee Premium,Esselunga,4.09,2026-03-06T00:00:00,Milan
+CP0127,Esselunga,Atlante Coffee Beans Premium 750g,Atlante,2.82,2026-03-01T08:30:00,Milan
+CP0128,Esselunga,Corn Flakes Premium,Ferrero,3.62,2026-03-14T13:25:00,Milan
+CP0129,Esselunga,Muesli Premium 1125g,Top,4.87,2026-02-26T00:00:00,Milan
+CP0130,Esselunga, Margherita Pizza Premium 350g,Smart,4.31,2026-02-03T03:42:00,Milan
+CP0131,Esselunga,Vegetable Pizza Premium 570g,Naturama,3.09,2026-04-10T15:09:00,Milan
+CP0132,Esselunga,Frozen Peas Premium 450g,Bio,3.84,2026-03-10T00:00:00,Milan
+CP0133,Esselunga,Frozen Spinach Premium,Top,5.72,2026-01-15T07:37:00,Milan
+CP0134,Esselunga, Frozen Salmon Fillets Premium,Bio,4.38,2026-03-17T00:00:00,Milan
+CP0135,Esselunga,Aia Fish Fingers Premium 300g,aia,5.6,2026-02-24T00:00:00,Milan
+CP0136,Esselunga,Top Still Water Premium 1.5l,Top,1.62,2026-01-27T01:06:00,Milan
+CP0137,Esselunga,Naturama Sparkling Water Premium,Naturama,2.0,2026-03-17T17:23:00,Milan
+CP0138,Esselunga,Orange Juice Premium,Atlante,1.38,2026-01-08T11:34:00,Milan
+CP0139,Esselunga,Parmalat Apple Juice Premium 0.75l,Parmalat,2.7,2026-01-21T00:00:00,Milan
+CP0140,Esselunga,cola premium 1.88l,top,2.43,2026-03-26T12:17:00,Milan
+CP0141,Esselunga,Lemon Soda Premium,Aia,1.33,2026-03-23T10:44:00,Milan
+CP0142,Esselunga,Green Tea Premium 25pcs,Smart,1.58,2026-03-18T00:00:00,Milan
+CP0143,Esselunga,Black Tea Premium 25pcs,Bio,1.85,2026-03-05T00:00:00,Milan
+CP0144,Esselunga,Dish Soap Premium,Bio,5.07,2026-03-10T07:44:00,Milan
+CP0145,Esselunga,Atlante Laundry Detergent Premium,Atlante,5.77,2026-03-27T00:00:00,Milan
+CP0146,Esselunga,Toilet Paper Premium 8pcs, Mulino Bianco ,5.53,2026-04-13T00:00:00,Milan
+CP0147,Esselunga,Kitchen Towels Premium 4pcs ,Lavazza,4.33,2026-02-22T17:34:00,Milan
+CP0148,Esselunga,Multi Surface Cleaner Premium 750ml,Mulino Bianco,3.89,2026-03-26T07:08:00,Milan
+CP0149,Esselunga,Bleach Premium 1.5l,granarolo,6.65,2026-02-26T06:35:00,Milan
+CP0150,Esselunga,Shampoo Premium 375ml,Atlante,4.25,2026-01-28T00:00:00,Milan
+CP0151,Esselunga,Conditioner Premium,Fidaty,3.24,2026-03-13T00:00:00,Milan
+CP0152,Esselunga,Hand Soap Premium,Bio,0.0,2026-02-09T00:00:00,Milan
+CP0153,Esselunga,Body Wash Premium,Naturama,3.17,2026-02-27T00:00:00,Milan
+CP0154,Esselunga,Atlante Toothpaste Premium,Atlante,5.89,2026-03-16T00:00:00,Milan
+CP0155,Esselunga,Bio Mozzarella Bio,Bio,2.47,2026-04-17T00:00:00,Milan
+CP0156,Esselunga,Mozzarella di Bufala Bio,Atlante,1.48,2026-04-05T00:00:00,Milan
+CP0157,Esselunga,Fior di latte mozzarella Bio,Top ,3.37,2026-03-12T00:00:00,Milan
+CP0158,Esselunga,Atlante Greek Yogurt Bio 255g,Atlante,2.05,2026-02-09T00:00:00,Milan
+CP0159,Esselunga,Smart Strawberry Yogurt Bio 2pcs, Smart ,1.94,2026-01-19T13:57:00,Milan
+CP0160,Esselunga,Esselunga Plain Yogurt Bio 500g,Esselunga,1.46,2026-04-05T00:04:00,Milan
+CP0161,Esselunga,Fidaty Whole Milk Bio,Fidaty,2.59,2026-01-22T00:00:00,Milan
+CP0162,Esselunga,Semi-skimmed Milk Bio,Naturama,3.54,2026-04-30T00:00:00,Milan
+CP0163,Esselunga, Smart Lactose Free Milk Bio 0.75l ,Smart,2.54,2026-02-27T04:09:00,Milan
+CP0164,Esselunga,Atlante Unsalted Butter Bio,Atlante,1.74,2026-01-30T00:00:00,Milan
+CP0165,Esselunga,Atlante Salted Butter Bio 312.5g,Atlante,3.25,2026-02-24T23:21:00,Milan
+CP0166,Esselunga,Parmigiano Reggiano Bio 200g,Atlante,1.85,2026-03-23T00:00:00,Milan
+CP0167,Esselunga,Atlante Gorgonzola Bio,Atlante,3.21,2026-04-03T09:56:00,Milan
+CP0168,Esselunga,Ricotta Bio,Naturama,3.42,2026-03-30T00:00:00,Milan
+CP0169,Esselunga,Top Whole Wheat Bread Bio,Top,3.83,2026-03-31T19:37:00,Milan
+CP0170,Esselunga,Ciabatta Bio 300g,Bio,3.06,2026-01-13T16:40:00,Milan
+CP0171,Esselunga,Sandwich Bread Bio,Esselunga,3.54,2026-04-27T00:00:00,Milan
+CP0172,Esselunga,Atlante Butter Croissant Bio 7.5pcs,Atlante,3.04,2026-01-14T15:10:00,Milan
+CP0173,Esselunga,Galbani Chocolate Croissant Bio 7.5pcs,Galbani,2.52,2026-03-22T00:00:00,Milan
+CP0174,Esselunga, Naturama Chocolate Chip Cookies Bio 375g ,Naturama,1.86,2026-01-17T00:00:00,Milan
+CP0175,Esselunga,Aia Digestive Biscuits Bio 400g,Aia,2.25,2026-01-11T00:00:00,Milan
+CP0176,Esselunga,Fidaty Cherry Tomatoes Bio 500g,Fidaty,3.28,2026-03-01T00:00:00,Milan
+CP0177,Esselunga,Round Tomatoes Bio,Atlante,2.07,2026-01-07T00:00:00,Milan
+CP0178,Esselunga,Iceberg Lettuce Bio,Atlante,2.04,2026-01-04T00:00:00,Milan
+CP0179,Esselunga,Ferrero Rocket Salad Bio 187.5g,Ferrero,2.6,2026-04-05T16:08:00,Milan
+CP0180,Esselunga,Golden Apples Bio 1.5kg,Naturama,3.27,2026-01-18T00:00:00,Milan
+CP0181,Esselunga,Pink Lady Apples Bio,Fidaty,2.9,2026-04-29T00:00:00,Milan
+CP0182,Esselunga,Bananas Bio 1.5kg,Fidaty,3.02,2026-02-17T01:49:00,Milan
+CP0183,Esselunga,Smart Potatoes Bio 2.5kg,Smart,4.41,2026-03-15T00:00:00,Milan
+CP0184,Esselunga,Chicken Breast Bio,Bio,8.02,2026-04-26T00:00:00,Milan
+CP0185,Esselunga,Chicken Thighs Bio 625g,Smart,8.97,2026-04-29T00:00:00,Milan
+CP0186,Esselunga,Esselunga Minced Beef Bio 400g,ESSELUNGA,6.48,2026-04-28T00:00:00,Milan
+CP0187,Esselunga,Naturama Beef Steak Bio,Naturama,8.0,2026-04-04T00:00:00,Milan
+CP0188,Esselunga,Prosciutto Cotto Bio 120g,Atlante,7.77,2026-01-15T00:00:00,Milan
+CP0189,Esselunga,SALAME MILANO BIO,Atlante,6.61,2026-03-14T00:00:00,Milan
+CP0190,Esselunga,Spaghetti Bio,Atlante,2.86,2026-03-17T08:58:00,Milan
+CP0191,Esselunga,Penne Rigate Bio 375g,Bio,3.62,2026-04-26T14:51:00,Milan
+CP0192,Esselunga,Naturama Fusilli Bio, Naturama,4.84,2026-02-14T00:00:00,Milan
+CP0193,Esselunga,Mutti Carnaroli Rice Bio 0.75kg,Mutti,2.39,2026-01-04T00:00:00,Milan
+CP0194,Esselunga,Fidaty Basmati Rice Bio,Fidaty,3.49,2026-02-15T05:09:00,Milan
+CP0195,Esselunga,Smart Tomato Passata Bio,Smart,4.79,2026-04-03T12:01:00,Milan
+CP0196,Esselunga,Pesto Genovese Bio,Bio,4.43,2026-03-16T22:09:00,Milan
+CP0197,Esselunga,Extra Virgin Olive Oil Bio 1.5l,Fidaty,2.96,2026-03-07T22:46:00,Milan
+CP0198,Esselunga,Bio Sunflower Oil Bio 0.75l, Bio,3.99,2026-05-01T00:00:00,Milan
+CP0199,Esselunga,All Purpose Flour Bio,Top,3.26,2026-04-17T00:00:00,Milan
+CP0200,Esselunga,Naturama 00 Flour Bio 1.25kg,naturama,3.19,2026-04-04T00:00:00,Milan
+CP0201,Esselunga,Top White Sugar Bio 1.5kg,Top,2.69,2026-04-14T03:40:00,Milan
+CP0202,Esselunga,Top Brown Sugar Bio,Top,4.92,2026-02-22T09:21:00,Milan
+CP0203,Esselunga,Ground Coffee Bio 375g ,Atlante,3.28,2026-03-03T00:00:00,Milan
+CP0204,Esselunga,Coffee Beans Bio,Atlante,2.22,2026-02-10T02:31:00,Milan
+CP0205,Esselunga,Corn Flakes Bio,Esselunga,3.88,2026-03-21T00:00:00,Milan
+CP0206,Esselunga,Top Muesli Bio,Top,2.89,2026-02-21T00:00:00,Milan
+CP0207,Esselunga,Rio Mare Margherita Pizza Bio 262.5g,Rio Mare,2.6,2026-04-29T00:00:00,Milan
+CP0208,Esselunga,Top Vegetable Pizza Bio 570g,Top,4.88,2026-02-23T00:00:00,Milan
+CP0209,Esselunga,Rio Mare Frozen Peas Bio 450g,Rio Mare,3.86,2026-03-02T00:00:00,Milan
+CP0210,esselunga,Frozen Spinach Bio 450g,Top,5.8,2026-03-15T08:43:00,Milan
+CP0211,Esselunga,Frozen Salmon Fillets Bio,Top,2.82,2026-02-09T00:00:00,Milan
+CP0212,Esselunga,Esselunga Fish Fingers Bio ,Esselunga,2.93,2026-01-28T00:00:00,Milan
+CP0213,Esselunga,Still Water Bio,Lavazza,2.43,2026-05-01T03:51:00,Milan
+CP0214,Esselunga,Sparkling Water Bio 1.5l,Mulino Bianco,1.89,2026-03-26T00:00:00,Milan
+CP0215,Esselunga,Bio Orange Juice Bio 1.25l,Bio,2.65,2026-03-11T00:00:00,Milan
+CP0216,Esselunga,Apple Juice Bio 0.75l,Naturama,1.95,2026-01-09T01:57:00,Milan
+CP0217,Esselunga,Cola Bio,Esselunga,2.65,2026-04-15T20:52:00,Milan
+CP0218,Esselunga,Smart Lemon Soda Bio,Smart,2.56,2026-04-24T00:00:00,Milan
+CP0219,Esselunga,Atlante Green Tea Bio 20pcs,Atlante,2.17,2026-03-30T00:00:00,Milan
+CP0220,Esselunga,Naturama Black Tea Bio,Naturama,2.71,2026-01-23T08:22:00,Milan
+CP0221,Esselunga,Dish Soap Bio,Esselunga,7.65,2026-01-18T07:41:00,Milan
+CP0222,Esselunga,Esselunga Laundry Detergent Bio,Esselunga,7.28,2026-04-22T03:32:00,Milan
+CP0223,Esselunga,Toilet Paper Bio 12pcs,Esselunga,6.73,2026-04-16T03:52:00,Milan
+CP0224,Esselunga,Kitchen Towels Bio 6pcs,Smart,7.31,2026-02-22T00:00:00,Milan
+CP0225,Esselunga,Multi Surface Cleaner Bio,Bio,4.21,2026-03-21T02:53:00,Milan
+CP0226,Esselunga,Mulino Bianco Bleach Bio 2l,Mulino Bianco,7.43,2026-02-07T00:00:00,Milan
+CP0227,Esselunga,Top Shampoo Bio 250ml ,Top,4.14,2026-01-15T00:00:00,Milan
+CP0228,Esselunga,Conditioner Bio, Esselunga,4.81,2026-03-06T00:00:00,Milan
+CP0229,Esselunga,Hand Soap Bio 450ml,Esselunga,6.46,2026-03-18T04:35:00,Milan
+CP0230,Esselunga,Body Wash Bio,Bio,5.29,2026-03-27T00:00:00,Milan
+CP0231,Esselunga,Toothpaste Bio 56.25ml,Naturama,4.36,2026-04-28T00:00:00,Milan
+CP0232,Esselunga,Fidaty Mozzarella Family Pack 187.5g,Fidaty,2.51,2026-01-07T00:00:00,Milan
+CP0233,Esselunga,Esselunga Mozzarella di Bufala Family Pack 125g,Esselunga,3.06,2026-04-27T00:00:00,Milan
+CP0234,Esselunga,Fior di latte mozzarella Family Pack,Naturama,2.84,2026-04-13T00:00:00,Milan
+CP0235,Esselunga,Greek Yogurt Family Pack 127.5g,Bio,1.98,2026-03-15T00:00:00,Milan
+CP0236,Esselunga,Barilla Strawberry Yogurt Family Pack 1.5pcs,Barilla,1.62,2026-01-29T07:58:00,Milan
+CP0237,Esselunga,Plain Yogurt Family Pack 500g,Top,3.07,2026-01-02T00:00:00,Milan
+CP0238,Esselunga,Atlante Whole Milk Family Pack 1l,Atlante,2.4,2026-03-31T07:49:00,Milan
+CP0239,Esselunga, De Cecco Semi-skimmed Milk Family Pack 1l ,De Cecco,2.14,2026-03-05T00:00:00,Milan
+CP0240,Esselunga,Lactose Free Milk Family Pack 0.75l,FIDATY,1.99,2026-01-20T00:00:00,Milan
+CP0241,Esselunga,Unsalted Butter Family Pack 250g,Fidaty,2.62,2026-01-04T00:00:00,Milan
+CP0242,Esselunga,Smart Salted Butter Family Pack,Smart,2.15,2026-01-12T10:47:00,Milan
+CP0243,Esselunga,Parmigiano Reggiano Family Pack,Fidaty,3.12,2026-01-30T00:00:00,Milan
+CP0244,Esselunga,Rio Mare Gorgonzola Family Pack,Rio Mare,3.08,2026-04-17T00:00:00,Milan
+CP0245,Esselunga,Atlante Ricotta Family Pack,Atlante,2.87,2026-01-15T00:00:00,Milan
+CP0246,Esselunga,Whole Wheat Bread Family Pack,Bio,1.77,2026-02-02T02:04:00,Milan
+CP0247,Esselunga,Ciabatta Family Pack,Smart,3.73,2026-03-23T00:00:00,Milan
+CP0248,Esselunga,Barilla Sandwich Bread Family Pack,Barilla,3.72,2026-02-17T15:11:00,Milan
+CP0249,Esselunga,Esselunga Butter Croissant Family Pack,Esselunga,2.43,2026-03-13T09:30:00,Milan
+CP0250,Esselunga,Chocolate Croissant Family Pack,Naturama,1.97,2026-04-17T02:02:00,Milan
+CP0251,Esselunga,Chocolate Chip Cookies Family Pack,Esselunga,0.0,2026-03-29T13:57:00,Milan
+CP0252,Esselunga,Digestive Biscuits Family Pack 400g,Esselunga,1.99,2026-03-15T00:00:00,Milan
+CP0253,Esselunga,Cherry Tomatoes Family Pack,Top,4.17,2026-03-14T15:31:00,Milan
+CP0254,Esselunga,Round Tomatoes Family Pack,Bio,4.11,2026-04-30T16:49:00,Milan
+CP0255,Esselunga,Esselunga Iceberg Lettuce Family Pack 1.5pcs,Esselunga,4.36,2026-02-16T00:00:00,Milan
+CP0256,Esselunga,Fidaty Rocket Salad Family Pack,Fidaty,2.39,2026-02-14T00:00:00,Milan
+CP0257,Esselunga,Top Golden Apples Family Pack 1kg, Top,3.8,2026-02-08T00:00:00,Milan
+CP0258,Esselunga,Naturama Pink Lady Apples Family Pack,Naturama,3.0,2026-03-26T21:48:00,Milan
+CP0259,Esselunga,Atlante Bananas Family Pack 1kg,Atlante,3.03,2026-02-25T06:40:00,Milan
+CP0260,Esselunga,Ferrero Potatoes Family Pack 2kg,Ferrero,3.72,2026-03-11T01:49:00,Milan
+CP0261,Esselunga,Atlante Chicken Breast Family Pack,Atlante,4.89,2026-03-11T00:00:00,Milan
+CP0262,Esselunga,Atlante Chicken Thighs Family Pack,ATLANTE,5.91,2026-01-05T00:30:00,Milan
+CP0263,Esselunga,Granarolo Minced Beef Family Pack,Granarolo,4.28,2026-01-21T09:19:00,Milan
+CP0264,Esselunga,Naturama Beef Steak Family Pack 450g,Naturama,6.21,2026-03-13T00:00:00,Milan
+CP0265,ESSELUNGA,Prosciutto Cotto Family Pack,Ferrero,5.71,2026-02-19T05:05:00,Milan
+CP0266,Esselunga, Smart Salame Milano Family Pack 75g,Smart,7.27,2026-03-05T00:00:00,Milan
+CP0267,Esselunga,Spaghetti Family Pack 500g,bio,4.02,2026-02-11T13:10:00,Milan
+CP0268,Esselunga,Fidaty Penne Rigate Family Pack,Fidaty,3.61,2026-02-11T00:00:00,Milan
+CP0269,Esselunga,Bio Fusilli Family Pack 375g,Bio,3.0,2026-04-05T07:15:00,Milan
+CP0270,Esselunga,Carnaroli Rice Family Pack 1kg,Esselunga,4.26,2026-03-29T00:00:00,Milan
+CP0271,Esselunga,Basmati Rice Family Pack,Smart,2.2,2026-03-20T00:00:00,Milan
+CP0272,Esselunga,TOMATO PASSATA FAMILY PACK 1050ML,Bio,2.92,2026-03-14T00:00:00,Milan
+CP0273,Esselunga,Pesto Genovese Family Pack,Smart,4.62,2026-02-16T00:00:00,Milan
+CP0274,Esselunga,Bio Extra Virgin Olive Oil Family Pack 1l,Bio,4.99,2026-02-28T15:11:00,Milan
+CP0275,Esselunga,Bio Sunflower Oil Family Pack,Bio,2.81,2026-03-01T00:00:00,Milan
+CP0276,Esselunga,All Purpose Flour Family Pack 1kg,Mutti,2.93,2026-02-04T23:25:00,Milan
+CP0277,Esselunga,00 Flour Family Pack,Smart,5.02,2026-01-27T00:00:00,Milan
+CP0278,Esselunga,White Sugar Family Pack,Aia,3.99,2026-04-18T00:00:00,Milan
+CP0279,Esselunga,Brown Sugar Family Pack 0.75kg,Atlante,3.18,2026-04-14T15:00:00,Milan
+CP0280,Esselunga,Ground Coffee Family Pack 250g,Atlante,2.76,2026-01-08T05:07:00,Milan
+CP0281,Esselunga,Esselunga Coffee Beans Family Pack,Esselunga,3.75,2026-04-15T00:00:00,Milan
+CP0282,Esselunga,Aia Corn Flakes Family Pack,Aia,4.22,2026-02-02T00:00:00,Milan
+CP0283,Esselunga,Bio Muesli Family Pack,Bio,4.85,2026-04-18T20:21:00,Milan
+CP0284,Esselunga,Mulino Bianco Margherita Pizza Family Pack 262.5g,Mulino Bianco,5.5,2026-01-09T00:00:00,Milan
+CP0285,Esselunga,Vegetable Pizza Family Pack,Naturama,6.01,2026-04-05T21:59:00,Milan
+CP0286,Esselunga,Frozen Peas Family Pack 450g,Naturama,4.55,2026-02-05T00:00:00,Milan
+CP0287,Esselunga,Fidaty Frozen Spinach Family Pack,Fidaty,2.65,2026-01-04T00:00:00,Milan
+CP0288,Esselunga,Fidaty Frozen Salmon Fillets Family Pack,Fidaty,3.22,2026-03-09T02:34:00,Milan
+CP0289,Esselunga,Atlante Fish Fingers Family Pack,Atlante,2.81,2026-04-05T00:00:00,Milan
+CP0290,Esselunga, Still Water Family Pack 2.25l,Ferrero,1.34,2026-04-26T00:00:00,Milan
+CP0291,Esselunga,Lavazza Sparkling Water Family Pack 1.5l,Lavazza,1.74,2026-01-15T23:08:00,Milan
+CP0292,Esselunga,Orange Juice Family Pack 1.5l,GRANAROLO,2.61,2026-01-18T00:00:00,Milan
+CP0293,Esselunga,Apple Juice Family Pack 1.5l,Rio Mare,0.0,2026-01-23T00:00:00,Milan
+CP0294,Esselunga,Esselunga Cola Family Pack,Esselunga,2.57,2026-01-02T00:00:00,Milan
+CP0295,Esselunga,Lemon Soda Family Pack,Top,1.42,2026-04-27T00:00:00,Milan
+CP0296,Esselunga,Green Tea Family Pack 25pcs,Smart,1.2,2026-04-20T11:52:00,Milan
+CP0297,Esselunga,Bio Black Tea Family Pack,Bio,1.47,2026-01-06T00:00:00,Milan
+CP0298,Esselunga,Dish Soap Family Pack 750ml,Atlante,4.09,2026-02-23T00:00:00,Milan
+CP0299,Esselunga,Mulino Bianco Laundry Detergent Family Pack,Mulino Bianco,7.54,2026-04-23T00:00:00,Milan
+CP0300,Esselunga,Smart Toilet Paper Family Pack 6pcs,Smart,6.3,2026-04-06T12:22:00,Milan
+CP0301,Esselunga,Kitchen Towels Family Pack,Rio Mare,4.63,2026-02-10T18:07:00,Milan
+CP0302,Esselunga,Smart Multi Surface Cleaner Family Pack,Smart,4.78,2026-02-06T17:59:00,Milan
+CP0303,Esselunga,Bleach Family Pack,BARILLA,4.49,2026-03-16T00:00:00,Milan
+CP0304,Esselunga,Shampoo Family Pack,Parmalat,6.13,2026-03-14T00:00:00,Milan
+CP0305,Esselunga,Atlante Conditioner Family Pack 312.5ml,Atlante,6.76,2026-03-18T00:00:00,Milan
+CP0306,Esselunga,Naturama Hand Soap Family Pack,Naturama,3.1,2026-01-20T02:06:00,Milan
+CP0307,Esselunga,Mulino Bianco Body Wash Family Pack,Mulino Bianco,5.17,2026-03-09T18:25:00,Milan
+CP0308,Esselunga,Smart Toothpaste Family Pack 56.25ml,Smart,6.9,2026-03-08T00:00:00,Milan
+CP0309,Esselunga,Ferrero Mozzarella Mini,Ferrero,1.88,2026-01-07T00:00:00,Milan
+CP0310,Esselunga,Top Mozzarella di Bufala Mini, Top ,2.59,2026-02-26T23:08:00,Milan
+CP0311,Esselunga,Fior di latte mozzarella Mini,Atlante,3.13,2026-01-24T11:43:00,Milan
+CP0312,Esselunga,Mulino Bianco Greek Yogurt Mini 170g,Mulino Bianco,1.94,2026-04-04T00:00:00,Milan
+CP0313,Esselunga,Strawberry Yogurt Mini 2pcs,Mulino Bianco,2.57,2026-03-25T00:00:00,Milan
+CP0314,Esselunga,Plain Yogurt Mini,Bio,2.75,2026-02-23T02:57:00,Milan
+CP0315,Esselunga,Lavazza Whole Milk Mini,Lavazza,2.96,2026-02-18T00:00:00,Milan
+CP0316,Esselunga,Semi-skimmed Milk Mini 1.25l,Esselunga,3.11,2026-04-09T01:31:00,Milan
+CP0317,Esselunga,Mulino Bianco Lactose Free Milk Mini,Mulino Bianco,3.06,2026-04-22T00:00:00,Milan
+CP0318,esselunga,Unsalted Butter Mini 312.5g,NATURAMA,3.46,2026-01-19T00:00:00,Milan
+CP0319,Esselunga,salted butter mini,Top,2.34,2026-03-24T00:00:00,Milan
+CP0320,Esselunga,esselunga parmigiano reggiano mini 200g,Esselunga,2.42,2026-01-10T00:00:00,Milan
+CP0321,Esselunga,Gorgonzola Mini, Atlante ,0.0,2026-04-14T00:00:00,Milan
+CP0322,Esselunga,Ricotta Mini 250g,Esselunga,1.7,2026-02-18T00:00:00,Milan
+CP0323,Esselunga,Whole Wheat Bread Mini,Atlante,3.78,2026-03-14T00:00:00,Milan
+CP0324,Esselunga,Ciabatta Mini, Ferrero,3.7,2026-04-06T07:01:00,Milan
+CP0325,Esselunga,Bio Sandwich Bread Mini,Bio,2.4,2026-02-02T00:00:00,Milan
+CP0326,Esselunga,Fidaty Butter Croissant Mini,Fidaty,3.56,2026-04-15T00:00:00,Milan
+CP0327,Esselunga,Chocolate Croissant Mini,Fidaty,1.74,2026-02-08T11:05:00,Milan
+CP0328,Esselunga,Chocolate Chip Cookies Mini 450g,Smart,0.0,2026-03-17T00:00:00,Milan
+CP0329,Esselunga,Smart Digestive Biscuits Mini,Smart,2.61,2026-03-01T00:00:00,Milan
+CP0330,Esselunga,Cherry Tomatoes Mini 375g,Bio,2.71,2026-02-10T00:00:00,Milan
+CP0331,Esselunga,Fidaty Round Tomatoes Mini 1kg,fidaty,0.0,2026-01-28T14:02:00,Milan
+CP0332,Esselunga,Top Iceberg Lettuce Mini 1pcs,Top,2.29,2026-03-29T07:46:00,Milan
+CP0333,Esselunga,rocket salad mini,Barilla,2.06,2026-04-08T00:00:00,Milan
+CP0334,Esselunga,Bio Golden Apples Mini 1.25kg,Bio ,3.75,2026-01-03T05:13:00,Milan
+CP0335,Esselunga,Pink Lady Apples Mini 1.25kg,Esselunga,4.02,2026-04-12T11:33:00,Milan
+CP0336,Esselunga,Bananas Mini 1kg,Naturama,2.99,2026-03-30T22:28:00,Milan
+CP0337,Esselunga,Smart Potatoes Mini,Smart,2.77,2026-02-20T00:00:00,Milan
+CP0338,Esselunga, Fidaty Chicken Breast Mini 300g, Fidaty ,7.92,2026-02-10T04:49:00,Milan
+CP0339,Esselunga,Atlante Chicken Thighs Mini,Atlante,9.54,2026-02-14T03:12:00,Milan
+CP0340,Esselunga,Bio Minced Beef Mini,Bio,8.72,2026-01-27T00:00:00,Milan
+CP0341,Esselunga,Rio Mare Beef Steak Mini 225g,Rio Mare,6.38,2026-02-27T00:00:00,Milan
+CP0342,Esselunga,Prosciutto Cotto Mini 150g,Esselunga,5.28,2026-03-23T15:03:00,Milan
+CP0343,Esselunga,Salame Milano Mini,De Cecco,6.33,2026-01-26T18:27:00,Milan
+CP0344,Esselunga,Spaghetti Mini 625g,Atlante,4.18,2026-04-03T00:00:00,Milan
+CP0345,Esselunga, Penne Rigate Mini 500g ,Parmalat,2.74,2026-03-22T00:00:00,Milan
+CP0346,Esselunga,Fusilli Mini,Fidaty,2.55,2026-04-29T01:46:00,Milan
+CP0347,Esselunga,Carnaroli Rice Mini 1.5kg,Esselunga,3.33,2026-02-11T22:10:00,Milan
+CP0348,Esselunga,Basmati Rice Mini 1.25kg,Aia,4.11,2026-04-03T00:00:00,Milan
+CP0349,ESSELUNGA,Galbani Tomato Passata Mini,galbani,4.61,2026-01-12T00:00:00,Milan
+CP0350,Esselunga,Lavazza Pesto Genovese Mini,Lavazza,3.67,2026-04-23T00:00:00,Milan
+CP0351,Esselunga,Bio Extra Virgin Olive Oil Mini,Bio,3.02,2026-02-10T00:00:00,Milan
+CP0352,Esselunga,Sunflower Oil Mini 1l,Esselunga,4.54,2026-04-30T16:11:00,Milan
+CP0353,Esselunga,Top All Purpose Flour Mini 0.75kg,Top,3.1,2026-03-13T01:05:00,Milan
+CP0354,Esselunga,00 Flour Mini 1.5kg ,Mulino Bianco,4.02,2026-02-01T00:04:00,Milan
+CP0355,Esselunga,Esselunga White Sugar Mini,Esselunga,3.8,2026-04-06T00:00:00,Milan
+CP0356,Esselunga,Brown Sugar Mini,Fidaty,4.99,2026-04-18T00:00:00,Milan
+CP0357,Esselunga,Top Ground Coffee Mini,Top,2.12,2026-01-12T18:56:00,Milan
+CP0358,Esselunga,Coffee Beans Mini 375g,Fidaty,2.41,2026-01-17T00:00:00,Milan
+CP0359,Esselunga,Corn Flakes Mini,Atlante,2.78,2026-01-19T00:00:00,Milan
+CP0360,Esselunga,Esselunga Muesli Mini,Esselunga,5.02,2026-01-25T21:55:00,Milan
+CP0361,Esselunga,Margherita Pizza Mini,Top,2.98,2026-02-28T00:00:00,Milan
+CP0362,Esselunga,Atlante Vegetable Pizza Mini,Atlante,6.07,2026-02-17T00:00:00,Milan
+CP0363,Esselunga,Fidaty Frozen Peas Mini,Fidaty ,5.77,2026-01-07T00:00:00,Milan
+CP0364,Esselunga,Top Frozen Spinach Mini 450g,Top,5.84,2026-03-07T00:49:00,Milan
+CP0365,Esselunga,Bio Frozen Salmon Fillets Mini 300g,Bio,6.41,2026-03-15T00:00:00,Milan
+CP0366,Esselunga,Atlante Fish Fingers Mini 450g,Atlante,5.86,2026-03-01T00:00:00,Milan
+CP0367,Esselunga,Still Water Mini,Atlante,2.28,2026-02-20T00:00:00,Milan
+CP0368,Esselunga,Esselunga Sparkling Water Mini,Esselunga,1.99,2026-04-13T13:07:00,Milan
+CP0369,Esselunga, Fidaty Orange Juice Mini 0.75l,Fidaty,1.29,2026-01-30T05:41:00,Milan
+CP0370,Esselunga,Apple Juice Mini,Galbani,2.66,2026-03-22T17:28:00,Milan
+CP0371,Esselunga,Cola Mini,Bio,1.25,2026-03-15T00:00:00,Milan
+CP0372,Esselunga,Ferrero Lemon Soda Mini 1.5l,Ferrero,2.44,2026-04-13T22:41:00,Milan
+CP0373,Esselunga,Bio Green Tea Mini,Bio,0.0,2026-01-27T00:00:00,Milan
+CP0374,Esselunga,Black Tea Mini 18.75pcs,Naturama,2.26,2026-02-18T00:00:00,Milan
+CP0375,Esselunga,Rio Mare Dish Soap Mini,Rio Mare,3.65,2026-03-07T11:13:00,Milan
+CP0376,Esselunga, Bio Laundry Detergent Mini,Bio,5.53,2026-01-10T18:14:00,Milan
+CP0377,Esselunga,Fidaty Toilet Paper Mini,Fidaty,6.23,2026-03-06T00:00:00,Milan
+CP0378,Esselunga,Kitchen Towels Mini,Naturama,6.0,2026-02-09T07:07:00,Milan
+CP0379,Esselunga,Multi Surface Cleaner Mini,Esselunga,6.35,2026-04-18T00:00:00,Milan
+CP0380,Esselunga,Bleach Mini 3l,Atlante,6.9,2026-01-21T00:00:00,Milan
+CP0381,Esselunga,Atlante Shampoo Mini,Atlante,4.96,2026-01-20T18:57:00,Milan
+CP0382,Esselunga,Parmalat Conditioner Mini 312.5ml,Parmalat,3.88,2026-02-01T00:00:00,Milan
+CP0383,Esselunga,Top Hand Soap Mini 450ml, Top,3.52,2026-02-28T14:50:00,Milan
+CP0384,Esselunga,Atlante Body Wash Mini,Atlante,3.49,2026-02-07T00:00:00,Milan
+CP0385,Esselunga,Bio Toothpaste Mini 112.5ml,Bio,3.3,2026-04-25T00:00:00,Milan
+CP0386,Esselunga,Smart Mozzarella Maxi,Smart,1.87,2026-01-10T21:55:00,Milan
+CP0387,Esselunga,Mozzarella di Bufala Maxi 125g,Esselunga,2.99,2026-03-20T00:00:00,Milan
+CP0388,Esselunga,Fior di latte mozzarella Maxi 200g,Fidaty,2.88,2026-02-21T23:30:00,Milan
+CP0389,Esselunga,Esselunga Greek Yogurt Maxi 170g,Esselunga,1.42,2026-02-03T10:14:00,Milan
+CP0390,Esselunga,De Cecco Strawberry Yogurt Maxi,De Cecco,1.8,2026-03-29T00:00:00,Milan
+CP0391,Esselunga,Plain Yogurt Maxi 500g,Top,2.99,2026-03-30T00:00:00,Milan
+CP0392,Esselunga,Whole Milk Maxi,Lavazza,1.42,2026-02-06T00:00:00,Milan
+CP0393,Esselunga,Naturama Semi-skimmed Milk Maxi 1l,Naturama,3.16,2026-04-24T00:00:00,Milan
+CP0394,Esselunga,Bio Lactose Free Milk Maxi,Bio,0.0,2026-02-05T00:05:00,Milan
+CP0395,Esselunga,unsalted butter maxi 312.5g, Mutti ,1.64,2026-04-20T00:00:00,Milan
+CP0396,Esselunga,Naturama Salted Butter Maxi 250g,Naturama,3.33,2026-03-19T00:00:00,Milan
+CP0397,Esselunga,Bio Parmigiano Reggiano Maxi 150g,Bio,1.84,2026-04-21T00:00:00,Milan
+CP0398,Esselunga,Smart Gorgonzola Maxi,Smart,3.08,2026-03-05T00:00:00,Milan
+CP0399,Esselunga,Ricotta Maxi,Fidaty,2.5,2026-02-21T00:03:00,Milan
+CP0400,Esselunga,Whole Wheat Bread Maxi 750g,Smart,2.74,2026-04-04T07:39:00,Milan
+CP0401,Esselunga,Galbani Ciabatta Maxi 450g,Galbani,1.83,2026-04-06T00:00:00,Milan
+CP0402,Esselunga,Galbani Sandwich Bread Maxi,Galbani,2.97,2026-04-16T00:00:00,Milan
+CP0403,Esselunga,Atlante Butter Croissant Maxi,Atlante,2.71,2026-04-06T00:00:00,Milan
+CP0404,Esselunga,Bio Chocolate Croissant Maxi,Bio,2.27,2026-04-14T00:00:00,Milan
+CP0405,Esselunga,Chocolate Chip Cookies Maxi 300g,Mutti,1.7,2026-03-22T11:01:00,Milan
+CP0406,Esselunga,Top Digestive Biscuits Maxi 600g,Top,3.52,2026-01-10T00:00:00,Milan
+CP0407,Esselunga,Parmalat Cherry Tomatoes Maxi,Parmalat,3.53,2026-01-04T00:00:00,Milan
+CP0408,Esselunga,Round Tomatoes Maxi 1kg,Esselunga,4.19,2026-04-24T00:00:00,Milan
+CP0409,Esselunga,Iceberg Lettuce Maxi 1pcs,Parmalat,2.36,2026-01-12T18:16:00,Milan
+CP0410,Esselunga,Smart Rocket Salad Maxi 93.75g,Smart,2.55,2026-04-18T00:00:00,Milan
+CP0411,Esselunga,Mulino Bianco Golden Apples Maxi,Mulino Bianco,2.35,2026-04-12T00:00:00,Milan
+CP0412,Esselunga,Pink Lady Apples Maxi 1kg,Lavazza,1.79,2026-02-17T01:38:00,Milan
+CP0413,Esselunga,Naturama Bananas Maxi 1kg,Naturama,1.93,2026-02-21T10:02:00,Milan
+CP0414,Esselunga,Potatoes Maxi,Esselunga ,3.7,2026-03-08T15:36:00,Milan
+CP0415,Esselunga,NATURAMA CHICKEN BREAST MAXI 500G,Naturama,8.28,2026-03-29T00:00:00,Milan
+CP0416,Esselunga,Chicken Thighs Maxi 750g,Smart,9.37,2026-01-01T12:01:00,Milan
+CP0417,Esselunga,Minced Beef Maxi,Bio,4.14,2026-02-11T03:32:00,Milan
+CP0418,Esselunga,Beef Steak Maxi, Bio ,6.84,2026-03-21T00:00:00,Milan
+CP0419,Esselunga,Smart Prosciutto Cotto Maxi 180g,Smart,8.25,2026-01-21T00:00:00,Milan
+CP0420,Esselunga,Smart Salame Milano Maxi,Smart,6.06,2026-03-16T00:00:00,Milan
+CP0421,Esselunga,Atlante Spaghetti Maxi 750g,Atlante,0.0,2026-01-09T00:00:00,Milan
+CP0422,Esselunga,Penne Rigate Maxi,Fidaty,4.43,2026-02-06T01:45:00,Milan
+CP0423,Esselunga, Bio Fusilli Maxi ,Bio,2.64,2026-04-05T00:00:00,Milan
+CP0424,Esselunga,Carnaroli Rice Maxi 1kg,Lavazza,2.19,2026-04-30T00:00:00,Milan
+CP0425,Esselunga,Fidaty Basmati Rice Maxi,Fidaty,2.82,2026-01-14T07:42:00,Milan
+CP0426,Esselunga,Atlante Tomato Passata Maxi,Atlante,2.84,2026-03-29T14:34:00,Milan
+CP0427,Esselunga,Pesto Genovese Maxi 142.5g, Esselunga,2.84,2026-03-01T00:00:00,Milan
+CP0428,Esselunga,Top Extra Virgin Olive Oil Maxi 1.5l,Top,0.0,2026-01-01T00:00:00,Milan
+CP0429,Esselunga,Top Sunflower Oil Maxi,Top,2.94,2026-04-08T00:00:00,Milan
+CP0430,Esselunga,All Purpose Flour Maxi 1kg,Top,4.21,2026-01-11T00:00:00,Milan
+CP0431,Esselunga,00 Flour Maxi 1kg,Rio Mare,4.4,2026-02-18T00:00:00,Milan
+CP0432,Esselunga,White Sugar Maxi 1.5kg ,Ferrero,3.52,2026-03-03T00:00:00,Milan
+CP0433,Esselunga,Smart Brown Sugar Maxi 1kg,Smart,3.04,2026-04-02T00:00:00,Milan
+CP0434,Esselunga,Fidaty Ground Coffee Maxi,Fidaty,2.7,2026-02-17T18:40:00,Milan
+CP0435,Esselunga,Atlante Coffee Beans Maxi,Atlante,3.12,2026-03-13T21:29:00,Milan
+CP0436,Esselunga,Fidaty Corn Flakes Maxi 375g,Fidaty,3.48,2026-04-16T12:36:00,Milan
+CP0437,Esselunga,Muesli Maxi 1125g,Mulino Bianco,3.53,2026-03-08T15:40:00,Milan
+CP0438,Esselunga,Esselunga Margherita Pizza Maxi 437.5g,Esselunga,4.6,2026-04-02T22:12:00,Milan
+CP0439,Esselunga,Vegetable Pizza Maxi 380g,Atlante,4.14,2026-03-18T09:57:00,Milan
+CP0440,Esselunga,Frozen Peas Maxi,Esselunga,4.73,2026-03-04T00:00:00,Milan
+CP0441,Esselunga,Frozen Spinach Maxi 337.5g,Atlante,6.34,2026-02-14T00:00:00,Milan
+CP0442,Esselunga,Frozen Salmon Fillets Maxi,Galbani,5.93,2026-01-29T00:00:00,Milan
+CP0443,Esselunga, Naturama Fish Fingers Maxi,Naturama,6.12,2026-03-16T00:00:00,Milan
+CP0444,Esselunga,Top Still Water Maxi 1.12l,Top,1.62,2026-02-09T07:57:00,Milan
+CP0445,Esselunga,Sparkling Water Maxi,Smart,1.59,2026-03-05T00:00:00,Milan
+CP0446,Esselunga,Top Orange Juice Maxi,Top,2.67,2026-04-16T10:41:00,Milan
+CP0447,Esselunga,Apple Juice Maxi 1l,Mulino Bianco,2.38,2026-01-23T04:11:00,Milan
+CP0448,Esselunga,De Cecco Cola Maxi 1.5l,De Cecco,1.44,2026-01-17T00:00:00,Milan
+CP0449,Esselunga,Bio Lemon Soda Maxi 1.5l,Bio,1.93,2026-04-17T00:00:00,Milan
+CP0450,Esselunga,Green Tea Maxi 25pcs,Fidaty,2.48,2026-04-13T00:00:00,Milan
+CP0451,Esselunga,Bio Black Tea Maxi,Bio,1.49,2026-01-28T00:00:00,Milan
+CP0452,Esselunga,Bio Dish Soap Maxi 937.5ml,Bio,4.19,2026-04-08T14:39:00,Milan
+CP0453,Esselunga,Laundry Detergent Maxi,Atlante,4.49,2026-01-03T00:00:00,Milan
+CP0454,Esselunga,Top Toilet Paper Maxi 6pcs,Top,7.39,2026-01-18T00:00:00,Milan
+CP0455,Esselunga,Kitchen Towels Maxi 3pcs,Atlante,3.38,2026-01-05T22:02:00,Milan
+CP0456,Esselunga,Smart Multi Surface Cleaner Maxi,Smart,2.98,2026-03-12T00:00:00,Milan
+CP0457,Esselunga, Atlante Bleach Maxi 2l,Atlante,4.74,2026-01-23T21:55:00,Milan
+CP0458,Esselunga,Shampoo Maxi 375ml,Smart,5.7,2026-04-21T03:18:00,Milan
+CP0459,Esselunga,Conditioner Maxi,De Cecco,5.97,2026-03-03T00:00:00,Milan
+CP0460,Esselunga,Bio Hand Soap Maxi,Bio,4.3,2026-04-23T18:17:00,Milan
+CP0461,Esselunga,Body Wash Maxi 750ml,Bio,4.99,2026-02-23T06:53:00,Milan
+CP0462,Esselunga,toothpaste maxi 112.5ml,Fidaty,2.76,2026-04-15T00:00:00,Milan
+CP0463,Esselunga,Mozzarella Light,Bio,2.67,2026-03-07T10:20:00,Milan
+CP0464,Esselunga,Mozzarella di Bufala Light 156.25g,Atlante,1.93,2026-03-08T01:40:00,Milan
+CP0465,Esselunga,Fior di latte mozzarella Light,Smart,1.5,2026-02-02T00:46:00,Milan
+CP0466,ESSELUNGA,Bio Greek Yogurt Light,Bio,3.13,2026-04-04T00:00:00,Milan
+CP0467,Esselunga, Top Strawberry Yogurt Light 2pcs ,Top,1.96,2026-03-12T00:00:00,Milan
+CP0468,Esselunga,Plain Yogurt Light,Aia ,3.36,2026-01-19T16:20:00,Milan
+CP0469,Esselunga,WHOLE MILK LIGHT 0.75L,Bio,1.83,2026-03-15T00:00:00,Milan
+CP0470,Esselunga,Semi-skimmed Milk Light 1l,Atlante,2.72,2026-03-20T14:20:00,Milan
+CP0471,Esselunga,Lactose Free Milk Light 1l,Bio,3.43,2026-04-05T00:00:00,Milan
+CP0472,Esselunga,Unsalted Butter Light 250g,Naturama,2.51,2026-04-21T16:51:00,Milan
+CP0473,Esselunga, Salted Butter Light,Galbani,2.11,2026-04-16T18:56:00,Milan
+CP0474,Esselunga,Parmigiano Reggiano Light 200g,Smart,2.09,2026-02-06T06:34:00,Milan
+CP0475,Esselunga,Gorgonzola Light,Atlante,1.47,2026-03-29T00:34:00,Milan
+CP0476,Esselunga,Parmalat Ricotta Light 312.5g,Parmalat,2.95,2026-04-09T19:09:00,Milan
+CP0477,Esselunga,Whole Wheat Bread Light,Aia,3.12,2026-02-23T00:00:00,Milan
+CP0478,Esselunga,Smart Ciabatta Light,Smart,2.5,2026-03-14T07:44:00,Milan
+CP0479,Esselunga,Sandwich Bread Light,Naturama,1.79,2026-03-29T10:28:00,Milan
+CP0480,Esselunga,Butter Croissant Light 6pcs,Barilla,3.99,2026-04-29T11:45:00,Milan
+CP0481,Esselunga,Chocolate Croissant Light 6pcs,Mutti,3.24,2026-01-21T01:43:00,Milan
+CP0482,Esselunga,De Cecco Chocolate Chip Cookies Light 375g,De Cecco,2.51,2026-01-10T00:00:00,Milan
+CP0483,Esselunga,Digestive Biscuits Light,Atlante,3.28,2026-04-12T22:29:00,Milan
+CP0484,Esselunga,Cherry Tomatoes Light 500g, Top ,2.42,2026-02-07T00:00:00,Milan
+CP0485,Esselunga,Round Tomatoes Light,BIO,3.64,2026-02-17T04:46:00,Milan
+CP0486,Esselunga,Top Iceberg Lettuce Light,Top,2.23,2026-02-01T00:26:00,Milan
+CP0487,Esselunga,Rocket Salad Light,Fidaty,2.56,2026-01-15T00:00:00,Milan
+CP0488,Esselunga,Golden Apples Light,Atlante,1.87,2026-01-16T00:00:00,Milan
+CP0489,Esselunga,Parmalat Pink Lady Apples Light,Parmalat,1.8,2026-04-01T00:00:00,Milan
+CP0490,Esselunga,Atlante Bananas Light,Atlante,2.77,2026-01-26T02:39:00,Milan
+CP0491,Esselunga,Galbani Potatoes Light 2.5kg,Galbani,3.62,2026-03-01T09:21:00,Milan
+CP0492,Esselunga,Bio Chicken Breast Light 300g,Bio,3.97,2026-04-03T00:00:00,Milan
+CP0493,Esselunga,Fidaty Chicken Thighs Light,Fidaty,4.83,2026-02-22T22:18:00,Milan
+CP0494,Esselunga,Aia Minced Beef Light 400g,Aia,5.52,2026-02-19T00:00:00,Milan
+CP0495,Esselunga,Mulino Bianco Beef Steak Light,Mulino Bianco,4.92,2026-03-29T00:00:00,Milan
+CP0496,esselunga,Prosciutto Cotto Light 150g,Smart,5.25,2026-02-12T00:00:00,Milan
+CP0497,Esselunga,Salame Milano Light 100g,Esselunga,7.48,2026-02-16T01:19:00,Milan
+CP0498,Esselunga,Fidaty Spaghetti Light,Fidaty,2.81,2026-01-29T11:43:00,Milan
+CP0499,Esselunga,Penne Rigate Light 500g,Smart,2.13,2026-04-13T00:00:00,Milan
+CP0500,Esselunga,Fusilli Light 500g,Galbani,3.84,2026-04-11T00:00:00,Milan
+CP0501,Esselunga,Bio Carnaroli Rice Light,Bio,5.17,2026-02-22T03:22:00,Milan
+CP0502,Esselunga,Basmati Rice Light,Fidaty,3.31,2026-03-18T00:00:00,Milan
+CP0503,Esselunga,Tomato Passata Light 875ml,De Cecco,3.11,2026-04-04T00:00:00,Milan
+CP0504,Esselunga,Pesto Genovese Light 190g,Naturama,2.86,2026-03-16T00:00:00,Milan
+CP0505,Esselunga,Extra Virgin Olive Oil Light 1l,Smart,3.36,2026-02-27T00:00:00,Milan
+CP0506,Esselunga,Sunflower Oil Light 0.75l,Smart,4.58,2026-04-09T17:15:00,Milan
+CP0507,Esselunga,De Cecco All Purpose Flour Light,De Cecco,3.91,2026-02-18T03:53:00,Milan
+CP0508,Esselunga,00 Flour Light,Esselunga,3.09,2026-01-18T06:37:00,Milan
+CP0509,Esselunga,White Sugar Light 1.5kg,Mutti,5.03,2026-02-19T03:26:00,Milan
+CP0510,Esselunga,Mulino Bianco Brown Sugar Light 1.25kg,Mulino Bianco,2.36,2026-03-22T20:09:00,Milan
+CP0511,Esselunga,Ground Coffee Light,Naturama,4.55,2026-04-30T14:52:00,Milan
+CP0512,Esselunga,Smart Coffee Beans Light 500g,Smart,2.92,2026-04-10T00:00:00,Milan
+CP0513,Esselunga,Corn Flakes Light 281.25g,Naturama,4.97,2026-02-22T11:57:00,Milan
+CP0514,Esselunga,Smart Muesli Light 562.5g,Smart,2.77,2026-04-20T04:34:00,Milan
+CP0515,Esselunga,Atlante Margherita Pizza Light,Atlante,5.04,2026-03-09T01:48:00,Milan
+CP0516,Esselunga,Vegetable Pizza Light,Atlante,4.75,2026-03-07T00:00:00,Milan
+CP0517,Esselunga,Frozen Peas Light 675g,Parmalat,5.01,2026-01-28T00:00:00,Milan
+CP0518,Esselunga,Frozen Spinach Light 450g,Naturama,4.53,2026-04-10T00:00:00,Milan
+CP0519,Esselunga,Frozen Salmon Fillets Light,Esselunga,5.65,2026-01-22T00:00:00,Milan
+CP0520,Esselunga,Ferrero Fish Fingers Light 225g,Ferrero,2.68,2026-03-02T00:00:00,Milan
+CP0521,Esselunga,Still Water Light 2.25l,Atlante,2.05,2026-03-13T00:00:00,Milan
+CP0522,Esselunga,Smart Sparkling Water Light 1.88l,Smart,1.44,2026-04-13T22:49:00,Milan
+CP0523,Esselunga,Esselunga Orange Juice Light,Esselunga,2.19,2026-03-06T20:08:00,Milan
+CP0524,Esselunga,Bio Apple Juice Light,Bio,2.01,2026-01-03T00:00:00,Milan
+CP0525,Esselunga,Rio Mare Cola Light,Rio Mare,1.3,2026-01-15T00:00:00,Milan
+CP0526,Esselunga,Atlante Lemon Soda Light 2.25l,atlante,1.68,2026-02-27T00:00:00,Milan
+CP0527,Esselunga,Fidaty Green Tea Light,Fidaty,1.44,2026-04-08T00:00:00,Milan
+CP0528,esselunga,Fidaty Black Tea Light 18.75pcs,Fidaty,1.66,2026-02-11T00:00:00,Milan
+CP0529,Esselunga,Dish Soap Light,Bio,6.21,2026-02-13T19:46:00,Milan
+CP0530,Esselunga,Laundry Detergent Light,Top,6.29,2026-04-23T00:00:00,Milan
+CP0531,Esselunga,Naturama Toilet Paper Light,Naturama,4.41,2026-03-20T00:00:00,Milan
+CP0532,Esselunga,Kitchen Towels Light 4pcs,Smart,7.12,2026-02-22T22:07:00,Milan
+CP0533,Esselunga,Multi Surface Cleaner Light 562.5ml,Top,3.56,2026-03-18T06:41:00,Milan
+CP0534,Esselunga,Top Bleach Light 2.5l,Top,3.65,2026-02-23T00:00:00,Milan
+CP0535,Esselunga,Naturama Shampoo Light 187.5ml,Naturama,6.14,2026-01-15T00:00:00,Milan
+CP0536,Esselunga,Ferrero Conditioner Light,Ferrero,6.85,2026-01-04T00:00:00,Milan
+CP0537,Esselunga,Bio Hand Soap Light,Bio,3.51,2026-04-01T14:40:00,Milan
+CP0538,Esselunga, Body Wash Light 500ml,Mutti,5.19,2026-04-14T21:57:00,Milan
+CP0539,Esselunga,Toothpaste Light,Bio,6.46,2026-01-28T00:00:00,Milan
+CP0540,Esselunga,Esselunga Mozzarella Fresh 156.25g,Esselunga,1.48,2026-01-07T08:02:00,Milan
+CP0541,Esselunga,Lavazza Mozzarella di Bufala Fresh,Lavazza,2.39,2026-04-14T00:00:00,Milan
+CP0542,Esselunga,Fior di latte mozzarella Fresh,Bio,2.28,2026-01-12T00:00:00,Milan
+CP0543,Esselunga,Atlante Greek Yogurt Fresh 255g,Atlante,3.56,2026-03-25T00:00:00,Milan
+CP0544,Esselunga,Smart Strawberry Yogurt Fresh,Smart,1.64,2026-03-29T11:03:00,Milan
+CP0545,Esselunga,Plain Yogurt Fresh 375g,Top,2.44,2026-03-16T00:00:00,Milan
+CP0546,Esselunga,Atlante Whole Milk Fresh 1l,Atlante,1.96,2026-03-08T00:00:00,Milan
+CP0547,Esselunga,Naturama Semi-skimmed Milk Fresh, Naturama,2.25,2026-01-24T00:00:00,Milan
+CP0548,Esselunga,Naturama Lactose Free Milk Fresh,Naturama,1.5,2026-01-30T11:18:00,Milan
+CP0549,Esselunga,UNSALTED BUTTER FRESH,Naturama,2.05,2026-04-14T17:46:00,Milan
+CP0550,Esselunga,Lavazza Salted Butter Fresh 250g,Lavazza,2.75,2026-04-29T00:00:00,Milan
+CP0551,Esselunga,Atlante Parmigiano Reggiano Fresh 250g,Atlante,3.24,2026-03-24T18:36:00,Milan
+CP0552,Esselunga,Galbani Gorgonzola Fresh 150g,Galbani,2.47,2026-01-17T18:01:00,Milan
+CP0553,Esselunga,Fidaty Ricotta Fresh,Fidaty,2.93,2026-05-01T00:00:00,Milan
+CP0554,Esselunga,Whole Wheat Bread Fresh 500g,Top,2.45,2026-03-29T09:08:00,Milan
+CP0555,Esselunga,Naturama Ciabatta Fresh 300g,Naturama,2.63,2026-01-21T22:01:00,Milan
+CP0556,Esselunga,Naturama Sandwich Bread Fresh 687.5g,Naturama,3.68,2026-01-24T08:45:00,Milan
+CP0557,Esselunga,Top Butter Croissant Fresh,Top,1.86,2026-02-23T11:50:00,Milan
+CP0558,Esselunga,chocolate croissant fresh 6pcs,Smart,3.96,2026-01-01T00:00:00,Milan
+CP0559,Esselunga,Naturama Chocolate Chip Cookies Fresh 450g,Naturama,2.92,2026-02-06T00:00:00,Milan
+CP0560,Esselunga,Digestive Biscuits Fresh 600g,Fidaty,0.0,2026-04-30T00:00:00,Milan
+CP0561,Esselunga, Cherry Tomatoes Fresh 500g,Galbani,2.6,2026-02-06T00:00:00,Milan
+CP0562,Esselunga,Bio Round Tomatoes Fresh 1.25kg,Bio,2.38,2026-02-26T00:00:00,Milan
+CP0563,Esselunga,Iceberg Lettuce Fresh 1.5pcs,Atlante,3.09,2026-03-07T21:29:00,Milan
+CP0564,Esselunga,Rocket Salad Fresh 93.75g,Esselunga,3.98,2026-02-16T00:00:00,Milan
+CP0565,Esselunga,Esselunga Golden Apples Fresh 1kg,Esselunga,3.45,2026-02-13T18:16:00,Milan
+CP0566,Esselunga,Pink Lady Apples Fresh 1kg,Esselunga,2.84,2026-02-01T00:00:00,Milan
+CP0567,Esselunga, Aia Bananas Fresh,Aia,2.59,2026-01-03T00:00:00,Milan
+CP0568,Esselunga,Atlante Potatoes Fresh 2.5kg,Atlante,4.36,2026-02-15T02:08:00,Milan
+CP0569,Esselunga,Naturama Chicken Breast Fresh,Naturama,7.74,2026-01-07T10:00:00,Milan
+CP0570,Esselunga,Chicken Thighs Fresh 750g,Bio,8.67,2026-04-11T00:00:00,Milan
+CP0571,Esselunga,Minced Beef Fresh 400g, Top,5.96,2026-01-18T21:02:00,Milan
+CP0572,Esselunga, Beef Steak Fresh ,De Cecco,4.29,2026-03-09T14:13:00,Milan
+CP0573,Esselunga,Prosciutto Cotto Fresh,Top,5.31,2026-02-28T00:00:00,Milan
+CP0574,Esselunga,Salame Milano Fresh 125g,Bio,3.91,2026-04-21T22:58:00,Milan
+CP0575,Esselunga,Top Spaghetti Fresh,Top,5.02,2026-03-16T00:00:00,Milan
+CP0576,Esselunga,Penne Rigate Fresh 750g, Esselunga,5.22,2026-03-02T00:00:00,Milan
+CP0577,Esselunga,Fusilli Fresh,Fidaty,4.34,2026-04-22T00:00:00,Milan
+CP0578,Esselunga,Naturama Carnaroli Rice Fresh 1kg,Naturama,4.27,2026-03-12T00:00:00,Milan
+CP0579,Esselunga,Mutti Basmati Rice Fresh 0.75kg,Mutti,3.46,2026-03-28T14:07:00,Milan
+CP0580,Esselunga,Tomato Passata Fresh,Mulino Bianco,3.78,2026-03-06T20:44:00,Milan
+CP0581,Esselunga, Pesto Genovese Fresh 285g,Naturama,3.8,2026-03-17T00:00:00,Milan
+CP0582,Esselunga,Fidaty Extra Virgin Olive Oil Fresh 1.5l,Fidaty,2.66,2026-04-30T00:00:00,Milan
+CP0583,Esselunga,Sunflower Oil Fresh,Top,2.78,2026-04-25T11:26:00,Milan
+CP0584,Esselunga,All Purpose Flour Fresh 0.75kg,Esselunga,4.79,2026-04-01T11:42:00,Milan
+CP0585,Esselunga,Atlante 00 Flour Fresh 1kg,Atlante,4.28,2026-01-19T08:55:00,Milan
+CP0586,Esselunga, White Sugar Fresh 1kg,Bio,2.61,2026-04-17T21:39:00,Milan
+CP0587,Esselunga,Granarolo Brown Sugar Fresh, Granarolo,2.78,2026-01-16T00:00:00,Milan
+CP0588,Esselunga,Naturama Ground Coffee Fresh,Naturama,3.6,2026-02-22T00:00:00,Milan
+CP0589,Esselunga,Fidaty Coffee Beans Fresh,Fidaty,4.29,2026-02-07T00:00:00,Milan
+CP0590,Esselunga,Corn Flakes Fresh 281.25g,Bio,2.12,2026-03-30T05:45:00,Milan
+CP0591,Esselunga,MUESLI FRESH,Bio,2.11,2026-04-10T00:00:00,Milan
+CP0592,Esselunga, Atlante Margherita Pizza Fresh ,atlante,6.23,2026-03-30T05:06:00,Milan
+CP0593,Esselunga,Atlante Vegetable Pizza Fresh 475g ,Atlante,6.28,2026-01-17T00:47:00,Milan
+CP0594,Esselunga,Frozen Peas Fresh,Granarolo,4.46,2026-01-27T00:00:00,Milan
+CP0595,Esselunga,Frozen Spinach Fresh 337.5g,Mutti,3.86,2026-04-04T00:00:00,Milan
+CP0596,Esselunga,Atlante Frozen Salmon Fillets Fresh 500g,Atlante,0.0,2026-04-01T11:42:00,Milan
+CP0597,Esselunga,Fish Fingers Fresh 375g,Top,3.14,2026-01-07T19:09:00,Milan
+CP0598,Esselunga,Granarolo Still Water Fresh 2.25l,Granarolo,2.64,2026-02-02T00:00:00,Milan
+CP0599,Esselunga,Parmalat Sparkling Water Fresh 1.5l,Parmalat,1.47,2026-01-14T04:01:00,Milan
+CP0600,Esselunga,Smart Orange Juice Fresh,Smart,2.42,2026-04-05T00:00:00,Milan
+CP0601,Esselunga,Atlante Apple Juice Fresh,Atlante,2.82,2026-04-10T03:11:00,Milan
+CP0602,Esselunga,Cola Fresh 1.88l,Esselunga,1.47,2026-02-01T00:00:00,Milan
+CP0603,Esselunga,Esselunga Lemon Soda Fresh 1.5l,Esselunga,2.02,2026-01-14T00:00:00,Milan
+CP0604,Esselunga,Green Tea Fresh, Bio ,1.38,2026-01-08T00:00:00,Milan
+CP0605,Esselunga,Bio Black Tea Fresh 18.75pcs,Bio,1.89,2026-03-28T12:34:00,Milan
+CP0606,Esselunga,Bio Dish Soap Fresh 562.5ml,Bio,6.72,2026-04-24T06:24:00,Milan
+CP0607,Esselunga, Laundry Detergent Fresh ,Fidaty,4.87,2026-02-16T00:00:00,Milan
+CP0608,Esselunga,Barilla Toilet Paper Fresh 8pcs,Barilla,3.91,2026-04-08T20:56:00,Milan
+CP0609,Esselunga, Bio Kitchen Towels Fresh 4pcs,Bio,6.84,2026-01-20T00:08:00,Milan
+CP0610,Esselunga,MULTI SURFACE CLEANER FRESH 1125ML,De Cecco,6.07,2026-01-31T00:00:00,Milan
+CP0611,Esselunga, Atlante Bleach Fresh 2.5l ,Atlante,5.88,2026-01-01T12:11:00,Milan
+CP0612,Esselunga,Shampoo Fresh 187.5ml,Bio,4.02,2026-01-13T00:00:00,Milan
+CP0613,Esselunga,Conditioner Fresh,Bio,5.72,2026-02-28T00:00:00,Milan
+CP0614,Esselunga,Parmalat Hand Soap Fresh, Parmalat,5.79,2026-01-28T00:00:00,Milan
+CP0615,Esselunga,Bio Body Wash Fresh,Bio,2.94,2026-04-08T00:00:00,Milan
+CP0616,Esselunga,Toothpaste Fresh,Bio,3.58,2026-03-07T00:00:00,Milan
+CP0617,Esselunga,Mozzarella Tradizionale 125g,Naturama,0.0,2026-03-13T01:06:00,Milan
+CP0618,Esselunga,Naturama Mozzarella di Bufala Tradizionale 156.25g,Naturama,2.07,2026-01-14T10:59:00,Milan
+CP0619,Esselunga,Fior di latte mozzarella Tradizionale 300g,Naturama,2.35,2026-01-17T00:00:00,Milan
+CP0620,Esselunga,Greek Yogurt Tradizionale 255g,Fidaty,3.48,2026-03-08T11:53:00,Milan
+CP0621,Esselunga,Naturama Strawberry Yogurt Tradizionale 3pcs,Naturama,2.92,2026-01-05T18:18:00,Milan
+CP0622,Esselunga,Top Plain Yogurt Tradizionale,Top,3.38,2026-02-16T00:00:00,Milan
+CP0623,Esselunga,De Cecco Whole Milk Tradizionale,De Cecco,2.73,2026-04-12T00:00:00,Milan
+CP0624,Esselunga,Semi-skimmed Milk Tradizionale,Bio,2.95,2026-01-30T14:05:00,Milan
+CP0625,Esselunga,Naturama Lactose Free Milk Tradizionale 1.5l,Naturama,2.69,2026-04-24T00:00:00,Milan
+CP0626,Esselunga,Fidaty Unsalted Butter Tradizionale,Fidaty,2.61,2026-04-05T00:00:00,Milan
+CP0627,Esselunga,Salted Butter Tradizionale,Mulino Bianco ,2.45,2026-04-02T00:00:00,Milan
+CP0628,Esselunga,Parmigiano Reggiano Tradizionale 250g,Atlante,3.42,2026-03-26T00:00:00,Milan
+CP0629,Esselunga,Aia Gorgonzola Tradizionale 150g,Aia,2.19,2026-01-21T03:22:00,Milan
+CP0630,Esselunga,Esselunga Ricotta Tradizionale,Esselunga,1.46,2026-02-04T00:00:00,Milan
+CP0631,Esselunga,Atlante Whole Wheat Bread Tradizionale 625g,Atlante,3.28,2026-01-03T21:31:00,Milan
+CP0632,Esselunga,Ciabatta Tradizionale,Fidaty,3.47,2026-03-22T00:00:00,Milan
+CP0633,Esselunga,Sandwich Bread Tradizionale 550g,Smart,0.0,2026-01-19T07:05:00,Milan
+CP0634,Esselunga,Naturama Butter Croissant Tradizionale,Naturama,1.74,2026-04-10T04:13:00,Milan
+CP0635,ESSELUNGA, Smart Chocolate Croissant Tradizionale 9pcs,Smart,2.59,2026-02-25T00:43:00,Milan
+CP0636,Esselunga,Chocolate Chip Cookies Tradizionale 375g,Fidaty,1.7,2026-04-25T00:00:00,Milan
+CP0637,Esselunga,Digestive Biscuits Tradizionale,Esselunga,2.91,2026-04-06T00:00:00,Milan
+CP0638,Esselunga,Naturama Cherry Tomatoes Tradizionale,Naturama,2.47,2026-04-22T03:43:00,Milan
+CP0639,Esselunga,Atlante Round Tomatoes Tradizionale 1.25kg,Atlante,4.41,2026-04-02T00:00:00,Milan
+CP0640,Esselunga,Esselunga Iceberg Lettuce Tradizionale 0.75pcs,Esselunga,3.33,2026-02-22T00:00:00,Milan
+CP0641,Esselunga,Rocket Salad Tradizionale,De Cecco,2.21,2026-01-27T13:25:00,Milan
+CP0642,Esselunga,Golden Apples Tradizionale,Top,4.2,2026-04-28T22:25:00,Milan
+CP0643,Esselunga,Pink Lady Apples Tradizionale 1kg,Bio,2.27,2026-03-07T13:47:00,Milan
+CP0644,Esselunga,Bananas Tradizionale,Naturama,4.03,2026-01-22T00:00:00,Milan
+CP0645,Esselunga,Potatoes Tradizionale 2kg,Granarolo,1.92,2026-04-17T09:31:00,Milan
+CP0646,Esselunga,CHICKEN BREAST TRADIZIONALE 600G,Atlante,9.44,2026-02-19T00:00:00,Milan
+CP0647,Esselunga,Aia Chicken Thighs Tradizionale 375g,Aia,9.32,2026-04-15T13:48:00,Milan
+CP0648,Esselunga,Bio Minced Beef Tradizionale,Bio,4.64,2026-04-13T00:00:00,Milan
+CP0649,Esselunga,Beef Steak Tradizionale,Smart,4.24,2026-01-26T03:40:00,Milan
+CP0650,Esselunga,Atlante Prosciutto Cotto Tradizionale,Atlante,3.82,2026-02-09T19:57:00,Milan
+CP0651,Esselunga,Salame Milano Tradizionale 125g,Ferrero,8.08,2026-03-29T00:00:00,Milan
+CP0652,Esselunga,Esselunga Spaghetti Tradizionale,Esselunga,2.43,2026-02-01T23:57:00,Milan
+CP0653,Esselunga,Penne Rigate Tradizionale,Smart,3.54,2026-03-23T00:00:00,Milan
+CP0654,Esselunga,Esselunga Fusilli Tradizionale 375g,Esselunga,2.11,2026-04-13T00:00:00,Milan
+CP0655,Esselunga,Carnaroli Rice Tradizionale 1.25kg,Bio,4.61,2026-01-30T08:12:00,Milan
+CP0656,Esselunga, Smart Basmati Rice Tradizionale 1.25kg,Smart,2.29,2026-04-20T12:25:00,Milan
+CP0657,esselunga,Smart Tomato Passata Tradizionale 700ml,Smart,2.58,2026-03-20T00:00:00,Milan
+CP0658,Esselunga,Pesto Genovese Tradizionale 285g,RIO MARE,0.0,2026-01-09T00:00:00,Milan
+CP0659,Esselunga,Extra Virgin Olive Oil Tradizionale 1.25l,Fidaty,4.22,2026-03-30T20:45:00,Milan
+CP0660,Esselunga,Lavazza Sunflower Oil Tradizionale,Lavazza,2.99,2026-03-20T00:00:00,Milan
+CP0661,Esselunga,All Purpose Flour Tradizionale 0.75kg,Mutti,4.38,2026-04-30T10:47:00,Milan
+CP0662,Esselunga,00 Flour Tradizionale 1kg,Bio,3.85,2026-03-19T00:00:00,Milan
+CP0663,Esselunga,White Sugar Tradizionale,Bio,4.32,2026-04-04T00:00:00,Milan
+CP0664,Esselunga,Brown Sugar Tradizionale,Granarolo,2.67,2026-01-12T00:00:00,Milan
+CP0665,Esselunga,Ground Coffee Tradizionale 375g,Atlante,2.32,2026-03-14T07:49:00,Milan
+CP0666,Esselunga,SMART COFFEE BEANS TRADIZIONALE 375G,Smart,5.01,2026-02-05T00:00:00,Milan
+CP0667,Esselunga,Corn Flakes Tradizionale,Smart,4.66,2026-02-16T00:00:00,Milan
+CP0668,Esselunga,Barilla Muesli Tradizionale,Barilla,2.3,2026-04-23T00:00:00,Milan
+CP0669,Esselunga,Margherita Pizza Tradizionale,Ferrero,5.74,2026-01-04T00:00:00,Milan
+CP0670,Esselunga,Vegetable Pizza Tradizionale 285g,Atlante ,2.63,2026-02-21T03:38:00,Milan
+CP0671,Esselunga,Smart Frozen Peas Tradizionale,Smart,5.17,2026-01-18T00:00:00,Milan
+CP0672,Esselunga,Esselunga Frozen Spinach Tradizionale 450g,Esselunga,5.04,2026-04-24T00:00:00,Milan
+CP0673,Esselunga,Smart Frozen Salmon Fillets Tradizionale,Smart,4.77,2026-02-11T09:11:00,Milan
+CP0674,Esselunga,Fish Fingers Tradizionale,Ferrero,5.0,2026-03-03T00:00:00,Milan
+CP0675,Esselunga,Still Water Tradizionale,Smart,1.76,2026-01-25T00:00:00,Milan
+CP0676,ESSELUNGA,Atlante Sparkling Water Tradizionale 2.25l,Atlante,2.54,2026-04-30T00:42:00,Milan
+CP0677,Esselunga,Orange Juice Tradizionale,Top,2.39,2026-01-26T00:00:00,Milan
+CP0678,Esselunga,Esselunga Apple Juice Tradizionale 1l,Esselunga,1.81,2026-04-10T16:56:00,Milan
+CP0679,Esselunga,Cola Tradizionale,Esselunga,1.35,2026-03-23T00:00:00,Milan
+CP0680,Esselunga,Lemon Soda Tradizionale 1.5l,Esselunga,1.32,2026-01-03T00:00:00,Milan
+CP0681,Esselunga,Top Green Tea Tradizionale 20pcs,Top,1.18,2026-04-20T00:00:00,Milan
+CP0682,Esselunga, Bio Black Tea Tradizionale 31.25pcs ,Bio,1.15,2026-01-08T19:03:00,Milan
+CP0683,Esselunga,Granarolo Dish Soap Tradizionale,Granarolo,7.27,2026-04-10T00:27:00,Milan
+CP0684,Esselunga,Laundry Detergent Tradizionale 1.12l,barilla,3.63,2026-01-12T00:00:00,Milan
+CP0685,Esselunga,Smart Toilet Paper Tradizionale 10pcs,Smart,5.91,2026-04-01T00:00:00,Milan
+CP0686,Esselunga,Kitchen Towels Tradizionale 4pcs ,Top,7.06,2026-01-25T08:08:00,Milan
+CP0687,Esselunga,Fidaty Multi Surface Cleaner Tradizionale,Fidaty,3.51,2026-02-19T00:00:00,Milan
+CP0688,Esselunga,Bleach Tradizionale,Atlante,4.48,2026-01-14T01:39:00,Milan
+CP0689,Esselunga,Shampoo Tradizionale,Naturama,4.97,2026-04-22T00:00:00,Milan
+CP0690,Esselunga,Galbani Conditioner Tradizionale,Galbani,6.2,2026-03-16T05:25:00,Milan
+CP0691,Esselunga,Top Hand Soap Tradizionale,Top,6.15,2026-03-30T07:41:00,Milan
+CP0692,Esselunga,Ferrero Body Wash Tradizionale,Ferrero,3.09,2026-03-19T14:51:00,Milan
+CP0693,Esselunga,Smart Toothpaste Tradizionale,Smart,3.87,2026-04-01T00:00:00,Milan
+CP0694,Esselunga,Mozzarella Deluxe 156.25g,Smart,3.13,2026-04-12T21:14:00,Milan
+CP0695,Esselunga,Mozzarella di Bufala Deluxe 187.5g,Parmalat,2.63,2026-02-11T10:34:00,Milan
+CP0696,Esselunga,Fior di latte mozzarella Deluxe 300g,Bio,1.45,2026-03-12T00:00:00,Milan
+CP0697,Esselunga,Fidaty Greek Yogurt Deluxe 127.5g,Fidaty,3.2,2026-02-28T00:00:00,Milan
+CP0698,Esselunga,Strawberry Yogurt Deluxe 1.5pcs,Naturama,3.51,2026-03-25T00:00:00,Milan
+CP0699,Esselunga,Plain Yogurt Deluxe,Bio,1.9,2026-03-19T00:00:00,Milan
+CP0700,Esselunga,Naturama Whole Milk Deluxe,Naturama,1.9,2026-04-22T00:00:00,Milan
+CP0701,Esselunga,Semi-skimmed Milk Deluxe,Atlante,2.08,2026-03-13T00:00:00,Milan
+CP0702,Esselunga,Lactose Free Milk Deluxe 1l,Smart,2.27,2026-04-19T21:31:00,Milan
+CP0703,Esselunga,Top Unsalted Butter Deluxe 187.5g,TOP,1.56,2026-03-21T21:30:00,Milan
+CP0704,Esselunga,Salted Butter Deluxe 250g,Top,2.9,2026-04-10T09:47:00,Milan
+CP0705,Esselunga,Smart Parmigiano Reggiano Deluxe 250g,Smart,2.71,2026-01-03T00:00:00,Milan
+CP0706,Esselunga,Gorgonzola Deluxe 150g,Naturama,2.12,2026-02-17T00:00:00,Milan
+CP0707,Esselunga,Ricotta Deluxe 250g,Fidaty,3.29,2026-02-02T00:00:00,Milan
+CP0708,Esselunga,Atlante Whole Wheat Bread Deluxe,Atlante,2.99,2026-03-30T10:26:00,Milan
+CP0709,Esselunga,Ciabatta Deluxe,Naturama,2.9,2026-04-04T00:12:00,Milan
+CP0710,Esselunga,Sandwich Bread Deluxe 550g,bio,3.8,2026-03-16T00:00:00,Milan
+CP0711,Esselunga,Smart Butter Croissant Deluxe 7.5pcs,Smart,2.34,2026-04-17T00:00:00,Milan
+CP0712,Esselunga,Smart Chocolate Croissant Deluxe 6pcs,Smart,2.67,2026-01-05T00:00:00,Milan
+CP0713,Esselunga,Chocolate Chip Cookies Deluxe 375g,Barilla,1.64,2026-03-20T20:52:00,Milan
+CP0714,Esselunga,Atlante Digestive Biscuits Deluxe,Atlante,0.0,2026-01-02T00:00:00,Milan
+CP0715,Esselunga,Cherry Tomatoes Deluxe,Fidaty,2.3,2026-03-25T12:58:00,Milan
+CP0716,Esselunga,Smart Round Tomatoes Deluxe 1.25kg,Smart,3.98,2026-04-18T05:27:00,Milan
+CP0717,Esselunga,Iceberg Lettuce Deluxe 0.75pcs,Barilla,2.77,2026-04-13T00:00:00,Milan
+CP0718,Esselunga,fidaty rocket salad deluxe,Fidaty,2.54,2026-02-28T00:00:00,Milan
+CP0719,Esselunga,naturama golden apples deluxe 0.75kg,Naturama,4.23,2026-04-21T00:00:00,Milan
+CP0720,Esselunga,Pink Lady Apples Deluxe 1kg,Atlante,2.28,2026-04-23T00:00:00,Milan
+CP0721,Esselunga,Parmalat Bananas Deluxe 1kg,Parmalat,3.82,2026-04-12T00:00:00,Milan
+CP0722,Esselunga,Fidaty Potatoes Deluxe 1.5kg,Fidaty,2.69,2026-01-27T00:00:00,Milan
+CP0723,Esselunga, Chicken Breast Deluxe ,Smart,5.52,2026-01-09T00:00:00,Milan
+CP0724,Esselunga,Chicken Thighs Deluxe,Parmalat,7.33,2026-04-14T00:00:00,Milan
+CP0725,Esselunga,De Cecco Minced Beef Deluxe, De Cecco,7.02,2026-01-13T00:00:00,Milan
+CP0726,Esselunga,Beef Steak Deluxe,Bio,7.48,2026-05-01T20:34:00,Milan
+CP0727,Esselunga,Rio Mare Prosciutto Cotto Deluxe 90g,Rio Mare,7.84,2026-01-14T04:01:00,Milan
+CP0728,Esselunga,Esselunga Salame Milano Deluxe 150g,Esselunga,7.56,2026-03-11T00:00:00,Milan
+CP0729,Esselunga,Spaghetti Deluxe,Esselunga,5.1,2026-03-13T03:06:00,Milan
+CP0730,Esselunga,Penne Rigate Deluxe,Atlante,5.14,2026-03-02T06:50:00,Milan
+CP0731,Esselunga,Fusilli Deluxe 500g,Naturama,4.93,2026-02-19T14:08:00,Milan
+CP0732,Esselunga,Bio Carnaroli Rice Deluxe 1.25kg,Bio,4.34,2026-04-04T00:00:00,Milan
+CP0733,Esselunga,Basmati Rice Deluxe,Bio,4.2,2026-03-09T17:08:00,Milan
+CP0734,Esselunga,Tomato Passata Deluxe,Smart,4.52,2026-01-25T00:00:00,Milan
+CP0735,Esselunga,Pesto Genovese Deluxe,Naturama,3.51,2026-02-03T00:00:00,Milan
+CP0736,Esselunga,top extra virgin olive oil deluxe,Top,3.24,2026-01-29T00:00:00,Milan
+CP0737,Esselunga,Sunflower Oil Deluxe,Naturama,2.59,2026-04-16T00:00:00,Milan
+CP0738,Esselunga,Naturama All Purpose Flour Deluxe,Naturama,3.37,2026-04-19T00:00:00,Milan
+CP0739,Esselunga,Naturama 00 Flour Deluxe 1kg,Naturama,4.46,2026-02-05T09:08:00,Milan
+CP0740,Esselunga,WHITE SUGAR DELUXE,Rio Mare,0.0,2026-03-19T00:00:00,Milan
+CP0741,Esselunga,Atlante Brown Sugar Deluxe 1.5kg,Atlante,2.77,2026-04-19T02:24:00,Milan
+CP0742,Esselunga,Esselunga Ground Coffee Deluxe 187.5g,Esselunga,2.6,2026-04-03T00:00:00,Milan
+CP0743,Esselunga,Coffee Beans Deluxe,Esselunga,2.05,2026-04-24T00:00:00,Milan
+CP0744,Esselunga,Corn Flakes Deluxe,NATURAMA,5.09,2026-04-08T00:00:00,Milan
+CP0745,Esselunga,Esselunga Muesli Deluxe,Esselunga,2.76,2026-04-21T00:00:00,Milan
+CP0746,Esselunga,Margherita Pizza Deluxe,Naturama,0.0,2026-03-15T16:07:00,Milan
+CP0747,Esselunga,Esselunga Vegetable Pizza Deluxe 285g,Esselunga,6.24,2026-02-09T00:00:00,Milan
+CP0748,Esselunga,Frozen Peas Deluxe,Fidaty,5.76,2026-03-02T00:00:00,Milan
+CP0749,Esselunga,Frozen Spinach Deluxe,Esselunga,6.35,2026-03-26T04:53:00,Milan
+CP0750,Esselunga,Mulino Bianco Frozen Salmon Fillets Deluxe 500g,Mulino Bianco,4.87,2026-04-11T13:50:00,Milan
+CP0751,Esselunga,Fish Fingers Deluxe 375g,Bio,3.59,2026-02-18T16:38:00,Milan
+CP0752,Esselunga,Atlante Still Water Deluxe,Atlante,2.04,2026-02-28T10:01:00,Milan
+CP0753,Esselunga,Sparkling Water Deluxe,Atlante,1.11,2026-03-08T03:19:00,Milan
+CP0754,Esselunga,Orange Juice Deluxe,top,2.78,2026-02-25T07:41:00,Milan
+CP0755,Esselunga,Atlante Apple Juice Deluxe,Atlante,2.61,2026-04-22T00:00:00,Milan
+CP0756,Esselunga,Top Cola Deluxe,Top,1.89,2026-03-29T00:00:00,Milan
+CP0757,Esselunga,Lemon Soda Deluxe 1.5l,Top,2.22,2026-04-14T22:29:00,Milan
+CP0758,Esselunga,Green Tea Deluxe 30pcs,Atlante,1.92,2026-03-04T00:00:00,Milan
+CP0759,Esselunga,Atlante Black Tea Deluxe,Atlante,2.67,2026-03-20T11:00:00,Milan
+CP0760,Esselunga,Atlante Dish Soap Deluxe,Atlante,4.34,2026-03-04T00:00:00,Milan
+CP0761,Esselunga,Laundry Detergent Deluxe 1.12l,Mulino Bianco,5.4,2026-04-03T00:00:00,Milan
+CP0762,Esselunga,Top Toilet Paper Deluxe 8pcs,Top,7.04,2026-05-01T06:28:00,Milan
+CP0763,Esselunga,Rio Mare Kitchen Towels Deluxe 6pcs,Rio Mare,5.67,2026-03-01T22:06:00,Milan
+CP0764,Esselunga,De Cecco Multi Surface Cleaner Deluxe,De Cecco,4.68,2026-04-12T00:00:00,Milan
+CP0765,Esselunga,Bleach Deluxe,Lavazza,7.25,2026-03-09T00:00:00,Milan
+CP0766,Esselunga,Naturama Shampoo Deluxe,Naturama,6.83,2026-03-07T13:58:00,Milan
+CP0767,Esselunga,Barilla Conditioner Deluxe 375ml,Barilla,5.42,2026-01-17T00:00:00,Milan
+CP0768,Esselunga,Hand Soap Deluxe,Fidaty,6.88,2026-03-24T00:00:00,Milan
+CP0769,Esselunga,Body Wash Deluxe,Top,5.41,2026-05-01T00:00:00,Milan
+CP0770,Esselunga,Fidaty Toothpaste Deluxe, Fidaty,6.73,2026-04-15T00:28:00,Milan
+CP0771,Esselunga,Fidaty Mozzarella Classic,Fidaty,0.0,2026-03-05T00:00:00,Milan
+CP0772,Esselunga,Mozzarella di Bufala Classic 93.75g,Fidaty,3.28,2026-03-01T00:00:00,Milan
+CP0773,Esselunga,Atlante Fior di latte mozzarella Classic 250g,Atlante,2.59,2026-02-17T02:10:00,Milan
+CP0774,Esselunga,Greek Yogurt Classic 170g,Rio Mare,0.0,2026-03-10T13:16:00,Milan
+CP0775,Esselunga,Strawberry Yogurt Classic, Esselunga,0.0,2026-01-31T00:00:00,Milan
+CP0776,Esselunga,Fidaty Plain Yogurt Classic 500g,Fidaty,1.45,2026-04-03T20:54:00,Milan
+CP0777,Esselunga,Whole Milk Classic,Bio,2.91,2026-03-03T00:00:00,Milan
+CP0778,Esselunga,Bio Semi-skimmed Milk Classic, Bio,3.5,2026-02-19T13:53:00,Milan
+CP0779,Esselunga,Atlante Lactose Free Milk Classic 1.5l,Atlante,2.93,2026-03-18T00:00:00,Milan
+CP0780,Esselunga,Unsalted Butter Classic,Naturama,3.24,2026-01-29T05:25:00,Milan
+CP0781,Esselunga,Salted Butter Classic 375g,Smart,1.94,2026-02-18T00:00:00,Milan
+CP0782,Esselunga,Parmigiano Reggiano Classic 300g,Smart,2.78,2026-05-01T00:00:00,Milan
+CP0783,Esselunga,FIDATY GORGONZOLA CLASSIC,Fidaty,3.62,2026-01-01T00:00:00,Milan
+CP0784,Esselunga,Ricotta Classic 312.5g,Atlante,2.82,2026-04-10T17:50:00,Milan
+CP0785,Esselunga,Atlante Whole Wheat Bread Classic 625g,Atlante,3.95,2026-04-25T00:00:00,Milan
+CP0786,Esselunga,Top Ciabatta Classic,Top,1.74,2026-04-13T00:00:00,Milan
+CP0787,Esselunga,Esselunga Sandwich Bread Classic 550g, Esselunga,0.0,2026-02-07T00:00:00,Milan
+CP0788,Esselunga,Mutti Butter Croissant Classic,Mutti,2.11,2026-01-20T23:43:00,Milan
+CP0789,Esselunga,Rio Mare Chocolate Croissant Classic,Rio Mare,1.67,2026-03-17T00:00:00,Milan
+CP0790,Esselunga,Atlante Chocolate Chip Cookies Classic 225g,Atlante,2.09,2026-03-23T00:00:00,Milan
+CP0791,Esselunga,Top Digestive Biscuits Classic 400g,Top,1.67,2026-02-11T00:00:00,Milan
+CP0792,Esselunga,Cherry Tomatoes Classic 625g,Fidaty,1.97,2026-04-27T19:14:00,Milan
+CP0793,Esselunga,Galbani Round Tomatoes Classic 1kg,Galbani,2.19,2026-02-05T16:51:00,Milan
+CP0794,Esselunga,Ferrero Iceberg Lettuce Classic,Ferrero,1.99,2026-03-18T00:00:00,Milan
+CP0795,esselunga,Rocket Salad Classic,Mulino Bianco,2.78,2026-01-28T00:00:00,Milan
+CP0796,Esselunga,Fidaty Golden Apples Classic 1.5kg, Fidaty,2.49,2026-03-08T00:00:00,Milan
+CP0797,Esselunga,Pink Lady Apples Classic,Barilla,4.36,2026-02-01T00:00:00,Milan
+CP0798,Esselunga,Bananas Classic,Top,3.59,2026-01-07T04:46:00,Milan
+CP0799,Esselunga,Potatoes Classic,Naturama,2.97,2026-01-03T19:46:00,Milan
+CP0800,Esselunga,Chicken Breast Classic,Atlante,7.92,2026-02-26T11:37:00,Milan
+CP0801,Esselunga,Esselunga Chicken Thighs Classic 500g,Esselunga,9.39,2026-03-05T02:00:00,Milan
+CP0802,Esselunga,Minced Beef Classic 400g,NATURAMA,9.52,2026-01-06T14:12:00,Milan
+CP0803,Esselunga,Beef Steak Classic,Top,7.64,2026-02-11T00:00:00,Milan
+CP0804,Esselunga,Aia Prosciutto Cotto Classic 120g,Aia,5.88,2026-03-21T14:14:00,Milan
+CP0805,Esselunga,Salame Milano Classic 100g,Naturama,8.75,2026-02-07T00:00:00,Milan
+CP0806,Esselunga,Spaghetti Classic 500g,Parmalat,3.69,2026-02-22T00:00:00,Milan
+CP0807,Esselunga,barilla penne rigate classic 500g,Barilla,4.81,2026-02-13T00:00:00,Milan
+CP0808,Esselunga,Top Fusilli Classic 500g,Top,4.57,2026-02-09T00:00:00,Milan
+CP0809,Esselunga,Carnaroli Rice Classic,Atlante,3.54,2026-04-09T06:14:00,Milan
+CP0810,Esselunga,Esselunga Basmati Rice Classic 1kg,Esselunga,2.17,2026-01-06T00:00:00,Milan
+CP0811,Esselunga,Smart Tomato Passata Classic 1050ml,Smart,2.74,2026-03-21T11:28:00,Milan
+CP0812,Esselunga,Top Pesto Genovese Classic 142.5g,Top,4.66,2026-04-24T00:00:00,Milan
+CP0813,Esselunga,Fidaty Extra Virgin Olive Oil Classic, Fidaty,4.55,2026-01-22T02:52:00,Milan
+CP0814,Esselunga,sunflower oil classic 1l,Atlante,3.18,2026-03-23T00:00:00,Milan
+CP0815,Esselunga,Esselunga All Purpose Flour Classic,Esselunga,3.62,2026-04-05T13:26:00,Milan
+CP0816,Esselunga,Atlante 00 Flour Classic ,Atlante,2.5,2026-01-23T00:00:00,Milan
+CP0817,Esselunga,Rio Mare White Sugar Classic,Rio Mare,4.07,2026-03-01T00:00:00,Milan
+CP0818,Esselunga,Brown Sugar Classic 1.25kg,Fidaty,2.26,2026-01-26T23:42:00,Milan
+CP0819,Esselunga,Ground Coffee Classic 375g,Top,3.92,2026-03-09T00:00:00,Milan
+CP0820,Esselunga,Smart Coffee Beans Classic 500g,Smart,5.12,2026-04-24T21:13:00,Milan
+CP0821,Esselunga,Corn Flakes Classic 468.75g,Atlante,2.5,2026-01-23T10:44:00,Milan
+CP0822,Esselunga,Muesli Classic 937.5g,Bio,3.01,2026-01-02T00:00:00,Milan
+CP0823,Esselunga,Atlante Margherita Pizza Classic,Atlante,0.0,2026-01-10T00:00:00,Milan
+CP0824,Esselunga,Bio Vegetable Pizza Classic 285g, Bio,3.14,2026-03-03T00:00:00,Milan
+CP0825,Esselunga,Naturama Frozen Peas Classic,Naturama,4.03,2026-01-16T12:40:00,Milan
+CP0826,Esselunga,Frozen Spinach Classic,Bio,3.44,2026-03-02T01:16:00,Milan
+CP0827,Esselunga,Frozen Salmon Fillets Classic 400g,Smart,3.97,2026-04-05T00:00:00,Milan
+CP0828,Esselunga,Naturama Fish Fingers Classic,Naturama,3.56,2026-02-26T00:00:00,Milan
+CP0829,Esselunga,Still Water Classic,Naturama,1.57,2026-04-20T00:00:00,Milan
+CP0830,Esselunga,Naturama Sparkling Water Classic,Naturama,2.44,2026-02-03T09:57:00,Milan
+CP0831,Esselunga,Fidaty Orange Juice Classic,Fidaty,2.14,2026-04-30T11:02:00,Milan
+CP0832,Esselunga,Atlante Apple Juice Classic 1l,Atlante,2.31,2026-02-09T22:02:00,Milan
+CP0833,Esselunga,Cola Classic 1.88l, Bio ,2.71,2026-01-29T00:00:00,Milan
+CP0834,Esselunga,Esselunga Lemon Soda Classic,Esselunga,2.0,2026-03-09T19:58:00,Milan
+CP0835,Esselunga,Esselunga Green Tea Classic,Esselunga,2.04,2026-01-25T20:23:00,Milan
+CP0836,Esselunga,Black Tea Classic,Esselunga,2.41,2026-02-14T17:53:00,Milan
+CP0837,Esselunga,Dish Soap Classic 937.5ml,Naturama,5.74,2026-04-12T16:37:00,Milan
+CP0838,Esselunga,Laundry Detergent Classic 2.25l,Bio,7.55,2026-02-27T00:00:00,Milan
+CP0839,Esselunga,Toilet Paper Classic 8pcs,Naturama,6.25,2026-03-29T11:30:00,Milan
+CP0840,Esselunga,Bio Kitchen Towels Classic,Bio,7.17,2026-01-13T00:00:00,Milan
+CP0841,Esselunga,Multi Surface Cleaner Classic,Atlante,4.94,2026-03-20T00:00:00,Milan
+CP0842,Esselunga,Bio Bleach Classic,Bio,4.89,2026-02-06T19:09:00,Milan
+CP0843,Esselunga,Shampoo Classic,Atlante,6.24,2026-04-24T00:00:00,Milan
+CP0844,Esselunga,Bio Conditioner Classic,Bio,3.17,2026-02-06T18:08:00,Milan
+CP0845,Esselunga,Top Hand Soap Classic,Top,5.31,2026-01-01T14:17:00,Milan
+CP0846,Esselunga,Body Wash Classic 375ml,Galbani,5.63,2026-01-09T00:00:00,Milan
+CP0847,Esselunga,Toothpaste Classic 75ml,Atlante,3.46,2026-01-30T00:00:00,Milan
+CP0848,Esselunga, Bio Mozzarella Premium,Bio,3.07,2026-03-19T00:00:00,Milan
+CP0849,Esselunga,Mozzarella di Bufala Premium 93.75g,Galbani,2.07,2026-03-11T15:39:00,Milan
+CP0850,esselunga,Naturama Fior di latte mozzarella Premium 300g,Naturama,3.13,2026-03-22T12:43:00,Milan
+CP0851,Esselunga,Greek Yogurt Premium,Granarolo,2.07,2026-01-31T00:00:00,Milan
+CP0852,Esselunga,Fidaty Strawberry Yogurt Premium 2pcs,Fidaty,1.95,2026-04-21T12:35:00,Milan
+CP0853,Esselunga,Naturama Plain Yogurt Premium 500g,Naturama,3.09,2026-01-18T00:00:00,Milan
+CP0854,Esselunga,Whole Milk Premium,Top,2.54,2026-04-06T00:00:00,Milan
+CP0855,Esselunga,Semi-skimmed Milk Premium 1l,Atlante,2.33,2026-04-05T13:01:00,Milan
+CP0856,Esselunga,Lactose Free Milk Premium,Atlante,3.55,2026-03-11T00:00:00,Milan
+CP0857,Esselunga,Unsalted Butter Premium,Top,2.52,2026-04-28T00:00:00,Milan
+CP0858,Esselunga,Salted Butter Premium 375g,Fidaty,2.08,2026-02-28T00:00:00,Milan
+CP0859,Esselunga,Parmigiano Reggiano Premium ,FIDATY,2.3,2026-01-02T15:57:00,Milan
+CP0860,Esselunga,Lavazza Gorgonzola Premium,Lavazza,3.08,2026-01-21T00:00:00,Milan
+CP0861,Esselunga,De Cecco Ricotta Premium 250g,De Cecco,2.16,2026-02-01T00:00:00,Milan
+CP0862,Esselunga,Whole Wheat Bread Premium 500g,Smart,3.09,2026-01-20T00:00:00,Milan
+CP0863,Esselunga,Ciabatta Premium 300g,Bio,3.93,2026-04-27T19:44:00,Milan
+CP0864,Esselunga,Sandwich Bread Premium,Lavazza,2.13,2026-03-10T00:00:00,Milan
+CP0865,Esselunga,Butter Croissant Premium 6pcs,Smart,1.66,2026-01-17T00:00:00,Milan
+CP0866,Esselunga,Chocolate Croissant Premium 6pcs,Top,3.4,2026-04-30T16:03:00,Milan
+CP0867,Esselunga,Mulino Bianco Chocolate Chip Cookies Premium 225g,Mulino Bianco,2.19,2026-01-14T05:19:00,Milan
+CP0868,Esselunga,Top Digestive Biscuits Premium 600g,Top,2.68,2026-02-10T00:00:00,Milan
+CP0869,Esselunga,Mutti Cherry Tomatoes Premium,Mutti,3.58,2026-02-17T18:54:00,Milan
+CP0870,Esselunga,Atlante Round Tomatoes Premium,Atlante,3.71,2026-01-13T00:00:00,Milan
+CP0871,Esselunga,Iceberg Lettuce Premium,Top,1.8,2026-02-21T00:00:00,Milan
+CP0872,Esselunga,Esselunga Rocket Salad Premium 93.75g,Esselunga,1.76,2026-04-18T10:52:00,Milan
+CP0873,Esselunga,Golden Apples Premium 1.5kg,Granarolo,3.33,2026-04-27T00:00:00,Milan
+CP0874,Esselunga,Fidaty Pink Lady Apples Premium 1kg,Fidaty,1.73,2026-03-23T00:00:00,Milan
+CP0875,Esselunga,De Cecco Bananas Premium 1kg,De Cecco,3.27,2026-01-31T15:15:00,Milan
+CP0876,Esselunga,Potatoes Premium 2.5kg,Smart,2.88,2026-01-29T00:00:00,Milan
+CP0877,Esselunga,Bio Chicken Breast Premium 300g,Bio,9.51,2026-02-02T00:00:00,Milan
+CP0878,Esselunga,Chicken Thighs Premium 375g,Smart,4.98,2026-03-29T00:00:00,Milan
+CP0879,Esselunga,Smart Minced Beef Premium,Smart,5.55,2026-04-17T00:05:00,Milan
+CP0880,Esselunga,Beef Steak Premium 300g,Smart,9.63,2026-04-16T05:35:00,Milan
+CP0881,Esselunga,Prosciutto Cotto Premium 150g,Fidaty,7.82,2026-01-31T00:00:00,Milan
+CP0882,Esselunga,Salame Milano Premium 125g,Atlante,4.43,2026-02-25T00:00:00,Milan
+CP0883,Esselunga,Spaghetti Premium,Top,2.7,2026-03-25T00:00:00,Milan
+CP0884,Esselunga,Esselunga Penne Rigate Premium 500g,ESSELUNGA,5.23,2026-01-14T00:00:00,Milan
+CP0885,Esselunga,Fusilli Premium,Atlante,5.2,2026-04-29T00:00:00,Milan
+CP0886,Esselunga,Carnaroli Rice Premium, Esselunga,5.16,2026-02-06T00:00:00,Milan
+CP0887,Esselunga,Basmati Rice Premium,Atlante,2.17,2026-01-16T00:00:00,Milan
+CP0888,Esselunga,Naturama Tomato Passata Premium 875ml,Naturama,4.69,2026-03-25T00:00:00,Milan
+CP0889,Esselunga,Pesto Genovese Premium 142.5g,Naturama,2.68,2026-04-10T00:33:00,Milan
+CP0890,Esselunga,Fidaty Extra Virgin Olive Oil Premium,Fidaty,2.09,2026-01-02T00:00:00,Milan
+CP0891,esselunga,Top Sunflower Oil Premium 1.25l,Top,2.15,2026-02-05T00:00:00,Milan
+CP0892,Esselunga,All Purpose Flour Premium 1.25kg,Esselunga,3.93,2026-01-21T00:00:00,Milan
+CP0893,Esselunga,00 Flour Premium 0.75kg,Fidaty,2.99,2026-02-03T17:14:00,Milan
+CP0894,Esselunga,bio white sugar premium,Bio,3.16,2026-04-18T00:00:00,Milan
+CP0895,Esselunga, Mutti Brown Sugar Premium,Mutti ,5.02,2026-03-29T14:01:00,Milan
+CP0896,Esselunga,Aia Ground Coffee Premium,Aia,2.77,2026-04-20T17:37:00,Milan
+CP0897,Esselunga,Coffee Beans Premium,Ferrero,4.55,2026-01-01T18:20:00,Milan
+CP0898,Esselunga,Corn Flakes Premium,Bio,4.17,2026-04-28T00:00:00,Milan
+CP0899,Esselunga,Muesli Premium 750g,Smart,3.09,2026-04-10T00:00:00,Milan
+CP0900,Esselunga,Margherita Pizza Premium 262.5g,Mulino Bianco,3.1,2026-02-03T08:24:00,Milan
+CP0901,Esselunga,Vegetable Pizza Premium 380g,Smart,6.21,2026-03-20T09:56:00,Milan
+CP0902,Esselunga,Frozen Peas Premium,Naturama,2.94,2026-04-22T19:38:00,Milan
+CP0903,Esselunga,Frozen Spinach Premium 675g,Atlante,5.12,2026-02-28T00:00:00,Milan
+CP0904,Esselunga,Frozen Salmon Fillets Premium 500g,Mutti,5.21,2026-02-17T00:00:00,Milan
+CP0905,Esselunga,Top Fish Fingers Premium 450g,Top,2.82,2026-03-17T10:37:00,Milan
+CP0906,Esselunga,Smart Still Water Premium,Smart,0.0,2026-03-31T05:36:00,Milan
+CP0907,Esselunga,Esselunga Sparkling Water Premium,Esselunga,1.73,2026-03-25T00:00:00,Milan
+CP0908,Esselunga,Orange Juice Premium,Naturama,2.68,2026-03-28T00:00:00,Milan
+CP0909,Esselunga,Fidaty Apple Juice Premium,Fidaty,2.06,2026-02-13T05:57:00,Milan
+CP0910,Esselunga,Barilla Cola Premium 1.88l,Barilla,1.18,2026-04-27T00:00:00,Milan
+CP0911,Esselunga,Smart Lemon Soda Premium 1.88l,Smart,2.51,2026-04-01T17:04:00,Milan
+CP0912,Esselunga, Bio Green Tea Premium,Bio,1.53,2026-02-15T00:00:00,Milan
+CP0913,Esselunga, Black Tea Premium ,Top,2.26,2026-01-28T00:00:00,Milan
+CP0914,Esselunga,Dish Soap Premium 1125ml,Top,6.54,2026-03-26T15:14:00,Milan
+CP0915,Esselunga,Rio Mare Laundry Detergent Premium 1.88l,Rio Mare,6.21,2026-03-30T12:36:00,Milan
+CP0916,Esselunga,Toilet Paper Premium 8pcs,Atlante,4.83,2026-03-06T00:00:00,Milan
+CP0917,Esselunga,Kitchen Towels Premium 6pcs,Naturama,3.37,2026-03-09T00:00:00,Milan
+CP0918,Esselunga,Smart Multi Surface Cleaner Premium 1125ml,SMART,5.51,2026-02-16T03:47:00,Milan
+CP0919,Esselunga,Bleach Premium,Naturama,6.2,2026-02-06T00:00:00,Milan
+CP0920,Esselunga,Shampoo Premium,Bio,4.61,2026-02-11T00:00:00,Milan
+CP0921,Esselunga,Naturama Conditioner Premium 187.5ml,Naturama ,6.53,2026-04-15T00:00:00,Milan
+CP0922,Esselunga, Atlante Hand Soap Premium, Atlante ,6.94,2026-02-05T00:00:00,Milan
+CP0923,Esselunga, Body Wash Premium 500ml ,Bio,6.44,2026-03-01T00:00:00,Milan
+CP0924,Esselunga,Toothpaste Premium 75ml,Atlante,2.78,2026-01-14T00:00:00,Milan
+CP0925,Esselunga,Esselunga Mozzarella Bio,Esselunga,2.12,2026-02-06T19:46:00,Milan
+CP0926,Esselunga,Smart Mozzarella di Bufala Bio 125g,Smart,2.41,2026-03-31T00:00:00,Milan
+CP0927,Esselunga,Fior di latte mozzarella Bio,Esselunga,2.35,2026-02-18T00:00:00,Milan
+CP0928,Esselunga,Atlante Greek Yogurt Bio 170g,Atlante,1.95,2026-04-09T00:00:00,Milan
+CP0929,Esselunga,Esselunga Strawberry Yogurt Bio,Esselunga,3.07,2026-04-24T05:21:00,Milan
+CP0930,Esselunga,Bio Plain Yogurt Bio,Bio,2.41,2026-04-15T11:40:00,Milan
+CP0931,Esselunga,Whole Milk Bio,Atlante,3.11,2026-01-01T00:00:00,Milan
+CP0932,Esselunga,Semi-skimmed Milk Bio 0.75l,Esselunga,2.33,2026-03-28T00:00:00,Milan
+CP0933,Esselunga,Barilla Lactose Free Milk Bio,Barilla,2.03,2026-03-09T00:00:00,Milan
+CP0934,Esselunga,Unsalted Butter Bio,Top,1.44,2026-02-22T00:00:00,Milan
+CP0935,Esselunga,Salted Butter Bio,Top,2.14,2026-03-08T23:18:00,Milan
+CP0936,Esselunga, Parmigiano Reggiano Bio,Fidaty,1.53,2026-03-24T00:00:00,Milan
+CP0937,Esselunga,Galbani Gorgonzola Bio,Galbani,2.24,2026-02-24T00:00:00,Milan
+CP0938,Esselunga,Ricotta Bio 187.5g,Naturama,2.41,2026-03-12T00:00:00,Milan
+CP0939,Esselunga,Top Whole Wheat Bread Bio,Top,3.2,2026-03-01T00:00:00,Milan
+CP0940,Esselunga,Fidaty Ciabatta Bio 300g,FIDATY,2.33,2026-04-06T00:00:00,Milan
+CP0941,Esselunga, Sandwich Bread Bio,Smart,3.14,2026-01-02T00:00:00,Milan
+CP0942,Esselunga,Bio Butter Croissant Bio,BIO,2.62,2026-03-22T16:17:00,Milan
+CP0943,Esselunga,Top Chocolate Croissant Bio,Top,2.99,2026-02-10T00:00:00,Milan
+CP0944,Esselunga,Chocolate Chip Cookies Bio,Naturama,2.45,2026-02-27T00:00:00,Milan
+CP0945,Esselunga,Naturama Digestive Biscuits Bio 400g,Naturama,1.64,2026-05-01T17:04:00,Milan
+CP0946,Esselunga,Fidaty Cherry Tomatoes Bio 750g,Fidaty,4.22,2026-03-12T17:31:00,Milan
+CP0947,Esselunga,Smart Round Tomatoes Bio,Smart,4.0,2026-03-23T18:30:00,Milan
+CP0948,Esselunga,Rio Mare Iceberg Lettuce Bio 1.25pcs,Rio Mare,2.41,2026-01-10T00:00:00,Milan
+CP0949,Esselunga,GRANAROLO ROCKET SALAD BIO,Granarolo,4.0,2026-02-11T00:00:00,Milan
+CP0950,Esselunga,Top Golden Apples Bio 1.5kg,Top,1.92,2026-02-02T00:00:00,Milan
+CP0951,Esselunga,Smart Pink Lady Apples Bio 1kg,Smart,3.08,2026-02-19T11:30:00,Milan
+CP0952,Esselunga,Bananas Bio 1kg,Top,3.69,2026-01-24T01:54:00,Milan
+CP0953,Esselunga, Naturama Potatoes Bio ,Naturama,4.19,2026-01-22T00:00:00,Milan
+CP0954,Esselunga,Chicken Breast Bio ,Lavazza,7.93,2026-04-23T10:10:00,Milan
+CP0955,Esselunga,Galbani Chicken Thighs Bio,Galbani,8.5,2026-03-07T00:00:00,Milan
+CP0956,Esselunga,Minced Beef Bio,Parmalat,6.54,2026-02-14T00:00:00,Milan
+CP0957,Esselunga,Beef Steak Bio 300g,Bio,6.07,2026-04-02T18:34:00,Milan
+CP0958,Esselunga,Fidaty Prosciutto Cotto Bio 120g,Fidaty,3.98,2026-03-30T00:00:00,Milan
+CP0959,Esselunga,Salame Milano Bio ,Bio,4.07,2026-02-03T00:00:00,Milan
+CP0960,Esselunga,Spaghetti Bio 750g,Parmalat,2.22,2026-02-09T21:58:00,Milan
+CP0961,Esselunga,Penne Rigate Bio,Esselunga,4.72,2026-02-18T00:00:00,Milan
+CP0962,Esselunga,Fusilli Bio 625g,Naturama,4.22,2026-01-13T00:00:00,Milan
+CP0963,Esselunga,Carnaroli Rice Bio,Smart,3.57,2026-04-02T04:57:00,Milan
+CP0964,Esselunga,Basmati Rice Bio 1.25kg,Lavazza,3.71,2026-04-12T13:10:00,Milan
+CP0965,Esselunga,Tomato Passata Bio,Bio,4.47,2026-01-21T00:00:00,Milan
+CP0966,Esselunga,Pesto Genovese Bio,Fidaty,4.38,2026-03-27T00:00:00,Milan
+CP0967,Esselunga,Fidaty Extra Virgin Olive Oil Bio,Fidaty,3.06,2026-03-26T00:00:00,Milan
+CP0968,Esselunga, Sunflower Oil Bio,Naturama,2.34,2026-04-27T00:00:00,Milan
+CP0969,Esselunga,Lavazza All Purpose Flour Bio,Lavazza,4.71,2026-01-16T00:00:00,Milan
+CP0970,Esselunga,Naturama 00 Flour Bio 1.25kg,Naturama,5.0,2026-05-01T00:00:00,Milan
+CP0971,Esselunga,White Sugar Bio 1.25kg,Bio,4.58,2026-03-31T03:29:00,Milan
+CP0972,Esselunga,Brown Sugar Bio 0.75kg,Fidaty,4.2,2026-03-18T00:00:00,Milan
+CP0973,Esselunga, Top Ground Coffee Bio ,Top,2.51,2026-04-18T00:00:00,Milan
+CP0974,Esselunga,Fidaty Coffee Beans Bio 375g,Fidaty,2.78,2026-03-03T00:00:00,Milan
+CP0975,Esselunga,Bio Corn Flakes Bio 468.75g,Bio,4.4,2026-02-18T00:00:00,Milan
+CP0976,Esselunga,Muesli Bio,Naturama,2.64,2026-01-27T05:25:00,Milan
+CP0977,Esselunga,Bio Margherita Pizza Bio 525g,Bio,2.75,2026-02-09T14:11:00,Milan
+CP0978,Esselunga,Vegetable Pizza Bio 380g,granarolo,4.38,2026-04-14T11:58:00,Milan
+CP0979,Esselunga,Frozen Peas Bio,Mulino Bianco,6.19,2026-01-27T00:00:00,Milan
+CP0980,Esselunga,Frozen Spinach Bio 337.5g,Naturama,2.88,2026-03-30T00:00:00,Milan
+CP0981,Esselunga,Frozen Salmon Fillets Bio 400g,Smart,5.96,2026-04-25T00:00:00,Milan
+CP0982,Esselunga,Fish Fingers Bio 450g ,Top,5.07,2026-02-04T14:28:00,Milan
+CP0983,Esselunga,Still Water Bio,Parmalat,1.79,2026-01-31T05:01:00,Milan
+CP0984,Esselunga,Mutti Sparkling Water Bio,Mutti,1.48,2026-03-14T00:00:00,Milan
+CP0985,Esselunga,Orange Juice Bio,Esselunga,2.74,2026-04-25T00:00:00,Milan
+CP0986,Esselunga,Apple Juice Bio 1.5l,Fidaty,1.46,2026-04-01T11:52:00,Milan
+CP0987,Esselunga,PARMALAT COLA BIO 1.12L,parmalat,1.24,2026-01-07T00:31:00,Milan
+CP0988,Esselunga,Lemon Soda Bio 1.5l,Fidaty,2.13,2026-02-22T00:00:00,Milan
+CP0989,Esselunga,Bio Green Tea Bio,Bio,1.94,2026-01-16T00:00:00,Milan
+CP0990,Esselunga,Smart Black Tea Bio,Smart,2.67,2026-02-04T00:00:00,Milan
+CP0991,Esselunga,Lavazza Dish Soap Bio,Lavazza,5.27,2026-02-24T00:00:00,Milan
+CP0992,Esselunga,Mulino Bianco Laundry Detergent Bio,Mulino Bianco,7.03,2026-05-01T23:17:00,Milan
+CP0993,Esselunga,Toilet Paper Bio 8pcs,Esselunga,5.37,2026-03-17T00:00:00,Milan
+CP0994,Esselunga,Kitchen Towels Bio 6pcs,Fidaty,7.08,2026-02-06T00:00:00,Milan
+CP0995,Esselunga,Naturama Multi Surface Cleaner Bio,Naturama,3.53,2026-01-29T04:47:00,Milan
+CP0996,Esselunga,Bio Bleach Bio 2.5l,Bio,0.0,2026-01-31T00:00:00,Milan
+CP0997,Esselunga,SHAMPOO BIO 187.5ML,Galbani,5.07,2026-02-12T00:00:00,Milan
+CP0998,Esselunga,Conditioner Bio 312.5ml,Bio,6.67,2026-04-24T21:39:00,Milan
+CP0999,Esselunga,Fidaty Hand Soap Bio,Fidaty,4.61,2026-03-15T00:00:00,Milan
+CP1000,Esselunga,Body Wash Bio,Mulino Bianco,6.3,2026-03-20T00:00:00,Milan

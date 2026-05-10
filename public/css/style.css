@@ -1,0 +1,245 @@
+:root {
+  --bg-deep: hsl(224, 71%, 4%);
+  --bg-card: hsla(224, 71%, 8%, 0.7);
+  --text-primary: hsl(210, 40%, 98%);
+  --text-secondary: hsl(215, 20%, 65%);
+  --accent-emerald: hsl(142, 70%, 50%);
+  --accent-gold: hsl(45, 93%, 47%);
+  --border-glass: hsla(217, 33%, 17%, 0.8);
+  --alert-red: hsl(0, 84%, 60%);
+  --glass-stroke: hsla(0, 0%, 100%, 0.1);
+  --shadow-lg: 0 10px 15px -3px rgb(0 0 0 / 0.1), 0 4px 6px -4px rgb(0 0 0 / 0.1);
+}
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  font-family: 'Outfit', 'Inter', sans-serif;
+  background-color: var(--bg-deep);
+  background-image: 
+    radial-gradient(circle at 0% 0%, hsla(142, 70%, 50%, 0.05) 0%, transparent 50%),
+    radial-gradient(circle at 100% 100%, hsla(217, 91%, 60%, 0.05) 0%, transparent 50%);
+  color: var(--text-primary);
+  line-height: 1.6;
+  min-height: 100vh;
+  -webkit-font-smoothing: antialiased;
+}
+
+/* Header & Search */
+header {
+  position: sticky;
+  top: 0;
+  backdrop-filter: blur(12px);
+  background: hsla(224, 71%, 4%, 0.8);
+  border-bottom: 1px solid var(--border-glass);
+  padding: 2rem 1rem;
+  z-index: 100%;
+}
+
+.hero-section {
+    text-align: center;
+    margin-bottom: 2rem;
+}
+
+.hero-section h1 {
+    font-size: 2.5rem;
+    font-weight: 800;
+    letter-spacing: -0.02em;
+    background: linear-gradient(to right, #fff, var(--text-secondary));
+    -webkit-background-clip: text;
+    background-clip: text;
+    -webkit-text-fill-color: transparent;
+    margin-bottom: 0.5rem;
+}
+
+.hero-section p {
+    color: var(--text-secondary);
+    font-size: 1.1rem;
+}
+
+.search-wrapper {
+  max-width: 650px;
+  margin: 0 auto;
+  position: relative;
+  transition: transform 0.3s cubic-bezier(0.4, 0, 0.2, 1);
+}
+
+.search-wrapper:focus-within {
+    transform: translateY(-2px);
+}
+
+.search-wrapper i {
+  position: absolute;
+  left: 1.25rem;
+  top: 50%;
+  transform: translateY(-50%);
+  color: var(--text-secondary);
+  pointer-events: none;
+}
+
+#product-search {
+  width: 100%;
+  padding: 1.25rem 1.25rem 1.25rem 3.5rem;
+  background: var(--bg-card);
+  border: 1px solid var(--border-glass);
+  border-radius: 1.25rem;
+  color: white;
+  font-size: 1.125rem;
+  outline: none;
+  box-shadow: var(--shadow-lg), inset 0 0 20px rgba(255,255,255,0.02);
+  transition: all 0.3s ease;
+}
+
+#product-search:focus {
+  border-color: var(--accent-emerald);
+  box-shadow: 0 0 0 4px hsla(142, 70%, 50%, 0.1), var(--shadow-lg);
+}
+
+/* Results Area */
+main {
+  max-width: 700px;
+  margin: 2rem auto;
+  padding: 0 1rem;
+}
+
+.product-card {
+  background: var(--bg-card);
+  backdrop-filter: blur(8px);
+  border: 1px solid var(--border-glass);
+  border-radius: 1.5rem;
+  padding: 1.5rem;
+  margin-bottom: 1.5rem;
+  transition: transform 0.2s ease, border-color 0.2s ease;
+}
+
+.product-card:hover {
+    border-color: var(--glass-stroke);
+}
+
+.product-header {
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-start;
+    margin-bottom: 1.5rem;
+}
+
+.product-name {
+  font-size: 1.25rem;
+  font-weight: 700;
+  color: white;
+}
+
+.product-brand {
+  font-size: 0.9rem;
+  color: var(--text-secondary);
+  text-transform: uppercase;
+  letter-spacing: 0.05em;
+}
+
+/* Comparison Matrix */
+.price-list {
+  display: flex;
+  flex-direction: column;
+  gap: 0.75rem;
+}
+
+.price-item {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 1rem 1.25rem;
+  background: hsla(0, 0%, 100%, 0.03);
+  border: 1px solid transparent;
+  border-radius: 1rem;
+  transition: all 0.2s ease;
+}
+
+.price-item:hover {
+    background: hsla(0, 0%, 100%, 0.05);
+}
+
+.store-name {
+  font-size: 1rem;
+  font-weight: 500;
+  color: var(--text-secondary);
+}
+
+.price-value {
+  font-size: 1.125rem;
+  font-weight: 800;
+  font-variant-numeric: tabular-nums;
+}
+
+/* Win States */
+.price-item.cheapest {
+  background: hsla(142, 70%, 50%, 0.08);
+  border-color: hsla(142, 70%, 50%, 0.3);
+}
+
+.price-item.cheapest .store-name {
+    color: var(--text-primary);
+}
+
+.price-item.cheapest .price-value {
+  color: var(--accent-emerald);
+}
+
+.savings-badge {
+    background: var(--accent-emerald);
+    color: #000;
+    font-size: 0.7rem;
+    font-weight: 900;
+    padding: 0.2rem 0.6rem;
+    border-radius: 0.5rem;
+    text-transform: uppercase;
+    margin-right: 0.75rem;
+}
+
+/* Animations */
+@keyframes fadeIn {
+    from { opacity: 0; transform: translateY(10px); }
+    to { opacity: 1; transform: translateY(0); }
+}
+
+.product-card {
+    animation: fadeIn 0.4s ease forwards;
+}
+
+/* Admin / Status */
+.admin-badge {
+    position: fixed;
+    bottom: 2rem;
+    right: 2rem;
+    background: white;
+    color: black;
+    padding: 0.75rem 1.5rem;
+    border-radius: 1rem;
+    font-weight: 700;
+    font-size: 0.9rem;
+    text-decoration: none;
+    box-shadow: 0 10px 30px rgba(0,0,0,0.5);
+    transition: transform 0.2s;
+}
+
+.admin-badge:hover {
+    transform: scale(1.05);
+}
+
+/* Skeleton Premium */
+.skeleton-card {
+    height: 150px;
+    background: linear-gradient(90deg, var(--bg-card) 25%, hsla(0,0%,100%,0.05) 50%, var(--bg-card) 75%);
+    background-size: 200% 100%;
+    animation: shimmer 1.5s infinite;
+    border-radius: 1.5rem;
+    margin-bottom: 1rem;
+}
+
+@keyframes shimmer {
+    0% { background-position: -200% 0; }
+    100% { background-position: 200% 0; }
+}

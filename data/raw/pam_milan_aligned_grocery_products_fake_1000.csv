@@ -1,0 +1,1001 @@
+store_product_id,canonical_product_id,alt_group_id,category,subcategory,product_name,brand,size,unit,pack_count,price_eur,promo_price_eur,currency,availability,store_name,city,last_updated,barcode,notes
+PAM-00001,CP0001,ALT0001,Dairy,Mozzarella, Mozzarella confezione 125g ,PAM,,g,2,1.87,,€,low stock,PAM,Milan,2026-03-26 18:48:00,8232890171063,promo shelf
+PAM-00002,CP0002,ALT0002,Dairy,Mozzarella,Mozzarella di Bufala,PAM,125,g,2,2.36,,Euro,,PAM,Milan,2026-01-15,8405887049193,promo shelf
+PAM-00003,CP0003,ALT0003,Dairy,Mozzarella,Arkalia Fior di latte mozzarella,Arkalia,200,g,4,1.77,1.28,eur,low stock,PAM,Milan,31-03-2026,7335805829989,
+PAM-00004,CP0004,ALT0004,Dairy,Yogurt,Greek Yogurt,Arkalia,170,g,4,EUR 2.35,"2,20",EUR,in stock,PAM,MILANO,2026/03/25 09:58,7042804891929,
+PAM-00005,CP0005,ALT0005,Dairy,Yogurt,De Cecco Strawberry Yogurt,De Cecco,2,pcs,8,"1,70",,Euro,available,PAM,milan,2026-02-15,9970579731080,new
+PAM-00006,CP0006,ALT0006,Dairy,Yogurt,Plain Yogurt,Bio Pam,,g,4,3.24,"2,97",Euro,low stock,PAM,Milano,2026-02-19,0941957241685,private label
+PAM-00007,CP0007,ALT0007,Dairy,Milk,Whole Milk confezione 1l,Zoa,1,l,1, 2.92 ,,eur,,PAM,Milan,2026-04-26,7993456513907,
+PAM-00008,CP0008,ALT0008,Dairy,Milk,Pam Panorama Semi-skimmed Milk,Pam Panorama,1,l,4,"€1,91",,EUR,,PAM,Milan,01/03/2026,7372263861716,new
+PAM-00009,CP0009,ALT0009,Dairy,Milk,Pam Panorama Lactose Free Milk,Pam Panorama,1,l,1,1.51,,€,OUT OF STOCK,PAM,Milano,02/01/2026,5796144400579,
+PAM-00010,CP0010,ALT0010, Dairy,Butter,Unsalted Butter confezione 250g,Arkalia,250,g,1,"3,10",2.55,eur,,PAM,Milano,28-04-2026,2320420422470,
+PAM-00011,CP0011,ALT0011,Dairy,Butter,Salted Butter confezione 250g,Ferrero ,250,g,2,"€1,94",,€,,PAM,MILANO,2026-03-21 19:56:00,6944643102912,check allergen label
+PAM-00012,CP0012,ALT0012,Dairy,Cheese,Aia Parmigiano Reggiano,Aia,200,g,1,"€3,17",EUR 2.50,eur,OUT OF STOCK,PAM,Milan,2026-02-18,2689017501775,imported
+PAM-00013,CP0013,ALT0013,Dairy,Cheese,Gorgonzola,Parmalat,,g,1,"€1,45",,EUR,in stock,PAM,Milano,2026-04-05 05:59:00,1970476595440,private label
+PAM-00014,CP0014,ALT0014,Dairy,Cheese,Ricotta confezione 250g, Arkalia ,250,g,1,1.70,,€,available,PAM,MILANO,02/04/2026,1563439768252,new
+PAM-00015,CP0015,ALT0015,Bakery,Bread,Whole Wheat Bread,Arkalia,500,g,2,"€2,08",,eur,OUT OF STOCK,pam,milan,2026-04-22 17:10:00,7443297920222,seasonal item
+PAM-00016,CP0016,ALT0016,Bakery,Bread,Arkalia Ciabatta,Arkalia,300,g,2,2.47,,eur,,PAM,Milano,24/04/2026,,seasonal item
+PAM-00017,CP0017,ALT0017,Bakery,Bread,Sandwich Bread,PAM,550,g,6,2.63,EUR 1.86,eur,available,PAM,Milan,2026/04/17 09:26,7228043691742,imported
+PAM-00018,CP0018,ALT0018,Bakery,Croissants,Butter Croissant,Arkalia,6,pcs,1,"2,91",,Euro,OUT OF STOCK,PAM,MILANO,2026-01-11,1023362864116,
+PAM-00019,CP0019,ALT0019,Bakery,Croissants,Pam Panorama Chocolate Croissant,Pam Panorama,6,pcs,2,"1,55",,Euro,,PAM,Milano,2026-03-08 07:27:00,9319010185540,
+PAM-00020,CP0020,ALT0020,Bakery,Cookies,Chocolate Chip Cookies confezione 300g,Bio Pam,300,g,1,EUR 2.54,"€1,92",eur,limited,PAM,milan,06-04-2026,2305762072669,imported
+PAM-00021,CP0021,ALT0021,Bakery,Cookies,Digestive Biscuits confezione 400g,Parmalat,400,g,1, 3.04 ,"2,52",eur,OUT OF STOCK,PAM,milan,16/02/2026,2692634448304,private label
+PAM-00022,CP0022,ALT0022,PRODUCE,Tomatoes,Cherry Tomatoes confezione 500g,PAM,500,g,6, 2.43 ,,Euro,available,PAM,Milano,2026/01/20 08:48,7107178065502,
+PAM-00023,CP0023,ALT0023,Produce,Tomatoes,Bio Pam Round Tomatoes,Bio Pam,1,kg,3,EUR 1.78,,€,low stock,PAM,Milan,2026/03/24 16:11,7762369663786,seasonal item
+PAM-00024,CP0024,ALT0024,Produce,Salad,Iceberg Lettuce confezione 1pcs,PAM,1,pcs,6,4.04,,Euro,,PAM,milan,2026-01-15 21:13:00,1155652927813,imported
+PAM-00025,CP0025,ALT0025,Produce,Salad,Rocket Salad,Semplici e Buoni,125,g,2,EUR 2.25,,eur,,PAM,Milan,2026-01-13,1350397851412,new
+PAM-00026,CP0026,ALT0026,Produce,Apples,Golden Apples,Semplici e Buoni,1,kg,8, 1.65 ,,Euro,available,PAM,milan,2026/03/19 06:14,7384008110521,new
+PAM-00027,CP0027,ALT0027,Produce,Apples,PAM Pink Lady Apples,PAM,1,kg,1,"2,61",,EUR,in stock,PAM,milan,06/03/2026,7773533964144,promo shelf
+PAM-00028,CP0028,ALT0028,Produce,Bananas,Bananas confezione 1kg,Aia,1,kg,1, 3.66 ,,EUR,limited,PAM ,MILANO,2026/01/15 12:39,6700475870128,seasonal item
+PAM-00029,CP0029,ALT0029,Produce,Potatoes,Potatoes,Rio Mare,2,kg,1, 1.83 ,,eur,available,PAM,Milano,26-04-2026,8863841962841,check allergen label
+PAM-00030,CP0030,ALT0030,Meat,Chicken,Chicken Breast confezione 400g,Semplici e Buoni,400,g,1,"€5,58", 4.41 ,eur,low stock,PAM,Milan,2026/03/21 11:52,5178631892786,new
+PAM-00031,CP0031,ALT0031,Meat,Chicken,Chicken Thighs confezione 500g,Arkalia,500,g,6,6.01,,€,,PAM,MILANO,2026-03-07,3487864801051,imported
+PAM-00032,CP0032,ALT0032,Meat,BEEF,Minced Beef confezione 400g,Arkalia,400,g,6, 4.22 ,,Euro,low stock,PAM,Milan,18/03/2026,7382760670625,limited edition
+PAM-00033,CP0033,ALT0033,Meat,Beef,Beef Steak,Arkalia,300,g,1, 6.02 ,,Euro,, PAM,Milan,29/01/2026,6736540197311,check allergen label
+PAM-00034,CP0034,ALT0034,Meat,Cured Meats,Prosciutto Cotto,Zoa,120,g,1,"4,23",,eur,,PAM,Milan,2026/03/27 23:22,3546923266242,
+PAM-00035,CP0035,ALT0035,Meat,Cured Meats,Arkalia Salame Milano,Arkalia,100,g,1,"8,75",,eur,low stock,PAM,Milano,30/04/2026,0609314173361,imported
+PAM-00036,CP0036,ALT0036,Pantry,Pasta,Barilla Spaghetti,Barilla,500,g,3,3.49,"€3,31",Euro,limited,PAM,MILANO,04/03/2026,3709031346443,imported
+PAM-00037,CP0037,ALT0037,Pantry,Pasta,Penne Rigate,Zoa,500,g,2,"€4,38",4.04,€,,PAM,Milan,2026/02/09 11:41,0300679913468,new
+PAM-00038,CP0038,ALT0038,Pantry,Pasta,Fusilli,Bio Pam,500,g,8,"€3,04","€2,64",Euro,available,PAM,milan,2026-01-04 03:48:00,8970734218089,limited edition
+PAM-00039,CP0039,ALT0039,Pantry,Rice,Carnaroli Rice,Pam Panorama,1,kg,2,4.59,,€,available,PAM,Milano,2026/03/04 16:02,2675652980530,imported
+PAM-00040,CP0040,ALT0040,Pantry,Rice,Basmati Rice,Bio Pam ,1,kg,,"€4,50",,Euro,limited,PAM,MILANO,13-04-2026,5205935415723,private label
+PAM-00041,CP0041,ALT0041,Pantry,Sauce,Semplici e Buoni Tomato Passata,Semplici e Buoni,700,ml,4, 3.24 ,,Euro,OUT OF STOCK,PAM,milan,2026/03/08 02:08,1603288894897,promo shelf
+PAM-00042,CP0042,ALT0042,Pantry,Sauce, Pesto Genovese confezione 190g,Arkalia,,g,4,"2,25",,EUR,OUT OF STOCK,PAM,Milano,06/02/2026,,seasonal item
+PAM-00043,CP0043,ALT0043,Pantry,Oil,Extra Virgin Olive Oil,Arkalia,1,l,,"€3,85",,Euro,,PAM,milan,07-02-2026,,promo shelf
+PAM-00044,CP0044,ALT0044,Pantry,Oil,Bio Pam Sunflower Oil,Bio Pam,1,l,1,"3,23",,eur,limited,PAM,Milan,2026/01/04 07:01,4611795495711,check allergen label
+PAM-00045,CP0045,ALT0045,Pantry,Flour,All Purpose Flour confezione 1kg,PAM,1,kg,1,"€2,63",,eur,in stock,PAM,Milan,2026-04-12 20:07:00,6704915610072,private label
+PAM-00046,CP0046,ALT0046,Pantry,Flour,Bio Pam 00 Flour,Bio Pam,1,kg,3,4.46, 4.10 ,€,in stock,PAM,Milan,26/02/2026,2898116649724,
+PAM-00047,CP0047,ALT0047,Pantry,Sugar,Pam Panorama White Sugar,Pam Panorama,1,kg,4,"3,65",,€,OUT OF STOCK,PAM,Milan,2026-01-22 17:25:00,7169467568929,
+PAM-00048,CP0048,ALT0048,Pantry,Sugar,Brown Sugar confezione 1kg,Pam Panorama,1,kg,8,3.22,,eur,available,PAM,MILANO,12-04-2026,6294944727245,seasonal item
+PAM-00049,CP0049,ALT0049,Pantry ,Coffee,Aia Ground Coffee,Aia,250,g,8,"3,60",,Euro,in stock,PAM,milan,2026-01-01,9977194459596,private label
+PAM-00050,CP0050,ALT0050,Pantry,Coffee,Pam Panorama Coffee Beans,Pam Panorama,500,g,3, 2.78 ,,eur,low stock,PAM,Milan,2026-04-14 09:35:00,3057218645326,
+PAM-00051,CP0051,ALT0051,Pantry,Cereal,Corn Flakes,Lavazza,375,g,2,4.26,,€,OUT OF STOCK,PAM,MILANO,25-04-2026,8873029620563,limited edition
+PAM-00052,CP0052,ALT0052,Pantry,Cereal,Muesli confezione 750g ,Lavazza,750,g,1,EUR 3.21,"2,68",EUR,in stock,PAM,MILANO,25/01/2026,4077488168204,imported
+PAM-00053,CP0053,ALT0053,Frozen,Pizza,Margherita Pizza,Ferrero,350,g,8, 3.98 ,"3,54",Euro,low stock,PAM,MILANO,11-04-2026,1406505809531,limited edition
+PAM-00054,CP0054,ALT0054,Frozen,Pizza,Semplici e Buoni Vegetable Pizza ,Semplici e Buoni,380,g,8,5.56,EUR 4.99,eur,limited,PAM,Milano,2026-02-09,2819403349775,private label
+PAM-00055,CP0055,ALT0055,Frozen,Vegetables,Zoa Frozen Peas,Zoa,450,g,4,"€3,91",,EUR,limited,PAM,Milan,2026-01-25,1967647583356,promo shelf
+PAM-00056,CP0056,ALT0056,Frozen,Vegetables,Arkalia Frozen Spinach,arkalia,450,g,6,2.91,,Euro,available,PAM,Milan,2026-03-07,4636320154612,imported
+PAM-00057,CP0057,ALT0057,Frozen,Fish,Semplici e Buoni Frozen Salmon Fillets,Semplici e Buoni,400,g,6, 4.25 ,,eur,,PAM,milan,2026-02-04 20:53:00,8020231521809,imported
+PAM-00058,CP0058,ALT0058,Frozen,Fish,PAM Fish Fingers,PAM,300,g,3,EUR 4.52, 3.29 ,Euro,limited,PAM,Milan,24-02-2026,8456324540536,new
+PAM-00059,CP0059,ALT0059,Beverages,Water,Galbani Still Water,Galbani,1.5,l,4,"€2,20","1,54",eur,,PAM,MILANO,2026/03/01 20:26,1732743076674,seasonal item
+PAM-00060,CP0060,ALT0060,Beverages,Water,Sparkling Water,PAM,1.5,l,8,EUR 2.15,,EUR,limited,PAM,Milano,20-02-2026,2056224718038,check allergen label
+PAM-00061,CP0061,ALT0061,Beverages, Juice,Orange Juice confezione 1l,PAM,1,l,4,1.39,EUR 1.29,Euro,OUT OF STOCK,PAM,Milan,2026-04-11 21:31:00,,promo shelf
+PAM-00062,CP0062,ALT0062,Beverages,JUICE,Apple Juice confezione 1l,Bio Pam,1,l,2, 1.12 ,,eur,available,PAM,Milan,2026-01-03,9135596572728,
+PAM-00063,CP0063,ALT0063,Beverages,Soft Drinks,Cola,Arkalia,1.5,l,1,EUR 1.81,,EUR,low stock,PAM,Milano,19-02-2026,6418146049912,limited edition
+PAM-00064,CP0064,ALT0064,Beverages,Soft Drinks,Pam Panorama Lemon Soda,Pam Panorama,1.5,l,1,"2,23",1.58,Euro,available,PAM,MILANO,2026-03-13,5376703927499,imported
+PAM-00065,CP0065,ALT0065,Beverages, Tea ,Mulino Bianco Green Tea,Mulino Bianco,20,pcs,1,1.71,,EUR,OUT OF STOCK,PAM,MILANO,2026-01-04,8888270322489,private label
+PAM-00066,CP0066,ALT0066,Beverages,Tea,Black Tea,Lavazza,25,,6,"1,32",EUR 1.05,€,low stock,PAM,milan,31/01/2026,5947922701924,check allergen label
+PAM-00067,CP0067,ALT0067,Household,Detergent,Dish Soap confezione 750ml,Bio Pam,750,ml,6,EUR 4.82,,EUR,low stock,PAM,Milano,2026-03-09 13:57:00,1703761352428,new
+PAM-00068,CP0068,ALT0068,Household,Detergent,Laundry Detergent confezione 1.5l,Bio Pam,1.5,l,3,EUR 6.20,,€,limited,PAM,MILANO,10/02/2026,1482923792599,private label
+PAM-00069,CP0069,ALT0069,Household,Paper, Toilet Paper confezione 8pcs,Bio Pam,8,pcs,1,2.85,,eur,OUT OF STOCK,PAM,Milano,2026-01-19,0660567721360,check allergen label
+PAM-00070,CP0070,ALT0070,Household,Paper,De Cecco Kitchen Towels,De Cecco,4,pcs,6,EUR 6.69,,EUR,in stock,PAM,MILANO,06/02/2026,1916309165168,new
+PAM-00071,CP0071,ALT0071,Household,Cleaning,De Cecco Multi Surface Cleaner,De Cecco,750,ml,1,4.15,,EUR,,PAM,milan,2026-01-01,1878900529942,
+PAM-00072,CP0072,ALT0072,Household,Cleaning,Bleach confezione 2l,Parmalat,2,l,, 6.53 ,"€4,89",eur,limited,PAM,Milan,11/03/2026,7690474473098,new
+PAM-00073,CP0073,ALT0073,Personal Care,Shampoo,PAM Shampoo,PAM,250,ml,8,5.38,"4,75",€,,PAM,milan,2026-04-03,8033613637506,check allergen label
+PAM-00074,CP0074,ALT0074,Personal Care,Shampoo,Pam Panorama Conditioner,Pam Panorama,250,ml,1, 5.38 ,,Euro,,PAM,MILANO,18/01/2026,,check allergen label
+PAM-00075,CP0075,ALT0075,Personal Care,Soap,Arkalia Hand Soap,Arkalia,300,ml,2,"€2,54",,Euro,in stock,PAM,milan,2026-01-26 23:59:00,5110293940996,seasonal item
+PAM-00076,CP0076,ALT0076,Personal Care,Soap,Body Wash confezione 500ml,Bio Pam,500,ml,1,3.61,,eur,low stock,PAM,Milan,04/04/2026,3000429560302,imported
+PAM-00077,CP0077,ALT0077,Personal Care,Toothpaste,Toothpaste,Zoa,75,ml,1, 5.98 ,,Euro,low stock,PAM,MILANO,01/05/2026,1438744373053,
+PAM-00078,CP0078,ALT0078,Dairy,Mozzarella,Arkalia Mozzarella Premium,Arkalia,93.75,g,8,EUR 2.29,EUR 1.62,Euro,OUT OF STOCK,PAM,Milano,2026/04/02 05:54,0375694143140,check allergen label
+PAM-00079,CP0079,ALT0079,Dairy,Mozzarella,Ferrero Mozzarella di Bufala Premium,Ferrero,93.75,g,4,"1,93",,€,in stock,PAM,milan,2026-03-10 02:46:00,,new
+PAM-00080,CP0080,ALT0080,Dairy,Mozzarella,Semplici e Buoni Fior di latte mozzarella Premium,Semplici e Buoni,200,g,1, 1.40 ,,Euro,OUT OF STOCK,PAM,MILANO,16/01/2026,8703950888842,check allergen label
+PAM-00081,CP0081,ALT0081,Dairy,Yogurt,Greek Yogurt Premium confezione 170g,Zoa,170,g,1,"1,32",,Euro,limited,PAM,milan,2026/03/07 18:33,1577235517274,check allergen label
+PAM-00082,CP0082,ALT0082,Dairy,Yogurt,Strawberry Yogurt Premium confezione 2pcs,Arkalia,2,pcs,4,EUR 2.51,1.78,€,available,PAM,Milano,08-03-2026,9126028700711,limited edition
+PAM-00083,CP0083,ALT0083,Dairy,Yogurt ,Plain Yogurt Premium,Granarolo,500,g,6,"€1,59",1.49,Euro,,PAM,milan,2026-03-29,2296069138217,promo shelf
+PAM-00084,CP0084,ALT0084,Dairy,Milk,Whole Milk Premium confezione 0.75l,Zoa,0.75,l,6,2.70,,€,low stock,PAM,MILANO,03-04-2026,8559711897248,imported
+PAM-00085,CP0085,ALT0085,Dairy,Milk, Arkalia Semi-skimmed Milk Premium,Arkalia,1.5,l,8,EUR 1.70,,EUR,limited,PAM,milan,06/02/2026,0762028207495,limited edition
+PAM-00086,CP0086,ALT0086,Dairy,Milk,Bio Pam Lactose Free Milk Premium,Bio Pam,0.75,l,1,1.87,,€,limited,PAM,milan,2026/02/24 19:39,5143438250086,limited edition
+PAM-00087,CP0087,ALT0087,Dairy,Butter,Arkalia Unsalted Butter Premium,Arkalia,375.0,g,1,"€2,01","1,53",€,low stock,PAM,Milan,2026-03-17,7714976423691,private label
+PAM-00088,CP0088,ALT0088,Dairy,Butter,Salted Butter Premium,Zoa,312.5,g,1,"3,07",,EUR,,PAM,Milano,2026/04/27 12:50,9609012717209,new
+PAM-00089,CP0089,ALT0089,Dairy,Cheese,Parmigiano Reggiano Premium,Semplici e Buoni,150.0,g,3,EUR 2.88,,EUR,available,PAM,MILANO,29-01-2026,1563688646504,new
+PAM-00090,CP0090,ALT0090,Dairy,Cheese, Bio Pam Gorgonzola Premium ,Bio Pam,112.5,g,4,"€2,14",,EUR,low stock,PAM,MILANO,22/04/2026,6354313311270,new
+PAM-00091,CP0091,ALT0091,Dairy,Cheese,Ricotta Premium confezione 187.5g,Semplici e Buoni,187.5,g,2,"3,10",,Euro,low stock,PAM,MILANO,2026-04-22,7670644093057,
+PAM-00092,CP0092,ALT0092,bakery,Bread,Whole Wheat Bread Premium,Zoa,500,g,1,"€1,47",,€,in stock,PAM,milan,24/03/2026,8825823552637,check allergen label
+PAM-00093,CP0093,ALT0093,Bakery,Bread,Pam Panorama Ciabatta Premium,Pam Panorama,300,,1,2.56,,€,low stock,PAM,milan,28-04-2026,0486871690733,limited edition
+PAM-00094,CP0094,ALT0094,Bakery,Bread,Sandwich Bread Premium,PAM,825.0,g,1,"€1,56",,€,available,PAM,Milan,2026/02/05 11:02,9061096033822,limited edition
+PAM-00095,CP0095,ALT0095,Bakery,Croissants,Pam Panorama Butter Croissant Premium,Pam Panorama ,9.0,pcs,,2.29,,Euro,limited,PAM ,MILANO,16-03-2026,7887130848397,imported
+PAM-00096,CP0096,ALT0096,Bakery,Croissants,Pam Panorama Chocolate Croissant Premium,Pam Panorama,4.5,pcs,6,"1,92",,Euro,available,PAM,Milano,2026-03-07 00:56:00,7500381404388,promo shelf
+PAM-00097,CP0097,ALT0097,Bakery,Cookies,Parmalat Chocolate Chip Cookies Premium,Parmalat,450.0,g,2, 1.47 ,,€,available,PAM,MILANO,24-02-2026,1832579816953,private label
+PAM-00098,CP0098,ALT0098, Bakery ,Cookies,Semplici e Buoni Digestive Biscuits Premium,Semplici e Buoni,400,g,2,3.09,,EUR,low stock,PAM,milan,2026-01-28 06:24:00,,check allergen label
+PAM-00099,CP0099,ALT0099,Produce,Tomatoes,Cherry Tomatoes Premium confezione 750g,Zoa,750.0,g,3,2.05,,eur,limited,PAM,milan,13/04/2026,8210628685210,private label
+PAM-00100,CP0100,ALT0100,produce,Tomatoes,Rio Mare Round Tomatoes Premium,Rio Mare,1.25,kg,4,"1,67",1.47,eur,OUT OF STOCK,PAM,milan,09-01-2026,3974260855026,imported
+PAM-00101,CP0101,ALT0101,Produce,Salad,Iceberg Lettuce Premium,Parmalat,1,pcs,2,3.27,,Euro,limited,PAM,MILANO,24-04-2026,8937363015277,private label
+PAM-00102,CP0102,ALT0102,Produce,Salad,Rocket Salad Premium confezione 156.25g,BIO PAM,156.25,g,3,3.56,"€2,97",EUR,in stock,PAM,Milan,2026-03-19 13:01:00,2573130220373,promo shelf
+PAM-00103,CP0103,ALT0103,Produce,Apples,golden apples premium confezione 1.5kg,Semplici e Buoni,1.5,kg,1,3.18,2.77,EUR,low stock,PAM,Milan,2026-04-06 08:56:00,5851021465481,
+PAM-00104,CP0104,ALT0104,Produce,APPLES,Zoa Pink Lady Apples Premium,Zoa,1,kg,1,EUR 3.60,,Euro,low stock,PAM,MILANO,2026/02/18 13:59,0062250177591,check allergen label
+PAM-00105,CP0105,ALT0105,Produce,Bananas,Bananas Premium,Semplici e Buoni,0.75,kg,2,,EUR 3.28,EUR,,PAM,MILANO,07-01-2026,8311259822189,check allergen label
+PAM-00106,CP0106,ALT0106,Produce,Potatoes,Potatoes Premium,PAM,2,kg,3,1.97,,€,low stock,PAM,milan,2026-04-03,2743939191654,limited edition
+PAM-00107,CP0107,ALT0107,Meat,Chicken,Chicken Breast Premium,De Cecco,500.0,g,1,"€3,76",,eur,limited,PAM,Milan,2026-01-21,8220538452813,imported
+PAM-00108,CP0108,ALT0108,Meat,Chicken,Chicken Thighs Premium confezione 500g,Rio Mare,500,g,1,EUR 5.89,,eur,in stock,PAM,Milano,2026/02/04 19:37,,new
+PAM-00109,CP0109,ALT0109,Meat,Beef,Lavazza Minced Beef Premium,Lavazza,400,g,6,"4,44",,EUR,OUT OF STOCK,PAM,Milan,2026-02-28,1957594190454,limited edition
+PAM-00110,CP0110,ALT0110,Meat,Beef,PAM Beef Steak Premium,PAM,300,g,1,,,Euro,in stock,PAM,MILANO,2026-03-28 04:11:00,0061802031556,seasonal item
+PAM-00111,CP0111,ALT0111,Meat,Cured Meats,Prosciutto Cotto Premium confezione 120g,Bio Pam,120,g,,EUR 8.81,,€,OUT OF STOCK,PAM,Milano,2026/01/19 13:10,9897751425807,seasonal item
+PAM-00112,CP0112,ALT0112,Meat,Cured Meats,Pam Panorama Salame Milano Premium,Pam Panorama,100,g,8,"€7,71",,EUR,OUT OF STOCK,PAM,Milano,2026-03-29 20:29:00,9538430718466,new
+PAM-00113,CP0113,ALT0113,Pantry,Pasta,PAM Spaghetti Premium,PAM,375.0,g,, 2.20 ,1.57,EUR,,PAM,Milano,22-04-2026,6238658263016,new
+PAM-00114,CP0114,ALT0114,Pantry,Pasta,Penne Rigate Premium,Arkalia,,g,8, 4.75 ,,€,in stock,PAM,MILANO,11/02/2026,9181280919177,limited edition
+PAM-00115,CP0115,ALT0115,Pantry,Pasta,PAM Fusilli Premium,PAM,625.0,g,1,EUR 3.24,,EUR,limited,PAM,MILANO,2026/02/28 01:13,4415657437598,imported
+PAM-00116,CP0116,ALT0116,Pantry,Rice,Semplici e Buoni Carnaroli Rice Premium,Semplici e Buoni,0.75,kg,1,"3,46",,€,limited,PAM,Milano,2026/01/19 09:54,9131046527404,
+PAM-00117,CP0117,ALT0117,Pantry,Rice,Basmati Rice Premium confezione 1kg,Semplici e Buoni,1,kg,1,"€2,50",,eur,available,PAM,Milan,2026-03-05,1139122276158,new
+PAM-00118,CP0118,ALT0118,Pantry,Sauce,Tomato Passata Premium confezione 700ml,Arkalia,700,ml,8,2.13,,eur,low stock,PAM,MILANO,2026-04-28,1814854362748,limited edition
+PAM-00119,CP0119,ALT0119,Pantry,Sauce,Pesto Genovese Premium,Zoa,285.0,g,4,EUR 2.43,,€,in stock,PAM,MILANO,2026/04/23 08:16,6927429003916,seasonal item
+PAM-00120,CP0120,ALT0120,Pantry,Oil,Extra Virgin Olive Oil Premium,Arkalia,1,l,3, 4.66 ,,EUR,OUT OF STOCK,PAM,MILANO,2026-01-28,3970163162958,
+PAM-00121,CP0121,ALT0121,Pantry,Oil,PAM Sunflower Oil Premium,PAM,0.75,l,8,EUR 3.59,,€,low stock,PAM,milan,2026/01/21 03:09,2450498864538,check allergen label
+PAM-00122,CP0122,ALT0122,Pantry,Flour,All Purpose Flour Premium confezione 1.25kg,Zoa,1.25,kg,1, 2.38 ,,eur,OUT OF STOCK,PAM,Milano,2026-02-02 09:07:00,2112681868506,imported
+PAM-00123,CP0123,ALT0123,pantry,Flour,00 Flour Premium confezione 1.5kg,Galbani,1.5,kg,8,EUR 3.90,,eur,OUT OF STOCK,PAM,milan,2026-04-08 17:37:00,8700525136272,
+PAM-00124,CP0124,ALT0124,Pantry,Sugar,White Sugar Premium,Lavazza,0.75,kg,1, 2.16 ,,Euro,in stock,PAM,Milano,23/01/2026,7332006119368,promo shelf
+PAM-00125,CP0125,ALT0125,Pantry,Sugar,Pam Panorama Brown Sugar Premium,Pam Panorama,1.25,kg,1,4.76,,€,low stock,PAM,Milan,2026/02/05 03:27,7491698155561,seasonal item
+PAM-00126,CP0126,ALT0126,Pantry,Coffee,Ground Coffee Premium,Mutti,187.5,g,1,"€2,79",,eur,limited,PAM,milan,01-03-2026,5384994084772,
+PAM-00127,CP0127,ALT0127,Pantry,Coffee,Bio Pam Coffee Beans Premium,Bio Pam,750.0,g,1,EUR 3.70,"€3,49",EUR,available,PAM,Milano,25-02-2026,2452164201180,limited edition
+PAM-00128,CP0128,ALT0128,Pantry,Cereal,Corn Flakes Premium confezione 375g,Zoa,375,g,1, 3.53 ,,Euro,limited,PAM,Milano,2026-01-25 00:30:00,4276901770690,
+PAM-00129,CP0129,ALT0129,Pantry,Cereal,Semplici e Buoni Muesli Premium,Semplici e Buoni,1125.0,g,2,3.25,,€,,PAM,Milan,10/03/2026,9054521909267,check allergen label
+PAM-00130,CP0130,ALT0130,Frozen,Pizza, Margherita Pizza Premium confezione 350g,Galbani,350,g,2,3.81,3.59,Euro,available,PAM,MILANO,2026-03-28 15:07:00,5593348869546,
+PAM-00131,CP0131,ALT0131,Frozen,Pizza,PAM Vegetable Pizza Premium,PAM,570.0,g,6,"€2,36",,€,low stock,PAM,MILANO,29/03/2026,1283437037526,limited edition
+PAM-00132,CP0132,ALT0132,Frozen,Vegetables,Frozen Peas Premium confezione 450g,Bio Pam,450,g,6,EUR 3.13,,EUR,available,PAM,milan,2026-02-23,2512574815324,
+PAM-00133,CP0133,ALT0133,Frozen, Vegetables,PAM Frozen Spinach Premium, PAM ,337.5,g,4,EUR 4.50,3.74,EUR,,PAM,milan,2026-02-17,7723820751134,private label
+PAM-00134,CP0134,ALT0134,Frozen,FISH,Frozen Salmon Fillets Premium confezione 300g,Bio Pam,300.0,g,1,4.45,,€,low stock,PAM,milan,24/01/2026,2467400940437,
+PAM-00135,CP0135,ALT0135,Frozen,Fish,fish fingers premium,Semplici e Buoni,300,g,,4.22,,eur,in stock, PAM,Milan,02/04/2026,9182331671629,check allergen label
+PAM-00136,CP0136,ALT0136,Beverages,Water,Still Water Premium,Bio Pam,1.5,l,1,,,Euro,in stock,PAM,Milan,24-03-2026,8792718551370,limited edition
+PAM-00137,CP0137,ALT0137,Beverages,Water,Parmalat Sparkling Water Premium,Parmalat,1.12,l,1,EUR 1.96,,eur,low stock,PAM,Milan,2026-03-07 04:46:00,9957202035210,promo shelf
+PAM-00138,CP0138,ALT0138,Beverages,Juice,Orange Juice Premium,Bio Pam,1,l,1,"1,42",,Euro,limited,PAM,milan,2026/02/17 19:47,2493710417628,new
+PAM-00139,CP0139,ALT0139,Beverages,juice,Apple Juice Premium,Zoa ,0.75,l,1,"1,41",1.26,EUR,low stock,PAM,Milano,2026/03/07 04:58,8911482199120,check allergen label
+PAM-00140,CP0140,ALT0140,Beverages,Soft Drinks,cola premium confezione 1.88l,Semplici e Buoni,1.88,l,6, 2.20 ,EUR 2.04,EUR,in stock,PAM,milan,03/04/2026,9314939282235,limited edition
+PAM-00141,CP0141,ALT0141,Beverages,Soft Drinks,Bio Pam Lemon Soda Premium,Bio Pam,1.5,l,1,2.14,,Euro,OUT OF STOCK,PAM,Milan,06-03-2026,3087240364800,check allergen label
+PAM-00142,CP0142,ALT0142,Beverages,Tea,Green Tea Premium confezione 25pcs,Pam Panorama,25.0,pcs,6,"2,06","1,81",EUR,limited,PAM,MILANO,21-03-2026,1493001590382,imported
+PAM-00143,CP0143,ALT0143,Beverages,Tea,PAM BLACK TEA PREMIUM,PAM,25,pcs,2,,,Euro,low stock,PAM,Milano,2026-01-02 00:42:00,6644651571792,limited edition
+PAM-00144,CP0144,ALT0144,Household,Detergent,Dish Soap Premium,PAM,750,ml,1,5.00,"€4,49",eur,low stock, PAM ,MILANO,2026/02/16 02:43,,promo shelf
+PAM-00145,CP0145,ALT0145,Household,Detergent,Laundry Detergent Premium,Semplici e Buoni,1.5,l,8,EUR 4.16,,€,OUT OF STOCK,PAM,Milan,15-01-2026,8928697979348,imported
+PAM-00146,CP0146,ALT0146,Household,Paper,Semplici e Buoni Toilet Paper Premium,Semplici e Buoni,8,pcs,1,3.55,,€,,PAM,milan,20-02-2026,1001544751245,seasonal item
+PAM-00147,CP0147,ALT0147,Household,Paper,Kitchen Towels Premium confezione 4pcs,Bio Pam,4,pcs,2,"€2,90",EUR 2.61,EUR,available,PAM,Milan,19/01/2026,0915573222232,seasonal item
+PAM-00148,CP0148,ALT0148,Household ,Cleaning,Multi Surface Cleaner Premium,PAM,750,ml,2,"4,29",3.67,EUR,,PAM,milan,23-01-2026,8573023948477,seasonal item
+PAM-00149,CP0149,ALT0149,Household,Cleaning,Lavazza Bleach Premium,Lavazza ,1.5,l,1,"5,52",,EUR,available,PAM,MILANO,2026/01/19 15:45,8157651502186,seasonal item
+PAM-00150,CP0150,ALT0150,Personal Care,Shampoo,semplici e buoni shampoo premium,Semplici e Buoni,375.0,ml,,"2,99",2.40,eur,limited,PAM,Milan,2026-03-15 13:39:00,5397205600642,promo shelf
+PAM-00151,CP0151,ALT0151,Personal Care,Shampoo,Zoa Conditioner Premium,Zoa,250,ml,6,4.78,,EUR,,PAM,Milan,10/02/2026,2354337453656,imported
+PAM-00152,CP0152,ALT0152,Personal Care,Soap,Arkalia Hand Soap Premium,Arkalia,450.0,ml,6,"3,76","€2,79",Euro,limited,PAM,milan,2026-04-04,9607939105150,new
+PAM-00153,CP0153,ALT0153,Personal Care,Soap,Body Wash Premium,PAM,500,ml,4, 4.63 ,4.12,eur,in stock,PAM,Milan,2026/02/19 16:19,2495015280064,new
+PAM-00154,CP0154,ALT0154,Personal Care,Toothpaste,Toothpaste Premium,Bio Pam,75,ml,2,"€3,77",,Euro,limited,PAM,MILANO,25/02/2026,6993005476424,seasonal item
+PAM-00155,CP0155,ALT0155,Dairy,Mozzarella,Semplici e Buoni Mozzarella Bio,Semplici e Buoni,156.25,g,2,1.66,,Euro,,PAM,MILANO,11/04/2026,6908660229631,seasonal item
+PAM-00156,CP0156,ALT0156,Dairy,Mozzarella,Mozzarella di Bufala Bio,PAM,156.25,g,1,1.86,"1,76",Euro,available,PAM,Milan,2026-02-24,0420866478635,new
+PAM-00157,CP0157,ALT0157,Dairy,Mozzarella,Fior di latte mozzarella Bio confezione 200g,Zoa,200,g,6,2.73,2.01,€,in stock,PAM,Milan,06-01-2026,5932240840749,limited edition
+PAM-00158,CP0158,ALT0158,Dairy,Yogurt,Greek Yogurt Bio confezione 255g,Mulino Bianco,255.0,g,1,2.13,,eur,limited,PAM,MILANO,08/03/2026,2191658064385,private label
+PAM-00159,CP0159,ALT0159,Dairy,Yogurt ,Strawberry Yogurt Bio,Zoa,2,,2,"€2,48",,EUR,,PAM,MILANO,06-04-2026,1885937753359,
+PAM-00160,CP0160,ALT0160,Dairy,Yogurt,Plain Yogurt Bio,Semplici e Buoni,500,g,2,3.22,,EUR,available,PAM,milan,11/01/2026,9025471278066,new
+PAM-00161,CP0161,ALT0161,Dairy,Milk,Whole Milk Bio confezione 0.75l,Granarolo,0.75,l,6,3.27,,EUR,in stock,PAM,Milan,09/03/2026,7055456515414,promo shelf
+PAM-00162,CP0162,ALT0162,Dairy,Milk,mulino bianco semi-skimmed milk bio,Mulino Bianco,1,l,1,1.94,,EUR,,PAM,Milano,2026-02-17,4281645808106,new
+PAM-00163,CP0163,ALT0163,Dairy,Milk, Lactose Free Milk Bio confezione 0.75l,Semplici e Buoni,0.75,l,3,2.89,,€,low stock,PAM,milan,15/02/2026,,limited edition
+PAM-00164,CP0164,ALT0164,Dairy,Butter,SEMPLICI E BUONI UNSALTED BUTTER BIO,Semplici e Buoni,250,g,6,EUR 2.17,,Euro,limited,PAM,milan,18-03-2026,4319366711625,imported
+PAM-00165,CP0165,ALT0165,Dairy,Butter,Zoa Salted Butter Bio, Zoa,312.5,g,6,2.97,,Euro,OUT OF STOCK,PAM,Milan,10/02/2026,1315862071389,seasonal item
+PAM-00166,CP0166,ALT0166,Dairy,Cheese,Bio Pam Parmigiano Reggiano Bio,Bio Pam,200,g,1,"2,43",,Euro,OUT OF STOCK,PAM,Milan,2026-02-08,6720647405503,imported
+PAM-00167,CP0167,ALT0167,Dairy,Cheese,Gorgonzola Bio,PAM,112.5,g,1,2.80,"€2,22",Euro,,PAM,MILANO,11-03-2026,9653999095471,limited edition
+PAM-00168,CP0168,ALT0168,Dairy,Cheese,Ricotta Bio confezione 250g,Bio Pam,250,g,8,1.49,,Euro,in stock,PAM,milan,2026-03-26 17:37:00,5100670760345,limited edition
+PAM-00169,CP0169,ALT0169,Bakery,Bread,Pam Panorama Whole Wheat Bread Bio,PAM PANORAMA,750.0,g,8,"€2,08",,€,limited,PAM,Milano,2026-04-16,7537412600267,limited edition
+PAM-00170,CP0170,ALT0170,Bakery,Bread,Ferrero Ciabatta Bio ,Ferrero,300,g,3,2.73,,eur,low stock,PAM,Milan,2026/01/22 10:38,0538480302515,seasonal item
+PAM-00171,CP0171,ALT0171,Bakery,Bread,PAM Sandwich Bread Bio, PAM ,550,g,3, 3.23 ,,EUR,available,PAM,Milano,2026/04/05 07:48,,check allergen label
+PAM-00172,CP0172,ALT0172,Bakery,Croissants,Butter Croissant Bio confezione 7.5pcs,Semplici e Buoni,,pcs,4,2.35,,€,low stock,PAM,MILANO,04/04/2026,9761743264172,limited edition
+PAM-00173,CP0173,ALT0173,Bakery,Croissants,Chocolate Croissant Bio confezione 7.5pcs,Pam Panorama,7.5,pcs,,2.11,,EUR,limited,PAM,Milano,2026-04-30,0739488340390,
+PAM-00174,CP0174,ALT0174,Bakery,Cookies,PAM Chocolate Chip Cookies Bio,pam,375.0,g,8,3.34,,eur,,pam,milan,2026-01-05 11:18:00,3974225779830,seasonal item
+PAM-00175,CP0175,ALT0175,Bakery,Cookies,Digestive Biscuits Bio,Arkalia ,400,g,2,1.91,"1,72",eur,available,PAM,Milan,2026-03-31,,seasonal item
+PAM-00176,CP0176,ALT0176,Produce,Tomatoes, Pam Panorama Cherry Tomatoes Bio,Pam Panorama,500,g,8,3.61,,€,OUT OF STOCK,PAM,MILANO,2026-02-14 22:41:00,5634716880177,promo shelf
+PAM-00177,CP0177,ALT0177,Produce,Tomatoes,Mutti Round Tomatoes Bio,Mutti,1,kg,,EUR 1.69,,EUR,OUT OF STOCK,PAM,Milano,2026/01/31 23:40,1371834979922,
+PAM-00178,CP0178,ALT0178,Produce,Salad,Iceberg Lettuce Bio,PAM,1,pcs,4,EUR 2.94,,Euro,in stock,PAM,Milan,22-02-2026,8626461615018,
+PAM-00179,CP0179,ALT0179,Produce,Salad,Rocket Salad Bio,Semplici e Buoni,187.5,g,1,4.03,,Euro,in stock,PAM,MILANO,29/04/2026,3746462250747,imported
+PAM-00180,CP0180,ALT0180,Produce ,Apples,PAM Golden Apples Bio,PAM,1.5,kg,2, 2.94 ,EUR 2.56,€,in stock,PAM,Milano,2026-03-30,4287567311017,
+PAM-00181,CP0181,ALT0181,Produce ,Apples,PAM Pink Lady Apples Bio,PAM,1,kg,4,"1,81","€1,45",eur,OUT OF STOCK,PAM,Milano,2026/04/24 16:48,3931742216598,limited edition
+PAM-00182,CP0182,ALT0182,Produce,Bananas,Parmalat Bananas Bio,Parmalat,1.5,kg,2,EUR 3.47,,eur,low stock,PAM,MILANO,2026/02/05 06:52,7297131158250,check allergen label
+PAM-00183,CP0183,ALT0183,Produce,Potatoes,Potatoes Bio confezione 2.5kg,Pam Panorama,2.5,kg,1,1.82,,€,OUT OF STOCK,PAM,MILANO,2026/04/26 03:18,4332125954324,
+PAM-00184,CP0184,ALT0184,Meat,Chicken,Barilla Chicken Breast Bio,Barilla,600.0,g,1, 8.84 ,,EUR,,PAM,Milano,11/03/2026,3693510738515,
+PAM-00185,CP0185,ALT0185,Meat,Chicken,Chicken Thighs Bio confezione 625g,Pam Panorama ,625.0,g,3, 5.43 ,,Euro,limited,PAM,Milano,2026-04-16,1300634096129,
+PAM-00186,CP0186,ALT0186,Meat,Beef,Pam Panorama Minced Beef Bio,Pam Panorama,400,g,6,"7,18",,eur,available,PAM,milan,2026-04-27 09:02:00,4755230335012,
+PAM-00187,CP0187,ALT0187,Meat,Beef,Beef Steak Bio,PAM,300,g,3,7.56,,eur,in stock,PAM,milan,2026-04-22 20:58:00,0989506659356,new
+PAM-00188,CP0188,ALT0188,Meat,Cured Meats,Prosciutto Cotto Bio confezione 120g,Zoa,120,,3,"3,59",,EUR,available,PAM,milan,28-02-2026,5224994989763,private label
+PAM-00189,CP0189,ALT0189,Meat,CURED MEATS, Salame Milano Bio,Bio Pam,150.0,g,8, 6.55 , 5.27 ,EUR,,PAM,MILANO,2026/03/06 07:20,4456759818632,
+PAM-00190,CP0190,ALT0190,Pantry,Pasta,Zoa Spaghetti Bio,Zoa,625.0,g,4,EUR 2.81,,eur,available,PAM,milan,09-04-2026,0599932197465,
+PAM-00191,CP0191,ALT0191,Pantry,Pasta,Pam Panorama Penne Rigate Bio,Pam Panorama,375.0,g,6,"€3,64",3.03,EUR,limited,PAM,MILANO,30/01/2026,9936500319085,
+PAM-00192,CP0192,ALT0192,Pantry, Pasta,Arkalia Fusilli Bio,Arkalia,375.0,g,6,EUR 2.67,"1,88",Euro,low stock,PAM,Milano,15-01-2026,0972732855779,private label
+PAM-00193,CP0193,ALT0193,Pantry,Rice,Carnaroli Rice Bio confezione 0.75kg,Semplici e Buoni,0.75,kg,1,1.88,,Euro,OUT OF STOCK,PAM,Milan,2026-01-23 01:21:00,7282419786804,promo shelf
+PAM-00194,CP0194,ALT0194,Pantry,Rice,Aia Basmati Rice Bio,Aia,1,kg,8,3.55,,Euro,available,PAM,MILANO,2026-03-03 18:09:00,2576555146599,seasonal item
+PAM-00195,CP0195,ALT0195,Pantry,Sauce,Tomato Passata Bio confezione 700ml,PAM,700,ml,4,2.04,,€,,PAM,MILANO,2026-01-23 12:44:00,3880671917425,new
+PAM-00196,CP0196,ALT0196,Pantry,Sauce,Arkalia Pesto Genovese Bio,Arkalia,237.5,g,6,,,Euro,,PAM,MILANO,2026-04-18 16:19:00,7495004418500,imported
+PAM-00197,CP0197,ALT0197,Pantry,Oil,Extra Virgin Olive Oil Bio,Bio Pam,1.5,l,3,"€4,72",,Euro,low stock,PAM,Milan,2026/03/25 23:03,9384137078703,new
+PAM-00198,CP0198,ALT0198,Pantry, Oil,Sunflower Oil Bio,Pam Panorama,0.75,l,6,EUR 2.13,EUR 1.76,€,,PAM,Milano,22-01-2026,2050080001826,
+PAM-00199,CP0199,ALT0199,Pantry,Flour,Zoa All Purpose Flour Bio,Zoa,1.25,kg,6,"4,68","3,98",eur,available,PAM,MILANO,2026/04/03 01:43,5040794259220,promo shelf
+PAM-00200,CP0200,ALT0200,Pantry,Flour,00 Flour Bio confezione 1.25kg,Mulino Bianco,1.25,kg,3,"1,95",,Euro,in stock,PAM,milan,2026/03/04 08:41,6621459848471,new
+PAM-00201,CP0201,ALT0201,Pantry,Sugar,Zoa White Sugar Bio,Zoa,1.5,kg,4, 4.02 ,,EUR,OUT OF STOCK,PAM,Milano,2026/01/04 21:20,7004017337591,check allergen label
+PAM-00202,CP0202,ALT0202,Pantry, Sugar,Zoa Brown Sugar Bio, Zoa,1.25,kg,2,2.55,,€,limited,PAM,Milan,2026/03/21 19:05,0942065999544,private label
+PAM-00203,CP0203,ALT0203,Pantry,Coffee,Ground Coffee Bio confezione 375g,PAM,375.0,g,1,EUR 2.33,,eur,in stock,PAM,MILANO,2026/03/01 19:18,8833895349102,
+PAM-00204,CP0204,ALT0204,Pantry,Coffee,Pam Panorama Coffee Beans Bio,Pam Panorama,500,g,8,"2,52",,€,in stock,PAM,MILANO,2026-04-27 07:16:00,7438267828275,
+PAM-00205,CP0205,ALT0205,Pantry,Cereal,Arkalia Corn Flakes Bio,Arkalia,562.5,g,1,"€4,46",,eur,limited,PAM,MILANO,2026/01/26 02:47,7236362858498,
+PAM-00206,CP0206,ALT0206,Pantry,Cereal,Muesli Bio confezione 562.5g,De Cecco,562.5,g,6, 3.43 ,,Euro,in stock,PAM,MILANO,2026-01-26,0300352751728,promo shelf
+PAM-00207,CP0207,ALT0207,Frozen,Pizza,Margherita Pizza Bio confezione 262.5g,Pam Panorama,262.5,g,2,5.20,,€,,PAM,Milan,2026/01/18 07:56,1727018913887,check allergen label
+PAM-00208,CP0208,ALT0208,Frozen,Pizza,Vegetable Pizza Bio,Pam Panorama,570.0,g,6, 2.78 ,,Euro,low stock,PAM,Milan,20/04/2026,2062480727435,
+PAM-00209,CP0209,ALT0209,Frozen,Vegetables,Frozen Peas Bio confezione 450g,Zoa,450,g,1, 3.07 ,,eur,in stock,PAM,milan,2026-04-29,0508345037350,promo shelf
+PAM-00210,CP0210,ALT0210,frozen,Vegetables,Zoa Frozen Spinach Bio,Zoa,450,g,1,4.37,,Euro,in stock,PAM,Milan,08/03/2026,9232398744512,check allergen label
+PAM-00211,CP0211,ALT0211, Frozen,Fish,Frozen Salmon Fillets Bio,Mutti,300.0,g,6,EUR 5.34,,EUR,available,PAM,Milan,2026-01-01 03:37:00,3312899851186,check allergen label
+PAM-00212,CP0212,ALT0212,Frozen,Fish,Fish Fingers Bio confezione 300g,PAM,300,g,1, 3.03 ,EUR 2.20,Euro,,PAM,MILANO,2026-01-30,5194342548250,check allergen label
+PAM-00213,CP0213,ALT0213,Beverages,Water,still water bio,Semplici e Buoni,1.88,l,8, 2.27 ,,eur,OUT OF STOCK,PAM,Milan,2026-04-12,2602974805796,private label
+PAM-00214,CP0214,ALT0214,Beverages,Water,Zoa Sparkling Water Bio,Zoa,1.5,l,1,EUR 1.32,EUR 1.04,eur,in stock,PAM,MILANO,2026/03/08 00:08,8189857917214,
+PAM-00215,CP0215,ALT0215,Beverages,Juice,Arkalia Orange Juice Bio,Arkalia,1.25,l,4,EUR 1.89,,Euro,limited,PAM ,Milano,2026-03-29,2727460011156,
+PAM-00216,CP0216,ALT0216,Beverages,Juice,Bio Pam Apple Juice Bio,Bio Pam,0.75,l,1,"1,20",,eur,low stock,PAM,Milan,2026/03/30 23:54,6964846159101,
+PAM-00217,CP0217,ALT0217,Beverages,Soft Drinks,Zoa Cola Bio,Zoa,1.5,l,1, 1.17 ,,EUR,low stock,PAM,Milano,2026-01-28,3559971777216,limited edition
+PAM-00218,CP0218,ALT0218,Beverages,Soft Drinks,Lemon Soda Bio,Semplici e Buoni,2.25,l,1,"€1,13",,EUR,low stock,PAM,Milan,2026-02-27 19:40:00,6168983750148,private label
+PAM-00219,CP0219,ALT0219,Beverages,Tea,Green Tea Bio,Zoa,20,pcs,6, 1.28 ,"1,11",Euro,limited,PAM,MILANO,17/01/2026,4778015260748,limited edition
+PAM-00220,CP0220,ALT0220,Beverages,Tea,Zoa Black Tea Bio,Zoa,37.5,pcs,3,, 2.02 ,€,OUT OF STOCK,PAM,Milan,31/01/2026,8914274258915,imported
+PAM-00221,CP0221,ALT0221,Household,Detergent,Dish Soap Bio confezione 562.5ml,Bio Pam,562.5,ml,8,6.57,,€,in stock,PAM,milan,2026-01-02 23:42:00,0060670876240,new
+PAM-00222,CP0222,ALT0222,Household,Detergent,Pam Panorama Laundry Detergent Bio,Pam Panorama,1.5,l,1, 3.67 ,,Euro,in stock,PAM,MILANO,2026-02-04,5715773175363,seasonal item
+PAM-00223,CP0223,ALT0223,Household,Paper,Arkalia Toilet Paper Bio,Arkalia,12.0,pcs,3,"2,92",,Euro,low stock,PAM,milan,2026-03-06 20:30:00,3003056441589,new
+PAM-00224,CP0224,ALT0224,Household,Paper,Arkalia Kitchen Towels Bio,Arkalia,6.0,pcs,8,"€4,98",,eur,,PAM,Milan,05-01-2026,2083616228794,private label
+PAM-00225,CP0225,ALT0225,Household,Cleaning,Multi Surface Cleaner Bio,PAM,750,ml,1,5.29,,€,available,PAM,Milano,2026-04-18 12:26:00,6719652630266,limited edition
+PAM-00226,CP0226,ALT0226,Household,Cleaning,PAM Bleach Bio,PAM,2,l,2,"5,65",,eur,,PAM,Milano,06-02-2026,5082204730192,check allergen label
+PAM-00227,CP0227,ALT0227,Personal Care,Shampoo,PAM Shampoo Bio,PAM,250,ml,3,EUR 4.55,,EUR,,PAM,Milano,28/03/2026,2722089580901,
+PAM-00228,CP0228,ALT0228,Personal Care,Shampoo,PAM Conditioner Bio,PAM,250,ml,6,"5,15",,€,in stock,PAM,Milan,2026-03-31 12:23:00,2029016651517,seasonal item
+PAM-00229,CP0229,ALT0229,Personal Care,Soap,Rio Mare Hand Soap Bio,Rio Mare,450.0,ml,6, 3.64 ,,EUR,limited,PAM,Milano,2026-03-28,1527650960307,check allergen label
+PAM-00230,CP0230,ALT0230,Personal Care,Soap,Body Wash Bio confezione 750ml,Semplici e Buoni,750.0,ml,6,5.16,,Euro,available,PAM,milan,2026-04-04 16:22:00,1236306193770,new
+PAM-00231,CP0231,ALT0231,Personal Care,Toothpaste,Arkalia Toothpaste Bio,Arkalia,56.25,ml,1,"5,41",,€,,PAM,milan,12-01-2026,2427420784271,promo shelf
+PAM-00232,CP0232,ALT0232,Dairy,Mozzarella,Mozzarella Family Pack,Zoa,187.5,g,6, 3.02 ,,eur,available,PAM,MILANO,2026-03-22 05:00:00,7002518828160,limited edition
+PAM-00233,CP0233,ALT0233,Dairy,MOZZARELLA,Galbani Mozzarella di Bufala Family Pack,Galbani,125,g,1,"1,89",,eur,low stock,PAM,Milan,2026-03-04 23:13:00,7263329330023,
+PAM-00234,CP0234,ALT0234,Dairy,Mozzarella,galbani fior di latte mozzarella family pack,Galbani,250.0,g,1,"€1,31",,eur,OUT OF STOCK,PAM,MILANO,13/02/2026,2769990450820,seasonal item
+PAM-00235,CP0235,ALT0235,Dairy,Yogurt,Pam Panorama Greek Yogurt Family Pack,Pam Panorama,127.5,g,8, 3.33 ,"2,79",Euro,OUT OF STOCK, PAM ,Milan,2026-03-13 06:43:00,,seasonal item
+PAM-00236,CP0236,ALT0236,Dairy,Yogurt,Strawberry Yogurt Family Pack confezione 1.5pcs,Arkalia,1.5,pcs,6,"€1,70",,eur,available,PAM,MILANO,2026/02/10 13:11,3485413236616,private label
+PAM-00237,CP0237,ALT0237,Dairy,Yogurt,Parmalat Plain Yogurt Family Pack,Parmalat,500,g,1,3.22,,€,OUT OF STOCK,PAM,milan,2026/04/13 03:57,7388907613187,imported
+PAM-00238,CP0238,ALT0238,DAIRY,Milk,Whole Milk Family Pack confezione 1l,Pam Panorama,1,l,1,EUR 1.38,,€,in stock,PAM,Milano,2026-01-13,7303820000390,seasonal item
+PAM-00239,CP0239,ALT0239,Dairy,Milk,Semi-skimmed Milk Family Pack,PAM,1,l,1,"€1,40",,EUR,OUT OF STOCK,PAM,milan,2026-04-18 09:28:00,6540162429555,
+PAM-00240,CP0240,ALT0240,Dairy,Milk, Arkalia Lactose Free Milk Family Pack,Arkalia ,0.75,l,1,"3,24",EUR 2.80,EUR,,PAM,MILANO,2026-03-20 14:44:00,2424660472948,seasonal item
+PAM-00241,CP0241,ALT0241,Dairy,Butter,Unsalted Butter Family Pack, Zoa,250,g,1,1.34, 1.04 ,eur,in stock,PAM,Milano,2026/01/06 04:47,,
+PAM-00242,CP0242,ALT0242,Dairy,Butter,Salted Butter Family Pack confezione 375g,PAM,375.0,g,3, 1.65 ,"1,30",EUR,OUT OF STOCK,PAM,milan,06/03/2026,9053799915572,
+PAM-00243,CP0243,ALT0243,Dairy,Cheese,Bio Pam Parmigiano Reggiano Family Pack,Bio Pam,150.0,g,6,"2,62",2.33,EUR,low stock,PAM,Milan,2026-02-01 05:40:00,9544055463218,seasonal item
+PAM-00244,CP0244,ALT0244,Dairy,Cheese,Gorgonzola Family Pack,PAM,112.5,g,1,EUR 3.05,,Euro,in stock,PAM,MILANO,2026-02-14 07:07:00,9628674333989,check allergen label
+PAM-00245,CP0245,ALT0245,Dairy,Cheese,Ricotta Family Pack confezione 312.5g,Arkalia,312.5,g,1,"€2,88",,EUR,limited,PAM,milan,2026/04/03 04:13,1313521485751,limited edition
+PAM-00246,CP0246,ALT0246,Bakery ,Bread,Whole Wheat Bread Family Pack,Pam Panorama,375.0,g,6,"1,86",,Euro,,PAM,Milan,21-03-2026,0194611608107,seasonal item
+PAM-00247,CP0247,ALT0247,Bakery,Bread,Galbani Ciabatta Family Pack,Galbani,450.0,g,6, 2.89 ,,€,in stock,PAM,Milano,11-01-2026,5471057870371,
+PAM-00248,CP0248,ALT0248,BAKERY,Bread,Sandwich Bread Family Pack,Bio Pam,550,g,8,"2,77",,Euro,low stock,PAM,Milano,2026/01/24 12:23,5606955991524,
+PAM-00249,CP0249,ALT0249,Bakery,Croissants,Butter Croissant Family Pack,Galbani,6,pcs,1,1.67,,Euro,limited,PAM,Milano,2026-01-14,5208235096888,private label
+PAM-00250,CP0250,ALT0250,Bakery,Croissants,arkalia chocolate croissant family pack,Arkalia,7.5,pcs,8,"€2,78",2.30,Euro,in stock,PAM,Milan,2026-02-10 20:29:00,4260320039029,check allergen label
+PAM-00251,CP0251,ALT0251,Bakery,Cookies,Chocolate Chip Cookies Family Pack confezione 450g,Semplici e Buoni ,450.0,,2,"2,82",,€,,PAM,Milan,2026-02-01,5673229171232,promo shelf
+PAM-00252,CP0252,ALT0252,Bakery,Cookies,Digestive Biscuits Family Pack confezione 400g,Galbani,400,g,6,EUR 1.45,EUR 1.10,€,available,PAM,Milan,2026-04-29 00:59:00,,promo shelf
+PAM-00253,CP0253,ALT0253,Produce,Tomatoes,Cherry Tomatoes Family Pack confezione 500g,Bio Pam,500,g,8, 2.62 ,,eur,in stock,PAM,MILANO,20-04-2026,0513954149161,check allergen label
+PAM-00254,CP0254,ALT0254,Produce,Tomatoes,Round Tomatoes Family Pack,PAM,1.5,kg,6,"€2,22",,Euro,limited,PAM,Milan,03-03-2026,9055590848310,
+PAM-00255,CP0255,ALT0255,Produce,Salad,Iceberg Lettuce Family Pack confezione 1.5pcs,De Cecco,1.5,pcs,1,EUR 2.25,"€1,83",EUR,in stock,PAM,Milan,2026/03/11 04:24,9062944205203,
+PAM-00256,CP0256,ALT0256,Produce,Salad,Galbani Rocket Salad Family Pack,Galbani,156.25,g,2,1.84,"1,52",Euro,in stock,PAM,milan,17-01-2026,2142548271898,new
+PAM-00257,CP0257,ALT0257,Produce,Apples,Galbani Golden Apples Family Pack,Galbani,1,,4,3.04,EUR 2.45,Euro,low stock,PAM,milan,11/02/2026,,promo shelf
+PAM-00258,CP0258,ALT0258,Produce,Apples,Pink Lady Apples Family Pack,Mulino Bianco,1.5,kg,1,3.11,,EUR,low stock,PAM,milan,24/04/2026,7351090933186,check allergen label
+PAM-00259,CP0259,ALT0259,Produce,Bananas,Bananas Family Pack confezione 1kg,Pam Panorama,1,kg,2,3.75,,EUR,low stock,PAM,MILANO,2026-04-02,5141973486071,check allergen label
+PAM-00260,CP0260,ALT0260,Produce,Potatoes,Zoa Potatoes Family Pack,Zoa,2,kg,8,2.50,,EUR,, PAM ,Milan,2026/02/19 01:26,8719139211705,private label
+PAM-00261,CP0261,ALT0261,Meat,Chicken,Semplici e Buoni Chicken Breast Family Pack,Semplici e Buoni,500.0,g,3, 5.58 ,,EUR,limited,PAM,milan,2026/04/15 05:18,4005453042143,imported
+PAM-00262,CP0262,ALT0262,Meat,Chicken,Zoa Chicken Thighs Family Pack,Zoa,500,g,3,5.36,,Euro,low stock,PAM,Milan,04/04/2026,0385894729155,
+PAM-00263,CP0263,ALT0263,Meat,Beef,Minced Beef Family Pack,Zoa,500.0,g,,EUR 7.59,,Euro,in stock,PAM,Milan,2026-04-25,8207279999499,new
+PAM-00264,CP0264,ALT0264,Meat,Beef,Beef Steak Family Pack,Pam Panorama,450.0,g,1,6.82,,Euro,available,PAM,MILANO,2026-03-15,,check allergen label
+PAM-00265,CP0265,ALT0265,Meat,Cured Meats,Prosciutto Cotto Family Pack confezione 150g,Zoa,150.0,g,2,8.41,,Euro,low stock,PAM,MILANO,2026-03-12 08:22:00,6891952098463,limited edition
+PAM-00266,CP0266,ALT0266,Meat,Cured Meats,Bio Pam Salame Milano Family Pack,Bio Pam,75.0,g,,"4,03",,EUR,limited,PAM,milan,06/04/2026,7480155972056,new
+PAM-00267,CP0267,ALT0267,Pantry,Pasta,Zoa Spaghetti Family Pack,Zoa,500,,1,"3,66",,EUR,available,PAM,MILANO,03/01/2026,8789917235288,imported
+PAM-00268,CP0268,ALT0268,Pantry,Pasta,Bio Pam Penne Rigate Family Pack,Bio Pam,500,g,,"4,16",3.43,eur,OUT OF STOCK,PAM,milan,2026-04-23 10:47:00,8328997105754,
+PAM-00269,CP0269,ALT0269,Pantry,Pasta,Fusilli Family Pack ,Arkalia,375.0,g,6,"€1,92",,EUR,,PAM,Milano,2026/03/24 08:54,4011540335969,check allergen label
+PAM-00270,CP0270,ALT0270,Pantry,Rice,Carnaroli Rice Family Pack,Rio Mare,1,kg,1,2.47,,Euro,available,PAM,MILANO,2026/04/25 04:17,2745379569682,imported
+PAM-00271,CP0271,ALT0271,Pantry,Rice,Basmati Rice Family Pack,Zoa,0.75,kg,1,"3,65",,eur,OUT OF STOCK,PAM,MILANO,2026-03-13,8550384710689,limited edition
+PAM-00272,CP0272,ALT0272,Pantry, Sauce ,Tomato Passata Family Pack,Pam Panorama,1050.0,ml,1,"€2,60",,Euro,OUT OF STOCK,PAM,Milan,2026-04-28,3081634811050,new
+PAM-00273,CP0273,ALT0273,Pantry,Sauce,Rio Mare Pesto Genovese Family Pack,Rio Mare ,285.0,g,8,EUR 4.24,,EUR,,PAM,MILANO,2026/04/07 12:25,2434822808576,imported
+PAM-00274,CP0274,ALT0274,Pantry,Oil,Pam Panorama Extra Virgin Olive Oil Family Pack,Pam Panorama,1,l,2, 2.57 ,"2,26",€,available,PAM,MILANO,2026-01-01,0635729898205,private label
+PAM-00275,CP0275,ALT0275,Pantry,Oil,Mulino Bianco Sunflower Oil Family Pack,Mulino Bianco,1.5,l,1,4.04,3.38,EUR,available,PAM,Milano,24-01-2026,,seasonal item
+PAM-00276,CP0276,ALT0276,Pantry,Flour,All Purpose Flour Family Pack,Pam Panorama,1,kg,4, 4.43 ,,€,low stock,PAM,Milan,2026-01-24 03:34:00,0225091357813,promo shelf
+PAM-00277,CP0277,ALT0277,Pantry ,Flour,Semplici e Buoni 00 Flour Family Pack,Semplici e Buoni,0.75,kg,4, 2.19 ,,eur,available,PAM,Milano,2026/02/04 14:07,7614943405013,imported
+PAM-00278,CP0278,ALT0278,Pantry,Sugar,White Sugar Family Pack,Bio Pam,0.75,kg,4,"€2,78",,Euro,limited,PAM,milan,2026/03/16 23:38,4110871540992,imported
+PAM-00279,CP0279,ALT0279,Pantry,Sugar,Brown Sugar Family Pack confezione 0.75kg,Barilla,0.75,kg,4,EUR 2.37,,eur,OUT OF STOCK,PAM,milan,2026-01-18,,limited edition
+PAM-00280,CP0280,ALT0280,Pantry,Coffee,PAM Ground Coffee Family Pack,PAM,250,g,8,"€3,63",,EUR,OUT OF STOCK,PAM,Milano,18/02/2026,1023013011326,promo shelf
+PAM-00281,CP0281,ALT0281,Pantry,Coffee,Pam Panorama Coffee Beans Family Pack,Pam Panorama,375.0,g,6,"€3,62",,EUR,limited,PAM,Milano,14/02/2026,6056904364446,imported
+PAM-00282,CP0282,ALT0282,Pantry,Cereal,Corn Flakes Family Pack confezione 281.25g,Semplici e Buoni,281.25,g,1,, 1.66 ,EUR,,PAM,MILANO,2026-04-18,4464638989228,
+PAM-00283,CP0283,ALT0283,Pantry,Cereal,Muesli Family Pack confezione 750g,Semplici e Buoni,750,g,8,4.05,,€,OUT OF STOCK,PAM,Milan,18/04/2026,7500692153900,
+PAM-00284,CP0284,ALT0284,Frozen,Pizza,PAM Margherita Pizza Family Pack,PAM,262.5,g,3,"€4,06",,EUR,limited,PAM,Milan,02/01/2026,3758130121709,promo shelf
+PAM-00285,CP0285,ALT0285,Frozen ,Pizza,Vegetable Pizza Family Pack confezione 570g,Semplici e Buoni,570.0,g,3, 5.49 ,"3,93",Euro,in stock, PAM,Milano,2026-03-03 11:05:00,0258912717732,
+PAM-00286,CP0286,ALT0286,Frozen,Vegetables,Frozen Peas Family Pack confezione 450g,Zoa,450,g,1,"€5,49",,Euro,limited,PAM,milan,2026/03/15 19:18,6787905411669,
+PAM-00287,CP0287,ALT0287,Frozen,Vegetables,Frozen Spinach Family Pack confezione 450g,PAM,450,g,4,"€2,38",,Euro,low stock,PAM,MILANO,2026-03-10 07:33:00,0078281604137,seasonal item
+PAM-00288,CP0288,ALT0288,Frozen,Fish,Zoa Frozen Salmon Fillets Family Pack,ZOA,500.0,g,8,EUR 2.46,,Euro,in stock,PAM,Milano,02-01-2026,9082456094320,
+PAM-00289,CP0289,ALT0289,Frozen,Fish,Fish Fingers Family Pack,Barilla,300,g,2,"€5,29",,€,OUT OF STOCK,PAM,MILANO,2026-02-20,5735154960660,new
+PAM-00290,CP0290,ALT0290,Beverages,Water,Bio Pam Still Water Family Pack,Bio Pam,2.25,l,6,EUR 1.15,"€0,89",EUR,in stock,PAM,Milan,2026-04-13 10:19:00,3606301798210,promo shelf
+PAM-00291,CP0291,ALT0291,Beverages,Water,Arkalia Sparkling Water Family Pack,Arkalia,1.5,l,2,2.54,,EUR,available,PAM,Milano,01-02-2026,5138222629365,seasonal item
+PAM-00292,CP0292,ALT0292,Beverages,juice,Orange Juice Family Pack confezione 1.5l,Pam Panorama,1.5,l,1,1.99,,EUR,,PAM,milan,20-04-2026,0948718829917,private label
+PAM-00293,CP0293,ALT0293,Beverages,Juice,Bio Pam Apple Juice Family Pack,Bio Pam,1.5,l,1,"2,48",2.17,EUR,available,PAM,MILANO,12/03/2026,7259856842122,check allergen label
+PAM-00294,CP0294,ALT0294,Beverages,Soft Drinks,Cola Family Pack confezione 1.88l,Arkalia,1.88,l,2,"1,52",EUR 1.10,eur,limited,PAM,Milano,2026-03-17,4308045310025,
+PAM-00295,CP0295,ALT0295,Beverages,Soft Drinks,Semplici e Buoni Lemon Soda Family Pack,Semplici e Buoni,1.5,l,1,EUR 2.12,,EUR,available,PAM,milan,02-03-2026,9272419878333,imported
+PAM-00296,CP0296,ALT0296,beverages,Tea,Green Tea Family Pack confezione 25pcs,Mutti,,pcs,8,EUR 2.05,,Euro,in stock,PAM,MILANO,2026-02-05,8085517294889,check allergen label
+PAM-00297,CP0297,ALT0297,BEVERAGES,Tea,Black Tea Family Pack ,Pam Panorama,31.25,pcs,4,1.92,,€,available,PAM,Milan,2026-01-05 19:04:00,,limited edition
+PAM-00298,CP0298,ALT0298,Household, Detergent,Dish Soap Family Pack confezione 750ml,Arkalia,750,ml,1,"€6,20","5,11",eur,OUT OF STOCK,PAM,MILANO,22/03/2026,8484209418444,imported
+PAM-00299,CP0299,ALT0299,Household,Detergent,Zoa Laundry Detergent Family Pack,Zoa,1.12,l,1,2.93,,eur,,PAM,Milan,2026-01-16,0829380743857,limited edition
+PAM-00300,CP0300,ALT0300,Household,Paper,Toilet Paper Family Pack,Arkalia,6.0,pcs,1,3.32,2.68,Euro,limited,PAM,MILANO,06-02-2026,5973246057050,private label
+PAM-00301,CP0301,ALT0301,Household,Paper,KITCHEN TOWELS FAMILY PACK,Zoa,5.0,pcs,4,4.16,,Euro,in stock,PAM,milan,2026/01/04 03:01,5267469344322,promo shelf
+PAM-00302,CP0302,ALT0302,Household,Cleaning,Arkalia Multi Surface Cleaner Family Pack,arkalia,750,,, 3.47 , 2.60 ,eur,OUT OF STOCK,PAM,MILANO,17/01/2026,9281727243347,imported
+PAM-00303,CP0303,ALT0303,Household,Cleaning,Bleach Family Pack,Zoa,2.5,l,3,"6,70",,€,,PAM,milan,2026-01-19 06:42:00,7596559876941,limited edition
+PAM-00304,CP0304,ALT0304,PERSONAL CARE,Shampoo,Shampoo Family Pack,PAM,312.5,ml,8,5.55,,eur,,PAM,milan,2026/01/15 11:17,6656602076245,
+PAM-00305,CP0305,ALT0305,Personal Care,Shampoo,Conditioner Family Pack,Mulino Bianco,312.5,ml,8,"€2,97",,€,in stock,PAM,milan,02-02-2026,4953705754941,new
+PAM-00306,CP0306,ALT0306,Personal Care,Soap,Hand Soap Family Pack confezione 225ml,Rio Mare ,225.0,ml,1,EUR 3.01,,Euro,low stock,PAM,MILANO,2026-02-01,8914908769915,seasonal item
+PAM-00307,CP0307,ALT0307,Personal Care,Soap, Body Wash Family Pack ,Arkalia,375.0,ml,1, 4.52 ,,EUR,,PAM,Milan,23-03-2026,9784752281551,promo shelf
+PAM-00308,CP0308,ALT0308,PERSONAL CARE, Toothpaste,Toothpaste Family Pack confezione 56.25ml,ZOA,56.25,ml,4,EUR 3.45,,€,low stock,PAM,MILANO,2026-02-02 00:49:00,4685857605057,seasonal item
+PAM-00309,CP0309,ALT0309,Dairy,Mozzarella,Arkalia Mozzarella Mini,Arkalia,156.25,g,, 1.70 ,,€,available,PAM,Milan,2026-02-16 21:16:00,3580583076820,
+PAM-00310,CP0310,ALT0310,Dairy,Mozzarella,Semplici e Buoni Mozzarella di Bufala Mini,Semplici e Buoni,125,g,1, 1.59 ,"1,16",Euro,low stock,PAM,milan,21-02-2026,,
+PAM-00311,CP0311,ALT0311,Dairy,Mozzarella,Granarolo Fior di latte mozzarella Mini, Granarolo,150.0,g,1,1.76,,eur,in stock,PAM,Milano,2026-04-12,4125886049602,limited edition
+PAM-00312,CP0312,ALT0312,Dairy,Yogurt,Greek Yogurt Mini,Semplici e Buoni,170,g,,3.24,2.35,eur,OUT OF STOCK,PAM,MILANO,16-02-2026,4027183010084,private label
+PAM-00313,CP0313,ALT0313,Dairy,Yogurt,Semplici e Buoni Strawberry Yogurt Mini,Semplici e Buoni,2,pcs,2,"€1,83",,eur,OUT OF STOCK,PAM,MILANO,2026/03/13 14:24,9792691161646,private label
+PAM-00314,CP0314,ALT0314,Dairy,Yogurt,Zoa Plain Yogurt Mini,Zoa,500,g,1,"€2,18",,eur,OUT OF STOCK,PAM,milan,26-02-2026,2635754845240,promo shelf
+PAM-00315,CP0315,ALT0315,Dairy,Milk,Whole Milk Mini,Semplici e Buoni,1.5,l,1,2.39,,eur,limited,PAM,milan,2026-03-20,4124320589207,limited edition
+PAM-00316,CP0316,ALT0316,Dairy,Milk,Semi-skimmed Milk Mini confezione 1.25l,PAM,1.25,l,6,"€2,08",,€,limited,PAM,milan,2026/02/03 19:22,0312013279685,
+PAM-00317,CP0317,ALT0317,Dairy,Milk,Arkalia Lactose Free Milk Mini,ARKALIA,1,l,8,"€1,62",,eur,low stock,PAM,Milano,2026-03-14,0214929078340,imported
+PAM-00318,CP0318,ALT0318,Dairy,Butter,Rio Mare Unsalted Butter Mini, Rio Mare,312.5,g,1,"€2,01",,EUR,limited,PAM,Milan,2026/01/21 05:11,1187274293317,promo shelf
+PAM-00319,CP0319,ALT0319,Dairy,Butter,Semplici e Buoni Salted Butter Mini,Semplici e Buoni,250,g,6,1.70,"€1,34",€,OUT OF STOCK,PAM,Milan,29-03-2026,3164023739304,private label
+PAM-00320,CP0320,ALT0320,Dairy,Cheese,Zoa Parmigiano Reggiano Mini,Zoa,200,g,6, 1.87 ,,eur,OUT OF STOCK,PAM,Milano,02/03/2026,7217887287826,
+PAM-00321,CP0321,ALT0321,Dairy,Cheese,PAM PANORAMA GORGONZOLA MINI,Pam Panorama,187.5,g,3,3.20,,eur,limited,PAM,milan,2026-04-06,9522393159105,promo shelf
+PAM-00322,CP0322,ALT0322,Dairy,Cheese, Ricotta Mini confezione 250g,Arkalia,250,g,1,3.26,,€,in stock,PAM,Milan,2026-02-23 06:07:00,3203609603374,seasonal item
+PAM-00323,CP0323,ALT0323,Bakery,Bread,Whole Wheat Bread Mini,Bio Pam,375.0,g,8,EUR 2.35,,Euro,low stock,PAM ,Milano,2026-04-25,3798044600791,seasonal item
+PAM-00324,CP0324,ALT0324,Bakery,Bread,Semplici e Buoni Ciabatta Mini,Semplici e Buoni,375.0,g,1,"€2,85",,Euro,low stock,PAM,milan,2026/03/21 22:54,4301116705121,
+PAM-00325,CP0325,ALT0325,Bakery,Bread,Galbani Sandwich Bread Mini,Galbani,825.0,g,3, 1.89 ,,EUR,limited,PAM,Milan,2026/03/13 14:49,4859618946585,seasonal item
+PAM-00326,CP0326,ALT0326,Bakery,Croissants,Rio Mare Butter Croissant Mini,Rio Mare,4.5,pcs,2,"3,64",,Euro,limited,PAM,Milano,2026-04-23,6892321711467,
+PAM-00327,CP0327,ALT0327,Bakery,Croissants,chocolate croissant mini,Pam Panorama,4.5,pcs,1,EUR 3.21,2.53,EUR,,PAM,milan,2026/01/23 16:00,2832420095410,
+PAM-00328,CP0328,ALT0328,Bakery,Cookies,Semplici e Buoni Chocolate Chip Cookies Mini,Semplici e Buoni,450.0,g,6,"2,80",,€,available,PAM,Milano,09-01-2026,4055162977291,imported
+PAM-00329,CP0329,ALT0329,Bakery,Cookies,Zoa Digestive Biscuits Mini,Zoa,300.0,g,1,EUR 3.55,3.22,€,,PAM,Milan,24-04-2026,,imported
+PAM-00330,CP0330,ALT0330,Produce,Tomatoes,Cherry Tomatoes Mini confezione 375g, Bio Pam,375.0,g,8, 2.09 ,,EUR,,PAM,MILANO,30/03/2026,8272596734753,
+PAM-00331,CP0331,ALT0331,Produce,Tomatoes,Round Tomatoes Mini confezione 1kg,Bio Pam,,kg,6, 3.70 ,,Euro,,PAM,milan,2026-04-18 12:31:00,4282342820978,limited edition
+PAM-00332,CP0332,ALT0332,Produce,Salad,Pam Panorama Iceberg Lettuce Mini,Pam Panorama,1,pcs,1,"€2,40",1.85,eur,limited,PAM,MILANO,25/04/2026,9475859893443,seasonal item
+PAM-00333,CP0333,ALT0333,Produce,Salad,Rocket Salad Mini,Ferrero,156.25,g,1, 3.73 ,,€,low stock,PAM,milan,25-04-2026,3607682637406,limited edition
+PAM-00334,CP0334,ALT0334,Produce,Apples,Golden Apples Mini confezione 1.25kg,Zoa,1.25,kg,1, 2.21 ,,€,available,PAM,MILANO,2026-02-03,0046660522612,
+PAM-00335,CP0335,ALT0335,Produce, Apples ,Pink Lady Apples Mini,Bio Pam,1.25,kg,1,EUR 3.78,,EUR,available,PAM,Milan,2026-03-22 14:28:00,0211409155816,check allergen label
+PAM-00336,CP0336,ALT0336,Produce,Bananas,Pam Panorama Bananas Mini,Pam Panorama,1,kg,1,3.30,,eur,available,PAM ,Milan,12-04-2026,2576875264379,limited edition
+PAM-00337,CP0337,ALT0337,Produce,Potatoes,Zoa Potatoes Mini,Zoa,2.5,kg,1,"€1,93",,€,low stock,PAM,Milan,12/01/2026,4945905375499,imported
+PAM-00338,CP0338,ALT0338,Meat,Chicken,Chicken Breast Mini,Galbani,300.0,g,1, 7.32 ,"€5,14",€,available,PAM,MILANO,07-04-2026,6695981837039,promo shelf
+PAM-00339,CP0339,ALT0339,Meat,Chicken,Chicken Thighs Mini,Mulino Bianco,500,g,4,EUR 4.47,,Euro,OUT OF STOCK,PAM,MILANO,2026-02-28,0731985047882,limited edition
+PAM-00340,CP0340,ALT0340,Meat ,Beef,Semplici e Buoni Minced Beef Mini,Semplici e Buoni,500.0,g,1,4.03,,EUR,available,PAM,Milano,2026-02-22,4916073027587,limited edition
+PAM-00341,CP0341,ALT0341,Meat,Beef,Pam Panorama Beef Steak Mini,Pam Panorama,225.0,g,3, 5.41 , 3.84 ,eur,limited,PAM,MILANO,2026-04-30 10:11:00,4729693215299,new
+PAM-00342,CP0342,ALT0342,Meat,Cured Meats,Prosciutto Cotto Mini,Bio Pam,150.0,g,4,5.92,4.90,€,in stock,PAM,milan,08/01/2026,3303458409430,limited edition
+PAM-00343,CP0343,ALT0343,Meat,cured meats,Semplici e Buoni Salame Milano Mini,Semplici e Buoni,100,g,3,5.83,,eur,,PAM,Milano,07-03-2026,7130802878527,imported
+PAM-00344,CP0344,ALT0344,Pantry,Pasta,Spaghetti Mini confezione 625g,Zoa,625.0,g,4,"1,97",,eur,in stock,PAM,Milano,06-03-2026,3280001959408,new
+PAM-00345,CP0345,ALT0345,Pantry,Pasta,Penne Rigate Mini confezione 500g,Bio Pam,500,g,1,"1,96","1,57",Euro,low stock,PAM,Milan,2026/01/26 23:21,4618028823988,private label
+PAM-00346,CP0346,ALT0346,Pantry,Pasta,Pam Panorama Fusilli Mini, Pam Panorama,625.0,g,1,"€2,24",1.85,EUR,OUT OF STOCK,PAM,MILANO,2026-01-21 06:54:00,4129250698321,promo shelf
+PAM-00347,CP0347,ALT0347,Pantry,Rice,Carnaroli Rice Mini confezione 1.5kg,Semplici e Buoni,1.5,kg,6,3.82,,EUR,OUT OF STOCK,PAM,MILANO,16/02/2026,1811246488078,new
+PAM-00348,CP0348,ALT0348,Pantry,Rice,Basmati Rice Mini,Arkalia,1.25,kg,1,4.21,,eur,in stock,PAM,milan,2026/01/03 19:48,8417193225717,promo shelf
+PAM-00349,CP0349,ALT0349,Pantry,Sauce,tomato passata mini confezione 700ml, PAM,700,ml,8,2.20,,Euro,in stock,PAM,MILANO,2026/01/15 07:15,5767631413192,new
+PAM-00350,CP0350,ALT0350,Pantry,Sauce,Pam Panorama Pesto Genovese Mini,Pam Panorama,190,g,8,2.54,,Euro,low stock,PAM,MILANO,2026-02-24,0999734829045,promo shelf
+PAM-00351,CP0351,ALT0351,Pantry,Oil,Parmalat Extra Virgin Olive Oil Mini,Parmalat,1,l,2,"4,05",,Euro,in stock,PAM,Milano,2026-03-28 14:50:00,5831604960913,
+PAM-00352,CP0352,ALT0352,pantry,Oil,Aia Sunflower Oil Mini,Aia,1,l,8,3.03, 2.23 ,€,,PAM,Milano,14-04-2026,9858939725108,private label
+PAM-00353,CP0353,ALT0353,Pantry,Flour,ALL PURPOSE FLOUR MINI CONFEZIONE 0.75KG,Bio Pam,0.75,kg,4, 3.48 ,,€,limited,PAM,Milan,2026/04/05 07:13,4611105597942,private label
+PAM-00354,CP0354,ALT0354,Pantry,Flour,00 FLOUR MINI CONFEZIONE 1.5KG,Mulino Bianco,1.5,kg,1, 2.78 ,,€,OUT OF STOCK,PAM,MILANO,01-05-2026,9739964176570,promo shelf
+PAM-00355,CP0355,ALT0355,Pantry,Sugar,White Sugar Mini confezione 1.5kg,Arkalia,1.5,kg,,2.38,"1,74",Euro,available,PAM,Milano,2026-01-03 08:47:00,3797130271513,check allergen label
+PAM-00356,CP0356,ALT0356,Pantry,Sugar,Pam Panorama Brown Sugar Mini,Pam Panorama,0.75,kg,2,EUR 1.99,,EUR,in stock,PAM,Milano,2026/01/04 19:17,1644796882489,check allergen label
+PAM-00357,CP0357,ALT0357,Pantry,Coffee,Ground Coffee Mini,Barilla,250,g,3, 3.73 ,,Euro,OUT OF STOCK,PAM,Milano,20-01-2026,3836694718344,promo shelf
+PAM-00358,CP0358,ALT0358,Pantry,Coffee,Coffee Beans Mini confezione 375g,Arkalia,375.0,,6,"€2,74","2,17",eur,limited,PAM,Milan,2026-03-22 20:34:00,3068312928503,private label
+PAM-00359,CP0359,ALT0359,Pantry,Cereal,Semplici e Buoni Corn Flakes Mini,Semplici e Buoni,281.25,g,1,"€3,69",,Euro,limited,PAM,MILANO,2026-01-05 23:00:00,8132991111827,check allergen label
+PAM-00360,CP0360,ALT0360,Pantry,Cereal, Muesli Mini confezione 1125g ,Zoa,1125.0,g,4,"€4,71","3,57",EUR,low stock,PAM,Milan,2026/03/28 13:09,0316307335998,promo shelf
+PAM-00361,CP0361,ALT0361,Frozen,Pizza,Margherita Pizza Mini,Parmalat,437.5,g,4,"5,53",,€,in stock,PAM,milan,12-01-2026,0156339180757,new
+PAM-00362,CP0362,ALT0362, Frozen,Pizza,Vegetable Pizza Mini confezione 570g,Zoa,570.0,g,2,,"€2,79",EUR,available,PAM,milan,27-04-2026,3661592822496,new
+PAM-00363,CP0363,ALT0363,Frozen,Vegetables,Frozen Peas Mini confezione 675g,Zoa,675.0,g,1, 4.48 ,,eur,in stock,PAM,milan,2026-02-20 03:23:00,1443424941561,imported
+PAM-00364,CP0364,ALT0364,Frozen,Vegetables,Frozen Spinach Mini confezione 450g,Parmalat,450,g,8,"€3,67",,EUR,in stock,PAM,milan,2026-02-08 03:15:00,,new
+PAM-00365,CP0365,ALT0365,Frozen,Fish,PAM Frozen Salmon Fillets Mini,PAM,300.0,g,1,EUR 5.78,,€,OUT OF STOCK,PAM,milan,2026/03/10 18:31,7783218673372,imported
+PAM-00366,CP0366,ALT0366,Frozen,Fish,Bio Pam Fish Fingers Mini,Bio Pam,450.0,g,6,"5,44",EUR 4.24,eur,limited,PAM,milan,2026/04/25 18:53,7219989823722,private label
+PAM-00367,CP0367,ALT0367,Beverages,Water,Ferrero Still Water Mini,Ferrero,1.12,l,1, 1.47 ,,eur,,PAM,MILANO,12/04/2026,8444405137488,
+PAM-00368,CP0368,ALT0368,Beverages,Water,Sparkling Water Mini confezione 1.5l,Semplici e Buoni,1.5,l,1,"€2,46",1.94,eur,limited,PAM,Milan,08/01/2026,2823320186162,private label
+PAM-00369,CP0369,ALT0369,Beverages,Juice,Orange Juice Mini confezione 0.75l,Semplici e Buoni,0.75,l,8, 1.10 ,,Euro,,PAM,milan,25/04/2026,9300382955363,promo shelf
+PAM-00370,CP0370,ALT0370,Beverages,Juice,Rio Mare Apple Juice Mini,Rio Mare,1.5,l,4,1.08,EUR 0.95,eur,OUT OF STOCK,PAM,Milano,2026-01-21,1750810535216,imported
+PAM-00371,CP0371,ALT0371,Beverages,Soft Drinks,Pam Panorama Cola Mini,Pam Panorama,1.12,l,1,"€1,66",1.23,eur,low stock,PAM,MILANO,2026-01-24,2536138184878,promo shelf
+PAM-00372,CP0372,ALT0372,Beverages,Soft Drinks,Bio Pam Lemon Soda Mini,Bio Pam,,l,1,"1,75", 1.61 ,Euro,limited,PAM,milan,2026/03/07 19:25,1691582091003,new
+PAM-00373,CP0373,ALT0373,Beverages,Tea,Bio Pam Green Tea Mini,Bio Pam,25.0,pcs,1,1.53,,eur,in stock,PAM,Milan,2026/03/11 13:30,5868587325744,imported
+PAM-00374,CP0374,ALT0374,Beverages,Tea,Rio Mare Black Tea Mini,Rio Mare,18.75,pcs,3,1.31,,Euro,limited,PAM,Milano,2026/01/11 16:29,4887206797238,seasonal item
+PAM-00375,CP0375,ALT0375,Household,Detergent,Dish Soap Mini,Ferrero,,ml,4,4.45,,EUR,limited,PAM,Milan,2026/01/07 15:20,3302973995992,limited edition
+PAM-00376,CP0376,ALT0376,Household,Detergent,LAUNDRY DETERGENT MINI CONFEZIONE 1.5L,Zoa,1.5,l,,3.72,,€,in stock,PAM,milan,20/04/2026,5130399492013,new
+PAM-00377,CP0377,ALT0377,Household,Paper,Toilet Paper Mini,Pam Panorama,12.0,pcs,4,EUR 6.81, 5.69 ,EUR,,PAM,milan,2026/03/10 01:18,5569903365453,
+PAM-00378,CP0378,ALT0378,Household,Paper,Galbani Kitchen Towels Mini,Galbani,6.0,pcs,4,EUR 4.03,,EUR,OUT OF STOCK,PAM,Milan,2026-04-24,2170437965084,check allergen label
+PAM-00379,CP0379,ALT0379,Household,Cleaning,Rio Mare Multi Surface Cleaner Mini,Rio Mare,562.5,ml,3,EUR 3.20,,EUR,,PAM,Milan,25-04-2026,3751777842510,
+PAM-00380,CP0380,ALT0380, Household,Cleaning,PAM Bleach Mini,PAM,3.0,l,8, 4.91 ,,eur,in stock,PAM,MILANO,12-02-2026,9995515403289,
+PAM-00381,CP0381,ALT0381,Personal Care,Shampoo,Mutti Shampoo Mini,Mutti,187.5,ml,6, 3.84 ,,€,OUT OF STOCK,PAM,Milano,11-01-2026,5958398215709,check allergen label
+PAM-00382,CP0382,ALT0382,Personal Care,Shampoo,Zoa Conditioner Mini,zoa,312.5,ml,4,6.09,,€,OUT OF STOCK,PAM,MILANO,2026-03-23,8768838491697,check allergen label
+PAM-00383,CP0383,ALT0383,Personal Care,Soap,Parmalat Hand Soap Mini,PARMALAT,450.0,ml,1,,,Euro,limited,PAM,milan,2026-03-03 08:08:00,0936766177200,promo shelf
+PAM-00384,CP0384,ALT0384, Personal Care,Soap,Bio Pam Body Wash Mini,Bio Pam,750.0,ml,3,3.16,"€2,28",EUR,limited,PAM,Milan,2026/03/24 09:50,4305696058082,private label
+PAM-00385,CP0385,ALT0385,Personal Care,Toothpaste,Toothpaste Mini,PAM,112.5,ml,6,4.78,3.95,Euro,OUT OF STOCK,PAM,MILANO,2026-02-01,0804794905158,new
+PAM-00386,CP0386,ALT0386,Dairy, Mozzarella ,Ferrero Mozzarella Maxi,Ferrero,125,g,1,"€2,33",,EUR,,PAM,Milano,2026/03/07 07:24,,seasonal item
+PAM-00387,CP0387,ALT0387,Dairy,Mozzarella,Semplici e Buoni Mozzarella di Bufala Maxi,Semplici e Buoni,125,g,1,3.07,2.56,EUR,limited,PAM,Milan,2026-01-13 01:36:00,7808970794720,private label
+PAM-00388,CP0388,ALT0388,Dairy,Mozzarella,Fior di latte mozzarella Maxi,Arkalia,200,g,6, 2.24 ,,eur,in stock,PAM,milan,2026-02-10 22:21:00,6043668995704,new
+PAM-00389,CP0389,ALT0389,Dairy,Yogurt,Greek Yogurt Maxi confezione 170g,Ferrero,170,g,6,,1.55,Euro,OUT OF STOCK,PAM,MILANO,28-04-2026,8124057926824,limited edition
+PAM-00390,CP0390,ALT0390,Dairy,Yogurt,Strawberry Yogurt Maxi confezione 2pcs,Bio Pam,2,pcs,3,"2,10",1.81,EUR,low stock,PAM,MILANO,2026/01/20 12:52,4831145064533,
+PAM-00391,CP0391,ALT0391,Dairy,Yogurt,Galbani Plain Yogurt Maxi,Galbani,500,g,4,1.61,1.17,€,,PAM,Milan,2026-02-21 18:41:00,3236298259955,promo shelf
+PAM-00392,CP0392,ALT0392, Dairy , Milk,Whole Milk Maxi,De Cecco,1.25,l,3,"€2,78",,EUR,limited, PAM ,Milano,23-04-2026,2820556419903,
+PAM-00393,CP0393,ALT0393,Dairy,Milk, Zoa Semi-skimmed Milk Maxi ,zoa,1,l,1,3.24,,Euro,,PAM,Milan,2026-03-16,8359944725121,limited edition
+PAM-00394,CP0394,ALT0394,Dairy,Milk,PAM Lactose Free Milk Maxi,PAM,,l,1,EUR 2.04,,EUR,available,PAM,milan,2026-03-29,6124036012782,
+PAM-00395,CP0395,ALT0395,Dairy,Butter,Unsalted Butter Maxi,Arkalia,312.5,g,3,"€1,39",,Euro,low stock,PAM,milan,2026-03-19 18:24:00,0629169670832,
+PAM-00396,CP0396,ALT0396,Dairy,Butter,Arkalia Salted Butter Maxi,Arkalia,250,g,,"1,57",,EUR,available,PAM,Milan,13/04/2026,3374956889682,limited edition
+PAM-00397,CP0397,ALT0397,Dairy,Cheese,Parmigiano Reggiano Maxi confezione 150g,Pam Panorama,150.0,g,3,EUR 2.20,,eur,in stock,PAM,milan,28/04/2026,3608352339199,check allergen label
+PAM-00398,CP0398,ALT0398,Dairy,Cheese,Arkalia Gorgonzola Maxi,Arkalia,112.5,g,8,"€3,27",,eur,low stock,PAM,Milan,23/01/2026,,imported
+PAM-00399,CP0399,ALT0399, Dairy ,Cheese,Arkalia Ricotta Maxi,Arkalia,312.5,g,1, 2.54 ,,Euro,,PAM,MILANO,21-02-2026,9471439516172,new
+PAM-00400,CP0400,ALT0400,Bakery,Bread,Whole Wheat Bread Maxi confezione 750g,PAM,750.0,g,2,2.01,,€,low stock,PAM,MILANO,2026-02-27,9573033416046,
+PAM-00401,CP0401,ALT0401,Bakery,Bread,pam panorama ciabatta maxi,Pam Panorama,450.0,g,8, 3.37 ,EUR 2.59,EUR,in stock,PAM,Milan,2026/03/10 16:50,8457159669914,private label
+PAM-00402,CP0402,ALT0402,Bakery,Bread, Sandwich Bread Maxi confezione 412.5g,Pam Panorama,412.5,g,8,1.62,,€,available,PAM,Milano,09-03-2026,6131212988746,
+PAM-00403,CP0403,ALT0403,Bakery,Croissants,Arkalia Butter Croissant Maxi,Arkalia,4.5,pcs,2,"3,12",2.75,EUR,available,PAM,milan,24/02/2026,0094634818695,limited edition
+PAM-00404,CP0404,ALT0404,Bakery,Croissants,Chocolate Croissant Maxi,Mutti,9.0,pcs,1,"2,98",,EUR,limited,PAM,Milan,2026-01-26 04:00:00,7363656756965,limited edition
+PAM-00405,CP0405,ALT0405,Bakery,Cookies,Chocolate Chip Cookies Maxi, Pam Panorama ,300,g,1,3.54,,Euro,in stock,PAM,MILANO,2026-01-22 19:18:00,9885849165849,seasonal item
+PAM-00406,CP0406,ALT0406,Bakery,Cookies,Digestive Biscuits Maxi confezione 600g ,De Cecco,600.0,g,4, 3.35 ,,EUR,limited,PAM,Milan,2026-03-29 15:08:00,0091542218432,seasonal item
+PAM-00407,CP0407,ALT0407,Produce,Tomatoes,PAM Cherry Tomatoes Maxi,PAM,500,g,4,4.01,,EUR,limited,PAM,milan,2026/01/06 08:48,2804667464932,new
+PAM-00408,CP0408,ALT0408,Produce,Tomatoes,Round Tomatoes Maxi confezione 1kg,Bio Pam,1,kg,3,"3,11",,€,low stock,PAM,Milano,2026/03/11 10:34,4885303468673,seasonal item
+PAM-00409,CP0409,ALT0409,Produce,Salad,iceberg lettuce maxi,Pam Panorama,1,pcs,6,2.11,,eur,low stock,PAM,milan,28/03/2026,3602869088775,imported
+PAM-00410,CP0410,ALT0410,Produce,Salad,Bio Pam Rocket Salad Maxi,Bio Pam,93.75,g,3, 2.52 ,,Euro,limited,PAM,MILANO,07/01/2026,5965528980017,check allergen label
+PAM-00411,CP0411,ALT0411,Produce,Apples,Arkalia Golden Apples Maxi,Arkalia,,kg,8, 2.57 ,,eur,OUT OF STOCK,PAM,MILANO,03-03-2026,8000273137265,
+PAM-00412,CP0412,ALT0412,Produce,Apples,Pink Lady Apples Maxi confezione 1kg,Pam Panorama,1,kg,1,"€2,44",,EUR,available,PAM,MILANO,2026-02-11 09:31:00,7749205031827,private label
+PAM-00413,CP0413,ALT0413,Produce, Bananas, Bio Pam Bananas Maxi ,Bio Pam,1,kg,8,"1,84",,EUR,limited,PAM,Milan,2026-01-07 09:07:00,7895278690300,imported
+PAM-00414,CP0414,ALT0414,Produce,Potatoes,Bio Pam Potatoes Maxi,Bio Pam,2,kg,,"€3,87",,EUR,in stock, PAM,Milan,13/01/2026,8451271053883,check allergen label
+PAM-00415,CP0415,ALT0415,Meat,Chicken,Rio Mare Chicken Breast Maxi,Rio Mare,500.0,g,,EUR 8.13,,€,available,PAM,milan,2026-02-01 00:24:00,2334617891771,private label
+PAM-00416,CP0416,ALT0416,Meat,Chicken ,Chicken Thighs Maxi,Zoa,750.0,g,3,EUR 6.37,"€5,94",Euro,limited,PAM,milan,13-03-2026,6855131277315,imported
+PAM-00417,CP0417,ALT0417,Meat,Beef,Minced Beef Maxi,Pam Panorama,400,g,6,EUR 8.49,"6,35",€,OUT OF STOCK,PAM,Milan,2026-01-19 06:39:00,1308981791159,
+PAM-00418,CP0418,ALT0418,Meat, Beef ,Bio Pam Beef Steak Maxi,Bio Pam,450.0,g,3,EUR 8.69,,EUR,limited,PAM,Milano,2026-04-04 01:02:00,9796887899724,new
+PAM-00419,CP0419,ALT0419,Meat,Cured Meats,Aia Prosciutto Cotto Maxi,Aia,180.0,g,2,"6,93",,Euro,in stock, PAM ,MILANO,2026/04/07 17:08,1308524719535,check allergen label
+PAM-00420,CP0420,ALT0420,Meat,Cured Meats,PAM Salame Milano Maxi,PAM,75.0,g,8,"€4,17",,€,low stock,PAM,MILANO,2026/03/25 20:47,2346929783701,
+PAM-00421,CP0421,ALT0421,Pantry,Pasta,Spaghetti Maxi,Aia,750.0,g,1,"€4,34",,Euro,,PAM,milan,19-03-2026,6624282376637,new
+PAM-00422,CP0422,ALT0422,Pantry,Pasta,Zoa Penne Rigate Maxi,Zoa,500,g,8,"4,28",,eur,low stock,PAM,MILANO,2026/01/26 01:11,5482739548166,
+PAM-00423,CP0423,ALT0423,Pantry,Pasta,Ferrero Fusilli Maxi,Ferrero,375.0,g,1,"€2,16",,€,available,PAM,milan,12-01-2026,5258885821240,check allergen label
+PAM-00424,CP0424,ALT0424,Pantry,Rice,Carnaroli Rice Maxi,BARILLA,1,kg,3, 4.19 ,,Euro,,PAM,MILANO,2026/04/01 03:10,3659455701727,
+PAM-00425,CP0425,ALT0425,Pantry,Rice,Semplici e Buoni Basmati Rice Maxi,Semplici e Buoni,1,kg,8, 3.57 ,,eur,low stock,PAM,Milano,2026-04-17,,limited edition
+PAM-00426,CP0426,ALT0426,Pantry,Sauce,Tomato Passata Maxi,Arkalia,525.0,ml,,"2,42",,EUR,OUT OF STOCK,PAM,Milan,08/04/2026,5285520298135,
+PAM-00427,CP0427,ALT0427,Pantry,Sauce,Arkalia Pesto Genovese Maxi,Arkalia,142.5,g,4,EUR 3.44,,eur,,PAM,milan,2026-02-17 07:02:00,6000004683524,private label
+PAM-00428,CP0428,ALT0428,Pantry,Oil, Extra Virgin Olive Oil Maxi confezione 1.5l,PAM,1.5,l,2,"€2,93",,EUR,available,PAM,milan,02/01/2026,0127401296764,new
+PAM-00429,CP0429,ALT0429,Pantry,Oil,Sunflower Oil Maxi confezione 1l,Galbani,1,l,1, 3.09 ,"€2,28",EUR,available,PAM,Milan,15-02-2026,,limited edition
+PAM-00430,CP0430,ALT0430,Pantry,Flour,Pam Panorama All Purpose Flour Maxi,Pam Panorama,1,kg,1,2.18,,€,,PAM,Milano,2026-04-12 18:12:00,5874744124043,
+PAM-00431,CP0431,ALT0431,Pantry,Flour,Pam Panorama 00 Flour Maxi,Pam Panorama,1,kg,1,2.90,,€,limited,PAM,Milan,03-04-2026,3211194701172,
+PAM-00432,CP0432,ALT0432,Pantry,Sugar,Pam Panorama White Sugar Maxi, Pam Panorama ,1.5,kg,1, 3.75 , 3.46 ,Euro,available,PAM,Milan,2026-02-07,4302120663267,
+PAM-00433,CP0433,ALT0433,Pantry,Sugar,Brown Sugar Maxi confezione 1kg,Arkalia,1,kg,2,"4,73",,EUR,OUT OF STOCK,PAM,Milan,22/01/2026,1777364933546,seasonal item
+PAM-00434,CP0434,ALT0434,Pantry,Coffee,Ground Coffee Maxi confezione 250g,Bio Pam,250,g,4,"€4,36",,Euro,,PAM,milan,2026/01/08 23:30,6386233884101,promo shelf
+PAM-00435,CP0435,ALT0435,Pantry,coffee,Coffee Beans Maxi confezione 500g,Arkalia,500,g,4,"1,89",,€,OUT OF STOCK,PAM,Milano,01-03-2026,9514674702375,check allergen label
+PAM-00436,CP0436,ALT0436,Pantry,Cereal,Corn Flakes Maxi,Bio Pam,375,g,6, 1.99 ,"€1,53",Euro,OUT OF STOCK,PAM,milan,2026-01-21 06:46:00,4831821181485,seasonal item
+PAM-00437,CP0437,ALT0437,Pantry,Cereal,Muesli Maxi,Mutti,1125.0,g,2,"€3,17",,eur,OUT OF STOCK,PAM,Milan,2026-02-07 19:50:00,8309917922939,limited edition
+PAM-00438,CP0438,ALT0438,Frozen,Pizza,Margherita Pizza Maxi,Zoa,437.5,g,4,"4,16",,Euro,in stock,PAM,Milano,2026-01-22 02:20:00,4766590534975,new
+PAM-00439,CP0439,ALT0439,Frozen,Pizza,Vegetable Pizza Maxi confezione 380g,Semplici e Buoni,380,g,4,2.51,,Euro,low stock,PAM,Milano,18-04-2026,5716170297272,promo shelf
+PAM-00440,CP0440,ALT0440,Frozen,Vegetables,Frozen Peas Maxi confezione 337.5g,Arkalia,337.5,g,8,3.54,,Euro,limited,PAM,MILANO,23-04-2026,4465517372342,seasonal item
+PAM-00441,CP0441,ALT0441,Frozen,Vegetables,Arkalia Frozen Spinach Maxi,Arkalia,337.5,g,4,4.53,,eur,low stock,PAM,Milan,2026-02-09 13:02:00,7359181580849,promo shelf
+PAM-00442,CP0442,ALT0442,Frozen,Fish,Frozen Salmon Fillets Maxi confezione 500g,Zoa,500.0,g,8,"4,59",,eur,in stock,PAM,MILANO,12/01/2026,5361432699537,new
+PAM-00443,CP0443,ALT0443,Frozen,Fish,Arkalia Fish Fingers Maxi,Arkalia,300,g,, 4.52 ,,eur,in stock,PAM,Milan,2026-03-11 01:41:00,2898217449459,
+PAM-00444,CP0444,ALT0444,Beverages,Water,Bio Pam Still Water Maxi,Bio Pam,1.12,l,1,1.92,,EUR,in stock,PAM,Milan,03/03/2026,9094467507504,seasonal item
+PAM-00445,CP0445,ALT0445, Beverages,Water,PAM Sparkling Water Maxi,PAM,1.12,l,3, 1.21 ,,EUR,available,PAM,MILANO,2026-04-21,7769693911098,
+PAM-00446,CP0446,ALT0446,Beverages,Juice,Zoa Orange Juice Maxi,Zoa,1,l,2, 1.98 ,,EUR,OUT OF STOCK,PAM,milan,2026-04-14 15:48:00,7390071365910,private label
+PAM-00447,CP0447,ALT0447,Beverages,Juice,PAM Apple Juice Maxi, PAM ,1,l,6,"1,56",,€,low stock,PAM,Milano,2026/04/25 09:50,5702789292147,limited edition
+PAM-00448,CP0448,ALT0448,Beverages,Soft Drinks,Pam Panorama Cola Maxi,Pam Panorama,1.5,l,1, 1.29 ,"€1,19",eur,low stock,PAM,MILANO,2026-02-09 07:26:00,8828188966727,promo shelf
+PAM-00449,CP0449,ALT0449,Beverages,Soft Drinks,Lemon Soda Maxi,Galbani,1.5,l,3,EUR 2.45,,EUR,available,PAM,Milan,2026-02-08 03:02:00,8118624380118,check allergen label
+PAM-00450,CP0450,ALT0450,Beverages,Tea,Barilla Green Tea Maxi,Barilla,25.0,pcs,6,"1,33","1,14",EUR,OUT OF STOCK,PAM,Milano,11-03-2026,2258160223779,check allergen label
+PAM-00451,CP0451,ALT0451,Beverages,Tea,Black Tea Maxi confezione 37.5pcs,Semplici e Buoni,37.5,pcs,4,EUR 2.51,,Euro,low stock,PAM,Milan,2026-04-13 23:37:00,9277513093732,seasonal item
+PAM-00452,CP0452,ALT0452,Household,Detergent,Arkalia Dish Soap Maxi,Arkalia,937.5,ml,3,EUR 3.46,,eur,OUT OF STOCK,PAM,Milano,08-01-2026,6540791370571,
+PAM-00453,CP0453,ALT0453,Household,Detergent,Mulino Bianco Laundry Detergent Maxi,Mulino Bianco,2.25,l,2,5.54,,Euro,low stock,PAM,milan,2026/01/19 11:40,1332057371940,private label
+PAM-00454,CP0454,ALT0454, Household,Paper, Pam Panorama Toilet Paper Maxi,Pam Panorama,6.0,pcs,1,"€6,33",,eur,in stock,PAM,Milan,06-03-2026,7552932767330,
+PAM-00455,CP0455,ALT0455,Household,Paper,Zoa Kitchen Towels Maxi,Zoa,3.0,pcs,4,"5,11",,EUR,available,PAM,milan,23/01/2026,8183252448531,
+PAM-00456,CP0456,ALT0456,Household,Cleaning,Pam Panorama Multi Surface Cleaner Maxi,PAM PANORAMA,562.5,ml,4, 6.85 ,,€,in stock,PAM,milan,26/03/2026,6189078315234,private label
+PAM-00457,CP0457,ALT0457,Household,Cleaning,Pam Panorama Bleach Maxi,Pam Panorama,2,l,1,EUR 4.51,,€,low stock,PAM,Milano,29-03-2026,4233693909147,
+PAM-00458,CP0458,ALT0458,Personal Care, Shampoo,Shampoo Maxi,PAM,375.0,ml,8,"€3,07",,EUR,available,PAM,Milan,17-03-2026,,promo shelf
+PAM-00459,CP0459,ALT0459,Personal Care,Shampoo,Semplici e Buoni Conditioner Maxi,SEMPLICI E BUONI,187.5,ml,4,3.77,,€,OUT OF STOCK,PAM,Milan,2026-03-01,3790879804186,
+PAM-00460,CP0460,ALT0460,Personal Care,Soap,Bio Pam Hand Soap Maxi,Bio Pam,300,ml,3,3.97,,€,limited,PAM,Milano,2026-01-09 12:15:00,3604024517194,promo shelf
+PAM-00461,CP0461,ALT0461,Personal Care,Soap,Semplici e Buoni Body Wash Maxi,Semplici e Buoni,750.0,ml,4,"€3,46",,eur,limited,PAM,milan,2026-04-06 15:09:00,5875674436322,new
+PAM-00462,CP0462,ALT0462,Personal Care,Toothpaste,Toothpaste Maxi,Zoa,112.5,ml,6,"5,26",,eur,available,PAM,Milano,2026-04-21 14:55:00,4777842659798,imported
+PAM-00463,CP0463,ALT0463,dairy,Mozzarella,Semplici e Buoni Mozzarella Light,Semplici e Buoni ,125,g,1,1.66,EUR 1.53,EUR,,PAM,Milan,29/01/2026,1789023673963,
+PAM-00464,CP0464,ALT0464,Dairy,Mozzarella,Arkalia Mozzarella di Bufala Light,Arkalia,156.25,g,1,"2,77",,EUR,low stock,PAM,milan,01/05/2026,6430359018181,
+PAM-00465,CP0465,ALT0465,Dairy,Mozzarella,Fior di latte mozzarella Light,Pam Panorama,200,g,4,EUR 2.01,,€,,PAM,Milan,02-02-2026,5521808595448,new
+PAM-00466,CP0466,ALT0466,Dairy,Yogurt,SEMPLICI E BUONI GREEK YOGURT LIGHT,Semplici e Buoni,127.5,g,1,"€1,67",,€,OUT OF STOCK,PAM,MILANO,2026-03-09 21:22:00,8024274341842,check allergen label
+PAM-00467,CP0467,ALT0467,Dairy,Yogurt,Strawberry Yogurt Light confezione 2pcs,Pam Panorama,2,pcs,3,"2,92",,€,low stock,PAM,milan,03-03-2026,7730638556190,promo shelf
+PAM-00468,CP0468,ALT0468,Dairy,Yogurt,Bio Pam Plain Yogurt Light,Bio Pam,500,g,8,EUR 1.63,,eur,OUT OF STOCK,PAM,Milano,2026/02/20 19:03,5372420092996,imported
+PAM-00469,CP0469,ALT0469,Dairy ,Milk,Whole Milk Light confezione 0.75l,Zoa,0.75,l,8,EUR 1.31,,eur,OUT OF STOCK,PAM,milan,17-03-2026,4349670973893,imported
+PAM-00470,CP0470,ALT0470,Dairy,Milk,Semi-skimmed Milk Light,PAM,1,l,1,,,Euro,limited,PAM,Milan,2026/02/06 15:45,4890217720744,
+PAM-00471,CP0471,ALT0471,Dairy,Milk,Zoa Lactose Free Milk Light,Zoa,1,l,8,2.63,"1,88",Euro,in stock,PAM,milan,2026/02/23 13:22,8978726196971,seasonal item
+PAM-00472,CP0472,ALT0472,Dairy,Butter,Arkalia Unsalted Butter Light,Arkalia,250,g,1, 3.09 ,"€2,77",Euro,,PAM,MILANO,2026-01-29,0276309015730,
+PAM-00473,CP0473,ALT0473,Dairy,Butter,Arkalia Salted Butter Light,Arkalia,187.5,g,8, 2.50 ,"2,16",EUR,low stock,PAM,MILANO,2026-03-12,7318144210209,private label
+PAM-00474,CP0474,ALT0474,Dairy,Cheese,Parmigiano Reggiano Light,Zoa,200,g,2,1.88,,Euro,low stock,PAM,Milan,2026-02-02,5246247021770,check allergen label
+PAM-00475,CP0475,ALT0475,Dairy,Cheese,Barilla Gorgonzola Light,Barilla ,225.0,g,8,"2,97",,EUR,low stock,PAM,milan,2026/02/26 00:50,,imported
+PAM-00476,CP0476,ALT0476,Dairy,Cheese,Ricotta Light,Arkalia ,312.5,g,1,"€2,04",,€,limited,PAM,MILANO,18-04-2026,4245912536858,private label
+PAM-00477,CP0477,ALT0477,Bakery,Bread,Whole Wheat Bread Light confezione 750g,Bio Pam,750.0,g,4,1.89,"€1,45",eur,low stock,PAM,milan,2026/05/01 10:45,0984145483038,new
+PAM-00478,CP0478,ALT0478,Bakery,Bread,Zoa Ciabatta Light,Zoa,300,g,,"€2,29",1.67,Euro,low stock,PAM,Milan,23-03-2026,1606302583668,promo shelf
+PAM-00479,CP0479,ALT0479,Bakery, Bread,SANDWICH BREAD LIGHT CONFEZIONE 550G,Pam Panorama,550,g,3,EUR 3.12,,Euro,available,PAM,MILANO,2026/02/10 10:41,1254756080079,check allergen label
+PAM-00480,CP0480,ALT0480,Bakery,Croissants,Aia Butter Croissant Light,Aia,6,,1, 2.08 ,,eur,available,PAM,Milan,21/03/2026,6723827814696,promo shelf
+PAM-00481,CP0481,ALT0481,Bakery,Croissants,Bio Pam Chocolate Croissant Light ,Bio Pam,6,pcs,3,EUR 2.63,,eur,low stock,PAM,milan,14-03-2026,0249124690259,promo shelf
+PAM-00482,CP0482,ALT0482,Bakery,Cookies,Chocolate Chip Cookies Light,Arkalia,375.0,g,1,"2,13","1,75",eur,, PAM,MILANO,31-01-2026,7031286913214,
+PAM-00483,CP0483,ALT0483,Bakery,Cookies,Digestive Biscuits Light confezione 300g,Zoa,300.0,g,2,EUR 3.70,3.06,€,in stock,PAM,milan,2026-03-04,9941264288797,promo shelf
+PAM-00484,CP0484,ALT0484,Produce,Tomatoes,Mulino Bianco Cherry Tomatoes Light,Mulino Bianco,500,g,6,2.87,,Euro,limited,PAM,Milano,2026-03-29,9526653306773,imported
+PAM-00485,CP0485,ALT0485,Produce,Tomatoes,Round Tomatoes Light confezione 1kg,Zoa,1,kg,4,EUR 2.23,,EUR,low stock,PAM,milan,22-04-2026,0018484564803,check allergen label
+PAM-00486,CP0486,ALT0486,Produce,Salad,bio pam iceberg lettuce light,Bio Pam,1.25,pcs,4,EUR 2.62,,EUR,,PAM,MILANO,2026/01/23 16:53,0902068183691,promo shelf
+PAM-00487,CP0487,ALT0487,Produce,Salad,Ferrero Rocket Salad Light,Ferrero,125,g,2,"3,26",,€,limited,PAM,Milano,2026/01/09 13:58,1380818137972,promo shelf
+PAM-00488,CP0488,ALT0488,Produce,Apples,Golden Apples Light,Zoa,1,,6,2.22,,eur,,PAM,Milano,2026/03/05 07:56,6632759348755,private label
+PAM-00489,CP0489,ALT0489,Produce,Apples,Pink Lady Apples Light confezione 1kg,Semplici e Buoni,1,kg,8,EUR 3.81,,€,,PAM,Milan,27-03-2026,3967753621027,check allergen label
+PAM-00490,CP0490,ALT0490,Produce,Bananas, Bananas Light ,Galbani,0.75,kg,4,3.06,"2,51",EUR,OUT OF STOCK,PAM,milan,2026/01/25 12:06,1482347993184,check allergen label
+PAM-00491,CP0491,ALT0491,Produce,Potatoes,Zoa Potatoes Light,Zoa,2.5,kg,,EUR 2.06,,Euro,low stock,PAM,MILANO,17/02/2026,6308253900543,imported
+PAM-00492,CP0492,ALT0492,Meat,Chicken,Chicken Breast Light,Rio Mare,300.0,g,1,4.90,,Euro,OUT OF STOCK, PAM,milan,2026-03-13 18:31:00,6638003313758,seasonal item
+PAM-00493,CP0493,ALT0493,Meat,Chicken,Chicken Thighs Light,Arkalia,625.0,g,4, 5.57 ,,€,limited,PAM,milan,23/02/2026,8611395543405,promo shelf
+PAM-00494,CP0494,ALT0494,Meat ,Beef,Semplici e Buoni Minced Beef Light, Semplici e Buoni,400,g,4,EUR 7.05,,eur,low stock,PAM,MILANO,2026-01-23,1035358399525,promo shelf
+PAM-00495,CP0495,ALT0495,Meat,Beef,Beef Steak Light,PAM,300,g,1,EUR 8.15,,Euro,OUT OF STOCK,PAM,MILANO,2026-04-04,,promo shelf
+PAM-00496,CP0496,ALT0496,Meat ,Cured Meats,Prosciutto Cotto Light,Pam Panorama,150.0,g,8,"€7,22",,eur,limited,PAM,Milan,12-04-2026,5151528548959,new
+PAM-00497,CP0497,ALT0497,Meat,Cured Meats, Salame Milano Light,Zoa,100,g,1,,,eur,low stock,PAM,MILANO,22-01-2026,1290424082746,seasonal item
+PAM-00498,CP0498,ALT0498,Pantry,Pasta,Spaghetti Light,Ferrero,500,g,2,2.79,2.40,€,in stock,pam,Milano,2026-03-13,6730091646191,
+PAM-00499,CP0499,ALT0499,Pantry, Pasta ,Parmalat Penne Rigate Light,Parmalat,500,g,8,"3,40",,Euro,limited,PAM,Milano,07-04-2026,4384412632623,limited edition
+PAM-00500,CP0500,ALT0500,Pantry,Pasta,Zoa Fusilli Light,Zoa,500,g,6,"2,67",,€,limited,PAM,Milan,2026/03/04 01:31,0766609654592,seasonal item
+PAM-00501,CP0501,ALT0501,Pantry,Rice,Carnaroli Rice Light confezione 0.75kg,Zoa,0.75,kg,1,"€3,57",,€,low stock,PAM,MILANO,2026-03-09,5948270690871,imported
+PAM-00502,CP0502,ALT0502,Pantry,RICE,PAM Basmati Rice Light, PAM ,1,kg,1,4.73,,eur,low stock,PAM,Milan,10-03-2026,0158043939881,seasonal item
+PAM-00503,CP0503,ALT0503,Pantry,Sauce,Arkalia Tomato Passata Light,Arkalia,875.0,ml,1,3.10,,Euro,,PAM,Milan,21-02-2026,9809988953774,limited edition
+PAM-00504,CP0504,ALT0504,Pantry,Sauce, Bio Pam Pesto Genovese Light ,Bio Pam,190,g,2, 2.87 ,"2,52",€,in stock,PAM,MILANO,2026-02-07,5507788439950,imported
+PAM-00505,CP0505,ALT0505,Pantry,Oil,Extra Virgin Olive Oil Light,Arkalia,1,l,2,EUR 2.73,,EUR,OUT OF STOCK,PAM,MILANO,03-04-2026,7810881305754,private label
+PAM-00506,CP0506,ALT0506,Pantry,Oil,PAM Sunflower Oil Light ,PAM,0.75,l,1, 3.66 ,,EUR,OUT OF STOCK,PAM,milan,2026/04/04 19:22,2928406453384,
+PAM-00507,CP0507,ALT0507,Pantry,Flour,All Purpose Flour Light confezione 1kg,Pam Panorama,1,kg,3,"4,71",,€,limited,PAM,Milan,2026/04/06 20:21,1548789708746,
+PAM-00508,CP0508,ALT0508,Pantry,Flour,00 Flour Light,Semplici e Buoni,1,kg,3,"€1,90",,eur,limited,PAM,Milano,2026/04/17 20:04,,new
+PAM-00509,CP0509,ALT0509,Pantry,Sugar,Semplici e Buoni White Sugar Light,Semplici e Buoni,1.5,kg,6,"€3,75",,€,in stock,PAM,MILANO,2026/03/26 08:45,7857671634477,new
+PAM-00510,CP0510,ALT0510,Pantry,Sugar,Bio Pam Brown Sugar Light, Bio Pam ,1.25,kg,4,4.14,EUR 3.35,€,,PAM,Milano,04/04/2026,6926192827930,imported
+PAM-00511,CP0511,ALT0511,Pantry,Coffee,Ground Coffee Light,Semplici e Buoni,375.0,g,8,2.86,,EUR,,PAM,milan,24/01/2026,,limited edition
+PAM-00512,CP0512,ALT0512,Pantry,Coffee,Coffee Beans Light,Bio Pam,500,g,6, 3.18 ,,eur,low stock,PAM,MILANO,2026-04-11,7485420848139,limited edition
+PAM-00513,CP0513,ALT0513,Pantry,Cereal,Corn Flakes Light confezione 281.25g ,zoa,281.25,g,1,"1,91",,eur,low stock,PAM,milan,20/04/2026,0174971364125,promo shelf
+PAM-00514,CP0514,ALT0514,Pantry,Cereal,Muesli Light,Semplici e Buoni,562.5,g,6,EUR 4.64, 4.26 ,EUR,available,PAM,milan,2026/01/03 01:52,7470465717377,limited edition
+PAM-00515,CP0515,ALT0515,Frozen,Pizza,Margherita Pizza Light,Zoa,350,g,8,3.95,,EUR,low stock,PAM,Milan,26-02-2026,5532587887022,seasonal item
+PAM-00516,CP0516,ALT0516,Frozen,Pizza,Vegetable Pizza Light confezione 380g,De Cecco,380,g,3,"€5,38",,€,low stock,PAM,Milano,01/03/2026,1454228974347,
+PAM-00517,CP0517,ALT0517,Frozen ,Vegetables, Pam Panorama Frozen Peas Light ,Pam Panorama,675.0,g,2,3.90,,eur,,PAM,milan,22-04-2026,3868056106217,check allergen label
+PAM-00518,CP0518,ALT0518,frozen,Vegetables,Semplici e Buoni Frozen Spinach Light,Semplici e Buoni,450,g,2,4.48,EUR 3.39,EUR,in stock,PAM,milan,2026-01-31 03:47:00,8515969813221,new
+PAM-00519,CP0519,ALT0519,Frozen,Fish,Frozen Salmon Fillets Light confezione 300g,Parmalat,300.0,g,1, 4.75 ,,EUR,OUT OF STOCK,PAM,milan,23/01/2026,8340466504638,new
+PAM-00520,CP0520,ALT0520,Frozen,Fish,Ferrero Fish Fingers Light,Ferrero,225.0,g,6,EUR 3.80,,€,available,PAM,Milan,2026-01-18,5660944697895,check allergen label
+PAM-00521,CP0521,ALT0521,Beverages,Water,Still Water Light,PAM,2.25,l,6,EUR 2.36,,eur,low stock,PAM,Milano,2026-02-18,,seasonal item
+PAM-00522,CP0522,ALT0522,Beverages,Water,PAM Sparkling Water Light,PAM,1.88,l,4,"2,05", 1.49 ,Euro,in stock,PAM,milan,2026-02-06,6317762601835,check allergen label
+PAM-00523,CP0523,ALT0523,beverages, Juice,Orange Juice Light confezione 1l,Arkalia,1,l,8,"€2,23",,€,available,PAM,milan,22-03-2026,4155709919079,
+PAM-00524,CP0524,ALT0524,Beverages,Juice ,Apple Juice Light confezione 1l,Semplici e Buoni,1,l,, 1.74 ,,Euro,limited,PAM,milan,2026/01/18 15:15,2178415166175,promo shelf
+PAM-00525,CP0525,ALT0525,Beverages,Soft Drinks,Cola Light,Pam Panorama,1.88,l,6,"1,66","1,45",Euro,,PAM,milan,21/01/2026,4547816896552,seasonal item
+PAM-00526,CP0526,ALT0526,Beverages,Soft Drinks, Lavazza Lemon Soda Light,Lavazza ,2.25,l,1,EUR 1.70,,€,available,PAM,MILANO,2026-04-11,6360209628686,
+PAM-00527,CP0527,ALT0527,Beverages,Tea,Green Tea Light confezione 30pcs ,De Cecco,30.0,pcs,8,2.06,,Euro,low stock,PAM,MILANO,09/04/2026,7881581410882,private label
+PAM-00528,CP0528,ALT0528,Beverages,Tea,Semplici e Buoni Black Tea Light,Semplici e Buoni,18.75,pcs,6,"€1,58",,EUR,,PAM,milan,2026/02/23 08:47,,
+PAM-00529,CP0529,ALT0529,Household,Detergent,Dish Soap Light,Bio Pam,937.5,ml,8,"5,79",,EUR,low stock,PAM,milan,11/01/2026,9825162816727,private label
+PAM-00530,CP0530,ALT0530,Household,Detergent,Bio Pam Laundry Detergent Light,Bio Pam,2.25,l,1,EUR 3.93,,eur,in stock,PAM,Milan,2026-02-02,8905377998519,
+PAM-00531,CP0531,ALT0531,Household,Paper,Semplici e Buoni Toilet Paper Light,Semplici e Buoni,8,pcs,1,"€4,07",,EUR,limited,PAM,Milan,2026/01/02 01:27,9500015969354,check allergen label
+PAM-00532,CP0532,ALT0532,Household,Paper,Ferrero Kitchen Towels Light,Ferrero,4,pcs,2, 2.92 ,,eur,available,PAM,MILANO,13-01-2026,8993703872621,check allergen label
+PAM-00533,CP0533,ALT0533,Household,Cleaning,Arkalia Multi Surface Cleaner Light,Arkalia,562.5,ml,1,EUR 3.63,,Euro,low stock,PAM,Milan,13-01-2026,0449092522803,limited edition
+PAM-00534,CP0534,ALT0534,Household,Cleaning,Bleach Light,PAM,2.5,l,1, 5.52 ,,€,low stock,PAM,MILANO,21/02/2026,5655052843044,new
+PAM-00535,CP0535,ALT0535,Personal Care,Shampoo,Granarolo Shampoo Light,granarolo,187.5,ml,1,3.58,,€,OUT OF STOCK,PAM,MILANO,22-02-2026,5945838521495,
+PAM-00536,CP0536,ALT0536,Personal Care,Shampoo,Conditioner Light confezione 375ml,zoa,375.0,ml,1, 4.08 ,,EUR,limited,PAM,Milan,2026-04-18 08:09:00,7844150568286,limited edition
+PAM-00537,CP0537,ALT0537,Personal Care,Soap,PAM Hand Soap Light,PAM,450.0,ml,8,3.84,3.18,EUR,,PAM,MILANO,2026/04/11 08:06,2589394259623,private label
+PAM-00538,CP0538,ALT0538,Personal Care,Soap,Body Wash Light,Semplici e Buoni,500,ml,1,2.86,EUR 2.65,Euro,limited,PAM,Milan,2026/04/26 18:54,4238993475843,new
+PAM-00539,CP0539,ALT0539,Personal Care,Toothpaste,PAM Toothpaste Light,PAM,75,ml,1,"€5,12",,€,,PAM,milan,2026/04/12 17:57,1424696371099,check allergen label
+PAM-00540,CP0540,ALT0540,Dairy,Mozzarella,Mozzarella Fresh confezione 156.25g,Bio Pam,156.25,g,4,"1,64",,EUR,low stock,PAM,milan,2026-01-10 19:33:00,1172346603809,check allergen label
+PAM-00541,CP0541,ALT0541,Dairy,Mozzarella,Mozzarella di Bufala Fresh, Mulino Bianco ,93.75,g,1,"€2,36",,EUR,limited,PAM,MILANO,22-01-2026,1856067148981,new
+PAM-00542,CP0542,ALT0542,Dairy,Mozzarella,Zoa Fior di latte mozzarella Fresh,Zoa,200,g,2,2.73,"2,23",EUR,available,PAM,milan,27-04-2026,6508829031186,private label
+PAM-00543,CP0543,ALT0543,Dairy,Yogurt,Greek Yogurt Fresh,Pam Panorama,255.0,g,1,3.17,,EUR,low stock,PAM,milan,2026/03/12 13:25,3797275458143,promo shelf
+PAM-00544,CP0544,ALT0544,Dairy,Yogurt,Arkalia Strawberry Yogurt Fresh,Arkalia,2,pcs,4,EUR 3.22,,Euro,low stock,PAM,milan,20-03-2026,,seasonal item
+PAM-00545,CP0545,ALT0545,Dairy,Yogurt,Plain Yogurt Fresh,Arkalia,375.0,g,1,"€1,73",,EUR,available,PAM,milan,14/02/2026,8871879882351,check allergen label
+PAM-00546,CP0546,ALT0546,Dairy,milk,Whole Milk Fresh,Zoa,1,l,1,2.05,,eur,limited,PAM,milan,2026-03-01 13:47:00,,private label
+PAM-00547,CP0547,ALT0547,Dairy,Milk,Semi-skimmed Milk Fresh confezione 1.5l,Semplici e Buoni,1.5,l,1,2.87,,eur,low stock,PAM,MILANO,2026-01-02 18:40:00,0409337326080,
+PAM-00548,CP0548,ALT0548,Dairy,Milk,Arkalia Lactose Free Milk Fresh,Arkalia,1,l,4,,,eur,,PAM,MILANO,2026-04-04 11:12:00,0004891685841,check allergen label
+PAM-00549,CP0549,ALT0549,Dairy,Butter, Unsalted Butter Fresh ,Semplici e Buoni,312.5,g,2,EUR 1.70,,eur,low stock,PAM,MILANO,02/02/2026,1995290306956,
+PAM-00550,CP0550,ALT0550,Dairy,Butter,Salted Butter Fresh confezione 250g,Zoa,250,g,1,"€1,92",,€,OUT OF STOCK,PAM,milan,2026-03-19,1348202463383,limited edition
+PAM-00551,CP0551,ALT0551,Dairy,Cheese,Pam Panorama Parmigiano Reggiano Fresh,Pam Panorama,250.0,g,3,EUR 2.25, 1.71 ,Euro,,PAM,milan,02/03/2026,1647896105360,
+PAM-00552,CP0552,ALT0552,Dairy,CHEESE,Gorgonzola Fresh confezione 150g,Bio Pam,150,g,1,"€3,15",,Euro,in stock,PAM,Milan,2026/01/07 06:56,3688301160641,
+PAM-00553,CP0553,ALT0553,Dairy,Cheese,Ricotta Fresh,Bio Pam,375.0,g,8,1.80,,EUR,low stock,PAM,Milano,2026-02-01 10:58:00,4535187863858,check allergen label
+PAM-00554,CP0554,ALT0554,Bakery,Bread,Rio Mare Whole Wheat Bread Fresh,Rio Mare,500,g,8,3.18,,eur,limited,PAM,MILANO,2026/03/18 04:30,8769704220244,private label
+PAM-00555,CP0555,ALT0555,Bakery,Bread,Ciabatta Fresh,Zoa,300,g,1,"€1,94",,Euro,low stock,PAM,milan,2026-02-15 19:03:00,6867149169680,seasonal item
+PAM-00556,CP0556,ALT0556,Bakery,Bread,Sandwich Bread Fresh,Galbani,687.5,g,3,"€2,88",,eur,in stock,PAM,MILANO,16/03/2026,4620975917766,seasonal item
+PAM-00557,CP0557,ALT0557,Bakery,Croissants,Butter Croissant Fresh,Pam Panorama,7.5,pcs,1,"1,51",,eur,low stock,PAM,MILANO,2026/04/18 19:53,5504868049875,private label
+PAM-00558,CP0558,ALT0558,Bakery,Croissants,Granarolo Chocolate Croissant Fresh,Granarolo,6,pcs,1, 2.32 ,,eur,in stock,PAM,Milano,14-03-2026,9444517030368,
+PAM-00559,CP0559,ALT0559,Bakery,Cookies,Chocolate Chip Cookies Fresh ,Pam Panorama,450.0,g,1,EUR 3.21, 2.82 ,eur,OUT OF STOCK,PAM,Milano,2026-03-25 16:23:00,0104880744880,new
+PAM-00560,CP0560,ALT0560,Bakery,Cookies,Zoa Digestive Biscuits Fresh,Zoa,600.0,g,6,"€2,46",,€,limited,PAM,Milano,2026-03-23 12:49:00,9991430040638,seasonal item
+PAM-00561,CP0561,ALT0561,Produce,Tomatoes,Cherry Tomatoes Fresh confezione 500g,Bio Pam,500,g,,EUR 3.02,2.41,EUR,OUT OF STOCK,PAM,Milan,2026-03-17 06:12:00,7486971210698,
+PAM-00562,CP0562,ALT0562,Produce,Tomatoes,Semplici e Buoni Round Tomatoes Fresh,Semplici e Buoni,1.25,kg,2,"3,05",,EUR,available,PAM,Milano,11/04/2026,6573873341720,limited edition
+PAM-00563,CP0563,ALT0563,Produce,Salad,Semplici e Buoni Iceberg Lettuce Fresh, Semplici e Buoni ,1.5,pcs,6,"2,95",,Euro,OUT OF STOCK,PAM,Milan,2026-01-03 16:03:00,8503752335549,seasonal item
+PAM-00564,CP0564,ALT0564,Produce,Salad,Rocket Salad Fresh,Pam Panorama,93.75,g,1,2.74,,€,limited,PAM,MILANO,2026-01-07 17:20:00,8514237048551,new
+PAM-00565,CP0565,ALT0565,Produce,Apples,Golden Apples Fresh confezione 1kg,Mulino Bianco,1,kg,6,"€3,97",,€,OUT OF STOCK,PAM,MILANO,2026-02-06,9759989001118,check allergen label
+PAM-00566,CP0566,ALT0566,Produce,Apples,Pink Lady Apples Fresh,Galbani,1,kg,2,EUR 2.94,,EUR,low stock,PAM,milan,2026/03/19 10:45,3728300930633,
+PAM-00567,CP0567,ALT0567,Produce,Bananas,Bananas Fresh,Zoa,1,kg,1,1.97, 1.76 ,EUR,,PAM,Milan,2026/04/10 12:15,1383083393346,
+PAM-00568,CP0568,ALT0568,Produce,Potatoes,Potatoes Fresh confezione 2.5kg, Mutti ,2.5,kg,8,"1,61","1,41",Euro,available,PAM,MILANO,2026-03-08 18:14:00,,limited edition
+PAM-00569,CP0569,ALT0569,Meat,Chicken,Chicken Breast Fresh confezione 600g,Arkalia,600.0,g,3,3.56,"3,22",Euro,OUT OF STOCK,PAM,MILANO,03-01-2026,1649024838966,
+PAM-00570,CP0570,ALT0570,Meat,Chicken,Lavazza Chicken Thighs Fresh,Lavazza,750.0,g,1,"8,75",,EUR,low stock,PAM,Milano,11/01/2026,6079274622225,imported
+PAM-00571,CP0571,ALT0571,Meat,Beef,Lavazza Minced Beef Fresh,Lavazza,400,g,1,8.21,"7,72",€,in stock,PAM,milan,17-01-2026,9484716756948,check allergen label
+PAM-00572,CP0572,ALT0572,Meat,Beef,Beef Steak Fresh confezione 375g,Bio Pam,375.0,g,1, 6.51 ,,EUR,limited,PAM,milan,07/02/2026,4085955149572,promo shelf
+PAM-00573,CP0573,ALT0573,Meat,Cured Meats,Zoa Prosciutto Cotto Fresh, Zoa,150.0,g,6,5.52,"€5,23",Euro,available,PAM,Milan,2026-04-16,7956050206515,
+PAM-00574,CP0574,ALT0574,Meat,Cured Meats,Salame Milano Fresh,Pam Panorama,125.0,g,1,EUR 6.98,"€6,35",EUR,OUT OF STOCK,PAM,MILANO,12-04-2026,8190117078211,private label
+PAM-00575,CP0575,ALT0575,Pantry,Pasta,Spaghetti Fresh confezione 500g,Bio Pam,500,g,6,,,Euro,,PAM,milan,21-02-2026,2287542890056,
+PAM-00576,CP0576,ALT0576,Pantry,Pasta,PAM Penne Rigate Fresh,PAM,750.0,g,,"€2,76",EUR 2.16,€,,PAM,MILANO,2026-02-17,5742994321596,limited edition
+PAM-00577,CP0577,ALT0577,Pantry,Pasta,Zoa Fusilli Fresh,Zoa,625.0,g,8, 4.08 ,"€3,50",€,available,PAM,milan,2026-01-02 03:24:00,,new
+PAM-00578,CP0578,ALT0578,Pantry,Rice,Carnaroli Rice Fresh confezione 1kg,Aia,1,kg,1, 2.52 ,,EUR,OUT OF STOCK,PAM,milan,2026/01/14 15:26,1177162302482,imported
+PAM-00579,CP0579,ALT0579,Pantry,Rice,Basmati Rice Fresh,Arkalia,0.75,kg,1,4.43, 3.89 ,eur,,PAM,Milan,27-04-2026,8514508549124,private label
+PAM-00580,CP0580,ALT0580,Pantry,Sauce,Bio Pam Tomato Passata Fresh,Bio Pam,700,ml,6,"€2,03","1,59",EUR,,PAM,milan,2026-03-11 17:40:00,1101799207705,new
+PAM-00581,CP0581,ALT0581,Pantry,Sauce,Bio Pam Pesto Genovese Fresh,Bio Pam,285.0,g,4,3.26,"€2,46",€,OUT OF STOCK,PAM,MILANO,01/02/2026,9472697072790,check allergen label
+PAM-00582,CP0582,ALT0582,Pantry,Oil,Pam Panorama Extra Virgin Olive Oil Fresh,Pam Panorama ,1.5,l,1,3.98,,€,low stock,PAM,Milano,2026/02/10 17:07,6522897533968,check allergen label
+PAM-00583,CP0583,ALT0583,Pantry,Oil,SUNFLOWER OIL FRESH,PAM,1,l,1,"€4,52",,Euro,,PAM,Milan,2026/03/03 09:39,5550834840362,imported
+PAM-00584,CP0584,ALT0584,Pantry,Flour,All Purpose Flour Fresh confezione 0.75kg,Arkalia,0.75,kg,1,"€2,79",2.35,eur,,PAM,milan,19/02/2026,9295786509525,promo shelf
+PAM-00585,CP0585,ALT0585,Pantry,Flour,00 Flour Fresh, Pam Panorama,1,kg,1,,,EUR,in stock,PAM,Milan,23/02/2026,9447462269640,new
+PAM-00586,CP0586,ALT0586,Pantry,Sugar,Pam Panorama White Sugar Fresh,Pam Panorama,1,,2,2.13,,EUR,OUT OF STOCK,PAM,MILANO,2026-04-17 18:23:00,7901176215887,limited edition
+PAM-00587,CP0587,ALT0587,Pantry,Sugar,Brown Sugar Fresh confezione 1kg,De Cecco,1,kg,4,"€3,82",2.91,eur,,PAM,milan,2026-02-13 04:45:00,,seasonal item
+PAM-00588,CP0588,ALT0588,Pantry,Coffee,Ground Coffee Fresh,PAM,250,g,1,2.26,"€1,61",€,limited,PAM,Milano,22-02-2026,8154238291969,imported
+PAM-00589,CP0589,ALT0589,Pantry,Coffee,Coffee Beans Fresh,Arkalia,500,g,1,"€3,58",,Euro,available, PAM,milan,2026/01/26 15:46,8217389145505,promo shelf
+PAM-00590,CP0590,ALT0590,Pantry,Cereal,Corn Flakes Fresh confezione 281.25g,Zoa,281.25,g,1, 3.89 ,,eur,,PAM,Milan,2026-01-23,9042584329913,seasonal item
+PAM-00591,CP0591,ALT0591,Pantry,Cereal,Muesli Fresh,Bio Pam,562.5,g,3, 2.27 , 1.65 ,eur,in stock,PAM,MILANO,2026-02-12 02:23:00,8525724925987,check allergen label
+PAM-00592,CP0592,ALT0592,Frozen,Pizza,Margherita Pizza Fresh,PAM,350,g,6,EUR 3.74,,EUR,in stock,PAM,milan,2026/04/23 13:05,,
+PAM-00593,CP0593,ALT0593,Frozen,Pizza,Vegetable Pizza Fresh,Parmalat,475.0,g,6,EUR 4.07,,Euro,available,PAM,Milano,2026-01-08,6323625378630,
+PAM-00594,CP0594,ALT0594,Frozen,Vegetables,Frozen Peas Fresh,PAM,675.0,g,1,3.07,,eur,in stock,PAM,milan,2026-02-22 11:44:00,,check allergen label
+PAM-00595,CP0595,ALT0595,Frozen,Vegetables,Frozen Spinach Fresh,Bio Pam,337.5,g,8,EUR 5.17,"4,82",€,OUT OF STOCK,PAM,Milano,24-01-2026,0310519681469,
+PAM-00596,CP0596,ALT0596,Frozen,Fish,Frozen Salmon Fillets Fresh,PAM,500.0,g,2,"4,90",,€,,PAM,Milan,2026/02/17 13:54,4102409752606,seasonal item
+PAM-00597,CP0597,ALT0597,Frozen,Fish,Fish Fingers Fresh confezione 375g,Semplici e Buoni,375.0,g,2,3.09,,€,limited,PAM,milan,2026/04/15 18:58,3006230504782,
+PAM-00598,CP0598,ALT0598,Beverages,Water,Bio Pam Still Water Fresh,Bio Pam,2.25,l,2,"€1,56",,eur,OUT OF STOCK,PAM,Milano,11-02-2026,3766062593772,limited edition
+PAM-00599,CP0599,ALT0599,Beverages,Water,Sparkling Water Fresh confezione 1.5l,Rio Mare,1.5,l,2,"€1,20",,€,in stock,PAM,milan,2026-04-20 14:11:00,8736894561891,check allergen label
+PAM-00600,CP0600,ALT0600,Beverages,JUICE,Orange Juice Fresh confezione 1.25l,Pam Panorama,1.25,l,,"1,32","€1,05",eur,low stock,PAM,Milan,04-03-2026,6789880196223,private label
+PAM-00601,CP0601,ALT0601,Beverages,Juice, Apple Juice Fresh ,Arkalia,,l,3,2.34,1.83,EUR,limited,PAM,MILANO,07-01-2026,5611393530193,
+PAM-00602,CP0602,ALT0602,Beverages,Soft Drinks,Pam Panorama Cola Fresh,Pam Panorama,1.88,l,4,"1,95",,Euro,available,PAM,milan,2026/02/02 04:50,1009690041813,imported
+PAM-00603,CP0603,ALT0603,Beverages,Soft Drinks,Lemon Soda Fresh,Pam Panorama,1.5,l,1,"€2,32","2,11",€,available,PAM,Milano,2026-04-24,0308597370612,
+PAM-00604,CP0604,ALT0604,Beverages,Tea,Green Tea Fresh confezione 20pcs,Semplici e Buoni,20,pcs,2,1.93,,EUR,available,PAM,Milano,2026/01/17 03:16,4904578847143,seasonal item
+PAM-00605,CP0605,ALT0605,Beverages,Tea, Black Tea Fresh ,Pam Panorama,18.75,pcs,4, 1.56 ,,Euro,low stock,PAM,milan,29/03/2026,9117456185120,promo shelf
+PAM-00606,CP0606,ALT0606,Household,Detergent,Dish Soap Fresh confezione 562.5ml,PAM,562.5,ml,8,6.08,,EUR,OUT OF STOCK,PAM,Milano,2026-03-01,4393957847650,check allergen label
+PAM-00607,CP0607,ALT0607,Household,Detergent,Aia Laundry Detergent Fresh,Aia,1.88,l,2,6.19,,€,,PAM,Milan,09-02-2026,0517175732283,
+PAM-00608,CP0608,ALT0608,Household,Paper,Toilet Paper Fresh,Pam Panorama,8,pcs,1,EUR 2.81,,€,available,PAM,milan,2026/04/12 19:14,3267452082607,promo shelf
+PAM-00609,CP0609,ALT0609,Household,Paper,Kitchen Towels Fresh,Ferrero,4,pcs,1,"5,55",EUR 4.02,EUR,low stock,PAM,Milano,2026/03/18 01:32,4987552810931,
+PAM-00610,CP0610,ALT0610,Household,Cleaning,Zoa Multi Surface Cleaner Fresh,Zoa,1125.0,ml,1, 4.47 ,,EUR,limited,PAM,milan,2026/02/10 23:04,8601016329000,new
+PAM-00611,CP0611,ALT0611,Household,CLEANING,Bleach Fresh,Zoa,2.5,l,2,5.56,,€,limited,PAM,Milano,2026/03/29 22:51,8893421711522,check allergen label
+PAM-00612,CP0612,ALT0612,Personal Care,Shampoo,shampoo fresh confezione 187.5ml,Zoa,187.5,ml,1, 5.04 ,,eur,limited,PAM,milan,2026/04/10 13:05,7595762492989,imported
+PAM-00613,CP0613,ALT0613,Personal Care, Shampoo,PAM Conditioner Fresh,PAM,375.0,ml,1, 4.58 ,,eur,in stock,PAM,MILANO,15/04/2026,8846108622659,promo shelf
+PAM-00614,CP0614,ALT0614,Personal Care,soap,Hand Soap Fresh,Granarolo,300,ml,3, 4.17 ,,eur,limited,PAM,Milano,16/02/2026,9851553884697,seasonal item
+PAM-00615,CP0615,ALT0615,Personal Care,Soap,Body Wash Fresh confezione 375ml, Mulino Bianco ,375.0,ml,1,3.39,,€,,PAM,MILANO,2026-03-16,8708728401067,imported
+PAM-00616,CP0616,ALT0616,Personal Care,Toothpaste,Toothpaste Fresh confezione 93.75ml,Bio Pam,93.75,ml,1,"€5,17",,Euro,limited,PAM,milan,2026-01-26 11:40:00,9053805346503,private label
+PAM-00617,CP0617,ALT0617,Dairy,Mozzarella,PAM Mozzarella Tradizionale,PAM,125,g,4,"€2,73","2,25",Euro,,PAM,Milan,26-02-2026,,limited edition
+PAM-00618,CP0618,ALT0618,Dairy,Mozzarella,Bio Pam Mozzarella di Bufala Tradizionale,Bio Pam,156.25,g,8,"€2,86",,EUR,in stock,PAM,Milan,2026/03/17 07:29,6002530095840,imported
+PAM-00619,CP0619,ALT0619,Dairy,Mozzarella,Fior di latte mozzarella Tradizionale confezione 300g,De Cecco,300.0,,3, 2.48 , 2.09 ,eur,OUT OF STOCK,PAM,Milan,2026-01-29 22:40:00,1355126400893,
+PAM-00620,CP0620,ALT0620,Dairy,Yogurt,Greek Yogurt Tradizionale confezione 255g,Bio Pam,255.0,g,6,"3,31",,Euro,OUT OF STOCK, PAM,MILANO,08-02-2026,1848177455848,promo shelf
+PAM-00621,CP0621,ALT0621,Dairy,Yogurt, Strawberry Yogurt Tradizionale,Arkalia,3.0,pcs,8,1.51,1.16,EUR,available,PAM,Milano,12/04/2026,3492509618303,limited edition
+PAM-00622,CP0622,ALT0622,Dairy,Yogurt,Bio Pam Plain Yogurt Tradizionale,Bio Pam,500,g,2,2.44,,eur,in stock,PAM,Milan,2026-01-20,1002259163345,seasonal item
+PAM-00623,CP0623,ALT0623,Dairy,Milk,Granarolo Whole Milk Tradizionale,GRANAROLO,1.25,l,1,EUR 1.34,,EUR,limited,PAM,Milano,2026/02/22 03:43,4380755405558,
+PAM-00624,CP0624,ALT0624,Dairy,Milk,Semi-skimmed Milk Tradizionale confezione 1.5l, Semplici e Buoni ,1.5,l,1,2.12,,€,OUT OF STOCK,PAM,milan,2026/01/11 08:12,1480810262333,imported
+PAM-00625,CP0625,ALT0625,Dairy,Milk,Lactose Free Milk Tradizionale,Mutti,1.5,l,8,1.79,1.31,EUR,,PAM,MILANO,2026-03-29,7230894666298,
+PAM-00626,CP0626,ALT0626,Dairy,Butter,Rio Mare Unsalted Butter Tradizionale,Rio Mare,,g,1,2.60, 2.00 ,EUR,limited,PAM,Milano,2026-04-24 05:11:00,4465248826523,imported
+PAM-00627,CP0627,ALT0627,Dairy,Butter,SALTED BUTTER TRADIZIONALE CONFEZIONE 375G,pam panorama,375.0,g,1,1.56,,€,OUT OF STOCK,PAM,milan,2026-01-17 07:56:00,0120838921163,private label
+PAM-00628,CP0628,ALT0628,Dairy,Cheese,Parmigiano Reggiano Tradizionale,PAM,250.0,g,3,2.87,,eur,in stock,PAM,MILANO,2026-02-08 00:55:00,0141110949899,
+PAM-00629,CP0629,ALT0629,Dairy,Cheese,Galbani Gorgonzola Tradizionale,Galbani,150,g,4, 3.14 ,,EUR,OUT OF STOCK,PAM,Milano,17/01/2026,0166331393373,promo shelf
+PAM-00630,CP0630,ALT0630,Dairy,Cheese,Ricotta Tradizionale confezione 312.5g,Bio Pam,312.5,g,2, 2.38 ,,EUR,available,PAM,milan,11-02-2026,8970464001491,private label
+PAM-00631,CP0631,ALT0631,Bakery,Bread,Whole Wheat Bread Tradizionale,Aia,625.0,g,1,2.05,,€,available,PAM,Milan,2026-03-18,6493016945296,check allergen label
+PAM-00632,CP0632,ALT0632,Bakery,Bread,Ciabatta Tradizionale confezione 300g,Pam Panorama,300,g,1,EUR 2.10,,Euro,OUT OF STOCK,PAM,Milan,2026-02-26,9046364304497,
+PAM-00633,CP0633,ALT0633,Bakery,Bread,Arkalia Sandwich Bread Tradizionale,Arkalia,550,g,,2.85,,eur,,PAM,Milano,2026-04-13,8100982533436,
+PAM-00634,CP0634,ALT0634,Bakery,Croissants,Granarolo Butter Croissant Tradizionale ,Granarolo,6,pcs,2,1.72,,€,,PAM,MILANO,25-02-2026,9452882508336,check allergen label
+PAM-00635,CP0635,ALT0635,Bakery,Croissants,PAM Chocolate Croissant Tradizionale,PAM,9.0,pcs,8,"€2,50","1,97",Euro,OUT OF STOCK,PAM,MILANO,2026-03-31 05:06:00,0553728583931,imported
+PAM-00636,CP0636,ALT0636,Bakery,Cookies,Chocolate Chip Cookies Tradizionale,Semplici e Buoni,375.0,g,8,3.67,,Euro,OUT OF STOCK,PAM,Milano,2026-01-25 18:28:00,7338304047941,new
+PAM-00637,CP0637,ALT0637,Bakery,Cookies,PAM Digestive Biscuits Tradizionale,PAM,400,g,2, 2.28 ,,€,low stock,PAM,MILANO,08/01/2026,7204393453039,new
+PAM-00638,CP0638,ALT0638,Produce,Tomatoes,Cherry Tomatoes Tradizionale confezione 500g,PAM,500,g,8, 2.93 ,,€,limited,PAM,MILANO,2026-03-17,3209667216256,
+PAM-00639,CP0639,ALT0639,Produce,Tomatoes,Semplici e Buoni Round Tomatoes Tradizionale, Semplici e Buoni ,1.25,kg,4,"2,23",,Euro,,PAM,Milan,2026/02/26 02:05,1596543910510,promo shelf
+PAM-00640,CP0640,ALT0640,Produce,Salad,Bio Pam Iceberg Lettuce Tradizionale,Bio Pam,0.75,pcs,1,3.86,,eur,limited,PAM,Milan,12/02/2026,5230051665234,seasonal item
+PAM-00641,CP0641,ALT0641,Produce,Salad,Rocket Salad Tradizionale confezione 125g,PAM,125,g,1,3.44,,EUR,OUT OF STOCK,PAM,milan,2026/03/07 23:45,,check allergen label
+PAM-00642,CP0642,ALT0642,Produce,Apples,Bio Pam Golden Apples Tradizionale,Bio Pam ,1,kg,,3.79,,eur,OUT OF STOCK,PAM,Milano,15-02-2026,0411457533951,limited edition
+PAM-00643,CP0643,ALT0643,Produce ,Apples,Pink Lady Apples Tradizionale confezione 1kg,Bio Pam,1,kg,8,,,eur,,PAM,milan,2026/03/20 19:56,2314889755596,promo shelf
+PAM-00644,CP0644,ALT0644,Produce,Bananas,PAM Bananas Tradizionale,PAM,,kg,8, 3.37 ,,Euro,low stock,PAM,Milan,25/04/2026,8767566731584,private label
+PAM-00645,CP0645,ALT0645,Produce,Potatoes,Potatoes Tradizionale confezione 2kg,Bio Pam,2,kg,4,"3,12",,EUR,limited,PAM,Milan,25-01-2026,,
+PAM-00646,CP0646,ALT0646,Meat,Chicken,Chicken Breast Tradizionale confezione 600g,Arkalia,600.0,g,2,EUR 7.55,,Euro,low stock,PAM,Milan,2026-04-20 04:51:00,,private label
+PAM-00647,CP0647,ALT0647,Meat,Chicken, Chicken Thighs Tradizionale confezione 375g,Semplici e Buoni,375.0,g,3, 4.44 ,,EUR,,PAM,MILANO,2026-03-28,9702063483234,limited edition
+PAM-00648,CP0648,ALT0648,Meat,Beef,Arkalia Minced Beef Tradizionale,Arkalia,400,g,1, 8.56 ,,€,low stock,PAM,Milano,21/01/2026,4568458616248,
+PAM-00649,CP0649,ALT0649,Meat,Beef,Mulino Bianco Beef Steak Tradizionale,Mulino Bianco,300,g,3,"€7,23",,EUR,limited,PAM,MILANO,04-03-2026,0086078049903,limited edition
+PAM-00650,CP0650,ALT0650,Meat,Cured Meats, Lavazza Prosciutto Cotto Tradizionale ,Lavazza,120,g,1,"7,60",,EUR,low stock,PAM,Milano,24/02/2026,1282731542125,imported
+PAM-00651,CP0651,ALT0651,Meat,Cured Meats,Salame Milano Tradizionale,Bio Pam ,125.0,g,1, 8.31 ,,€,low stock,pam,Milano,2026-04-25 01:21:00,6850529354107,limited edition
+PAM-00652,CP0652,ALT0652,Pantry,Pasta,Pam Panorama Spaghetti Tradizionale,Pam Panorama,500,g,1,2.03,,Euro,limited,PAM,milan,14-01-2026,2340702672601,seasonal item
+PAM-00653,CP0653,ALT0653,Pantry,Pasta,Penne Rigate Tradizionale,Arkalia,,g,3,3.42,,EUR,OUT OF STOCK,PAM,milan,19-04-2026,4964948970964,private label
+PAM-00654,CP0654,ALT0654,Pantry,Pasta,Fusilli Tradizionale confezione 375g,Semplici e Buoni,375.0,g,1,"€2,03",,EUR,OUT OF STOCK,PAM,MILANO,2026-02-23 16:08:00,,imported
+PAM-00655,CP0655,ALT0655,Pantry,Rice,PAM Carnaroli Rice Tradizionale,PAM,1.25,kg,1,"€2,25",1.98,€,low stock,PAM,MILANO,2026/02/28 17:09,6719495568210,
+PAM-00656,CP0656,ALT0656,Pantry,Rice,Basmati Rice Tradizionale confezione 1.25kg,PAM,1.25,kg,4,EUR 1.95,,Euro,low stock,PAM,Milan,23-01-2026,2957405793760,new
+PAM-00657,CP0657,ALT0657,Pantry,Sauce,Tomato Passata Tradizionale confezione 700ml,Arkalia,700,ml,1, 2.29 ,,EUR,OUT OF STOCK,PAM,milan,2026-01-14,5596728784185,
+PAM-00658,CP0658,ALT0658,Pantry,Sauce,Zoa Pesto Genovese Tradizionale,Zoa,285.0,g,1, 2.39 , 1.77 ,eur,low stock, PAM,milan,2026/03/29 18:55,0479476441507,check allergen label
+PAM-00659,CP0659,ALT0659,Pantry,Oil,Extra Virgin Olive Oil Tradizionale confezione 1.25l,Semplici e Buoni,1.25,l,1, 3.16 ,,€,OUT OF STOCK,PAM,milan,2026-02-14 06:30:00,3578461138451,private label
+PAM-00660,CP0660,ALT0660, Pantry ,Oil,Sunflower Oil Tradizionale,Pam Panorama,1.25,l,1,EUR 4.08,,eur,OUT OF STOCK,PAM,milan,27/02/2026,9742106646763,new
+PAM-00661,CP0661,ALT0661,Pantry,Flour,All Purpose Flour Tradizionale,BIO PAM,0.75,kg,1, 3.26 ,,€,limited,PAM,milan,2026/04/16 11:15,7984740180768,check allergen label
+PAM-00662,CP0662,ALT0662,Pantry,Flour,00 Flour Tradizionale,Pam Panorama,1,kg,1, 2.08 ,,eur,limited,PAM,Milano,16-04-2026,4773133411702,new
+PAM-00663,CP0663,ALT0663,Pantry,Sugar,Pam Panorama White Sugar Tradizionale,Pam Panorama,1.25,kg,1,"2,91",,€,low stock,PAM,Milano,13-04-2026,5598928377522,promo shelf
+PAM-00664,CP0664,ALT0664,Pantry,Sugar,Semplici e Buoni Brown Sugar Tradizionale,Semplici e Buoni,1.25,kg,,EUR 4.49,,€,low stock,PAM,Milan,2026/03/27 11:51,0419111688028,
+PAM-00665,CP0665,ALT0665,Pantry,Coffee,Ground Coffee Tradizionale confezione 375g,Galbani,375.0,g,3,"€2,93","€2,23",EUR,low stock,PAM ,milan,2026/01/26 09:23,3306666045236,seasonal item
+PAM-00666,CP0666,ALT0666,pantry,Coffee,Zoa Coffee Beans Tradizionale,Zoa,375.0,g,1,EUR 3.44,,eur,in stock,PAM,milan,2026-04-02 08:08:00,0986681986486,private label
+PAM-00667,CP0667,ALT0667,Pantry,Cereal,Zoa Corn Flakes Tradizionale,Zoa,562.5,g,2,EUR 3.55,2.63,EUR,in stock,PAM,Milan,25/01/2026,3932501922719,promo shelf
+PAM-00668,CP0668,ALT0668,PANTRY,Cereal,Zoa Muesli Tradizionale,Zoa,937.5,g,2,3.78,,€,limited,PAM,MILANO,08-01-2026,1284794331521,
+PAM-00669,CP0669,ALT0669,Frozen,Pizza ,Margherita Pizza Tradizionale confezione 437.5g,Semplici e Buoni,437.5,g,8,EUR 5.35,,€,limited,PAM,MILANO,15/03/2026,4928966810630,limited edition
+PAM-00670,CP0670,ALT0670,Frozen,Pizza,AIA VEGETABLE PIZZA TRADIZIONALE,Aia,285.0,g,2,"€5,06",,Euro,OUT OF STOCK,PAM,milan,2026-02-05,7493549410975,private label
+PAM-00671,CP0671,ALT0671,Frozen,Vegetables,Bio Pam Frozen Peas Tradizionale,Bio Pam,450,g,8, 5.23 ,,eur,available,PAM,Milan,13-02-2026,7077230966941,check allergen label
+PAM-00672,CP0672,ALT0672,Frozen,Vegetables,Frozen Spinach Tradizionale,Pam Panorama,450,g,4,3.59,,€,in stock,PAM,Milano,2026-03-31 13:55:00,3860400819822,imported
+PAM-00673,CP0673,ALT0673,Frozen,Fish,Arkalia Frozen Salmon Fillets Tradizionale,Arkalia,500.0,g,1,5.63,,Euro,limited,PAM,MILANO,18/04/2026,2261673366053,
+PAM-00674,CP0674,ALT0674,Frozen,Fish,Fish Fingers Tradizionale confezione 375g,Arkalia,375.0,g,1,"2,91",,€,available,PAM,Milan,2026/02/13 01:41,5928151547365,private label
+PAM-00675,CP0675,ALT0675,Beverages,Water,Mulino Bianco Still Water Tradizionale,Mulino Bianco,,l,2,"€1,55",,EUR,limited,PAM,Milan,2026/04/11 12:20,0010145478364,private label
+PAM-00676,CP0676,ALT0676,Beverages,Water,Sparkling Water Tradizionale confezione 2.25l,Bio Pam,2.25,l,1,"€2,46",,EUR,low stock,PAM,MILANO,2026-04-06 12:11:00,1247043124021,new
+PAM-00677,CP0677,ALT0677,Beverages,Juice,Orange Juice Tradizionale confezione 1.5l,Bio Pam,1.5,l,8,"2,13", 1.63 ,EUR,available,PAM,Milano,2026-03-23 01:25:00,3320026839700,
+PAM-00678,CP0678,ALT0678,Beverages,Juice,Apple Juice Tradizionale confezione 1l,Semplici e Buoni,1,l,6,2.05, 1.92 ,Euro,OUT OF STOCK,PAM,MILANO,19-04-2026,,
+PAM-00679,CP0679,ALT0679,Beverages,Soft Drinks,Cola Tradizionale confezione 1.88l,Lavazza,1.88,l,6,1.47,,€,OUT OF STOCK,PAM,Milano,2026-01-16,1846503207726,
+PAM-00680,CP0680,ALT0680,Beverages,Soft Drinks,Lemon Soda Tradizionale confezione 1.5l,PAM,1.5,l,2,"€1,88",,eur,OUT OF STOCK,PAM,MILANO,2026-02-07,,
+PAM-00681,CP0681,ALT0681,Beverages,Tea,Green Tea Tradizionale confezione 20pcs,Semplici e Buoni,20,pcs,1, 2.10 ,,eur,in stock,PAM,Milano,01/01/2026,4723900672825,seasonal item
+PAM-00682,CP0682,ALT0682,Beverages,Tea,Black Tea Tradizionale confezione 31.25pcs,Granarolo,31.25,pcs,1,2.44,EUR 2.30,Euro,in stock,PAM,milan,16/03/2026,,
+PAM-00683,CP0683,ALT0683,Household,Detergent ,Dish Soap Tradizionale confezione 937.5ml,Bio Pam,937.5,ml,1,6.37,,EUR,,PAM,Milan,2026/04/09 07:53,7267687987605,imported
+PAM-00684,CP0684,ALT0684,Household,Detergent,Zoa Laundry Detergent Tradizionale,Zoa,1.12,l,1,5.18,,eur,limited,PAM,milan,18-03-2026,0178292688985,promo shelf
+PAM-00685,CP0685,ALT0685,Household,Paper,Toilet Paper Tradizionale,Parmalat,10.0,pcs,1,,,EUR,OUT OF STOCK,PAM,milan,09/01/2026,2689200582093,check allergen label
+PAM-00686,CP0686,ALT0686,Household, Paper,Kitchen Towels Tradizionale confezione 4pcs,Bio Pam,4,pcs,6,"€3,97",2.88,€,available,PAM,Milan,22-04-2026,2884359790356,private label
+PAM-00687,CP0687,ALT0687,Household,Cleaning,Semplici e Buoni Multi Surface Cleaner Tradizionale,Semplici e Buoni,937.5,ml,8,5.33,,€,,PAM,milan,07/01/2026,0858042672696,imported
+PAM-00688,CP0688,ALT0688,Household,Cleaning,Bleach Tradizionale confezione 2l,Pam Panorama,2,l,8, 6.25 ,,€,in stock,PAM,milan,2026-04-13,0407844371003,limited edition
+PAM-00689,CP0689,ALT0689,Personal Care,SHAMPOO,Galbani Shampoo Tradizionale,Galbani,312.5,ml,3,"€3,12",,EUR,OUT OF STOCK,PAM,Milano,01/04/2026,1371834830863,
+PAM-00690,CP0690,ALT0690,Personal Care,SHAMPOO,PAM Conditioner Tradizionale,PAM,250,ml,1, 4.49 ,,€,,PAM,Milan,2026-02-03,0180794980065,imported
+PAM-00691,CP0691,ALT0691,Personal Care,SOAP,Hand Soap Tradizionale confezione 450ml,Pam Panorama,450.0,ml,8,4.78,,EUR,available,PAM,Milan,10/04/2026,1224639484184,check allergen label
+PAM-00692,CP0692,ALT0692,Personal Care,Soap,Bio Pam Body Wash Tradizionale,Bio Pam,750.0,ml,4,EUR 3.10,,Euro,,PAM,MILANO,2026-04-23,7759110724835,
+PAM-00693,CP0693,ALT0693,Personal Care,Toothpaste,Mutti Toothpaste Tradizionale,Mutti,56.25,ml,4, 2.94 ,EUR 2.42,Euro,,PAM,milan,2026-04-08,6645807190645,check allergen label
+PAM-00694,CP0694,ALT0694,Dairy,Mozzarella,Mozzarella Deluxe, PAM ,156.25,g,6,"€1,86",1.57,Euro,available,PAM,Milano,2026-01-04 18:33:00,1400023767360,check allergen label
+PAM-00695,CP0695,ALT0695,Dairy,Mozzarella,Mozzarella di Bufala Deluxe,Bio Pam,187.5,g,1, 2.09 ,EUR 1.78,EUR,,PAM,milan,18-03-2026,2318314256035,new
+PAM-00696,CP0696,ALT0696,Dairy,Mozzarella,Barilla Fior di latte mozzarella Deluxe,barilla,300.0,g,3,"€1,71",,Euro,OUT OF STOCK,PAM,Milano,01/01/2026,0891409646642,promo shelf
+PAM-00697,CP0697,ALT0697,Dairy,Yogurt,Greek Yogurt Deluxe,Granarolo,127.5,g,3,EUR 3.04,,EUR,OUT OF STOCK,PAM,MILANO,27/01/2026,6611761470279,new
+PAM-00698,CP0698,ALT0698,Dairy,Yogurt,Strawberry Yogurt Deluxe,Semplici e Buoni,1.5,pcs,6,"€3,33",,EUR,OUT OF STOCK,PAM,milan,01-04-2026,9240012029895,
+PAM-00699,CP0699,ALT0699,Dairy,Yogurt,Plain Yogurt Deluxe,Semplici e Buoni,625.0,g,2,EUR 1.66,,€,OUT OF STOCK,PAM,MILANO,19-01-2026,1406209631786,
+PAM-00700,CP0700,ALT0700,Dairy,Milk,Whole Milk Deluxe,Rio Mare,1,l,,2.90,"2,35",eur,in stock,PAM,Milano,2026/04/09 12:30,0819390154056,
+PAM-00701,CP0701,ALT0701,Dairy,Milk, Semi-skimmed Milk Deluxe confezione 1.25l,Galbani,,l,4,EUR 1.97,,eur,in stock,PAM,Milano,2026-03-31 13:29:00,,limited edition
+PAM-00702,CP0702,ALT0702,Dairy,Milk,Lactose Free Milk Deluxe confezione 1l,Zoa,1,l,1,1.46,,EUR,,PAM,Milan,2026-01-14,3106526776763,limited edition
+PAM-00703,CP0703,ALT0703, Dairy,Butter,PAM Unsalted Butter Deluxe,PAM,187.5,g,3,"1,36",,EUR,available,PAM,MILANO,2026-04-21,8824481564264,
+PAM-00704,CP0704,ALT0704,Dairy,Butter,Arkalia Salted Butter Deluxe,Arkalia,250,g,4,EUR 3.20,,EUR,,PAM,milan,05-01-2026,0137189327665,
+PAM-00705,CP0705,ALT0705, Dairy ,Cheese,Zoa Parmigiano Reggiano Deluxe,Zoa,250.0,g,3,EUR 1.80,,EUR,limited,PAM,MILANO,2026/03/11 10:12,0299718933194,limited edition
+PAM-00706,CP0706,ALT0706,Dairy, Cheese ,Zoa Gorgonzola Deluxe, Zoa ,150,g,3,"1,98",,EUR,low stock,PAM,MILANO,2026-02-25,2439081597324,promo shelf
+PAM-00707,CP0707,ALT0707,Dairy,Cheese,Zoa Ricotta Deluxe,Zoa,250,g,3,"€2,54",,Euro,limited,PAM,MILANO,2026-04-29 08:54:00,0975285132909,seasonal item
+PAM-00708,CP0708,ALT0708,Bakery,Bread, Zoa Whole Wheat Bread Deluxe,Zoa,625.0,g,4,"€3,14",EUR 2.63,eur,,PAM,MILANO,03/03/2026,0948326167645,promo shelf
+PAM-00709,CP0709,ALT0709,Bakery,Bread,Ciabatta Deluxe confezione 300g,Bio Pam,300,g,6,"€2,34",,eur,,PAM,Milano,12-02-2026,,imported
+PAM-00710,CP0710,ALT0710,Bakery,Bread,Zoa Sandwich Bread Deluxe,Zoa,550,g,4,,1.44,Euro,,PAM,milan,2026-03-06,7370743487500,limited edition
+PAM-00711,CP0711,ALT0711,Bakery,Croissants,Butter Croissant Deluxe,Arkalia,7.5,pcs,4,EUR 2.80,,eur,OUT OF STOCK,PAM,Milan,01-05-2026,1883616456939,
+PAM-00712,CP0712,ALT0712,Bakery,Croissants,Zoa Chocolate Croissant Deluxe,Zoa,6,pcs,4,"€1,72",,EUR,,PAM,Milano,2026/04/24 23:30,7142276903626,promo shelf
+PAM-00713,CP0713,ALT0713,Bakery,Cookies,Chocolate Chip Cookies Deluxe confezione 375g,Semplici e Buoni,375.0,g,4,EUR 3.29,2.97,EUR,,PAM,MILANO,26-04-2026,8755173992051,private label
+PAM-00714,CP0714,ALT0714,Bakery,Cookies,Zoa Digestive Biscuits Deluxe ,Zoa,400,g,3,2.69,,Euro,limited,PAM,Milano,2026-01-31 01:17:00,7568326704569,limited edition
+PAM-00715,CP0715,ALT0715,Produce,Tomatoes,Bio Pam Cherry Tomatoes Deluxe,Bio Pam,375.0,g,6,"2,32",,EUR,low stock,PAM,Milan,2026-02-20,6768020347233,private label
+PAM-00716,CP0716,ALT0716,Produce,Tomatoes,Zoa Round Tomatoes Deluxe,Zoa,1.25,kg,1,"€1,73",,EUR,,PAM,MILANO,07/04/2026,5365359685683,promo shelf
+PAM-00717,CP0717,ALT0717,Produce,Salad,Iceberg Lettuce Deluxe,Arkalia,,,6,"€2,38",,eur,in stock,PAM,milan,2026-01-09,6392494840313,check allergen label
+PAM-00718,CP0718,ALT0718,Produce,Salad,Arkalia Rocket Salad Deluxe,Arkalia,187.5,g,1, 3.59 ,,Euro,OUT OF STOCK,PAM,milan,2026/02/22 07:16,1816546368052,promo shelf
+PAM-00719,CP0719,ALT0719,Produce,Apples,Golden Apples Deluxe confezione 0.75kg,rio mare,0.75,kg,4,"2,52",,Euro,available,PAM,MILANO,2026-02-02 13:56:00,7621266350570,seasonal item
+PAM-00720,CP0720,ALT0720,Produce,Apples,Bio Pam Pink Lady Apples Deluxe,Bio Pam,1,kg,2,"2,80",,€,available,PAM,Milan,2026-03-02 20:55:00,8206045409682,limited edition
+PAM-00721,CP0721,ALT0721,Produce,Bananas,Bananas Deluxe,Zoa,1,kg,1,"2,10",,€,low stock,PAM,milan,01-03-2026,7090355297096,check allergen label
+PAM-00722,CP0722,ALT0722,Produce,Potatoes,Semplici e Buoni Potatoes Deluxe,Semplici e Buoni,1.5,kg,1,"€2,80","€2,46",eur,limited,PAM,milan,04-01-2026,3816453766141,imported
+PAM-00723,CP0723,ALT0723,Meat,Chicken,CHICKEN BREAST DELUXE,Zoa,300.0,g,4,EUR 6.12,,€,OUT OF STOCK,PAM,milan,2026/01/17 04:32,5420667124944,promo shelf
+PAM-00724,CP0724,ALT0724,Meat,Chicken,Chicken Thighs Deluxe confezione 375g,Ferrero,375.0,g,6,"€4,26",,eur,,PAM,Milano,20/04/2026,2938288777873,
+PAM-00725,CP0725,ALT0725,Meat,Beef,Minced Beef Deluxe confezione 400g,Mulino Bianco,400,g,3,"4,71",,Euro,low stock,PAM,MILANO,2026-04-03,1988886631836,new
+PAM-00726,CP0726,ALT0726,Meat,Beef,Bio Pam Beef Steak Deluxe,Bio Pam,300,g,3,"€7,80",6.03,Euro,available,PAM ,Milano,2026/04/06 06:47,3069035564167,check allergen label
+PAM-00727,CP0727,ALT0727,Meat,Cured Meats,Prosciutto Cotto Deluxe,PAM,90.0,g,1,"€4,11","€2,98",EUR,low stock,PAM,Milan,13-02-2026,2923191226675,new
+PAM-00728,CP0728,ALT0728,Meat,Cured Meats,Pam Panorama Salame Milano Deluxe,Pam Panorama,150.0,g,8,"€4,59",,eur,low stock,PAM,milan,2026/01/07 19:53,9599386938303,promo shelf
+PAM-00729,CP0729,ALT0729,Pantry,Pasta,Spaghetti Deluxe confezione 500g,Arkalia,500,g,4,EUR 2.64,,EUR,low stock,PAM,Milano,2026-01-17 14:04:00,8902901818140,limited edition
+PAM-00730,CP0730,ALT0730,Pantry,Pasta,Penne Rigate Deluxe confezione 500g,Pam Panorama,,g,1,EUR 3.45,,eur,available,PAM,Milan,2026-02-17 03:02:00,1409619843220,promo shelf
+PAM-00731,CP0731,ALT0731,Pantry,Pasta,Fusilli Deluxe confezione 500g,Parmalat,500,g,1,"3,47",EUR 2.86,Euro,OUT OF STOCK,PAM,Milan,2026-04-29 10:30:00,3384346318476,imported
+PAM-00732,CP0732,ALT0732,Pantry,Rice, Carnaroli Rice Deluxe confezione 1.25kg ,Zoa,1.25,kg,8,EUR 4.52,EUR 3.92,eur,limited,PAM,Milano,2026/02/26 19:26,8946958471368,promo shelf
+PAM-00733,CP0733,ALT0733,Pantry,Rice,Zoa Basmati Rice Deluxe,Zoa,0.75,kg,1,"2,21",,Euro,low stock,PAM,Milano,2026/01/20 19:46,9264769650301,imported
+PAM-00734,CP0734,ALT0734,Pantry,Sauce,Tomato Passata Deluxe,Semplici e Buoni,1050.0,ml,8,"€3,31",,Euro,in stock,PAM,Milano,2026/01/19 19:57,4446274139746,imported
+PAM-00735,CP0735,ALT0735,Pantry,Sauce,Arkalia Pesto Genovese Deluxe,ARKALIA,190,g,1,"3,15",,EUR,,PAM,Milan,2026-03-28 17:46:00,2016076265064,private label
+PAM-00736,CP0736,ALT0736,Pantry,Oil,Extra Virgin Olive Oil Deluxe,Zoa,1.25,l,6,EUR 3.07,,eur,available,PAM,milan,2026/04/12 08:49,,imported
+PAM-00737,CP0737,ALT0737,Pantry,Oil,Sunflower Oil Deluxe confezione 1l,Mutti,1,l,4,4.67,,€,available,PAM ,Milano,2026-01-03 06:29:00,7709763292373,new
+PAM-00738,CP0738,ALT0738,Pantry,Flour,all purpose flour deluxe confezione 1kg,Barilla,1,kg,4,"4,17",,EUR,available,PAM,Milan,2026-02-04 11:25:00,2708650213608,limited edition
+PAM-00739,CP0739,ALT0739,Pantry,Flour,00 Flour Deluxe,Lavazza,1,kg,8,"€2,53",,EUR,available,PAM,Milan,2026/02/07 14:28,6250411855657,limited edition
+PAM-00740,CP0740,ALT0740,Pantry,Sugar,PAM White Sugar Deluxe,PAM,1.5,kg,1,"3,40", 2.86 ,eur,OUT OF STOCK,PAM,MILANO,2026-04-22 13:24:00,6810562506680,check allergen label
+PAM-00741,CP0741,ALT0741,Pantry,Sugar,Brown Sugar Deluxe,Lavazza,1.5,kg,6,"€2,81",,EUR,in stock, PAM ,milan,27-02-2026,4592680873090,new
+PAM-00742,CP0742,ALT0742,Pantry,Coffee,Semplici e Buoni Ground Coffee Deluxe,SEMPLICI E BUONI,187.5,g,4,2.52,"€1,84",Euro,available,PAM,MILANO,2026/03/08 21:33,8042100062182,limited edition
+PAM-00743,CP0743,ALT0743,Pantry,Coffee,Parmalat Coffee Beans Deluxe,Parmalat,500,g,8, 2.58 ,,€,limited,PAM,MILANO,13-01-2026,,promo shelf
+PAM-00744,CP0744,ALT0744,Pantry,Cereal,Pam Panorama Corn Flakes Deluxe,Pam Panorama,375,g,3, 3.81 ,,EUR,,PAM,milan,06/01/2026,8476236228829,promo shelf
+PAM-00745,CP0745,ALT0745,Pantry,Cereal,PAM Muesli Deluxe,PAM,562.5,g,6,2.81,,EUR,limited,PAM,MILANO,2026/01/03 13:22,9677873715273,check allergen label
+PAM-00746,CP0746,ALT0746,Frozen,Pizza,Margherita Pizza Deluxe, Pam Panorama ,525.0,g,8, 3.86 ,,Euro,,PAM,Milan,07-03-2026,7331407490068,imported
+PAM-00747,CP0747,ALT0747,Frozen,Pizza,Zoa Vegetable Pizza Deluxe,Zoa,285.0,g,1,"5,63",,EUR,available,PAM,milan,12/03/2026,5368530241865,new
+PAM-00748,CP0748,ALT0748, Frozen ,Vegetables,Pam Panorama Frozen Peas Deluxe,Pam Panorama,450,g,8,EUR 2.32, 2.19 ,€,OUT OF STOCK,PAM,Milano,25-03-2026,0565295263590,private label
+PAM-00749,CP0749,ALT0749,Frozen,Vegetables,De Cecco Frozen Spinach Deluxe,De Cecco,675.0,g,6,EUR 3.99,,Euro,limited,PAM,milan,13-04-2026,3069290554381,check allergen label
+PAM-00750,CP0750,ALT0750,Frozen,Fish,Parmalat Frozen Salmon Fillets Deluxe,Parmalat,500.0,g,1, 3.07 ,,eur,OUT OF STOCK,PAM,milan,2026-01-12 02:05:00,0132644739847,seasonal item
+PAM-00751,CP0751,ALT0751,Frozen,Fish,Fish Fingers Deluxe confezione 375g,Aia,375.0,g,4,EUR 4.85,,eur,available,PAM,milan,2026-03-24,0317487041877,new
+PAM-00752,CP0752,ALT0752,Beverages,Water,Bio Pam Still Water Deluxe,Bio Pam,1.5,l,4,1.73,"€1,22",Euro,limited,PAM,Milan,2026-03-18,5241577925853,imported
+PAM-00753,CP0753,ALT0753,Beverages,Water,PAM Sparkling Water Deluxe,PAM,1.12,l,1,"€2,50",,eur,limited,PAM,milan,2026-03-19,0533785122295,new
+PAM-00754,CP0754,ALT0754,Beverages,Juice,Orange Juice Deluxe confezione 1.5l,Pam Panorama,1.5,l,6,"€1,44","€1,31",Euro,low stock,PAM,milan,2026/03/06 21:17,8472896308121,
+PAM-00755,CP0755,ALT0755,Beverages,Juice,Bio Pam Apple Juice Deluxe,Bio Pam,1,,1, 1.78 ,,EUR,low stock,PAM,MILANO,2026-04-26,7516102779885,check allergen label
+PAM-00756,CP0756,ALT0756,Beverages,Soft Drinks,Cola Deluxe,Mutti,1.12,l,1,2.10,,eur,, PAM ,MILANO,17-02-2026,,imported
+PAM-00757,CP0757,ALT0757,Beverages, Soft Drinks,Lemon Soda Deluxe,Pam Panorama,1.5,l,2,EUR 1.88,"1,57",eur,limited,PAM,Milano,03/01/2026,0729236579891,imported
+PAM-00758,CP0758,ALT0758,Beverages,Tea,Galbani Green Tea Deluxe,Galbani,30.0,pcs,1,"€1,96",EUR 1.58,EUR,limited,PAM,Milan,2026-01-27 01:10:00,,limited edition
+PAM-00759,CP0759,ALT0759,Beverages,Tea, Arkalia Black Tea Deluxe,Arkalia,18.75,pcs,4, 2.25 ,,€,,PAM,MILANO,2026/04/12 05:51,,new
+PAM-00760,CP0760,ALT0760,Household ,Detergent,PAM Dish Soap Deluxe,PAM,1125.0,ml,4, 4.56 ,,EUR,in stock,PAM,milan,2026-04-06,9736435070192,check allergen label
+PAM-00761,CP0761,ALT0761,Household ,Detergent,laundry detergent deluxe confezione 1.12l,Arkalia,1.12,l,6,"€6,41",,eur,low stock,PAM,Milano,2026/01/21 13:00,2185120362653,check allergen label
+PAM-00762,CP0762,ALT0762,Household,Paper,Galbani Toilet Paper Deluxe,Galbani,8,pcs,8,"4,60",3.43,€,in stock,PAM,MILANO,26-02-2026,5600738895018,private label
+PAM-00763,CP0763,ALT0763,Household,Paper,Kitchen Towels Deluxe confezione 6pcs,Zoa,6.0,pcs,1,,,eur,OUT OF STOCK,PAM,MILANO,2026-01-31,8071956052856,new
+PAM-00764,CP0764,ALT0764,Household,Cleaning,Multi Surface Cleaner Deluxe,Galbani,937.5,ml,6,EUR 6.81,,eur,OUT OF STOCK,PAM,milan,2026-01-07,2155631440456,check allergen label
+PAM-00765,CP0765,ALT0765,Household,Cleaning,Semplici e Buoni Bleach Deluxe,Semplici e Buoni,2,l,1,4.70,,Euro,low stock,PAM,MILANO,2026/01/19 09:40,3110812348932,check allergen label
+PAM-00766,CP0766,ALT0766,Personal Care,Shampoo,Shampoo Deluxe confezione 187.5ml,Granarolo,187.5,ml,1, 4.69 ,,Euro,available,PAM,Milano,2026-04-03,5622135064720,imported
+PAM-00767,CP0767,ALT0767,Personal Care,Shampoo,Conditioner Deluxe confezione 375ml,Arkalia,375.0,ml,1, 4.13 ,,EUR,low stock,PAM,Milan,06/04/2026,3386399754682,
+PAM-00768,CP0768,ALT0768,Personal Care,soap,Hand Soap Deluxe confezione 300ml,Arkalia,300,ml,2,3.00,,€,low stock,PAM,MILANO,2026-03-20 23:07:00,7300163881772,new
+PAM-00769,CP0769,ALT0769,Personal Care,Soap,Body Wash Deluxe,Pam Panorama,375.0,ml,2,EUR 2.87,,eur,,PAM,milan,2026/03/07 01:12,9471307206102,seasonal item
+PAM-00770,CP0770,ALT0770,Personal Care,Toothpaste,Toothpaste Deluxe confezione 93.75ml,Pam Panorama,93.75,ml,1,5.06,,eur,OUT OF STOCK,PAM,MILANO,2026-02-23,2527061226061,check allergen label
+PAM-00771,CP0771,ALT0771, Dairy ,Mozzarella,Mozzarella Classic confezione 156.25g,Zoa,156.25,g,1,"2,18","1,71",EUR,available,PAM,Milan,2026/03/03 12:47,7464023055412,new
+PAM-00772,CP0772,ALT0772,Dairy, Mozzarella,Granarolo Mozzarella di Bufala Classic, Granarolo ,93.75,g,3,EUR 1.73,,Euro,available,PAM,Milano,14-04-2026,0033167590620,check allergen label
+PAM-00773,CP0773,ALT0773,Dairy,mozzarella,PAM Fior di latte mozzarella Classic,PAM,250.0,g,3,EUR 2.69,,Euro,OUT OF STOCK,PAM,milan,01-01-2026,7172156639627,new
+PAM-00774,CP0774,ALT0774,Dairy,Yogurt,Greek Yogurt Classic confezione 170g,SEMPLICI E BUONI,170,,6,3.32,EUR 2.37,€,in stock,PAM,MILANO,2026-02-07 15:42:00,1361607599110,limited edition
+PAM-00775,CP0775,ALT0775,dairy,Yogurt,STRAWBERRY YOGURT CLASSIC,Zoa,2.5,pcs,2,"2,81",,€,available,PAM,Milano,2026-03-24 16:15:00,5005413165871,imported
+PAM-00776,CP0776,ALT0776,Dairy,Yogurt,PLAIN YOGURT CLASSIC,Parmalat,500,g,8,2.65,,EUR,limited,PAM,Milan,2026/04/22 21:01,7171626782145,
+PAM-00777,CP0777,ALT0777,Dairy,Milk,Whole Milk Classic confezione 1.25l,Bio Pam,1.25,l,1,EUR 3.07,2.85,Euro,available,PAM,Milan,2026-01-12 09:03:00,8674495973786,private label
+PAM-00778,CP0778,ALT0778,Dairy,Milk ,Semi-skimmed Milk Classic confezione 1l,Bio Pam,1,l,6,"1,54", 1.31 ,EUR,,PAM,milan,26-02-2026,0869273210873,new
+PAM-00779,CP0779,ALT0779,Dairy,Milk,Semplici e Buoni Lactose Free Milk Classic,Semplici e Buoni,1.5,l,4,"€1,90",,eur,in stock,PAM,MILANO,14/02/2026,7334622464428,check allergen label
+PAM-00780,CP0780,ALT0780,Dairy,Butter,Pam Panorama Unsalted Butter Classic, Pam Panorama ,250,g,2, 1.50 ,,Euro,low stock,PAM,Milano,24/03/2026,4035270320361,
+PAM-00781,CP0781,ALT0781,Dairy,Butter,Arkalia Salted Butter Classic,Arkalia ,375.0,g,3, 2.40 ,,eur,available,PAM,Milan,2026-02-25 05:15:00,8500091976579,seasonal item
+PAM-00782,CP0782,ALT0782,Dairy,Cheese,Parmigiano Reggiano Classic confezione 300g,Pam Panorama,300.0,g,1,"2,50",,€,OUT OF STOCK,PAM,MILANO,2026/03/10 03:28,6750634470944,
+PAM-00783,CP0783,ALT0783,Dairy,Cheese, Gorgonzola Classic confezione 187.5g,Aia,187.5,g,1,2.16,,eur,limited,PAM,Milan,28-01-2026,8429184612239,
+PAM-00784,CP0784,ALT0784,Dairy,Cheese,Ferrero Ricotta Classic,Ferrero,312.5,g,1,2.04,,eur,low stock,PAM,MILANO,08/01/2026,7850437443197,limited edition
+PAM-00785,CP0785,ALT0785,Bakery,Bread,Semplici e Buoni Whole Wheat Bread Classic,Semplici e Buoni,625.0,g,1,2.47, 1.73 ,Euro,in stock,PAM,Milano,2026-02-06 02:44:00,3982981086044,promo shelf
+PAM-00786,CP0786,ALT0786,Bakery,Bread,Ciabatta Classic confezione 450g,PAM,450.0,g,4, 2.78 ,,€,limited,PAM,MILANO,2026-04-19 00:40:00,4333434118251,
+PAM-00787,CP0787,ALT0787,Bakery,Bread,Semplici e Buoni Sandwich Bread Classic,Semplici e Buoni,550,g,, 2.01 ,,Euro,limited,PAM,milan,2026-02-05 16:19:00,3586213184180,limited edition
+PAM-00788,CP0788,ALT0788,Bakery,Croissants,PAM Butter Croissant Classic,PAM,6,pcs,6,"1,56",,€,,PAM,Milano,07-01-2026,5565173942620,private label
+PAM-00789,CP0789,ALT0789,Bakery,Croissants,Zoa Chocolate Croissant Classic,Zoa,6,pcs,3,1.67,,EUR,low stock,PAM,Milano,2026/02/03 19:42,8430050735353,new
+PAM-00790,CP0790,ALT0790,Bakery,Cookies,Chocolate Chip Cookies Classic confezione 225g,Granarolo,225.0,g,4,EUR 2.76,,EUR,in stock,PAM,Milan,26/01/2026,2467751666303,imported
+PAM-00791,CP0791,ALT0791, Bakery ,Cookies,Bio Pam Digestive Biscuits Classic,Bio Pam,400,g,,2.41,,€,in stock,PAM,Milan,23-01-2026,6662608955883,seasonal item
+PAM-00792,CP0792,ALT0792,Produce,Tomatoes,Cherry Tomatoes Classic,Bio Pam,625.0,g,3, 2.10 ,,EUR,OUT OF STOCK,PAM,milan,2026-02-14,1358870432080,private label
+PAM-00793,CP0793,ALT0793,Produce,Tomatoes,Round Tomatoes Classic ,Bio Pam,1,kg,6,"€3,75",,€,in stock,PAM,MILANO,2026/04/18 01:31,4769389502005,private label
+PAM-00794,CP0794,ALT0794,Produce,Salad,Galbani Iceberg Lettuce Classic,Galbani,1.25,pcs,1, 2.28 ,,€,in stock,PAM,Milano,2026/04/20 14:45,2453880677224,limited edition
+PAM-00795,CP0795,ALT0795,Produce,Salad,PAM Rocket Salad Classic,PAM,187.5,g,1,"3,41",,eur,available,PAM,MILANO,12/02/2026,,seasonal item
+PAM-00796,CP0796,ALT0796,Produce,Apples,Zoa Golden Apples Classic,Zoa,1.5,kg,2, 2.12 ,,Euro,,PAM,milan,2026/01/06 00:56,5882803124387,seasonal item
+PAM-00797,CP0797,ALT0797,Produce,Apples,PAM Pink Lady Apples Classic,PAM,1.25,kg,1,EUR 2.10,,eur,low stock,PAM,milan,2026/02/04 04:46,6294204763301,imported
+PAM-00798,CP0798,ALT0798,Produce,Bananas,Bananas Classic,Pam Panorama,1,kg,3,"3,92","€3,44",Euro,low stock,PAM,milan,20-03-2026,8505180970131,seasonal item
+PAM-00799,CP0799,ALT0799,Produce,Potatoes,Potatoes Classic,PAM,1.5,kg,1, 1.99 ,,eur,limited,PAM,Milan,27-04-2026,0126821334237,imported
+PAM-00800,CP0800,ALT0800,Meat,Chicken,Mulino Bianco Chicken Breast Classic, Mulino Bianco,500.0,g,2,EUR 4.27,,eur,OUT OF STOCK,PAM,MILANO,2026/02/17 17:02,2907522775888,promo shelf
+PAM-00801,CP0801,ALT0801,Meat,Chicken,Semplici e Buoni Chicken Thighs Classic,Semplici e Buoni,500,g,, 5.29 ,,Euro,OUT OF STOCK,PAM,milan,21-02-2026,7920894561210,limited edition
+PAM-00802,CP0802,ALT0802,Meat,Beef,Semplici e Buoni Minced Beef Classic, Semplici e Buoni ,400,g,1,"3,81",,EUR,in stock,PAM,MILANO,17/03/2026,9782807535948,check allergen label
+PAM-00803,CP0803,ALT0803,Meat,Beef,Beef Steak Classic, Aia,375.0,g,1,"€7,84",,eur,OUT OF STOCK,PAM,milan,2026-03-15,1775343374799,
+PAM-00804,CP0804,ALT0804,Meat,Cured Meats,Prosciutto Cotto Classic confezione 120g,Semplici e Buoni,120,g,1, 4.68 ,,Euro,OUT OF STOCK,PAM,Milan,2026-02-22 19:25:00,9978545550415,imported
+PAM-00805,CP0805,ALT0805,Meat,Cured Meats,Salame Milano Classic,Bio Pam,100,g,6,6.21,"€4,94",eur,limited,PAM,Milan,2026-05-01 13:04:00,,imported
+PAM-00806,CP0806,ALT0806,Pantry,Pasta,Spaghetti Classic confezione 500g,Arkalia,500,g,3,EUR 4.18,,Euro,low stock,PAM,Milan,09-03-2026,5831409171472,
+PAM-00807,CP0807,ALT0807,Pantry,Pasta,Pam Panorama Penne Rigate Classic,Pam Panorama,500,g,2,"2,66",,Euro,,PAM,Milan,2026/01/25 18:15,9041845862391,private label
+PAM-00808,CP0808,ALT0808,Pantry,Pasta,Lavazza Fusilli Classic,Lavazza,,g,1,"2,59",,Euro,limited,PAM,Milano,2026/04/23 16:47,3694645944500,limited edition
+PAM-00809,CP0809,ALT0809,Pantry,RICE,Bio Pam Carnaroli Rice Classic,Bio Pam,1.5,kg,8,3.91,,EUR,OUT OF STOCK,PAM,Milan,2026-03-11,4108672403054,private label
+PAM-00810,CP0810,ALT0810,Pantry,Rice,Arkalia Basmati Rice Classic,Arkalia,1,kg,8,EUR 3.18,,eur,limited,PAM,Milano,10/01/2026,2988380416993,check allergen label
+PAM-00811,CP0811,ALT0811,Pantry,Sauce, Bio Pam Tomato Passata Classic,Bio Pam,1050.0,ml,6,EUR 2.56,,eur,available,PAM,Milano,2026-01-14,7222830486782,imported
+PAM-00812,CP0812,ALT0812,Pantry,Sauce,Pesto Genovese Classic confezione 142.5g,Arkalia,142.5,g,,3.72,,EUR,available,PAM,MILANO,21-01-2026,3429862482922,limited edition
+PAM-00813,CP0813,ALT0813,Pantry,Oil,Semplici e Buoni Extra Virgin Olive Oil Classic,Semplici e Buoni,1.5,l,1,"€3,91",,EUR,low stock,PAM,milan,2026-02-01,2799140418690,
+PAM-00814,CP0814,ALT0814,Pantry,Oil,Sunflower Oil Classic,Mulino Bianco,1,l,1,EUR 1.93,,eur,limited,PAM,milan,23-02-2026,6309567550376,private label
+PAM-00815,CP0815,ALT0815,Pantry,Flour,Semplici e Buoni All Purpose Flour Classic,Semplici e Buoni,0.75,kg,1, 4.65 ,3.53,Euro,,PAM,Milan,02-01-2026,6316198640537,
+PAM-00816,CP0816,ALT0816,Pantry,Flour,00 Flour Classic confezione 1kg, PAM,1,kg,4,1.90,1.41,EUR,,PAM,milan,2026/02/26 00:26,5795605607377,seasonal item
+PAM-00817,CP0817,ALT0817,Pantry,Sugar,White Sugar Classic,PAM,1.25,kg,1,EUR 4.53,,EUR,low stock,PAM,Milano,2026-03-05,4421402092102,
+PAM-00818,CP0818,ALT0818,Pantry,Sugar,Zoa Brown Sugar Classic,Zoa,1.25,kg,4,"4,72",,Euro,limited,PAM,milan,05/01/2026,5211169736654,private label
+PAM-00819,CP0819,ALT0819,Pantry,Coffee,ground coffee classic, Ferrero ,375.0,g,4, 2.46 ,,eur,low stock,PAM,Milano,2026/01/01 12:25,1369565656663,seasonal item
+PAM-00820,CP0820,ALT0820,Pantry,Coffee,PAM Coffee Beans Classic,PAM,500,g,1, 2.63 ,,Euro,OUT OF STOCK,PAM,Milano,2026/02/01 11:49,1048280174546,check allergen label
+PAM-00821,CP0821,ALT0821,Pantry,CEREAL,Bio Pam Corn Flakes Classic,Bio Pam,468.75,g,8,"€4,55",,€,,PAM,MILANO,11-04-2026,5360649621976,new
+PAM-00822,CP0822,ALT0822,Pantry,Cereal,Ferrero Muesli Classic,FERRERO,937.5,g,1,"3,95",EUR 3.60,EUR,low stock,PAM,milan,2026/04/23 11:25,,private label
+PAM-00823,CP0823,ALT0823,Frozen ,Pizza,Margherita Pizza Classic confezione 437.5g,PAM,437.5,g,4,3.00,,EUR,available,PAM,Milano,2026-04-18,3141375926126,check allergen label
+PAM-00824,CP0824,ALT0824,Frozen,Pizza,Vegetable Pizza Classic confezione 285g ,Pam Panorama,285.0,g,1,"4,29",,Euro,OUT OF STOCK,PAM,Milano,03/02/2026,,check allergen label
+PAM-00825,CP0825,ALT0825,Frozen,Vegetables,Zoa Frozen Peas Classic,Zoa,337.5,g,8,5.12,,€,low stock,PAM,MILANO,2026-04-19,3975713495522,
+PAM-00826,CP0826,ALT0826,Frozen,Vegetables,Semplici e Buoni Frozen Spinach Classic,Semplici e Buoni,450,g,1,4.84,,EUR,low stock,PAM,Milano,2026/03/19 09:08,7932154409874,
+PAM-00827,CP0827,ALT0827,Frozen,Fish,Arkalia Frozen Salmon Fillets Classic,Arkalia,400,g,1,EUR 4.51,,EUR,in stock,PAM,milan,2026/01/31 11:49,1465892696317,private label
+PAM-00828,CP0828,ALT0828,Frozen,Fish,Fish Fingers Classic,Zoa,375.0,g,1,3.15,,Euro,available,PAM,Milano,2026-04-26 12:02:00,4994531102903,seasonal item
+PAM-00829,CP0829,ALT0829,Beverages,Water, Still Water Classic confezione 1.5l,Arkalia,1.5,l,2,"€1,50",,Euro,low stock,PAM,Milano,18-04-2026,5821062612624,promo shelf
+PAM-00830,CP0830,ALT0830,Beverages,Water,Zoa Sparkling Water Classic,Zoa,1.5,l,6,"1,06",,€,low stock,PAM,Milano,2026/03/07 04:12,2033154139385,seasonal item
+PAM-00831,CP0831,ALT0831,Beverages,Juice,Barilla Orange Juice Classic,Barilla,1.5,l,1, 2.21 , 1.71 ,€,,PAM,MILANO,24-04-2026,3306655621261,private label
+PAM-00832,CP0832,ALT0832,Beverages,Juice,Semplici e Buoni Apple Juice Classic,Semplici e Buoni,1,l,3,EUR 1.40,,EUR,in stock,PAM,MILANO,2026-01-27,4187861487314,promo shelf
+PAM-00833,CP0833,ALT0833,beverages,Soft Drinks,cola classic,Bio Pam,1.88,l,4,1.71,,EUR,in stock,PAM,Milan,23/02/2026,7282897585512,new
+PAM-00834,CP0834,ALT0834,Beverages,Soft Drinks,Lemon Soda Classic confezione 2.25l,Pam Panorama,2.25,l,8, 1.45 ,,€,,PAM,Milano,14-02-2026,6620570427877,
+PAM-00835,CP0835,ALT0835,Beverages,Tea,Green Tea Classic,Zoa,30.0,pcs,6,"€1,74",,EUR,in stock,PAM,milan,2026/03/21 10:36,0071208133241,
+PAM-00836,CP0836,ALT0836,Beverages,Tea,Black Tea Classic confezione 25pcs,Semplici e Buoni,25,pcs,3,"€1,02","€0,77",Euro,available,PAM,MILANO,26-03-2026,9471250937009,promo shelf
+PAM-00837,CP0837,ALT0837,Household,Detergent,Bio Pam Dish Soap Classic,Bio Pam,937.5,ml,8,"3,59",,eur,,PAM,Milan,17-02-2026,7298540714991,private label
+PAM-00838,CP0838,ALT0838,Household,Detergent,Laundry Detergent Classic,Zoa,2.25,l,2,3.14,,EUR,OUT OF STOCK,PAM,MILANO,18-04-2026,2066715556504,promo shelf
+PAM-00839,CP0839,ALT0839,Household,Paper,Bio Pam Toilet Paper Classic,Bio Pam,8,pcs,1,6.27,"€5,71",eur,low stock, PAM,MILANO,21-04-2026,5118222488458,private label
+PAM-00840,CP0840,ALT0840,Household,Paper,Galbani Kitchen Towels Classic,Galbani,4,pcs,2, 4.72 ,,€,in stock,PAM,Milan,2026-04-09 09:38:00,5199403809787,
+PAM-00841,CP0841,ALT0841,Household,Cleaning,Multi Surface Cleaner Classic confezione 937.5ml,PAM,937.5,ml,4,"€3,80",,Euro,limited,PAM,MILANO,17/02/2026,9564223144908,seasonal item
+PAM-00842,CP0842,ALT0842,Household,Cleaning,Bio Pam Bleach Classic,Bio Pam,2,l,2, 6.92 ,,€,available,PAM,Milano,2026-03-03 13:30:00,0136622063360,imported
+PAM-00843,CP0843,ALT0843,Personal Care,Shampoo,Shampoo Classic,Bio Pam,250,ml,3,"€4,40",,EUR,OUT OF STOCK,PAM,Milan,2026-04-27,5787230744598,private label
+PAM-00844,CP0844,ALT0844,Personal Care,Shampoo,Conditioner Classic,Parmalat,250,ml,8,"€5,22",EUR 4.18,Euro,OUT OF STOCK,PAM,milan,10-02-2026,4157480866316,
+PAM-00845,CP0845,ALT0845,Personal Care,Soap,Hand Soap Classic confezione 300ml,Arkalia,300,ml,1,3.43,"2,51",EUR,in stock,PAM,Milan,2026/03/31 20:33,,new
+PAM-00846,CP0846,ALT0846,Personal Care,Soap,Rio Mare Body Wash Classic,Rio Mare,375.0,ml,8,"4,76",,eur,available,PAM,milan,2026-03-02 02:59:00,0797700425276,check allergen label
+PAM-00847,CP0847,ALT0847,Personal Care,Toothpaste,Toothpaste Classic confezione 75ml,Arkalia,75,ml,1,"€5,76",,EUR,,PAM,Milano,2026-02-24 15:53:00,4223596053962,
+PAM-00848,CP0848,ALT0848,Dairy,Mozzarella,Ferrero Mozzarella Premium,Ferrero,125,g,3,EUR 1.88,,Euro,limited,PAM,MILANO,2026-04-20,8663189290154,promo shelf
+PAM-00849,CP0849,ALT0849,Dairy,Mozzarella,Mozzarella di Bufala Premium,PAM,93.75,g,4,EUR 1.32,,€,,PAM,Milan,20/01/2026,0994567268111,
+PAM-00850,CP0850,ALT0850,Dairy,Mozzarella,Fior di latte mozzarella Premium,Semplici e Buoni,300.0,g,3,2.72,,EUR,OUT OF STOCK,PAM,Milano,2026-04-19 04:57:00,8539313895571,
+PAM-00851,CP0851,ALT0851,Dairy,Yogurt,Greek Yogurt Premium confezione 170g,Zoa,170,g,,"1,99",1.51,eur,available,PAM,Milan,21/02/2026,4813122430496,new
+PAM-00852,CP0852,ALT0852,Dairy,Yogurt,Strawberry Yogurt Premium confezione 2pcs,Bio Pam ,2,pcs,1,"€2,66","€1,99",eur,low stock,PAM,Milano,2026-01-13,1929221426484,
+PAM-00853,CP0853,ALT0853,Dairy,Yogurt,Zoa Plain Yogurt Premium,Zoa,500,g,1,2.25,"€2,11",€,OUT OF STOCK,PAM,Milan,2026/03/26 02:17,4368017083879,
+PAM-00854,CP0854,ALT0854,Dairy,Milk,Whole Milk Premium,PAM,1.25,l,4,EUR 2.70,,€,OUT OF STOCK,PAM,MILANO,2026-03-11 03:13:00,1457611022514,new
+PAM-00855,CP0855,ALT0855,Dairy,Milk,Semi-skimmed Milk Premium confezione 1l,De Cecco,1,l,1,"1,48",,€,low stock,PAM,Milan,2026/02/28 21:19,7016394366511,check allergen label
+PAM-00856,CP0856,ALT0856,Dairy,Milk,Zoa Lactose Free Milk Premium,Zoa,1.5,l,3,2.21,1.84,€,OUT OF STOCK,PAM,milan,24-01-2026,7526142207982,
+PAM-00857,CP0857,ALT0857,Dairy, Butter ,BIO PAM UNSALTED BUTTER PREMIUM,Bio Pam,375.0,g,2,EUR 1.60,1.13,Euro,in stock,PAM,milan,2026-04-19,0315538316153,limited edition
+PAM-00858,CP0858,ALT0858,Dairy,Butter,Salted Butter Premium,Arkalia,375.0,g,8,"1,39",1.03,eur,limited,PAM,Milano,2026/02/28 22:46,0719993196407,imported
+PAM-00859,CP0859,ALT0859,Dairy,Cheese,Parmigiano Reggiano Premium confezione 200g,PAM,200,g,2,"1,34",,Euro,in stock,PAM,Milano,06/03/2026,,promo shelf
+PAM-00860,CP0860,ALT0860,Dairy,Cheese,Gorgonzola Premium,Barilla,112.5,g,8, 2.57 ,,Euro,limited,PAM,MILANO,2026-04-12,3689297569886,promo shelf
+PAM-00861,CP0861,ALT0861,Dairy,Cheese,Ricotta Premium confezione 250g,Semplici e Buoni,250,g,6,1.82,,Euro,low stock,PAM,Milan,29/03/2026,0489072931228,seasonal item
+PAM-00862,CP0862,ALT0862,Bakery,Bread,Arkalia Whole Wheat Bread Premium,Arkalia,500,g,3,EUR 3.24,,EUR,low stock,PAM ,Milan,16-02-2026,0682870076259,seasonal item
+PAM-00863,CP0863,ALT0863,Bakery,Bread,Bio Pam Ciabatta Premium,Bio Pam,300,g,3,EUR 2.08,1.94,eur,available,PAM,Milan,31/03/2026,8246609373282,seasonal item
+PAM-00864,CP0864,ALT0864,Bakery,Bread,Sandwich Bread Premium,PAM,550,g,1, 2.24 ,1.85,€,OUT OF STOCK,PAM,MILANO,15-02-2026,2720438141214,
+PAM-00865,CP0865,ALT0865,Bakery,Croissants,Butter Croissant Premium confezione 6pcs,Semplici e Buoni,6,,4,2.10,,€,OUT OF STOCK,PAM,milan,2026/03/27 19:28,1589983224284,imported
+PAM-00866,CP0866,ALT0866,Bakery,Croissants,Pam Panorama Chocolate Croissant Premium,Pam Panorama,6,pcs,1, 1.59 ,,€,low stock,PAM,milan,2026/01/06 08:21,1957217894026,
+PAM-00867,CP0867,ALT0867,BAKERY,Cookies,Zoa Chocolate Chip Cookies Premium,Zoa,225.0,g,2,"€2,15","1,78",Euro,available,PAM,Milano,2026-01-03 13:00:00,5002999077658,promo shelf
+PAM-00868,CP0868,ALT0868,Bakery,Cookies,Pam Panorama Digestive Biscuits Premium,pam panorama,600.0,g,6, 2.57 ,,EUR,limited,PAM,Milan,02/03/2026,7900027363793,imported
+PAM-00869,CP0869,ALT0869,Produce,Tomatoes,Cherry Tomatoes Premium confezione 500g,Granarolo,500,g,4,"€2,23",,eur,low stock,PAM,milan,27/01/2026,4940606783703,promo shelf
+PAM-00870,CP0870,ALT0870,Produce,Tomatoes,Arkalia Round Tomatoes Premium,Arkalia,1,kg,8,2.82,,Euro,OUT OF STOCK, PAM ,milan,2026-01-19,6607902980781,
+PAM-00871,CP0871,ALT0871,Produce,Salad,semplici e buoni iceberg lettuce premium,Semplici e Buoni,0.75,pcs,1,"3,56",,EUR,OUT OF STOCK,PAM,Milan,2026/01/11 14:47,1135139592746,promo shelf
+PAM-00872,CP0872,ALT0872,Produce,Salad, Bio Pam Rocket Salad Premium,Bio Pam,93.75,g,2,"2,88",,€,available,PAM,Milan,31-03-2026,9572449376313,imported
+PAM-00873,CP0873,ALT0873,Produce,Apples,Golden Apples Premium confezione 1.5kg,Parmalat,1.5,kg,1,"€2,36",,eur,limited,PAM,milan,22-02-2026,2601680474369,imported
+PAM-00874,CP0874,ALT0874,Produce,Apples,Semplici e Buoni Pink Lady Apples Premium,Semplici e Buoni,1,kg,6,"€1,74",,Euro,limited,PAM,MILANO,2026-04-10 12:47:00,2914696851267,new
+PAM-00875,CP0875,ALT0875,Produce,Bananas,PAM Bananas Premium,PAM,1,kg,2,"€3,21",,€,,PAM,Milan,10/02/2026,4576883351660,promo shelf
+PAM-00876,CP0876,ALT0876,Produce,Potatoes,Pam Panorama Potatoes Premium,Pam Panorama,2.5,kg,6,3.88,3.17,eur,limited,PAM,Milan,30-01-2026,2276723232907,promo shelf
+PAM-00877,CP0877,ALT0877,Meat,Chicken,Chicken Breast Premium,Mutti,300.0,g,8,6.52,EUR 5.14,eur,in stock, PAM ,Milan,29/01/2026,5004968708936,imported
+PAM-00878,CP0878,ALT0878,Meat,Chicken,Bio Pam Chicken Thighs Premium,Bio Pam,375.0,g,1, 5.90 ,,EUR,,PAM,milan,2026-03-12,5166072898658,seasonal item
+PAM-00879,CP0879,ALT0879,Meat,Beef,PAM Minced Beef Premium,PAM,600.0,g,1,"€5,75",,€,available,PAM,MILANO,20/04/2026,1491090539040,check allergen label
+PAM-00880,CP0880,ALT0880,Meat,Beef,Beef Steak Premium confezione 300g,De Cecco,300,g,,EUR 8.20, 7.64 ,Euro,,PAM,Milan,05/04/2026,7920638076969,new
+PAM-00881,CP0881,ALT0881,Meat,Cured Meats,Prosciutto Cotto Premium,Pam Panorama,150.0,g,3,"5,50","€4,73",Euro,in stock,PAM,MILANO,12-03-2026,3548669142554,seasonal item
+PAM-00882,CP0882,ALT0882,Meat,Cured Meats,Salame Milano Premium confezione 125g,Galbani,125.0,g,4,"€6,65",,eur,OUT OF STOCK,PAM,milan,2026/04/19 12:28,9366055378291,new
+PAM-00883,CP0883,ALT0883,Pantry,Pasta, Spaghetti Premium confezione 625g,Arkalia,625.0,g,8,"€4,06",,€,,PAM,milan,2026/04/12 04:06,4967269619123,promo shelf
+PAM-00884,CP0884,ALT0884,Pantry,Pasta,Penne Rigate Premium,Arkalia,500,g,2,"3,40",,Euro,low stock,PAM,milan,2026-04-16,5937563885685,new
+PAM-00885,CP0885,ALT0885,Pantry,Pasta,Semplici e Buoni Fusilli Premium,Semplici e Buoni,500,g,3,EUR 4.59,,EUR,limited,PAM,milan,2026-03-31,4939768484900,seasonal item
+PAM-00886,CP0886,ALT0886,Pantry,Rice,PAM Carnaroli Rice Premium,PAM,0.75,kg,1,2.00,,€,OUT OF STOCK,PAM,MILANO,2026-04-12 13:49:00,5164653019384,seasonal item
+PAM-00887,CP0887,ALT0887,Pantry,Rice,Basmati Rice Premium confezione 1kg,PAM,1,kg,4,"4,75",,€,limited,PAM,Milan,09-01-2026,8047677839018,
+PAM-00888,CP0888,ALT0888, Pantry ,Sauce,Tomato Passata Premium confezione 875ml,FERRERO,875.0,ml,1,2.04,,Euro,limited,PAM,milan,2026-02-07,6798328916612,
+PAM-00889,CP0889,ALT0889,Pantry,Sauce, Pesto Genovese Premium ,Zoa,142.5,g,2, 3.44 ,,€,OUT OF STOCK,PAM,MILANO,2026-02-16 16:37:00,4103267887966,seasonal item
+PAM-00890,CP0890,ALT0890,Pantry,Oil,extra virgin olive oil premium,Mulino Bianco,0.75,l,1,EUR 2.71,,Euro,in stock,PAM,milan,2026-03-30 01:05:00,6593793013105,limited edition
+PAM-00891,CP0891,ALT0891,Pantry,Oil,Sunflower Oil Premium,Bio Pam,1.25,l,3,"€4,71",,Euro,available,PAM,milan,05-03-2026,1875406570224,new
+PAM-00892,CP0892,ALT0892,Pantry,Flour,Parmalat All Purpose Flour Premium,Parmalat,1.25,kg,, 4.17 ,,€,in stock,PAM,Milan,25/03/2026,1503377747467,private label
+PAM-00893,CP0893,ALT0893,Pantry, Flour ,Zoa 00 Flour Premium,Zoa,0.75,kg,6,1.90,,eur,low stock, PAM ,milan,2026-04-15,0729989553457,check allergen label
+PAM-00894,CP0894,ALT0894,Pantry,Sugar,Ferrero White Sugar Premium,Ferrero,1.5,kg,8,"3,43",,eur,available,PAM,milan,2026-01-01,0190938761473,imported
+PAM-00895,CP0895,ALT0895,Pantry, Sugar , Pam Panorama Brown Sugar Premium,Pam Panorama,0.75,kg,4,4.06, 3.07 ,EUR,in stock,PAM,milan,05-04-2026,3002290077376,new
+PAM-00896,CP0896,ALT0896,Pantry,Coffee,Ground Coffee Premium,Parmalat,250,g,6, 4.49 ,,Euro,,PAM,Milano,2026-01-03 03:49:00,9120280213264,seasonal item
+PAM-00897,CP0897,ALT0897,Pantry,Coffee,Coffee Beans Premium,PAM,500,g,1,3.10,,€,OUT OF STOCK,PAM ,MILANO,2026-04-19,8500176920990,imported
+PAM-00898,CP0898,ALT0898,Pantry,Cereal,Corn Flakes Premium,Bio Pam,562.5,g,4,EUR 4.03,,€,available,PAM,Milan,12/01/2026,1349992554959,seasonal item
+PAM-00899,CP0899,ALT0899,Pantry ,Cereal, Pam Panorama Muesli Premium ,Pam Panorama,750,g,2,3.32, 2.91 ,€,limited,PAM,MILANO,13-03-2026,1361736965403,limited edition
+PAM-00900,CP0900,ALT0900,Frozen,Pizza,Ferrero Margherita Pizza Premium,FERRERO,262.5,g,1,4.91,,eur,in stock,PAM,milan,2026-03-16,9225664187429,seasonal item
+PAM-00901,CP0901,ALT0901,Frozen,Pizza,Pam Panorama Vegetable Pizza Premium, Pam Panorama ,380,g,1,"€5,08",,€,limited,PAM,milan,2026/02/13 08:22,2324711462772,check allergen label
+PAM-00902,CP0902,ALT0902,Frozen,Vegetables,Frozen Peas Premium,PAM,,g,2,"4,45",,EUR,available,PAM,Milan,2026-04-08,6358792129591,private label
+PAM-00903,CP0903,ALT0903,Frozen,Vegetables,PAM Frozen Spinach Premium,PAM,675.0,g,1, 4.37 ,,EUR,low stock,PAM,Milano,2026/03/22 17:10,1919878758273,private label
+PAM-00904,CP0904,ALT0904,Frozen,Fish,Mutti Frozen Salmon Fillets Premium,Mutti,500.0,g,1,3.71,2.77,EUR,in stock,PAM,Milano,2026/01/23 23:05,7098617292883,new
+PAM-00905,CP0905,ALT0905,Frozen,Fish ,Ferrero Fish Fingers Premium,Ferrero,450.0,g,8,"€3,38","2,51",Euro,low stock,PAM,MILANO,16/03/2026,6373354724018,
+PAM-00906,CP0906,ALT0906,Beverages,Water,Still Water Premium ,Semplici e Buoni,2.25,l,6,"2,10",,€,,PAM,Milan,10-01-2026,9889968427584,
+PAM-00907,CP0907,ALT0907,Beverages,Water,Bio Pam Sparkling Water Premium,Bio Pam,2.25,l,,EUR 1.32,1.05,EUR,in stock,PAM,Milan,2026/03/24 17:09,6643121885182,seasonal item
+PAM-00908,CP0908,ALT0908,Beverages,Juice,Orange Juice Premium confezione 1l,Lavazza,1,l,1,"€1,09","€0,93",€,available,PAM,Milano,2026-01-22,0353048476973,promo shelf
+PAM-00909,CP0909,ALT0909,Beverages,Juice,PAM Apple Juice Premium,PAM,1.5,l,1,"1,99",,eur,,PAM,Milan,19/01/2026,9149673310600,imported
+PAM-00910,CP0910,ALT0910,Beverages,Soft Drinks,Bio Pam Cola Premium ,Bio Pam,1.88,l,1, 2.59 ,,Euro,limited,PAM,Milan,2026-01-18 03:08:00,5160486912906,private label
+PAM-00911,CP0911,ALT0911,Beverages,Soft Drinks,ZOA LEMON SODA PREMIUM,Zoa,,l,6, 1.57 ,,eur,,PAM,Milan,12-02-2026,5016939336159,
+PAM-00912,CP0912,ALT0912,Beverages,Tea,Rio Mare Green Tea Premium,Rio Mare,25.0,pcs,8,EUR 1.68,,EUR,available,PAM,milan,2026-01-19 12:09:00,,
+PAM-00913,CP0913,ALT0913,Beverages,Tea, Black Tea Premium confezione 25pcs ,Pam Panorama,25,pcs,1,EUR 1.23,,EUR,low stock,PAM,Milano,16-03-2026,1365243943568,
+PAM-00914,CP0914,ALT0914,Household,Detergent,Dish Soap Premium,Zoa,1125.0,ml,4,,,EUR,,PAM,Milan,25-03-2026,7580066227712,promo shelf
+PAM-00915,CP0915,ALT0915,Household,Detergent,Laundry Detergent Premium,Zoa,1.88,l,1, 4.05 ,,€,OUT OF STOCK,PAM,Milan,24-01-2026,8417502278311,
+PAM-00916,CP0916,ALT0916,Household,Paper,Semplici e Buoni Toilet Paper Premium,Semplici e Buoni,8,pcs,2,EUR 4.31,,eur,,PAM,Milano,14-04-2026,5427020945574,seasonal item
+PAM-00917,CP0917,ALT0917,Household,Paper,Kitchen Towels Premium,Pam Panorama,6.0,pcs,6,,,eur,OUT OF STOCK,PAM,Milan,31/01/2026,7450214531159,promo shelf
+PAM-00918,CP0918,ALT0918,Household,Cleaning,Arkalia Multi Surface Cleaner Premium,Arkalia,1125.0,ml,6,"€4,61",,eur,OUT OF STOCK,PAM,Milano,2026/02/23 16:41,,limited edition
+PAM-00919,CP0919,ALT0919,Household,Cleaning,Bleach Premium confezione 1.5l,Zoa,1.5,l,6,"€5,49",EUR 4.31,eur,OUT OF STOCK,PAM ,Milan,2026/02/03 02:08,0874765286838,new
+PAM-00920,CP0920,ALT0920,Personal Care,Shampoo,Pam Panorama Shampoo Premium,Pam Panorama,375.0,ml,,"€4,42",,Euro,,PAM,milan,2026-02-04 15:33:00,7174909552980,
+PAM-00921,CP0921,ALT0921,Personal Care,Shampoo,Bio Pam Conditioner Premium,Bio Pam,187.5,ml,1,3.34, 2.87 ,Euro,,PAM,milan,2026/02/13 19:56,8570409926436,
+PAM-00922,CP0922,ALT0922,Personal Care,Soap,PAM Hand Soap Premium,PAM,300,ml,4, 5.70 ,,EUR,in stock,PAM,milan,2026-03-16 05:27:00,4370241052835,seasonal item
+PAM-00923,CP0923,ALT0923,Personal Care,Soap,Zoa Body Wash Premium,Zoa,500,ml,8,EUR 2.71,,Euro,low stock, PAM,Milano,2026-04-08,,limited edition
+PAM-00924,CP0924,ALT0924,Personal Care,Toothpaste, Pam Panorama Toothpaste Premium,Pam Panorama,75,ml,2,"6,32",,Euro,limited,PAM,MILANO,22-04-2026,0693712183538,seasonal item
+PAM-00925,CP0925,ALT0925,Dairy,Mozzarella,Zoa Mozzarella Bio,Zoa,93.75,g,1,1.35,,eur,available,PAM,Milan,27/02/2026,0058099826266,private label
+PAM-00926,CP0926,ALT0926,Dairy,Mozzarella,Mozzarella di Bufala Bio,Bio Pam,125,g,1,3.13,,Euro,available,PAM,milan,02/03/2026,1418047188303,new
+PAM-00927,CP0927,ALT0927,Dairy ,Mozzarella,FIOR DI LATTE MOZZARELLA BIO,PAM,200,g,4,"2,24",,EUR,OUT OF STOCK,PAM,MILANO,2026/01/14 00:02,7976185743866,limited edition
+PAM-00928,CP0928,ALT0928,Dairy,Yogurt,Greek Yogurt Bio,SEMPLICI E BUONI,170,g,1,2.87,2.24,€,in stock,PAM ,milan,2026-03-03 07:50:00,1997653048272,promo shelf
+PAM-00929,CP0929,ALT0929,Dairy ,Yogurt,Strawberry Yogurt Bio,Parmalat,3.0,pcs,1,2.50,,eur,,PAM,MILANO,2026/03/31 12:18,2022949451319,
+PAM-00930,CP0930,ALT0930,Dairy, Yogurt,Plain Yogurt Bio confezione 375g,Arkalia,,g,8,,,EUR,limited,PAM,milan,08-01-2026,8457621052068,
+PAM-00931,CP0931,ALT0931,Dairy,Milk,PAM Whole Milk Bio,PAM,1,l,2,2.16,,eur,OUT OF STOCK,PAM,Milano,27/03/2026,0238813937299,limited edition
+PAM-00932,CP0932,ALT0932,Dairy,Milk,Arkalia Semi-skimmed Milk Bio,Arkalia,0.75,l,,"€1,64","1,52",EUR,available,PAM,milan,21-02-2026,1484634627714,
+PAM-00933,CP0933,ALT0933,DAIRY,Milk,Lactose Free Milk Bio confezione 1.25l,Pam Panorama,1.25,l,2,"€3,32",,Euro,available,PAM,milan,2026/03/12 04:03,4266053392033,new
+PAM-00934,CP0934,ALT0934,Dairy,Butter,Unsalted Butter Bio,PAM,312.5,g,2,"€3,28",,EUR,,PAM,Milano,25-02-2026,2982010722871,check allergen label
+PAM-00935,CP0935,ALT0935,Dairy,Butter,PAM Salted Butter Bio,PAM,375.0,g,8,2.38,,eur,OUT OF STOCK,PAM,milan,02-04-2026,4027865607416,promo shelf
+PAM-00936,CP0936,ALT0936,Dairy,Cheese,Parmigiano Reggiano Bio,Arkalia,250.0,g,6,"1,77",,eur,in stock,PAM,MILANO,2026-03-19,9561488019394,promo shelf
+PAM-00937,CP0937,ALT0937,Dairy,Cheese,Mulino Bianco Gorgonzola Bio,Mulino Bianco,150,g,1, 1.77 ,EUR 1.35,€,OUT OF STOCK,PAM,Milan,31/01/2026,1338796020415,private label
+PAM-00938,CP0938,ALT0938,Dairy,Cheese,Ferrero Ricotta Bio,Ferrero,187.5,g,1,1.53,,EUR,in stock,PAM,Milano,2026-02-08 11:09:00,5124909218900,check allergen label
+PAM-00939,CP0939,ALT0939,Bakery,Bread,Whole Wheat Bread Bio,arkalia,500,g,1,EUR 1.74,,EUR,in stock,PAM,Milano,2026-01-21,2505303465855,
+PAM-00940,CP0940,ALT0940,Bakery, Bread,PAM Ciabatta Bio,PAM,300,g,3,1.97,,EUR,OUT OF STOCK,PAM,milan,16-04-2026,7844376109259,
+PAM-00941,CP0941,ALT0941,Bakery, Bread ,Parmalat Sandwich Bread Bio,Parmalat,550,g,1, 2.45 ,,Euro,,PAM,Milan,15-02-2026,7167110079851,limited edition
+PAM-00942,CP0942,ALT0942,Bakery,Croissants,Butter Croissant Bio,Pam Panorama,7.5,pcs,6,EUR 2.05, 1.84 ,eur,limited,PAM,Milan,28/01/2026,0248696635734,seasonal item
+PAM-00943,CP0943,ALT0943,Bakery,Croissants,Bio Pam Chocolate Croissant Bio,Bio Pam,4.5,pcs,1,"3,21",,eur,low stock,PAM,milan,2026-04-27 05:46:00,2350333656418,check allergen label
+PAM-00944,CP0944,ALT0944,Bakery ,Cookies,PAM Chocolate Chip Cookies Bio,PAM,300,g,1,,,Euro,limited,PAM,Milan,2026-03-30 19:23:00,0639677392325,imported
+PAM-00945,CP0945,ALT0945,Bakery,Cookies,Zoa Digestive Biscuits Bio,Zoa ,400,g,8,EUR 2.97, 2.15 ,EUR,,PAM,milan,2026-03-19 06:58:00,7416492730559,limited edition
+PAM-00946,CP0946,ALT0946,Produce,Tomatoes,Cherry Tomatoes Bio confezione 750g,Bio Pam,750.0,g,1,"€3,85",,EUR,in stock,PAM,MILANO,05-03-2026,5623812778401,
+PAM-00947,CP0947,ALT0947,Produce,Tomatoes,Zoa Round Tomatoes Bio,Zoa,1,kg,4, 3.30 ,,Euro,available,PAM,Milano,18/02/2026,1217859012602,check allergen label
+PAM-00948,CP0948,ALT0948,Produce,SALAD,Iceberg Lettuce Bio confezione 1.25pcs,Zoa,1.25,pcs,1,"€2,31",,eur,limited,PAM,MILANO,2026/04/19 01:46,2618329411168,limited edition
+PAM-00949,CP0949,ALT0949,Produce,salad,Rocket Salad Bio,Zoa,93.75,g,1,EUR 3.73,,Euro,limited,PAM,MILANO,31/03/2026,0470319416444,check allergen label
+PAM-00950,CP0950,ALT0950,Produce,Apples,Golden Apples Bio confezione 1.5kg,Pam Panorama,1.5,kg,1,EUR 3.51,2.84,eur,OUT OF STOCK,PAM,Milano,2026/04/19 23:15,4853182467017,promo shelf
+PAM-00951,CP0951,ALT0951,Produce,Apples,PAM Pink Lady Apples Bio,PAM,1,kg,2, 3.59 ,,Euro,available,PAM,milan,09-02-2026,1201358342298,seasonal item
+PAM-00952,CP0952,ALT0952,Produce,Bananas, Lavazza Bananas Bio ,Lavazza,1,kg,1,"2,39",,Euro,available,PAM,Milan,2026-03-05,5413317946238,private label
+PAM-00953,CP0953,ALT0953,produce,Potatoes,Mutti Potatoes Bio,Mutti,2,kg,8, 3.72 ,,eur,OUT OF STOCK,PAM,MILANO,18-01-2026,2160380807365,new
+PAM-00954,CP0954,ALT0954,Meat,Chicken,Barilla Chicken Breast Bio,Barilla,400,g,4,"€8,41",6.88,Euro,low stock, PAM ,Milano,28-03-2026,5740012263300,
+PAM-00955,CP0955,ALT0955,Meat,Chicken,Arkalia Chicken Thighs Bio,Arkalia,375.0,g,1,"€8,37",,€,available,PAM,MILANO,2026/01/17 01:17,4626132216828,seasonal item
+PAM-00956,CP0956,ALT0956,Meat,Beef,Semplici e Buoni Minced Beef Bio,Semplici e Buoni,300.0,g,1, 6.03 ,,eur,low stock,PAM,Milan,07/03/2026,4102680330769,seasonal item
+PAM-00957,CP0957,ALT0957,Meat,Beef,PAM Beef Steak Bio,PAM,300,g,4,4.76,,eur,,PAM,Milano,13-02-2026,2582624486398,
+PAM-00958,CP0958,ALT0958,Meat,Cured Meats,Bio Pam Prosciutto Cotto Bio, Bio Pam ,120,g,1,5.18,,EUR,OUT OF STOCK,PAM,Milano,2026-02-17 16:15:00,5275617139796,
+PAM-00959,CP0959,ALT0959,Meat,Cured Meats,bio pam salame milano bio,Bio Pam,150.0,g,6,"€3,89","3,04",€,available,PAM,milan,10-03-2026,0825123819626,seasonal item
+PAM-00960,CP0960,ALT0960,Pantry,Pasta,Zoa Spaghetti Bio,Zoa,750.0,g,3, 4.17 ,,eur,low stock,PAM,MILANO,2026/01/27 23:35,5325573824079,imported
+PAM-00961,CP0961,ALT0961,pantry,Pasta,Pam Panorama Penne Rigate Bio,Pam Panorama,500,g,4,"4,13",,Euro,in stock,PAM,MILANO,2026/02/11 20:59,5579873216282,private label
+PAM-00962,CP0962,ALT0962,Pantry,Pasta,Pam Panorama Fusilli Bio,Pam Panorama,625.0,g,1,EUR 3.69,,€,available,PAM,Milano,2026-03-26 01:37:00,5328435788471,limited edition
+PAM-00963,CP0963,ALT0963,Pantry,Rice,Carnaroli Rice Bio,Semplici e Buoni,0.75,kg,3,3.34,,€,available,PAM,milan,17/01/2026,2562658596256,
+PAM-00964,CP0964,ALT0964,Pantry,Rice,basmati rice bio,Arkalia,1.25,kg,1,"€3,18",,Euro,in stock,PAM,MILANO,26/03/2026,7658244898774,
+PAM-00965,CP0965,ALT0965,Pantry,Sauce,Tomato Passata Bio confezione 700ml,Arkalia,700,ml,1,3.46,"€3,26",eur,OUT OF STOCK,PAM,milan,2026-02-14,6153433667128,limited edition
+PAM-00966,CP0966,ALT0966,Pantry,Sauce,Pesto Genovese Bio,Arkalia,237.5,g,1,2.01,,Euro,low stock,PAM,milan,08-04-2026,9523053051327,
+PAM-00967,CP0967,ALT0967,Pantry,Oil ,Aia Extra Virgin Olive Oil Bio,Aia,1,l,6,"€3,89",,eur,OUT OF STOCK,PAM,Milan,2026/04/07 17:22,7523579659314,seasonal item
+PAM-00968,CP0968,ALT0968,Pantry,Oil, Zoa Sunflower Oil Bio,Zoa,,l,,2.93,,Euro,,pam,MILANO,2026/04/13 17:36,,
+PAM-00969,CP0969,ALT0969,Pantry, Flour,Pam Panorama All Purpose Flour Bio,Pam Panorama,1.5,kg,,3.12,,EUR,in stock,PAM,Milan,28-02-2026,3867293835865,limited edition
+PAM-00970,CP0970,ALT0970,pantry,Flour,00 Flour Bio,Zoa,1.25,kg,,EUR 2.26,,Euro,low stock,PAM,milan,22-04-2026,4294641171393,private label
+PAM-00971,CP0971,ALT0971,Pantry,Sugar,White Sugar Bio,Pam Panorama,1.25,kg,1,EUR 3.36,,EUR,,PAM,Milan,2026/04/05 18:24,9460078518157,private label
+PAM-00972,CP0972,ALT0972,Pantry,Sugar,Brown Sugar Bio,Semplici e Buoni,0.75,kg,4,EUR 2.13,,Euro,low stock,PAM,Milan,16/02/2026,7868088882390,
+PAM-00973,CP0973,ALT0973,Pantry,Coffee,Semplici e Buoni Ground Coffee Bio,Semplici e Buoni,375.0,g,1,EUR 3.38,2.61,€,, PAM ,MILANO,2026-01-15 01:57:00,3711617413527,private label
+PAM-00974,CP0974,ALT0974,Pantry,Coffee,PAM Coffee Beans Bio,PAM,375.0,g,8,4.40,3.39,eur,low stock,PAM,MILANO,08-01-2026,8860160722389,
+PAM-00975,CP0975,ALT0975,Pantry,Cereal,Corn Flakes Bio confezione 468.75g,Arkalia,468.75,g,1,4.32,,Euro,in stock,PAM ,Milano,08-04-2026,8182831031939,
+PAM-00976,CP0976,ALT0976,Pantry,Cereal, Muesli Bio ,Zoa,750,g,8,EUR 4.71,,eur,limited,PAM,Milano,09/01/2026,7291310316309,limited edition
+PAM-00977,CP0977,ALT0977,Frozen,Pizza,Margherita Pizza Bio,Zoa,525.0,g,2, 3.05 ,,€,in stock,PAM,milan,2026-02-22,8931929319826,check allergen label
+PAM-00978,CP0978,ALT0978,Frozen,Pizza,PAM Vegetable Pizza Bio,PAM,380,g,1,"€5,77",,Euro,,PAM,Milano,2026-01-23 01:40:00,1565312341577,
+PAM-00979,CP0979,ALT0979,Frozen,Vegetables,Frozen Peas Bio,Zoa,337.5,g,3,EUR 3.24,,Euro,,PAM,Milan,09-04-2026,0924487372277,
+PAM-00980,CP0980,ALT0980,Frozen,Vegetables,Frozen Spinach Bio,Zoa,337.5,g,1,"€5,36",,EUR,available,PAM,Milan,2026-01-30,0964927167296,
+PAM-00981,CP0981,ALT0981,Frozen,Fish,pam panorama frozen salmon fillets bio,Pam Panorama,400,g,3,4.60,,Euro,available,PAM,milan,12/03/2026,9262891837895,seasonal item
+PAM-00982,CP0982,ALT0982,Frozen,Fish,De Cecco Fish Fingers Bio,De Cecco,450.0,g,4,EUR 4.90,,eur,low stock,PAM,Milan,2026-02-18,4518481326733,limited edition
+PAM-00983,CP0983,ALT0983,Beverages,Water,Bio Pam Still Water Bio,Bio Pam,2.25,l,1,1.71,,eur,limited,PAM,Milano,2026-04-03,7336191343169,check allergen label
+PAM-00984,CP0984,ALT0984,Beverages,Water,PAM Sparkling Water Bio,PAM,1.12,l,2,EUR 1.31,,Euro,,PAM,Milan,2026-03-20,7601326843114,seasonal item
+PAM-00985,CP0985,ALT0985,Beverages,Juice,PAM Orange Juice Bio,PAM,1,l,2,,,EUR,OUT OF STOCK,PAM,milan,20/04/2026,0728255146906,seasonal item
+PAM-00986,CP0986,ALT0986,Beverages,Juice,Galbani Apple Juice Bio,Galbani,1.5,l,6,2.16,,EUR,limited,PAM,Milan,19/01/2026,4846006030086,
+PAM-00987,CP0987,ALT0987,Beverages,Soft Drinks,Arkalia Cola Bio,Arkalia,1.12,l,1,"€2,01",,€,,PAM,Milano,2026-02-13 20:05:00,4420692565291,imported
+PAM-00988,CP0988,ALT0988,Beverages,Soft Drinks,Lemon Soda Bio confezione 1.5l,PAM,1.5,l,3,"1,78",,EUR,low stock,PAM,MILANO,2026-02-19 06:44:00,9033171803516,imported
+PAM-00989,CP0989,ALT0989,Beverages, Tea,Green Tea Bio confezione 25pcs,Parmalat,25.0,pcs,, 1.53 ,,EUR,in stock,PAM,Milan,07-01-2026,7124920855545,
+PAM-00990,CP0990,ALT0990,Beverages,Tea,Black Tea Bio confezione 37.5pcs,PAM,37.5,pcs,8,1.08,,Euro,low stock,PAM,Milano,2026-02-17,,private label
+PAM-00991,CP0991,ALT0991,Household,Detergent,Dish Soap Bio,Mulino Bianco,937.5,ml,8,"6,05",,€,,PAM,Milano,2026-03-24,,
+PAM-00992,CP0992,ALT0992,Household,Detergent,Laundry Detergent Bio confezione 1.5l,PAM,1.5,l,1,EUR 6.06,,€,,PAM,Milan,2026/03/05 08:51,7214127022957,new
+PAM-00993,CP0993,ALT0993,Household,Paper,Zoa Toilet Paper Bio,Zoa,8,pcs,1,4.36,,Euro,low stock,PAM,Milano,2026-02-19 14:06:00,7286455188143,seasonal item
+PAM-00994,CP0994,ALT0994, Household,Paper,Pam Panorama Kitchen Towels Bio,Pam Panorama,6.0,pcs,1,5.10,,eur,low stock,PAM,MILANO,19-04-2026,1397424588822,imported
+PAM-00995,CP0995,ALT0995,Household,Cleaning,Multi Surface Cleaner Bio,Zoa,937.5,ml,2,"€4,86",4.56,Euro,available,PAM,MILANO,2026/04/11 13:42,7922803514586,seasonal item
+PAM-00996,CP0996,ALT0996,Household,Cleaning,Bleach Bio confezione 2.5l,Rio Mare,2.5,l,6,"3,86",,€,available,PAM,Milano,2026/03/06 00:50,4346845686004,
+PAM-00997,CP0997,ALT0997,Personal Care,Shampoo, De Cecco Shampoo Bio ,De Cecco,187.5,ml,1,EUR 3.41,,eur,available,PAM,milan,30/01/2026,7148201657628,limited edition
+PAM-00998,CP0998,ALT0998,Personal Care,Shampoo,Bio Pam Conditioner Bio,Bio Pam,312.5,ml,1,3.31,,EUR,low stock,PAM,Milan,2026/01/18 06:18,8278596831748,new
+PAM-00999,CP0999,ALT0999,Personal Care,Soap,Hand Soap Bio,Lavazza ,300,ml,1, 2.75 ,,EUR,low stock,PAM,milan,22/04/2026,2554394170528,
+PAM-01000,CP1000,ALT1000,Personal Care,Soap,Body Wash Bio,PAM,625.0,ml,1,"3,59",,EUR,,PAM,MILANO,2026-04-04 06:15:00,,

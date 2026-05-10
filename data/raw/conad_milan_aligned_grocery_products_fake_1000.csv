@@ -1,0 +1,1001 @@
+store_product_id,canonical_product_id,alt_group_id,category,subcategory,product_name,brand,size,unit,pack_count,price_eur,promo_price_eur,currency,availability,store_name,city,last_updated,barcode,notes
+CON-00001,CP0001,ALT0001,Dairy,Mozzarella,Sapori e Dintorni Mozzarella confezione,Sapori e Dintorni,,g,1,2.38, 1.76 ,eur,in stock,Conad,MILANO,15-01-2026,4729539384264,
+CON-00002,CP0002,ALT0002,Dairy,Mozzarella,Ferrero Mozzarella di Bufala confezione,Ferrero,125,g,1,2.47,,EUR,limited,Conad,Milano,2026-03-09,0996622906347,
+CON-00003,CP0003,ALT0003,Dairy,Mozzarella,Fior di latte mozzarella 200g,Conad,200,g,8,EUR 2.80,2.43,eur,limited,Conad,MILANO,19/03/2026,3610508440684,check allergen label
+CON-00004,CP0004,ALT0004,Dairy,Yogurt, Parmalat Greek Yogurt,Parmalat,170,g,,2.62, 2.19 ,€,low stock,Conad,MILANO,2026-03-07,6259834995666,promo shelf
+CON-00005,CP0005,ALT0005,Dairy,Yogurt,Strawberry Yogurt,Petfriends,,pcs,1, 2.33 ,,eur,OUT OF STOCK,Conad,Milan,2026-03-27 00:07:00,3712584543137,new
+CON-00006,CP0006,ALT0006,Dairy,Yogurt,Plain Yogurt 500g,Verso Natura,500,g,1, 2.83 ,"2,58",eur,limited,Conad,Milano,23/01/2026,,promo shelf
+CON-00007,CP0007,ALT0007,Dairy,Milk,Verso Natura Whole Milk,Verso Natura,1,l,4,EUR 2.51,,EUR,,Conad,milan,03-01-2026,9421726082135,seasonal item
+CON-00008,CP0008,ALT0008,Dairy,Milk,Semi-skimmed Milk 1l,Sapori e Dintorni,1,l,8,,,eur,limited,Conad,MILANO,05/04/2026,9741397317706,promo shelf
+CON-00009,CP0009,ALT0009,Dairy,Milk,Piacersi Lactose Free Milk,Piacersi,1,l,4, 2.60 ,,€,in stock,CONAD,Milano,2026/02/09 01:29,8190960760456,promo shelf
+CON-00010,CP0010,ALT0010,Dairy,Butter,Conad Unsalted Butter confezione,Conad,250,g,4,EUR 3.06,,EUR,low stock,Conad,milan,27/04/2026,3783852635325,imported
+CON-00011,CP0011,ALT0011,Dairy,Butter ,Salted Butter 250g,Verso Natura,250,g,2,"€2,60",,EUR,in stock,Conad,MILANO,2026/02/11 21:37,2602676151819,
+CON-00012,CP0012,ALT0012,Dairy,Cheese,Verso Natura Parmigiano Reggiano,Verso Natura,200,g,4,"€2,85",2.19,Euro,in stock,Conad,Milano,2026-02-16 19:41:00,5457499894738,
+CON-00013,CP0013,ALT0013,Dairy,Cheese,Gorgonzola 150g,Conad,150,g,1, 1.78 ,EUR 1.43,Euro,available,Conad,Milan,2026-04-28,9594444056555,imported
+CON-00014,CP0014,ALT0014,Dairy,Cheese,Conad Kids Ricotta confezione,Conad Kids,250,g,1, 1.48 ,,eur,available,Conad,MILANO,22/01/2026,8540277234890,new
+CON-00015,CP0015,ALT0015,Bakery,Bread,Whole Wheat Bread 500g,Piacersi,500,g,1,EUR 3.46,,eur,available,Conad,milan,2026-01-02 15:03:00,6716089064724,limited edition
+CON-00016,CP0016,ALT0016, Bakery ,Bread,Ciabatta 300g,Sapori e Dintorni,300,,4,1.58,1.16,€,,Conad,MILANO,20-02-2026,,private label
+CON-00017,CP0017,ALT0017,Bakery,Bread,Sandwich Bread,Rio Mare,550,g,6,EUR 3.27,,eur,available,Conad,milan,2026-03-03,6392823826646,limited edition
+CON-00018,CP0018,ALT0018,Bakery,Croissants,Butter Croissant,Petfriends,6,pcs,3,"3,47",3.08,€,limited,CONAD,Milan,28-01-2026,6238127758430,
+CON-00019,CP0019,ALT0019,Bakery,Croissants,Chocolate Croissant 6pcs,Conad Kids,6,pcs,1,2.00, 1.79 ,eur,available,Conad,Milano,11-03-2026,4276855146124,new
+CON-00020,CP0020,ALT0020,Bakery,Cookies,Chocolate Chip Cookies,Piacersi,300,g,1,2.51,,€,limited,Conad,Milano,2026/03/20 01:18,9748087700691,
+CON-00021,CP0021,ALT0021,Bakery,Cookies,Digestive Biscuits 400g,Verso Natura,400,g,1,2.15,,€,OUT OF STOCK,Conad,MILANO,05/01/2026,2864093223492,imported
+CON-00022,CP0022,ALT0022,Produce,Tomatoes,Conad Kids Cherry Tomatoes,Conad Kids,500,g,2,1.89,"€1,37",Euro,available,Conad,MILANO,24-03-2026,5930069858871,seasonal item
+CON-00023,CP0023,ALT0023,Produce,Tomatoes,Sapori e Dintorni Round Tomatoes,Sapori e Dintorni,1,kg,1, 2.82 ,"2,40",€,in stock,Conad,Milano,2026/03/12 09:50,,new
+CON-00024,CP0024,ALT0024,Produce,Salad,Iceberg Lettuce 1pcs ,Sapori e Dintorni,1,pcs,1,3.46,,eur,limited,Conad,Milan,2026/04/11 02:11,9472865018850,private label
+CON-00025,CP0025,ALT0025,Produce,Salad,Rocket Salad,Sapori e Dintorni,125,g,2,3.88,,€,in stock,Conad,milan,29-01-2026,4290743389265,check allergen label
+CON-00026,CP0026,ALT0026,Produce,Apples,GOLDEN APPLES 1KG,Sapori e Dintorni,1,kg,4,"€2,95", 2.07 ,eur,,Conad,Milano,2026/03/23 05:13,2942266919862,
+CON-00027,CP0027,ALT0027,Produce, Apples ,Verso Natura Pink Lady Apples,Verso Natura,1,kg,4,"€3,17","2,35",Euro,in stock,Conad,MILANO,10-02-2026,2729744012161,private label
+CON-00028,CP0028,ALT0028,Produce,Bananas,Lavazza Bananas,Lavazza,1,kg,3,"€2,37",,EUR,limited,Conad,Milano,2026-03-21,1236245276106,
+CON-00029,CP0029,ALT0029,Produce,Potatoes,Conad Potatoes confezione,Conad,2,kg,2,"1,68",,eur,limited,Conad,milan,2026/04/06 11:04,6103225648368,new
+CON-00030,CP0030,ALT0030,Meat,Chicken,Aia Chicken Breast,Aia,400,g,1,EUR 4.88,,€,available,Conad,milan,2026/04/17 13:33,1822281073367,seasonal item
+CON-00031,CP0031,ALT0031,Meat,Chicken,Chicken Thighs 500g,Mulino Bianco,500,g,,4.08,,EUR,,Conad,Milano,2026-03-04 23:30:00,3687028897779,limited edition
+CON-00032,CP0032,ALT0032,Meat,Beef,Petfriends Minced Beef confezione,Petfriends,400,g,6,"7,44",,Euro,limited,Conad,Milan,07/01/2026,5711637039548,imported
+CON-00033,CP0033,ALT0033,Meat,Beef,Beef Steak, Petfriends,300,g,8, 4.16 ,,Euro,limited,Conad,Milano,2026-04-10,3066381778170,
+CON-00034,CP0034,ALT0034,Meat,Cured Meats,Petfriends Prosciutto Cotto,Petfriends,120,g,1,"5,27",,€,available,Conad,Milan,02/02/2026,7106039492583,check allergen label
+CON-00035,CP0035,ALT0035,Meat,Cured Meats,Conad Kids Salame Milano,Conad Kids,100,g,1,5.92,,Euro,available,Conad,Milan,2026/03/28 01:59,7609474230654,promo shelf
+CON-00036,CP0036,ALT0036,Pantry,Pasta,Petfriends Spaghetti confezione,Petfriends,500,g,8,EUR 3.96,,€,in stock,Conad,milan,13-02-2026,0972841736280,private label
+CON-00037,CP0037,ALT0037,Pantry,Pasta,Penne Rigate,Conad Kids,500,g,1,EUR 1.94,,Euro,in stock,Conad,Milan,12/02/2026,4676581799489,imported
+CON-00038,CP0038,ALT0038,Pantry,Pasta,Fusilli,Verso Natura,500,g,1, 4.39 ,,Euro,low stock,Conad,milan,17-02-2026,2378114111518,private label
+CON-00039,CP0039,ALT0039,Pantry,Rice,Conad Carnaroli Rice confezione,Conad,1,kg,1,"€2,41",,€,limited,Conad,milan,2026/03/19 08:59,3393093676078,promo shelf
+CON-00040,CP0040,ALT0040,Pantry,Rice,Sapori e Dintorni Basmati Rice confezione,Sapori e Dintorni,1,kg,3,3.97,,Euro,,Conad,Milano,10/03/2026,8312096714527,
+CON-00041,CP0041,ALT0041,Pantry,Sauce,Sapori e Dintorni Tomato Passata confezione,Sapori e Dintorni,700,ml,1, 2.12 ,,eur,available, Conad ,MILANO,12/04/2026,3653339029651,
+CON-00042,CP0042,ALT0042,Pantry,Sauce,Petfriends Pesto Genovese,Petfriends,190,g,1,2.48,,eur,,Conad,milan,2026/02/25 19:34,2400573573795,check allergen label
+CON-00043,CP0043,ALT0043,Pantry,Oil,Conad Extra Virgin Olive Oil confezione,Conad,1,l,,EUR 2.00,,eur,OUT OF STOCK,Conad,MILANO,2026/02/09 08:30,0188678265150,
+CON-00044,CP0044,ALT0044,Pantry,Oil,Sunflower Oil 1l,Verso Natura,1,l,2,EUR 3.48,,Euro,,Conad,milan,19/03/2026,2214443874751,imported
+CON-00045,CP0045,ALT0045,Pantry,Flour,All Purpose Flour,Sapori e Dintorni,1,kg,1,"3,64",,eur,OUT OF STOCK,Conad,MILANO,2026/01/01 23:14,6841517000696,new
+CON-00046,CP0046,ALT0046,Pantry,Flour,00 Flour,Piacersi,1,kg,1,"3,28",,EUR,available,Conad,milan,23-02-2026,6581596684927,
+CON-00047,CP0047,ALT0047,Pantry,Sugar,Parmalat White Sugar confezione,Parmalat,1,kg,1,"2,74",,€,available,Conad,Milano,11/03/2026,9582143086693,imported
+CON-00048,CP0048,ALT0048,Pantry,Sugar,Brown Sugar,Aia,1,kg,8,EUR 3.83,,Euro,limited,Conad,milan,2026-01-07,4573744275131,seasonal item
+CON-00049,CP0049,ALT0049,Pantry,Coffee,Conad Ground Coffee,Conad,250,g,1,EUR 4.62,EUR 4.09,Euro,available, Conad ,Milan,2026-04-03,8703966332662,
+CON-00050,CP0050,ALT0050,Pantry,Coffee,Coffee Beans,Conad Kids,500,g,6,,,EUR,available,Conad,MILANO,17/04/2026,5029406289824,private label
+CON-00051,CP0051,ALT0051,Pantry,Cereal,Corn Flakes,Conad,375,g,3, 3.86 ,,€,limited,Conad,milan,2026-03-07 23:28:00,0711763366181,imported
+CON-00052,CP0052,ALT0052,Pantry,Cereal,Muesli,Verso Natura,750,g,,"€3,39",,eur,available,Conad,MILANO,2026-01-07,5894551609117,private label
+CON-00053,CP0053,ALT0053,Frozen,Pizza,Margherita Pizza,Conad Kids,350,g,2, 2.98 ,,Euro,in stock,Conad,milan,2026-02-06,7881109090433,seasonal item
+CON-00054,CP0054,ALT0054,Frozen,Pizza,Piacersi Vegetable Pizza,piacersi,380,g,8,5.32,,Euro,available,Conad,MILANO,2026-02-15,7667157187182,seasonal item
+CON-00055,CP0055,ALT0055,Frozen,Vegetables,Frozen Peas 450g,RIO MARE,450,g,4,EUR 4.17,,Euro,OUT OF STOCK,Conad,milan,2026/04/17 06:28,6362137969311,check allergen label
+CON-00056,CP0056,ALT0056,Frozen,Vegetables,Frozen Spinach,Sapori e Dintorni,450,g,,"3,46",,eur,limited,Conad,MILANO,2026-04-26,7610352331907,new
+CON-00057,CP0057,ALT0057, Frozen,Fish,Conad Kids Frozen Salmon Fillets confezione,Conad Kids,400,g,3,"3,12",,eur,available,Conad,Milano,2026-02-01 05:39:00,8518676674951,promo shelf
+CON-00058,CP0058,ALT0058,Frozen,Fish,Fish Fingers 300g,Galbani,300,g,8,EUR 5.25,"3,95",EUR,,Conad,milan,2026-03-13,,check allergen label
+CON-00059,CP0059,ALT0059,Beverages,Water,Verso Natura Still Water,Verso Natura,1.5,l,4, 2.07 ,,Euro,in stock,Conad,Milan,2026/03/18 10:48,7952336997174,imported
+CON-00060,CP0060,ALT0060,Beverages,Water,Sparkling Water 1.5l,sapori e dintorni,1.5,l,1,1.74, 1.63 ,Euro,in stock,Conad,Milano,2026/02/08 16:29,3039311026431,check allergen label
+CON-00061,CP0061,ALT0061,Beverages,Juice,Orange Juice, Petfriends ,1,l,1,"€1,80",1.60,EUR,in stock,Conad,milan,2026/04/13 22:29,4648186842563,seasonal item
+CON-00062,CP0062,ALT0062,Beverages,Juice,Conad Kids Apple Juice confezione, Conad Kids ,1,l,4,EUR 2.51, 2.10 ,EUR,low stock,Conad,Milan,2026/01/22 02:16,2323887769399,seasonal item
+CON-00063,CP0063,ALT0063,Beverages,Soft Drinks,COLA 1.5L,Piacersi,1.5,l,1,2.50,,Euro,low stock,conad,Milano,2026-03-02,0894157221969,imported
+CON-00064,CP0064,ALT0064,Beverages,Soft Drinks,Piacersi Lemon Soda,Piacersi,1.5,l,4,"€1,17", 0.84 ,Euro,available,Conad,Milan,23/01/2026,7982507532081,promo shelf
+CON-00065,CP0065,ALT0065,Beverages,Tea,Mulino Bianco Green Tea confezione,Mulino Bianco,20,pcs,2, 1.05 ,,eur,,conad,Milan,2026-02-17,5804709288930,new
+CON-00066,CP0066,ALT0066,Beverages,Tea,Black Tea,Rio Mare,25,pcs,1,,,eur,OUT OF STOCK,Conad,Milano,2026/04/29 16:55,,
+CON-00067,CP0067,ALT0067,Household,Detergent,Conad Dish Soap,Conad,750,ml,3,"4,32",,EUR,,Conad,Milan,2026-02-28,,
+CON-00068,CP0068,ALT0068,Household ,Detergent,Laundry Detergent,Mutti,1.5,l,2,"4,06",,eur,OUT OF STOCK,Conad,milan,2026/01/06 15:02,1913545422726,
+CON-00069,CP0069,ALT0069,Household,Paper,Toilet Paper 8pcs,Mulino Bianco,8,pcs,2,5.69,,€,available,Conad,MILANO,2026-03-22 00:30:00,2187735950849,private label
+CON-00070,CP0070,ALT0070,Household,Paper,Kitchen Towels,Lavazza,4,pcs,3,"€5,21",4.92,EUR,OUT OF STOCK,Conad,milan,2026-04-07,7788600939161,
+CON-00071,CP0071,ALT0071,Household,Cleaning, Piacersi Multi Surface Cleaner ,Piacersi,750,ml,3,"€3,71",,EUR,OUT OF STOCK,Conad,Milano,2026-03-26 01:57:00,,
+CON-00072,CP0072,ALT0072,Household,Cleaning,Bleach 2l,Conad Kids,2,l,1,,EUR 4.38,eur,available,Conad,milan,07/04/2026,6054015035394,new
+CON-00073,CP0073,ALT0073,Personal Care,Shampoo,Shampoo 250ml,Petfriends,250,ml,3,"€4,45",,EUR,available,Conad,milan,2026-04-23 12:20:00,5731799851476,
+CON-00074,CP0074,ALT0074,Personal Care,Shampoo,Conditioner 250ml, Petfriends ,250,ml,4,"3,94",,Euro,in stock,Conad,milan,2026-02-23,6899189277579,
+CON-00075,CP0075,ALT0075,Personal Care ,Soap,Lavazza Hand Soap,Lavazza,300,ml,4,"5,24","4,46",€,OUT OF STOCK,Conad,Milan,21/02/2026,6441418394669,seasonal item
+CON-00076,CP0076,ALT0076,Personal Care,Soap,body wash,CONAD,500,ml,1, 4.94 ,3.93,eur,OUT OF STOCK,Conad,Milan,25/01/2026,,check allergen label
+CON-00077,CP0077,ALT0077,Personal Care,Toothpaste,Granarolo Toothpaste,Granarolo,75,ml,6, 5.56 ,,eur,in stock,Conad,milan,2026-03-18 04:17:00,8853444859007,seasonal item
+CON-00078,CP0078,ALT0078,Dairy,mozzarella,Mozzarella Premium,De Cecco,93.75,g,1, 1.41 ,,eur,limited,Conad,Milan,17/03/2026,0037529945582,promo shelf
+CON-00079,CP0079,ALT0079,Dairy,Mozzarella,Mozzarella di Bufala Premium 93.75g,Sapori e Dintorni,93.75,g,1,"2,79",EUR 2.40,€,low stock,Conad,Milano,2026-03-08 17:40:00,9561510901022,seasonal item
+CON-00080,CP0080,ALT0080,Dairy,Mozzarella,Verso Natura Fior di latte mozzarella Premium confezione,Verso Natura,200,g,2, 2.48 ,EUR 2.03,EUR,available,Conad,milan,11-03-2026,0882235167092,imported
+CON-00081,CP0081,ALT0081,Dairy,Yogurt,Piacersi Greek Yogurt Premium confezione,Piacersi,170,g,1,"€1,72",,eur,limited,Conad,Milano,18-02-2026,1749706527961,check allergen label
+CON-00082,CP0082,ALT0082, Dairy ,Yogurt,Strawberry Yogurt Premium 2pcs,Petfriends,2,pcs,1,1.65,,Euro,available,Conad,milan,01/01/2026,3096500401164,
+CON-00083,CP0083,ALT0083,Dairy,Yogurt,Conad Plain Yogurt Premium confezione,Conad,500,g,1,"2,49",,EUR,OUT OF STOCK,Conad,milan,03/01/2026,0389773126500,seasonal item
+CON-00084,CP0084,ALT0084,Dairy,Milk,Whole Milk Premium,Petfriends,0.75,l,1,"2,09",1.53,Euro,,Conad,MILANO,01-01-2026,5194973863620,private label
+CON-00085,CP0085,ALT0085,Dairy,Milk,Semi-skimmed Milk Premium 1.5l,Piacersi,1.5,l,1,,,€,OUT OF STOCK,CONAD,MILANO,2026-02-01,4763347594933,private label
+CON-00086,CP0086,ALT0086,Dairy,Milk,Mutti Lactose Free Milk Premium confezione,Mutti,,l,1,EUR 2.80,,Euro,,Conad,MILANO,2026/02/11 01:14,8825951911068,
+CON-00087,CP0087,ALT0087,Dairy,Butter, Conad Kids Unsalted Butter Premium ,Conad Kids,375.0,g,2,"€1,91",,€,,Conad,milan,24/03/2026,,
+CON-00088,CP0088,ALT0088,Dairy,Butter,Salted Butter Premium,Verso Natura,,g,4, 2.64 ,,EUR,,Conad,MILANO,27-04-2026,2235891409265,seasonal item
+CON-00089,CP0089,ALT0089,Dairy,Cheese,Conad Kids Parmigiano Reggiano Premium,Conad Kids,150.0,,8,1.69,EUR 1.49,Euro,low stock,Conad,MILANO,2026/03/17 14:35,,
+CON-00090,CP0090,ALT0090,Dairy,Cheese,Gorgonzola Premium 112.5g,Conad,112.5,g,8,"3,17",,eur,,Conad,MILANO,20-02-2026,8405877374591,check allergen label
+CON-00091,CP0091,ALT0091,Dairy,Cheese,Conad Kids Ricotta Premium,Conad Kids,187.5,g,,1.81, 1.68 ,EUR,available,Conad,MILANO,28-03-2026,6672915548728,private label
+CON-00092,CP0092,ALT0092,Bakery,Bread,Whole Wheat Bread Premium,Sapori e Dintorni,500,g,4,"€2,46",,eur,OUT OF STOCK,Conad,Milan,17-04-2026,,check allergen label
+CON-00093,CP0093,ALT0093,Bakery,Bread, Sapori e Dintorni Ciabatta Premium ,Sapori e Dintorni,300,g,1, 1.90 ,,eur,available,Conad,MILANO,2026-02-06 10:06:00,4170709639764,new
+CON-00094,CP0094,ALT0094,Bakery, Bread ,Sandwich Bread Premium 825g,Ferrero,825.0,g,6,"3,54",,Euro,OUT OF STOCK,Conad,Milano,07/01/2026,8969686159206,check allergen label
+CON-00095,CP0095,ALT0095,Bakery,Croissants,Butter Croissant Premium,Petfriends,9.0,pcs,,EUR 3.13,,€,,Conad,Milano,03/01/2026,3223497279083,promo shelf
+CON-00096,CP0096,ALT0096,Bakery,Croissants,Aia Chocolate Croissant Premium,Aia,4.5,pcs,1,"1,42",,eur,,Conad,Milano,2026-03-21 00:36:00,1102310380869,promo shelf
+CON-00097,CP0097,ALT0097,Bakery, Cookies ,Barilla Chocolate Chip Cookies Premium confezione,Barilla,450.0,g,2,"€1,67",,EUR,in stock,CONAD,MILANO,2026-04-09,6753624878485,check allergen label
+CON-00098,CP0098,ALT0098,Bakery,Cookies,Sapori e Dintorni Digestive Biscuits Premium confezione,Sapori e Dintorni,400,g,1,2.68,"€2,45",eur,in stock,Conad,Milano,2026-04-20 05:53:00,3913423153061,check allergen label
+CON-00099,CP0099,ALT0099,produce,Tomatoes,Cherry Tomatoes Premium 750g,De Cecco,750.0,g,1,"3,55", 3.24 ,Euro,,Conad,Milano,2026-04-16,1435628251540,seasonal item
+CON-00100,CP0100,ALT0100,Produce,Tomatoes,Verso Natura Round Tomatoes Premium confezione,Verso Natura,1.25,kg,4,EUR 3.34,,€,available,Conad,Milano,2026-03-11,9309184882421,
+CON-00101,CP0101,ALT0101,Produce,Salad,Conad Iceberg Lettuce Premium confezione,Conad,1,pcs,2,1.86,,€,in stock,Conad,Milan,2026/03/25 17:54,8186451625104,check allergen label
+CON-00102,CP0102,ALT0102,Produce,Salad,Conad Kids Rocket Salad Premium confezione,Conad Kids,156.25,g,3,2.29,,eur,,Conad,Milan,2026-04-28 00:00:00,9656854683447,
+CON-00103,CP0103,ALT0103,Produce,Apples,Petfriends Golden Apples Premium confezione,Petfriends,1.5,kg,8, 3.92 ,,eur,available,Conad,Milan,2026-01-25,8462207693774,check allergen label
+CON-00104,CP0104,ALT0104,Produce,Apples,Pink Lady Apples Premium 1kg,Granarolo,1,kg,8,EUR 2.97,,Euro,,Conad,Milan,29/03/2026,1090211360057,seasonal item
+CON-00105,CP0105,ALT0105,Produce,Bananas,Bananas Premium 0.75kg,Conad Kids,0.75,kg,,EUR 3.17,,eur,in stock,Conad,MILANO,2026-01-30 03:37:00,,
+CON-00106,CP0106,ALT0106,Produce,Potatoes,Potatoes Premium 2kg,Conad Kids,2,kg,6,2.59,2.41,€,in stock,Conad,MILANO,2026/01/08 15:08,9345891433741,limited edition
+CON-00107,CP0107,ALT0107,Meat,Chicken,Verso Natura Chicken Breast Premium confezione,Verso Natura,500.0,g,8, 3.93 ,"3,01",€,available,Conad,Milan,30/01/2026,9631012343542,limited edition
+CON-00108,CP0108,ALT0108,Meat,Chicken,Chicken Thighs Premium,Parmalat,500,g,3,5.49,,EUR,available,Conad,Milan,2026-03-19,6598184707108,check allergen label
+CON-00109,CP0109,ALT0109,Meat,Beef, Minced Beef Premium ,Verso Natura,400,g,3,EUR 6.90,,eur,,Conad,milan,14-01-2026,7622679911661,new
+CON-00110,CP0110,ALT0110, Meat ,Beef,Beef Steak Premium 300g,Petfriends,300,g,,EUR 3.85,,eur,limited,Conad,MILANO,21-02-2026,,
+CON-00111,CP0111,ALT0111,Meat,CURED MEATS,Sapori e Dintorni Prosciutto Cotto Premium,Sapori e Dintorni,120,g,6,"5,41",,€,in stock,Conad,Milan,2026/02/26 18:55,6251013215573,
+CON-00112,CP0112,ALT0112,Meat,Cured Meats,Aia Salame Milano Premium,Aia,100,g,1,EUR 5.85,,EUR,limited,Conad,Milano,2026-02-14 12:57:00,,limited edition
+CON-00113,CP0113,ALT0113,Pantry,Pasta,Piacersi Spaghetti Premium,Piacersi,375.0,g,4,"1,85",,Euro,limited,Conad,milan,30/04/2026,5946064193375,private label
+CON-00114,CP0114,ALT0114,Pantry,Pasta,Penne Rigate Premium,Verso Natura,375.0,g,8,"€4,14",,€,low stock,Conad,Milan,2026-03-28,3688393963044,imported
+CON-00115,CP0115,ALT0115,Pantry,Pasta,Fusilli Premium,Conad,625.0,g,1,"€3,61",EUR 3.18,Euro,in stock,Conad,milan,2026-03-02,2750503609361,imported
+CON-00116,CP0116,ALT0116,Pantry, Rice ,Sapori e Dintorni Carnaroli Rice Premium,Sapori e Dintorni,0.75,kg,1,"3,21",,eur,available,Conad,Milan,2026/03/19 21:49,7390413122461,seasonal item
+CON-00117,CP0117,ALT0117,Pantry,Rice,Petfriends Basmati Rice Premium confezione,Petfriends,1,kg,8,4.33,,Euro,limited,Conad,milan,2026-02-02,2927565711995,
+CON-00118,CP0118,ALT0118,Pantry,Sauce,PIACERSI TOMATO PASSATA PREMIUM,Piacersi,700,ml,1, 2.38 ,,EUR,limited,Conad,MILANO,06-03-2026,,check allergen label
+CON-00119,CP0119,ALT0119,Pantry,Sauce,Sapori e Dintorni Pesto Genovese Premium confezione,Sapori e Dintorni,285.0,g,8,"3,21",EUR 2.30,EUR,in stock,Conad,Milan,2026-02-21,5163415551234,limited edition
+CON-00120,CP0120,ALT0120,pantry,oil,Petfriends Extra Virgin Olive Oil Premium confezione,petfriends,,l,1,3.37,"€2,71",€,OUT OF STOCK,Conad,MILANO,21/03/2026,3042071031421,check allergen label
+CON-00121,CP0121,ALT0121,Pantry,Oil,Sunflower Oil Premium,Piacersi,0.75,l,4,3.60,"€2,59",eur,,Conad,MILANO,2026-03-03,5616648734324,check allergen label
+CON-00122,CP0122,ALT0122,Pantry,Flour,All Purpose Flour Premium 1.25kg,Petfriends,1.25,kg,1,3.30,,€,OUT OF STOCK,Conad,MILANO,25-02-2026,0677150416269,private label
+CON-00123,CP0123,ALT0123,Pantry,Flour,00 Flour Premium 1.5kg,Petfriends,1.5,kg,2,4.38,EUR 3.73,eur,in stock,Conad,milan,2026-04-08 11:50:00,7375684696251,
+CON-00124,CP0124,ALT0124,Pantry,Sugar,Conad White Sugar Premium,Conad,0.75,kg,1, 1.83 ,,eur,limited,Conad,Milano,04-01-2026,2879023149951,check allergen label
+CON-00125,CP0125,ALT0125,Pantry,Sugar,Brown Sugar Premium,Piacersi,1.25,kg,1,2.93,,eur,limited,Conad,milan,2026-04-14 22:05:00,1979750758085,seasonal item
+CON-00126,CP0126,ALT0126,Pantry,Coffee,Conad Kids Ground Coffee Premium confezione,Conad Kids,187.5,g,1,,,€,in stock,Conad,Milan,17/03/2026,4236758055204,limited edition
+CON-00127,CP0127,ALT0127,Pantry,Coffee,Conad Coffee Beans Premium confezione,Conad,750.0,g,8,"€4,00",,EUR,low stock,Conad,milan,2026-03-13 03:40:00,2161437091256,check allergen label
+CON-00128,CP0128,ALT0128,Pantry,Cereal,Corn Flakes Premium 375g,Verso Natura,375,g,6, 3.61 ,EUR 2.60,EUR,,Conad,Milan,09-03-2026,9003891079446,
+CON-00129,CP0129,ALT0129,Pantry,Cereal,Verso Natura Muesli Premium confezione,Verso Natura,1125.0,g,8,4.61,,eur,limited,Conad,milan,2026-04-10 21:30:00,5832207774821,imported
+CON-00130,CP0130,ALT0130, Frozen ,Pizza,Verso Natura Margherita Pizza Premium confezione,Verso Natura,350,g,4,"€5,14",,€,limited,Conad,Milano,2026-03-12 09:04:00,4819668429239,promo shelf
+CON-00131,CP0131,ALT0131,Frozen,Pizza,Vegetable Pizza Premium 570g,Sapori e Dintorni,570.0,g,8,,EUR 2.43,EUR,available,Conad,Milano,17/04/2026,2482368831288,private label
+CON-00132,CP0132,ALT0132,Frozen,Vegetables,Frozen Peas Premium 450g,Ferrero,450,g,2,"€2,28","2,15",eur,available,Conad,MILANO,2026/04/16 01:48,8148442342238,limited edition
+CON-00133,CP0133,ALT0133,Frozen,Vegetables,Piacersi Frozen Spinach Premium confezione,Piacersi,337.5,g,3, 2.93 ,,€,available,Conad,Milano,01-01-2026,8257065632003,seasonal item
+CON-00134,CP0134,ALT0134,Frozen,Fish,Frozen Salmon Fillets Premium 300g,Verso Natura,300.0,g,1,"4,66",,eur,,Conad ,Milan,11-04-2026,2442232359279,limited edition
+CON-00135,CP0135,ALT0135,Frozen,Fish,LAVAZZA FISH FINGERS PREMIUM,Lavazza,300,g,4,2.91,,EUR,low stock,Conad,Milano,2026/04/22 23:16,6788062529187,private label
+CON-00136,CP0136,ALT0136,Beverages,Water,Still Water Premium,Sapori e Dintorni,,l,1,1.20, 0.98 ,€,available,Conad,milan,23/02/2026,6323739126626,new
+CON-00137,CP0137,ALT0137,Beverages,Water,Conad Kids Sparkling Water Premium,Conad Kids,1.12,l,1, 1.24 ,,€,,Conad,milan,06/02/2026,6468318971251,
+CON-00138,CP0138,ALT0138,Beverages,Juice,Verso Natura Orange Juice Premium confezione,Verso Natura,1,l,3,1.45,,EUR,low stock,Conad,Milan,27-04-2026,2447617704586,
+CON-00139,CP0139,ALT0139,BEVERAGES,Juice ,Apple Juice Premium 0.75l,Petfriends,0.75,l,1,EUR 1.37,,EUR,low stock,Conad,MILANO,27/03/2026,9188747474926,check allergen label
+CON-00140,CP0140,ALT0140,Beverages,Soft Drinks,Cola Premium 1.88l,Conad,1.88,l,3,"1,05",,€,in stock,conad,Milan,2026-01-11 07:07:00,2480656676840,
+CON-00141,CP0141,ALT0141,Beverages,Soft Drinks, Conad Kids Lemon Soda Premium ,Conad Kids,1.5,l,1, 1.26 ,,EUR,OUT OF STOCK,Conad,Milano,2026-04-14,4243107014127,promo shelf
+CON-00142,CP0142,ALT0142,BEVERAGES,Tea,Petfriends Green Tea Premium confezione, Petfriends,25.0,pcs,6,"1,13",,EUR,limited,Conad,milan,2026-02-21,9764072051585,seasonal item
+CON-00143,CP0143,ALT0143,Beverages,Tea,Black Tea Premium,Verso Natura ,25,pcs,1,"€1,11","€0,86",EUR,limited,Conad,MILANO,28-04-2026,1622359366293,new
+CON-00144,CP0144,ALT0144,Household,Detergent,Conad Kids Dish Soap Premium confezione,Conad Kids,750,ml,1,"2,70",,€,OUT OF STOCK,Conad,MILANO,14-01-2026,9172780272419,seasonal item
+CON-00145,CP0145,ALT0145,Household,Detergent,Petfriends Laundry Detergent Premium confezione,PETFRIENDS,1.5,l,6,"€3,26",3.10,EUR,, Conad,MILANO,2026-04-01 23:14:00,5824305581863,imported
+CON-00146,CP0146,ALT0146,Household,Paper,Toilet Paper Premium,Verso Natura,8,pcs,8,"€6,26",,€,limited,CONAD,Milan,19/01/2026,5797927023729,private label
+CON-00147,CP0147,ALT0147,Household,Paper,Kitchen Towels Premium 4pcs,De Cecco,4,pcs,8,5.57,"€3,93",Euro,available,Conad,MILANO,11/02/2026,9849860177556,check allergen label
+CON-00148,CP0148,ALT0148,Household,Cleaning, Piacersi Multi Surface Cleaner Premium confezione,Piacersi,750,ml,1, 4.74 ,,Euro,limited,Conad,milan,2026-01-07 20:30:00,5811863690766,promo shelf
+CON-00149,CP0149,ALT0149,Household,Cleaning,Bleach Premium 1.5l,Conad Kids,1.5,l,2,6.72,,Euro,limited,Conad,milan,2026/04/22 15:40,0607649037918,seasonal item
+CON-00150,CP0150,ALT0150,Personal Care,Shampoo,Verso Natura Shampoo Premium confezione,Verso Natura,375.0,ml,3,EUR 3.64,,€,low stock,Conad,Milan,2026/03/15 17:28,6125559221463,promo shelf
+CON-00151,CP0151,ALT0151,Personal Care,Shampoo,Conditioner Premium 250ml,Petfriends,250,ml,1,"€6,00",,EUR,limited,Conad,Milan,11/04/2026,5916610746443,
+CON-00152,CP0152,ALT0152,Personal Care,Soap, Hand Soap Premium 450ml,Conad Kids,450.0,ml,6,EUR 2.92, 2.08 ,€,in stock,Conad,Milano,2026/02/04 23:49,0843234497275,private label
+CON-00153,CP0153,ALT0153,Personal Care,Soap,Body Wash Premium,Verso Natura,500,ml,8,5.61,,Euro,in stock,Conad,milan,2026-03-12 08:37:00,,
+CON-00154,CP0154,ALT0154,Personal Care, Toothpaste ,Toothpaste Premium,Petfriends,75,ml,2,3.29,"€2,36",eur,limited,Conad,Milano,2026/01/03 01:52,0634989041902,private label
+CON-00155,CP0155,ALT0155,Dairy,Mozzarella,Conad Mozzarella Bio,Conad,156.25,g,1,EUR 3.10,,Euro,limited,Conad,MILANO,2026-01-06 01:13:00,2483561161733,new
+CON-00156,CP0156,ALT0156,Dairy,Mozzarella,Piacersi Mozzarella di Bufala Bio,Piacersi,156.25,g,8,EUR 2.28,,eur,in stock,Conad,Milan,12-03-2026,2860477327528,promo shelf
+CON-00157,CP0157,ALT0157,Dairy,Mozzarella ,Fior di latte mozzarella Bio 200g,Conad Kids,200,g,3,"€2,44",2.26,EUR,,Conad,Milan,14/01/2026,5467752108219,
+CON-00158,CP0158,ALT0158,Dairy,Yogurt,Greek Yogurt Bio 255g, Granarolo ,255.0,g,,"€2,34",1.65,eur,available,Conad,MILANO,2026-01-20 13:45:00,5322708658271,imported
+CON-00159,CP0159,ALT0159,Dairy,Yogurt,Strawberry Yogurt Bio 2pcs,Petfriends,2,pcs,4, 2.08 ,,EUR,low stock,Conad,milan,2026-02-13 08:29:00,4658973750700,
+CON-00160,CP0160,ALT0160,Dairy,Yogurt,Plain Yogurt Bio 500g,Conad Kids,500,g,1,"€2,43",,eur,in stock,Conad,milan,2026-02-21,7206881479843,new
+CON-00161,CP0161,ALT0161,Dairy,Milk,Whole Milk Bio 0.75l,Conad,0.75,l,2,"€3,14",,EUR,limited,Conad,Milano,24-02-2026,0774851017516,promo shelf
+CON-00162,CP0162,ALT0162,Dairy,Milk,Semi-skimmed Milk Bio 1l,piacersi,1,l,1,"1,52",,eur,low stock,Conad,MILANO,2026-03-20,2130440488746,new
+CON-00163,CP0163,ALT0163,Dairy,Milk,Conad Lactose Free Milk Bio,Conad,0.75,l,8, 2.43 , 1.85 ,eur,in stock,Conad,Milan,2026-03-04 14:35:00,0647640590440,check allergen label
+CON-00164,CP0164,ALT0164,Dairy,Butter,Unsalted Butter Bio 250g, Sapori e Dintorni ,250,g,1,EUR 2.03,,eur,limited,conad,MILANO,22/02/2026,8954771604805,private label
+CON-00165,CP0165,ALT0165,Dairy,Butter,Salted Butter Bio,Sapori e Dintorni,312.5,g,1,EUR 1.78,,eur,low stock,Conad ,Milan,2026-02-15,8135581039098,seasonal item
+CON-00166,CP0166,ALT0166,Dairy,Cheese,Parmigiano Reggiano Bio 200g,Petfriends,200,g,1, 2.53 ,,Euro,available,Conad,MILANO,2026/02/07 21:03,8579347097512,promo shelf
+CON-00167,CP0167,ALT0167,Dairy,Cheese,Gorgonzola Bio,Rio Mare,112.5,g,2,1.83,1.34,€,available,Conad,Milan,27-02-2026,8709890450839,
+CON-00168,CP0168,ALT0168,Dairy,Cheese,Ricotta Bio 250g,Piacersi,250,g,2,"2,18",,eur,available,Conad,MILANO,26-04-2026,8813528590765,check allergen label
+CON-00169,CP0169,ALT0169,Bakery,Bread,Whole Wheat Bread Bio,Verso Natura,750.0,g,2,1.53,,€,in stock,Conad,milan,2026/04/23 05:53,8929708206808,promo shelf
+CON-00170,CP0170,ALT0170,Bakery,Bread,Ciabatta Bio 300g,Piacersi,300,g,1, 2.34 ,,Euro,,conad,MILANO,16/02/2026,2690901489754,new
+CON-00171,CP0171,ALT0171,Bakery,Bread,Conad Sandwich Bread Bio,Conad,550,g,4,"2,03",,eur,limited,Conad,Milano,2026-01-28,,check allergen label
+CON-00172,CP0172,ALT0172,Bakery,Croissants ,Butter Croissant Bio,Mutti,7.5,pcs,1,EUR 3.48,,eur,available, Conad,milan,2026-01-08 07:29:00,7873586582363,seasonal item
+CON-00173,CP0173,ALT0173,Bakery,Croissants,Conad Chocolate Croissant Bio confezione,Conad,7.5,pcs,1,2.40,,EUR,available,Conad,MILANO,2026-01-14,6796991791646,promo shelf
+CON-00174,CP0174,ALT0174,Bakery,Cookies,Conad Kids Chocolate Chip Cookies Bio confezione,Conad Kids,375.0,g,8, 1.59 ,,eur,low stock,Conad,MILANO,2026-04-12 21:05:00,9249161612668,new
+CON-00175,CP0175,ALT0175,Bakery,Cookies,Digestive Biscuits Bio 400g,Conad Kids,400,g,,EUR 3.40,,Euro,low stock,Conad,Milan,11-01-2026,9405398655510,limited edition
+CON-00176,CP0176,ALT0176,Produce,Tomatoes,Conad Cherry Tomatoes Bio,Conad,500,g,3,,,Euro,in stock,Conad,Milan,2026/04/11 08:10,6261205690764,limited edition
+CON-00177,CP0177,ALT0177,Produce,tomatoes,Petfriends Round Tomatoes Bio confezione,Petfriends,1,kg,3,3.07, 2.41 ,eur,,Conad,milan,19/01/2026,5021903244133,check allergen label
+CON-00178,CP0178,ALT0178,Produce,Salad,Iceberg Lettuce Bio,Petfriends,1,pcs,8,,,€,limited,Conad,milan,08-02-2026,2111320815426,promo shelf
+CON-00179,CP0179,ALT0179,Produce,Salad,Verso Natura Rocket Salad Bio,Verso Natura,187.5,g,3,"€3,48",,EUR,OUT OF STOCK,Conad,Milan,2026/01/30 03:31,7401405254326,check allergen label
+CON-00180,CP0180,ALT0180,Produce,Apples,Golden Apples Bio 1.5kg,Sapori e Dintorni,1.5,kg,,2.51,EUR 1.91,EUR,low stock,Conad,Milan,21/02/2026,5070860442976,promo shelf
+CON-00181,CP0181,ALT0181,Produce,Apples,Pink Lady Apples Bio,Barilla,1,kg,2,3.14,,€,OUT OF STOCK,Conad,Milan,2026-04-28 14:56:00,0767280950483,promo shelf
+CON-00182,CP0182,ALT0182,Produce,Bananas,Bananas Bio 1.5kg,CONAD,1.5,kg,1,EUR 3.25,,Euro,,Conad,Milano,04/04/2026,4442934546266,limited edition
+CON-00183,CP0183,ALT0183,Produce,Potatoes,Potatoes Bio,Piacersi,,kg,1, 1.76 ,,eur,in stock,Conad,Milano,2026-03-09 08:17:00,3320310065232,limited edition
+CON-00184,CP0184,ALT0184,Meat,Chicken ,Chicken Breast Bio 600g,Mulino Bianco,600.0,g,1,"3,43",,eur,low stock,Conad,milan,2026-04-06 12:01:00,1920365841075,limited edition
+CON-00185,CP0185,ALT0185,Meat,Chicken,Verso Natura Chicken Thighs Bio,Verso Natura,625.0,g,6,,,€,in stock,Conad,MILANO,2026-04-06,9276516035008,
+CON-00186,CP0186,ALT0186,Meat,Beef ,Piacersi Minced Beef Bio confezione,Piacersi,400,g,4,5.66,,Euro,OUT OF STOCK,Conad,milan,2026-03-24 21:31:00,0071921071491,new
+CON-00187,CP0187,ALT0187,Meat,Beef,Beef Steak Bio 300g,Petfriends,300,g,1,"€8,21",,€,,Conad,MILANO,2026/01/21 16:22,0616481889874,limited edition
+CON-00188,CP0188,ALT0188,Meat,Cured Meats,Galbani Prosciutto Cotto Bio confezione, Galbani,120,g,1,EUR 6.73, 5.31 ,eur,,Conad,MILANO,2026/03/02 03:30,0596210477167,
+CON-00189,CP0189,ALT0189,Meat,Cured Meats,Salame Milano Bio 150g,Piacersi ,150.0,g,,"8,12",,Euro,,conad,milan,2026/03/16 22:55,5385319348647,promo shelf
+CON-00190,CP0190,ALT0190,Pantry,Pasta,Petfriends Spaghetti Bio confezione,Petfriends,625.0,g,1,4.21,3.08,Euro,low stock,Conad,MILANO,2026/03/30 20:22,7436271213714,
+CON-00191,CP0191,ALT0191, Pantry,Pasta,Petfriends Penne Rigate Bio,Petfriends,375.0,g,4, 2.39 ,2.02,EUR,in stock,Conad,milan,2026-04-19 02:55:00,6649671196140,limited edition
+CON-00192,CP0192,ALT0192,Pantry,Pasta,Fusilli Bio,Verso Natura,375.0,g,3,, 2.65 ,eur,available,Conad,Milan,08-04-2026,0914176256320,new
+CON-00193,CP0193,ALT0193,Pantry,Rice,Conad Carnaroli Rice Bio,Conad,0.75,kg,4,3.52,,Euro,limited,Conad,MILANO,25-02-2026,9412517307178,check allergen label
+CON-00194,CP0194,ALT0194,Pantry,Rice,Basmati Rice Bio 1kg,Verso Natura,1,kg,1,"€3,64",2.73,€,,Conad,milan,11/02/2026,5538721477008,
+CON-00195,CP0195,ALT0195,Pantry,Sauce,Tomato Passata Bio 700ml,Mutti,700,ml,6,1.88,,Euro,available,Conad,Milan,26-04-2026,,check allergen label
+CON-00196,CP0196,ALT0196,Pantry,Sauce,Pesto Genovese Bio 237.5g,Conad Kids,237.5,g,4,EUR 3.89,3.52,eur,limited,Conad,MILANO,2026-03-15,,seasonal item
+CON-00197,CP0197,ALT0197,Pantry,Oil,Extra Virgin Olive Oil Bio,Petfriends,1.5,l,1,EUR 2.12,,€,limited,Conad,Milano,2026/03/22 11:10,,new
+CON-00198,CP0198,ALT0198,Pantry,Oil,Verso Natura Sunflower Oil Bio,Verso Natura,0.75,l,2,"3,07",,EUR,in stock,Conad,milan,10-03-2026,4057188668926,imported
+CON-00199,CP0199,ALT0199,Pantry,Flour, All Purpose Flour Bio ,Ferrero,1.25,kg,4,"€2,29",,Euro,available,Conad,Milan,20/01/2026,0237217127336,seasonal item
+CON-00200,CP0200,ALT0200,Pantry,Flour,00 Flour Bio 1.25kg,Petfriends,1.25,kg,1, 2.39 ,2.11,Euro,available,Conad,Milan,2026-04-14,8902423952896,promo shelf
+CON-00201,CP0201,ALT0201,Pantry,Sugar,White Sugar Bio,Conad Kids,1.5,kg,2,EUR 3.32,,Euro,limited,CONAD,Milan,2026-02-28,8418260485913,seasonal item
+CON-00202,CP0202,ALT0202,Pantry,Sugar,Brown Sugar Bio 1.25kg,Sapori e Dintorni,1.25,kg,6,3.37,,Euro,limited,Conad,Milan,11-01-2026,0098777356448,private label
+CON-00203,CP0203,ALT0203,Pantry,Coffee,Ground Coffee Bio,Rio Mare,375.0,g,8,EUR 3.31,EUR 2.79,EUR,low stock,Conad,milan,2026/01/02 07:05,4515660097753,
+CON-00204,CP0204,ALT0204,Pantry,Coffee,Coffee Beans Bio 500g,Sapori e Dintorni,,g,4,"€4,08",,Euro,limited,Conad,MILANO,2026-01-09,,imported
+CON-00205,CP0205,ALT0205,Pantry,Cereal,Conad Kids Corn Flakes Bio confezione,Conad Kids,562.5,g,3,"€3,38",,EUR,available,Conad,MILANO,14/04/2026,6239783111502,
+CON-00206,CP0206,ALT0206,Pantry,Cereal,Muesli Bio,Verso Natura,562.5,g,4,4.55,,EUR,available,Conad,MILANO,15-02-2026,4928461788041,new
+CON-00207,CP0207,ALT0207,Frozen,Pizza,Sapori e Dintorni Margherita Pizza Bio confezione,Sapori e Dintorni,262.5,g,1, 4.76 ,,€,low stock,Conad,Milan,2026-02-07 13:23:00,9244983922937,
+CON-00208,CP0208,ALT0208,Frozen,Pizza,Lavazza Vegetable Pizza Bio confezione,Lavazza,570.0,g,4,EUR 4.79,,€,low stock,Conad,milan,31-01-2026,1312801511538,
+CON-00209,CP0209,ALT0209,Frozen,Vegetables,Sapori e Dintorni Frozen Peas Bio confezione ,Sapori e Dintorni,450,g,8, 3.28 ,,€,in stock,Conad,Milano,05/01/2026,9095750227197,private label
+CON-00210,CP0210,ALT0210,Frozen,Vegetables,Piacersi Frozen Spinach Bio,Piacersi,450,g,1,EUR 2.93,,EUR,limited,Conad,Milano,2026/03/21 12:39,3272970278649,promo shelf
+CON-00211,CP0211,ALT0211,Frozen,Fish,Mulino Bianco Frozen Salmon Fillets Bio,Mulino Bianco,300.0,g,3,3.63,,€,OUT OF STOCK,Conad,Milan,2026-01-14,4271864145373,private label
+CON-00212,CP0212,ALT0212,frozen,Fish,Ferrero Fish Fingers Bio confezione,Ferrero,300,g,1,"€4,66","€4,13",Euro,in stock,Conad,Milano,2026-02-12,,private label
+CON-00213,CP0213,ALT0213,BEVERAGES,Water,Still Water Bio,Verso Natura,1.88,l,1,EUR 1.60,,EUR,OUT OF STOCK,Conad,milan,01/02/2026,,private label
+CON-00214,CP0214,ALT0214,Beverages,Water,Sparkling Water Bio,Piacersi,1.5,l,2,EUR 2.10,,EUR,low stock,Conad,Milan,2026-04-21 19:15:00,,private label
+CON-00215,CP0215,ALT0215,Beverages,Juice,Orange Juice Bio,Petfriends,1.25,l,2,2.24,,Euro,in stock,Conad,milan,2026/01/24 20:02,9536421379115,
+CON-00216,CP0216,ALT0216,Beverages,Juice,Conad Kids Apple Juice Bio confezione,Conad Kids,0.75,l,1,2.49,,Euro,low stock,Conad,milan,2026/03/12 02:10,8036723007915,promo shelf
+CON-00217,CP0217,ALT0217,Beverages,Soft Drinks,Piacersi Cola Bio, Piacersi,1.5,l,1,"€0,99",,Euro,low stock,Conad,Milano,2026-01-24 22:18:00,6467528075420,imported
+CON-00218,CP0218,ALT0218,Beverages,Soft Drinks,Lemon Soda Bio,Conad,2.25,l,4,1.88,,eur,low stock,Conad,Milan,2026-02-12,4568125940189,imported
+CON-00219,CP0219,ALT0219,Beverages,Tea,Petfriends Green Tea Bio,Petfriends,20,pcs,1,EUR 1.31,,Euro,low stock,Conad,Milano,2026-04-11,9843398210419,imported
+CON-00220,CP0220,ALT0220,Beverages,Tea,Black Tea Bio,Petfriends,37.5,pcs,6,"1,00",,EUR,in stock,Conad,MILANO,2026-03-20,2099246076263,limited edition
+CON-00221,CP0221,ALT0221,Household,Detergent,Dish Soap Bio,Piacersi,562.5,ml,1,3.23,,eur,in stock,Conad,milan,20-02-2026,3813602919616,seasonal item
+CON-00222,CP0222,ALT0222,Household,Detergent,Galbani Laundry Detergent Bio confezione,Galbani ,1.5,l,8,3.93,,€,OUT OF STOCK,Conad,Milano,2026-02-08,,private label
+CON-00223,CP0223,ALT0223,Household,Paper,toilet paper bio 12pcs,Rio Mare,12.0,,8,"6,36",,€,in stock,Conad,milan,2026/02/25 07:41,9473197887853,private label
+CON-00224,CP0224,ALT0224,Household,Paper,Parmalat Kitchen Towels Bio confezione,Parmalat,6.0,pcs,1,"3,43",,EUR,in stock,Conad,Milano,04/04/2026,4664998959562,imported
+CON-00225,CP0225,ALT0225,Household,Cleaning,Verso Natura Multi Surface Cleaner Bio,Verso Natura,750,ml,,"3,83",,€,available,Conad,Milan,21/03/2026,0536985704302,check allergen label
+CON-00226,CP0226,ALT0226,Household,Cleaning,Bleach Bio,Sapori e Dintorni,2,l,1,3.99,,Euro,in stock,Conad,Milano,2026-02-18,,promo shelf
+CON-00227,CP0227,ALT0227,Personal Care,Shampoo,Piacersi Shampoo Bio confezione,Piacersi,250,ml,1,"€2,54",,Euro,OUT OF STOCK,Conad,milan,14/02/2026,5582204343648,limited edition
+CON-00228,CP0228,ALT0228,Personal Care,Shampoo,Conditioner Bio,Conad Kids,250,ml,1,2.60,,EUR,limited,Conad,milan,2026-02-17,7442084444037,private label
+CON-00229,CP0229,ALT0229,Personal Care,Soap,Mulino Bianco Hand Soap Bio confezione,Mulino Bianco,450.0,ml,8, 4.96 ,,€,low stock,Conad,Milano,2026/01/17 11:34,7927081064395,
+CON-00230,CP0230,ALT0230,Personal Care,Soap,Verso Natura Body Wash Bio,Verso Natura,750.0,ml,1,3.34,,€,,Conad,MILANO,2026-01-22,9351741268318,new
+CON-00231,CP0231,ALT0231,Personal Care,Toothpaste,Toothpaste Bio 56.25ml,Sapori e Dintorni,56.25,ml,1, 4.74 ,,EUR,,Conad,milan,05/03/2026,8435807231750,promo shelf
+CON-00232,CP0232,ALT0232,Dairy,Mozzarella,Sapori e Dintorni Mozzarella Family Pack,Sapori e Dintorni,187.5,g,3,2.97, 2.12 ,EUR,,Conad,milan,10/01/2026,0235533723157,imported
+CON-00233,CP0233,ALT0233,Dairy,Mozzarella,Mozzarella di Bufala Family Pack 125g,Conad,125,g,1,"1,77",,EUR,in stock,Conad,Milano,30/03/2026,,
+CON-00234,CP0234,ALT0234,Dairy,Mozzarella,Rio Mare Fior di latte mozzarella Family Pack confezione,Rio Mare,250.0,g,2,3.00,"€2,62",EUR,low stock,Conad,milan,2026/04/24 19:37,2974615537410,seasonal item
+CON-00235,CP0235,ALT0235,Dairy,Yogurt ,Piacersi Greek Yogurt Family Pack,Piacersi,127.5,g,1,1.89,,EUR,limited,Conad,milan,27-04-2026,2302714310082,seasonal item
+CON-00236,CP0236,ALT0236,Dairy,Yogurt,Strawberry Yogurt Family Pack,Sapori e Dintorni,1.5,pcs,1,"€1,60",,eur,in stock,Conad,milan,2026-03-08 21:36:00,7124443382854,seasonal item
+CON-00237,CP0237,ALT0237,Dairy,Yogurt,Sapori e Dintorni Plain Yogurt Family Pack confezione,Sapori e Dintorni,,g,1,1.41,,eur,in stock,Conad,milan,2026-03-30 12:19:00,6451258144542,check allergen label
+CON-00238,CP0238,ALT0238,DAIRY,Milk,Whole Milk Family Pack,Mulino Bianco,1,l,1, 2.91 ,,€,,Conad,MILANO,2026-02-25,0540478943928,
+CON-00239,CP0239,ALT0239,Dairy, Milk ,Semi-skimmed Milk Family Pack,Conad Kids,1,l,1,"€2,56",2.10,EUR,in stock,Conad,Milano,19-01-2026,6378920010919,new
+CON-00240,CP0240,ALT0240,Dairy,Milk,Barilla Lactose Free Milk Family Pack confezione,Barilla,0.75,l,1,2.25,"1,73",€,OUT OF STOCK,Conad,MILANO,2026/01/05 07:58,1090565463641,imported
+CON-00241,CP0241,ALT0241,Dairy,Butter,Conad Kids Unsalted Butter Family Pack confezione,Conad Kids,250,g,4,EUR 3.02,,EUR,in stock,Conad,Milano,21/04/2026,4665891238719,limited edition
+CON-00242,CP0242,ALT0242,Dairy,Butter,Piacersi Salted Butter Family Pack confezione,Piacersi,375.0,g,3,2.18,,€,low stock,Conad,Milan,2026-01-23,4641980815643,
+CON-00243,CP0243,ALT0243,Dairy,Cheese,Parmigiano Reggiano Family Pack 150g ,Petfriends,150.0,g,1,"€1,62",1.16,Euro,,Conad,MILANO,05/01/2026,9040626749174,
+CON-00244,CP0244,ALT0244,Dairy,Cheese,Gorgonzola Family Pack,Verso Natura,112.5,g,4,2.28,,EUR,OUT OF STOCK,Conad,MILANO,20-01-2026,8032053064908,imported
+CON-00245,CP0245,ALT0245,Dairy,Cheese,Ricotta Family Pack,Rio Mare,312.5,g,1,EUR 2.75,,Euro,OUT OF STOCK,Conad,Milano,2026-04-21 16:50:00,3336167900711,promo shelf
+CON-00246,CP0246,ALT0246,Bakery,Bread,Piacersi Whole Wheat Bread Family Pack confezione,Piacersi,375.0,g,1,"€3,22",2.38,Euro,low stock,Conad,milan,2026-01-20,1176931103100,promo shelf
+CON-00247,CP0247,ALT0247,Bakery,Bread,Lavazza Ciabatta Family Pack confezione,Lavazza,450.0,g,1,EUR 1.84,,EUR,limited,Conad,Milano,2026-01-18,4290629814510,
+CON-00248,CP0248,ALT0248,Bakery,Bread,Sandwich Bread Family Pack 550g,Lavazza ,550,g,,2.86,,€,in stock,Conad,Milano,2026-04-14,5450580801555,promo shelf
+CON-00249,CP0249,ALT0249,Bakery,Croissants,Butter Croissant Family Pack,Verso Natura,6,pcs,3,EUR 2.80, 2.59 ,€,in stock,Conad,MILANO,2026-03-05,9315311412331,imported
+CON-00250,CP0250,ALT0250,Bakery,Croissants,Chocolate Croissant Family Pack 7.5pcs,Sapori e Dintorni,7.5,pcs,1,2.05,,Euro,limited,Conad,MILANO,2026-02-27,9332813840383,promo shelf
+CON-00251,CP0251,ALT0251,Bakery,Cookies,Chocolate Chip Cookies Family Pack,Piacersi,450.0,g,1,EUR 2.85,2.44,€,available,Conad,Milano,2026-03-13 23:19:00,,promo shelf
+CON-00252,CP0252,ALT0252,Bakery,Cookies,Digestive Biscuits Family Pack,Sapori e Dintorni,400,g,1,"2,22",,€,low stock,Conad,Milano,13-01-2026,4571267728072,private label
+CON-00253,CP0253,ALT0253,Produce,Tomatoes,Sapori e Dintorni Cherry Tomatoes Family Pack,Sapori e Dintorni,500,g,1,"€2,22",,Euro,in stock,Conad,milan,2026-01-14 09:02:00,,imported
+CON-00254,CP0254,ALT0254,Produce,Tomatoes,Round Tomatoes Family Pack 1.5kg,Aia,1.5,kg,8,EUR 3.43,,eur,low stock,Conad,milan,2026-04-14,,limited edition
+CON-00255,CP0255,ALT0255,Produce,Salad,Iceberg Lettuce Family Pack 1.5pcs,Verso Natura,1.5,pcs,1,1.55,,EUR,,Conad,milan,2026/03/05 05:48,3665942323617,new
+CON-00256,CP0256,ALT0256,Produce,Salad,Conad Kids Rocket Salad Family Pack confezione,Conad Kids,156.25,g,3,3.08,2.61,eur,limited,Conad,milan,26/04/2026,,limited edition
+CON-00257,CP0257,ALT0257,Produce,Apples,PIACERSI GOLDEN APPLES FAMILY PACK CONFEZIONE,Piacersi,1,kg,8,EUR 2.74,,EUR,,Conad,Milan,2026-02-05,7672706219871,check allergen label
+CON-00258,CP0258,ALT0258,Produce,Apples,Conad Pink Lady Apples Family Pack,Conad,1.5,kg,1,"€1,70",,eur,in stock,Conad,milan,2026-03-17,3174705908564,private label
+CON-00259,CP0259,ALT0259,Produce,Bananas,Parmalat Bananas Family Pack,Parmalat,,kg,3,"2,58",,EUR,available,Conad,MILANO,19-04-2026,7712290700285,imported
+CON-00260,CP0260,ALT0260,Produce,Potatoes,Potatoes Family Pack 2kg,PETFRIENDS,2,kg,1,EUR 1.95,,Euro,available,Conad,Milano,08/03/2026,0978119454488,check allergen label
+CON-00261,CP0261,ALT0261,Meat,Chicken,Chicken Breast Family Pack 500g,Aia,500.0,g,6,3.71,,Euro,available,Conad,MILANO,2026-04-04 00:04:00,7262605614189,
+CON-00262,CP0262,ALT0262,Meat,Chicken,Granarolo Chicken Thighs Family Pack,Granarolo,500,g,6,3.71,,Euro,available,Conad,MILANO,2026-01-18 03:54:00,1033892807984,seasonal item
+CON-00263,CP0263,ALT0263,Meat,Beef,Conad Kids Minced Beef Family Pack confezione,Conad Kids,500.0,g,3,EUR 3.49,,Euro,,Conad,MILANO,13-01-2026,8877909182490,private label
+CON-00264,CP0264,ALT0264,Meat,Beef,Beef Steak Family Pack,Piacersi,450.0,g,1,EUR 7.52,5.72,€,,Conad,milan,27-04-2026,6148152138022,
+CON-00265,CP0265,ALT0265,Meat,Cured Meats,Verso Natura Prosciutto Cotto Family Pack confezione, Verso Natura ,150.0,g,1, 3.62 ,,€,in stock,Conad,MILANO,2026-04-19,8025405777905,seasonal item
+CON-00266,CP0266,ALT0266,Meat,Cured Meats ,Lavazza Salame Milano Family Pack,Lavazza,75.0,g,1,"5,04",,€,,Conad,milan,2026-02-17 14:01:00,7555413260494,imported
+CON-00267,CP0267,ALT0267,Pantry,Pasta,Spaghetti Family Pack 500g,Galbani,500,g,6,EUR 2.53,,eur,low stock,Conad,Milano,13-04-2026,0765580398587,
+CON-00268,CP0268,ALT0268,Pantry,Pasta,CONAD PENNE RIGATE FAMILY PACK,Conad,500,g,3, 2.40 ,,€,in stock,Conad,Milan,30/01/2026,3379084609367,
+CON-00269,CP0269,ALT0269,Pantry,Pasta,Fusilli Family Pack,Ferrero,375.0,g,6,3.97,,EUR,,Conad,MILANO,2026-04-22,9871694555481,limited edition
+CON-00270,CP0270,ALT0270,Pantry,Rice,Carnaroli Rice Family Pack,Sapori e Dintorni,1,kg,1,"€2,22","1,95",€,available,Conad,milan,2026/01/21 23:27,4510097352000,promo shelf
+CON-00271,CP0271,ALT0271,Pantry, Rice,Basmati Rice Family Pack 0.75kg,Sapori e Dintorni,0.75,kg,1,4.60,,€,in stock,Conad,Milan,2026/01/19 23:09,6187418519547,
+CON-00272,CP0272,ALT0272,Pantry,Sauce,Tomato Passata Family Pack,Ferrero,1050.0,ml,2,4.14,,EUR,OUT OF STOCK,Conad,Milan,15-04-2026,7720334828991,imported
+CON-00273,CP0273,ALT0273,Pantry,Sauce,Petfriends Pesto Genovese Family Pack confezione,Petfriends,285.0,g,1,"€4,65",,eur,in stock,Conad,milan,2026-02-04,5225361476842,seasonal item
+CON-00274,CP0274,ALT0274,Pantry,Oil,Extra Virgin Olive Oil Family Pack 1l,Petfriends,1,l,2,4.65,,Euro,low stock,Conad,Milan,2026-04-12 21:56:00,1339398343784,limited edition
+CON-00275,CP0275,ALT0275,Pantry,Oil,Sunflower Oil Family Pack 1.5l,Verso Natura,1.5,l,3,"€4,48",,€,,Conad,Milan,24/02/2026,,limited edition
+CON-00276,CP0276,ALT0276, Pantry,Flour, Sapori e Dintorni All Purpose Flour Family Pack,Sapori e Dintorni,1,kg,,EUR 3.58,,Euro,low stock,Conad,Milan,23/01/2026,6748802225962,private label
+CON-00277,CP0277,ALT0277,Pantry,Flour,Lavazza 00 Flour Family Pack,Lavazza,0.75,kg,6, 2.95 ,,eur,low stock,Conad,Milan,30/04/2026,4464791142464,seasonal item
+CON-00278,CP0278,ALT0278,Pantry,Sugar,Verso Natura White Sugar Family Pack, Verso Natura ,0.75,kg,3,"€2,87",EUR 2.09,EUR,low stock,Conad,Milan,2026-04-12 16:52:00,2340910462388,check allergen label
+CON-00279,CP0279,ALT0279,Pantry,Sugar,Conad Brown Sugar Family Pack confezione,Conad,0.75,kg,1, 1.94 ,,Euro,limited,Conad,milan,04-03-2026,6900947859911,
+CON-00280,CP0280,ALT0280,Pantry,Coffee,Lavazza Ground Coffee Family Pack confezione,Lavazza,250,g,2,EUR 2.99, 2.24 ,Euro,,Conad,MILANO,2026/04/14 18:20,7958423823656,new
+CON-00281,CP0281,ALT0281,Pantry,Coffee,Coffee Beans Family Pack,Petfriends,375.0,g,2,2.63,EUR 1.85,eur,OUT OF STOCK,Conad,Milano,2026-04-05 08:39:00,5341213291403,check allergen label
+CON-00282,CP0282,ALT0282,Pantry,Cereal,Sapori e Dintorni Corn Flakes Family Pack,Sapori e Dintorni,281.25,g,6,"€2,94","€2,37",eur,low stock,Conad,MILANO,26-02-2026,2808475401726,private label
+CON-00283,CP0283,ALT0283,Pantry,Cereal,Muesli Family Pack 750g,Conad,750,g,1,"3,91",,eur,,Conad,milan,2026-03-23 01:21:00,6776161503152,
+CON-00284,CP0284,ALT0284,Frozen,Pizza,Conad Kids Margherita Pizza Family Pack confezione,Conad Kids,262.5,g,6,"€5,60",,eur,,Conad,Milano,2026-03-06 22:19:00,1604447461082,imported
+CON-00285,CP0285,ALT0285,Frozen,Pizza,Petfriends Vegetable Pizza Family Pack,Petfriends,570.0,g,1,5.18,"4,18",EUR,in stock,Conad,milan,25/03/2026,0471324393636,check allergen label
+CON-00286,CP0286,ALT0286,Frozen,Vegetables,Frozen Peas Family Pack 450g,Mutti,450,g,3,"€5,67",,Euro,in stock,Conad,milan,2026/01/02 15:39,,seasonal item
+CON-00287,CP0287,ALT0287,Frozen,Vegetables,Frozen Spinach Family Pack 450g,Piacersi ,450,g,1,EUR 5.02,,eur,available,Conad,Milano,28/01/2026,8820497763801,promo shelf
+CON-00288,CP0288,ALT0288,Frozen ,Fish,Frozen Salmon Fillets Family Pack,Ferrero,500.0,g,3,3.71,,EUR,low stock,Conad,Milano,2026-02-21,3716097305114,
+CON-00289,CP0289,ALT0289,Frozen,Fish,Conad Fish Fingers Family Pack confezione,Conad,300,g,4,"€3,71","3,09",€,,Conad,Milano,28/03/2026,5044566739419,imported
+CON-00290,CP0290,ALT0290,Beverages,Water, Still Water Family Pack 2.25l,Conad,2.25,l,8,1.20,1.09,EUR,in stock,Conad,Milano,11-01-2026,6845381159576,private label
+CON-00291,CP0291,ALT0291,Beverages,Water,Sparkling Water Family Pack 1.5l,Piacersi,1.5,l,1,"1,14",,€,low stock,Conad,Milano,2026-03-20,0689464917731,check allergen label
+CON-00292,CP0292,ALT0292,Beverages,Juice, Orange Juice Family Pack 1.5l,Piacersi,,l,3, 1.19 ,,eur,available,Conad,milan,13/01/2026,5436444891247,new
+CON-00293,CP0293,ALT0293,Beverages,Juice,Sapori e Dintorni Apple Juice Family Pack,Sapori e Dintorni,,l,6, 1.00 ,,Euro,limited,Conad,Milano,2026-04-10 23:30:00,5914987322916,limited edition
+CON-00294,CP0294,ALT0294,Beverages,Soft Drinks,Sapori e Dintorni Cola Family Pack,Sapori e Dintorni,1.88,l,1, 1.04 ,,Euro,in stock,Conad,Milano,2026-03-13,,imported
+CON-00295,CP0295,ALT0295,Beverages,Soft Drinks,Petfriends Lemon Soda Family Pack,Petfriends,1.5,l,6, 2.36 ,,eur,limited,Conad,Milano,2026/03/10 16:58,6728494535256,limited edition
+CON-00296,CP0296,ALT0296,Beverages,Tea,PETFRIENDS GREEN TEA FAMILY PACK,Petfriends,25.0,pcs,1,EUR 1.56, 1.37 ,EUR,available,Conad,milan,07/02/2026,9750291069743,promo shelf
+CON-00297,CP0297,ALT0297,Beverages,Tea,Verso Natura Black Tea Family Pack confezione,Verso Natura ,31.25,pcs,6, 2.29 ,1.80,€,in stock,Conad,milan,27/02/2026,8100639399201,promo shelf
+CON-00298,CP0298,ALT0298,Household,Detergent,Aia Dish Soap Family Pack confezione,Aia,750,ml,2, 5.85 ,"4,48",Euro,in stock,Conad,MILANO,2026-04-30,3143763256337,
+CON-00299,CP0299,ALT0299,Household,Detergent,Laundry Detergent Family Pack,Petfriends,1.12,l,6,"5,22",,EUR,in stock,Conad,MILANO,2026-03-10,0732723420309,check allergen label
+CON-00300,CP0300,ALT0300,Household,Paper,Toilet Paper Family Pack 6pcs,Verso Natura,6.0,pcs,4,"€6,03","€4,50",€,OUT OF STOCK,Conad ,Milan,03-03-2026,8956092474010,limited edition
+CON-00301,CP0301,ALT0301,Household,Paper,Kitchen Towels Family Pack 5pcs,Petfriends,5.0,pcs,2,"€4,07",,Euro,OUT OF STOCK,Conad,MILANO,28/01/2026,3417439711611,check allergen label
+CON-00302,CP0302,ALT0302,Household,Cleaning,Multi Surface Cleaner Family Pack,Petfriends,750,ml,3, 5.62 ,"4,02",€,limited,Conad,Milano,20-04-2026,0905969037139,new
+CON-00303,CP0303,ALT0303,Household,Cleaning,Piacersi Bleach Family Pack confezione,Piacersi,2.5,l,6,4.94,EUR 4.31,EUR,low stock,Conad,Milano,2026/01/26 12:11,5649876748854,
+CON-00304,CP0304,ALT0304,Personal Care,Shampoo, Shampoo Family Pack 312.5ml,Verso Natura,312.5,ml,4,"2,65",,EUR,OUT OF STOCK,Conad,Milan,2026-04-24,,new
+CON-00305,CP0305,ALT0305,Personal Care,Shampoo,Conad Conditioner Family Pack,Conad,312.5,ml,1,EUR 6.00,,Euro,limited,Conad,Milano,2026-02-10,6838819025448,private label
+CON-00306,CP0306,ALT0306,Personal Care,Soap,Hand Soap Family Pack 225ml,Lavazza,225.0,ml,1,5.93,,EUR,available, Conad ,Milan,2026-02-24 01:41:00,8174791452520,seasonal item
+CON-00307,CP0307,ALT0307,Personal Care,Soap,Body Wash Family Pack 375ml,Conad,375.0,ml,,5.06,,Euro,available,Conad,Milano,2026/02/09 09:22,5914987355522,private label
+CON-00308,CP0308,ALT0308,Personal Care,Toothpaste,Sapori e Dintorni Toothpaste Family Pack confezione,Sapori e Dintorni,56.25,ml,3,"€3,85",,Euro,in stock,Conad,milan,26/04/2026,1862028418542,seasonal item
+CON-00309,CP0309,ALT0309,Dairy,Mozzarella,Conad Mozzarella Mini,Conad,156.25,g,,"€2,15",,eur,available,Conad,MILANO,2026-04-03,4118956593005,imported
+CON-00310,CP0310,ALT0310,Dairy,Mozzarella,Mozzarella di Bufala Mini 125g,Barilla,125,g,6,EUR 2.53,EUR 2.33,Euro,OUT OF STOCK,Conad,Milano,21-01-2026,9777774714227,new
+CON-00311,CP0311,ALT0311,Dairy,Mozzarella,Fior di latte mozzarella Mini,Verso Natura,150.0,g,1,"€1,51",,€,available,Conad,MILANO,02/02/2026,5409270514171,check allergen label
+CON-00312,CP0312,ALT0312,Dairy,Yogurt,Petfriends Greek Yogurt Mini,Petfriends,170,g,1, 1.53 ,,€,available,Conad,milan,29/04/2026,5862853233191,check allergen label
+CON-00313,CP0313,ALT0313,Dairy,Yogurt,Strawberry Yogurt Mini,Petfriends,2,pcs,1,"2,69",,EUR,limited,Conad,Milan,2026-04-04,9244254662999,seasonal item
+CON-00314,CP0314,ALT0314,Dairy,Yogurt, Plain Yogurt Mini 500g,Conad Kids,500,g,,"€3,15",,€,,Conad,milan,2026-01-11 23:17:00,3511099295989,seasonal item
+CON-00315,CP0315,ALT0315,Dairy,Milk,Piacersi Whole Milk Mini confezione,Piacersi,1.5,,1,2.89,2.37,Euro,OUT OF STOCK,Conad,MILANO,2026-01-27 18:30:00,1128692222074,
+CON-00316,CP0316,ALT0316,Dairy,Milk,Semi-skimmed Milk Mini,conad kids,1.25,l,8,2.36,,Euro,OUT OF STOCK, Conad,Milan,2026/02/22 13:13,4524141177059,check allergen label
+CON-00317,CP0317,ALT0317,Dairy,Milk,Mulino Bianco Lactose Free Milk Mini confezione,Mulino Bianco,1,l,1,EUR 2.34,,Euro,limited,Conad,Milan,2026-03-09 12:02:00,6350232314223,
+CON-00318,CP0318,ALT0318,Dairy,Butter,Sapori e Dintorni Unsalted Butter Mini,Sapori e Dintorni,,g,1, 2.06 ,,EUR,,Conad,Milan,2026-04-02 19:01:00,8410936184820,limited edition
+CON-00319,CP0319,ALT0319,Dairy,Butter,Parmalat Salted Butter Mini confezione,Parmalat,250,g,3,"2,90",,€,available,Conad,Milan,07-01-2026,3121136931427,seasonal item
+CON-00320,CP0320,ALT0320,Dairy,Cheese,Parmigiano Reggiano Mini,Sapori e Dintorni,200,g,2,EUR 1.27,,Euro,low stock,Conad,MILANO,2026/02/20 21:43,1002298396065,limited edition
+CON-00321,CP0321,ALT0321,Dairy,Cheese,Conad Gorgonzola Mini,Conad,187.5,g,1, 2.28 ,,EUR,low stock,Conad,MILANO,03-01-2026,7562612136211,limited edition
+CON-00322,CP0322,ALT0322,Dairy,Cheese,Piacersi Ricotta Mini confezione,Piacersi,250,g,8, 2.52 ,,eur,,Conad,MILANO,03-04-2026,3013768858222,imported
+CON-00323,CP0323,ALT0323,Bakery,Bread,Whole Wheat Bread Mini 375g,VERSO NATURA,375.0,g,6,3.20,,eur,in stock,Conad,Milano,2026/04/14 14:27,9902736767086,
+CON-00324,CP0324,ALT0324,Bakery,Bread,Ciabatta Mini,PETFRIENDS,,g,1, 2.25 ,,eur,low stock,Conad,Milan,25/01/2026,9138853208884,promo shelf
+CON-00325,CP0325,ALT0325,Bakery,Bread,Sandwich Bread Mini,Piacersi,825.0,g,1,"2,26",1.78,EUR,available,Conad,Milano,01-04-2026,9754053194096,check allergen label
+CON-00326,CP0326,ALT0326,Bakery,Croissants,Butter Croissant Mini,Verso Natura,4.5,pcs,1,"3,40",,EUR,,Conad,Milan,29/04/2026,6631744386073,limited edition
+CON-00327,CP0327,ALT0327,Bakery,Croissants,Piacersi Chocolate Croissant Mini confezione,Piacersi,4.5,pcs,1,"2,64",,Euro,low stock,Conad,Milano,2026-02-28,,
+CON-00328,CP0328,ALT0328,Bakery,Cookies,Chocolate Chip Cookies Mini 450g,Sapori e Dintorni,450.0,g,2,2.86,2.21,EUR,OUT OF STOCK,Conad,Milan,30-04-2026,3175305776985,promo shelf
+CON-00329,CP0329,ALT0329,Bakery,Cookies,Conad Digestive Biscuits Mini,Conad,300.0,g,1, 1.46 ,"€1,29",eur,available,Conad,Milan,26-04-2026,7187894652990,
+CON-00330,CP0330,ALT0330,Produce,Tomatoes,Barilla Cherry Tomatoes Mini confezione,Barilla,375.0,g,1,EUR 2.61,,eur,available,Conad,Milano,2026-03-04,3445376077556,check allergen label
+CON-00331,CP0331,ALT0331,Produce,Tomatoes,Round Tomatoes Mini 1kg,Sapori e Dintorni,1,kg,, 2.43 ,,€,low stock,Conad,Milan,10/04/2026,7558767601721,imported
+CON-00332,CP0332,ALT0332,Produce,Salad,Sapori e Dintorni Iceberg Lettuce Mini,Sapori e Dintorni,1,pcs,1,"€2,03",,eur,,Conad,Milan,13-01-2026,1182105978153,
+CON-00333,CP0333,ALT0333,Produce,Salad,Rocket Salad Mini 156.25g,Petfriends,156.25,g,3,3.89,,eur,OUT OF STOCK,Conad,Milano,2026-03-23 12:31:00,4816361729671,check allergen label
+CON-00334,CP0334,ALT0334,Produce,Apples,Golden Apples Mini,Conad Kids,1.25,kg,2, 3.06 ,,€,OUT OF STOCK,Conad,Milan,06/01/2026,7985267369829,limited edition
+CON-00335,CP0335,ALT0335,Produce,Apples,ferrero pink lady apples mini confezione,Ferrero,1.25,kg,2, 3.49 ,"3,23",Euro,OUT OF STOCK,Conad,Milano,2026-02-25 15:08:00,2029925983469,private label
+CON-00336,CP0336,ALT0336,Produce,Bananas,BANANAS MINI, Verso Natura,1,kg,, 2.91 ,EUR 2.50,eur,low stock,Conad,Milano,2026-03-08,1133797430104,imported
+CON-00337,CP0337,ALT0337,Produce,Potatoes,Ferrero Potatoes Mini,Ferrero,2.5,kg,2, 1.69 ,1.43,Euro,in stock,Conad,milan,25/04/2026,6377248650736,imported
+CON-00338,CP0338,ALT0338,Meat,Chicken,CHICKEN BREAST MINI,Piacersi,300.0,g,3, 5.06 ,,eur,OUT OF STOCK,Conad,milan,2026/01/02 14:30,3841774118428,
+CON-00339,CP0339,ALT0339,Meat,Chicken,Chicken Thighs Mini 500g,Piacersi,500,g,4, 4.86 ,,Euro,in stock,Conad,milan,04-01-2026,9025062737068,new
+CON-00340,CP0340,ALT0340,Meat,Beef,Minced Beef Mini,CONAD,500.0,g,3,"€4,69",,€,in stock,Conad,MILANO,2026/01/26 10:06,3547488470821,private label
+CON-00341,CP0341,ALT0341,Meat,Beef,Piacersi Beef Steak Mini confezione,Piacersi,225.0,g,8,7.12,,EUR,available,conad,MILANO,26-01-2026,8111879619208,
+CON-00342,CP0342,ALT0342,Meat,Cured Meats,VERSO NATURA PROSCIUTTO COTTO MINI,Verso Natura,150.0,g,3,"€6,70",,Euro,,Conad ,MILANO,2026-02-27 14:18:00,4501707593494,new
+CON-00343,CP0343,ALT0343,Meat,Cured Meats,Salame Milano Mini 100g,Piacersi ,100,g,4,"5,70",,Euro,OUT OF STOCK,Conad,Milan,2026-02-02 08:17:00,9485446255635,limited edition
+CON-00344,CP0344,ALT0344,Pantry,Pasta,Spaghetti Mini 625g,Verso Natura,625.0,g,1,EUR 1.88,,eur,in stock,Conad,milan,2026-03-15,3444470337305,check allergen label
+CON-00345,CP0345,ALT0345,pantry,Pasta,Penne Rigate Mini,Conad Kids,500,g,2,"2,69",,eur,low stock,Conad,Milano,04-03-2026,0007816110948,private label
+CON-00346,CP0346,ALT0346,Pantry,Pasta,Fusilli Mini 625g,Conad,625.0,g,1, 4.57 ,,eur,available,Conad,milan,02/01/2026,,seasonal item
+CON-00347,CP0347,ALT0347,Pantry,Rice,Carnaroli Rice Mini 1.5kg,conad kids,1.5,kg,4,3.52,2.98,€,low stock,Conad,Milan,2026-03-30 20:15:00,8667634452808,
+CON-00348,CP0348,ALT0348,Pantry,Rice, Basmati Rice Mini ,Piacersi,1.25,kg,8,2.27,,Euro,,Conad,milan,14-03-2026,7229264986830,
+CON-00349,CP0349,ALT0349,Pantry ,Sauce,Tomato Passata Mini,Petfriends,700,ml,1,"€2,89",,eur,,Conad,Milan,2026-01-09,,
+CON-00350,CP0350,ALT0350,Pantry,Sauce,Piacersi Pesto Genovese Mini,Piacersi,190,g,4,"€3,87",,EUR,,Conad,Milan,2026/04/28 17:55,2561429383115,check allergen label
+CON-00351,CP0351,ALT0351, Pantry ,Oil,Extra Virgin Olive Oil Mini 1l,Petfriends,1,l,4,EUR 1.93,,€,in stock,Conad ,MILANO,2026-02-27 19:06:00,1306667981267,promo shelf
+CON-00352,CP0352,ALT0352,Pantry,Oil,Sunflower Oil Mini 1l,Conad Kids,1,l,1, 4.12 ,"€3,33",Euro,available,Conad,Milano,2026-02-25 20:39:00,2692439359410,promo shelf
+CON-00353,CP0353,ALT0353,Pantry,Flour,All Purpose Flour Mini 0.75kg,Conad,0.75,kg,4,"€3,18",,eur,limited, Conad ,Milan,03/04/2026,6109175337389,imported
+CON-00354,CP0354,ALT0354,Pantry,Flour,00 Flour Mini 1.5kg ,Conad Kids,1.5,kg,3,EUR 2.32,,€,low stock,Conad,milan,2026-02-10,9023296125103,
+CON-00355,CP0355,ALT0355,Pantry,Sugar,Rio Mare White Sugar Mini,Rio Mare,1.5,kg,1,EUR 2.17,,Euro,in stock,Conad,milan,2026/03/16 12:58,5501765784969,imported
+CON-00356,CP0356,ALT0356,Pantry,Sugar,Brown Sugar Mini 0.75kg,Conad Kids,0.75,kg,8,2.92,,Euro,in stock,Conad,milan,01-05-2026,7719615133594,promo shelf
+CON-00357,CP0357,ALT0357,Pantry,Coffee,Ground Coffee Mini,Piacersi,250,g,1,EUR 2.31,,Euro,OUT OF STOCK,Conad,Milan,12/04/2026,4713791511246,promo shelf
+CON-00358,CP0358,ALT0358,Pantry,Coffee,Mulino Bianco Coffee Beans Mini,Mulino Bianco,375.0,g,3,4.43,,eur,limited,Conad,milan,2026-02-13,8448117917202,seasonal item
+CON-00359,CP0359,ALT0359,Pantry,Cereal,Corn Flakes Mini,Piacersi,281.25,g,4,3.00,"2,81",Euro,,Conad,Milan,2026/03/16 08:57,9157923193729,
+CON-00360,CP0360,ALT0360,Pantry ,Cereal,Muesli Mini,Sapori e Dintorni,,g,6,"2,04",,eur,limited,CONAD,MILANO,2026-02-23,2117734884954,limited edition
+CON-00361,CP0361,ALT0361,Frozen,Pizza,Ferrero Margherita Pizza Mini,Ferrero,437.5,g,4, 3.44 ,2.42,eur,in stock,Conad,MILANO,2026/01/07 22:32,7620090036680,
+CON-00362,CP0362,ALT0362,Frozen,Pizza,De Cecco Vegetable Pizza Mini confezione,De Cecco,570.0,g,8,"€4,26","4,00",€,OUT OF STOCK,Conad,Milan,2026-03-02 10:36:00,6391121447752,check allergen label
+CON-00363,CP0363,ALT0363,Frozen,Vegetables,Verso Natura Frozen Peas Mini confezione,Verso Natura,675.0,g,1,3.30,,Euro,OUT OF STOCK,Conad,Milan,12-03-2026,4141246765358,new
+CON-00364,CP0364,ALT0364,Frozen,Vegetables,Conad Kids Frozen Spinach Mini,Conad Kids,450,g,,EUR 3.55,,EUR,OUT OF STOCK,Conad,Milan,11-03-2026,5536318242580,limited edition
+CON-00365,CP0365,ALT0365,Frozen,Fish,Frozen Salmon Fillets Mini 300g,Verso Natura,300.0,g,,2.50,EUR 2.22,Euro,,Conad,Milan,21-03-2026,4009551509131,imported
+CON-00366,CP0366,ALT0366,Frozen,Fish,Sapori e Dintorni Fish Fingers Mini,Sapori e Dintorni,450.0,g,1, 4.90 ,,Euro,,Conad,MILANO,12-01-2026,5018538737637,private label
+CON-00367,CP0367,ALT0367,Beverages,Water,Verso Natura Still Water Mini confezione,Verso Natura,1.12,l,,"1,52",,Euro,limited,Conad,MILANO,2026/03/15 14:48,3972779958833,
+CON-00368,CP0368,ALT0368,Beverages,Water,Sparkling Water Mini 1.5l,Piacersi,1.5,l,,2.32,1.85,€,in stock,Conad,Milano,2026-02-26 20:00:00,8924277781173,promo shelf
+CON-00369,CP0369,ALT0369,Beverages,Juice,Piacersi Orange Juice Mini,Piacersi,0.75,l,1,2.34,,EUR,OUT OF STOCK,Conad,Milano,18-03-2026,2774215229957,new
+CON-00370,CP0370,ALT0370,Beverages,Juice,Lavazza Apple Juice Mini,Lavazza,1.5,l,1,1.24,,Euro,OUT OF STOCK,Conad,milan,2026-02-12 07:46:00,7756375406824,new
+CON-00371,CP0371,ALT0371,Beverages,Soft Drinks,Cola Mini,Verso Natura,1.12,l,1,1.62,,eur,,Conad,milan,29/01/2026,7911993708640,limited edition
+CON-00372,CP0372,ALT0372,Beverages,Soft Drinks,Galbani Lemon Soda Mini confezione,Galbani,1.5,l,4,2.28,,€,in stock,Conad,milan,31-01-2026,1824383454211,
+CON-00373,CP0373,ALT0373,Beverages,Tea,Verso Natura Green Tea Mini confezione,VERSO NATURA,25.0,pcs,1,"2,31",,€,limited,Conad,Milan,2026-01-24,1714872927618,check allergen label
+CON-00374,CP0374,ALT0374,Beverages,Tea,Piacersi Black Tea Mini confezione,Piacersi,18.75,pcs,3,EUR 1.94,,Euro,OUT OF STOCK,Conad,MILANO,06/04/2026,1401278410467,seasonal item
+CON-00375,CP0375,ALT0375,Household,Detergent,Dish Soap Mini,Conad Kids,1125.0,ml,1,4.19,,Euro,,Conad,Milan,26-03-2026,7647731171251,new
+CON-00376,CP0376,ALT0376,Household,Detergent,Conad Kids Laundry Detergent Mini,Conad Kids,1.5,l,8, 5.15 ,,eur,in stock,Conad,MILANO,10-01-2026,1500921101938,check allergen label
+CON-00377,CP0377,ALT0377,Household,Paper,Toilet Paper Mini,De Cecco,12.0,pcs,6,3.50,,Euro,available,Conad,MILANO,2026-02-22,0737996491245,imported
+CON-00378,CP0378,ALT0378,Household,Paper,Petfriends Kitchen Towels Mini confezione,Petfriends,6.0,pcs,1,"5,27",,eur,low stock,Conad,milan,15/02/2026,,promo shelf
+CON-00379,CP0379,ALT0379,Household,Cleaning,Multi Surface Cleaner Mini 562.5ml,Conad Kids,562.5,ml,1, 5.24 ,,Euro,limited,CONAD,Milano,2026/03/26 02:50,7444636892445,
+CON-00380,CP0380,ALT0380,Household,Cleaning,Bleach Mini,Aia,3.0,l,2,"€5,55",,EUR,in stock,Conad,Milan,2026/03/24 06:00,9479982886845,limited edition
+CON-00381,CP0381,ALT0381,Personal Care,Shampoo,Petfriends Shampoo Mini confezione,Petfriends,187.5,ml,1,3.11,,EUR,in stock,Conad,MILANO,14-04-2026,7031398167343,
+CON-00382,CP0382,ALT0382,Personal Care,Shampoo,Verso Natura Conditioner Mini,Verso Natura,312.5,ml,3,"2,62",,EUR,low stock,Conad,milan,2026-02-20 00:55:00,2268808484056,promo shelf
+CON-00383,CP0383,ALT0383,Personal Care,Soap,Ferrero Hand Soap Mini confezione,Ferrero,450.0,ml,1, 3.14 ,,€,limited,Conad,Milano,2026/02/25 20:24,8966766641367,new
+CON-00384,CP0384,ALT0384,Personal Care,Soap,Sapori e Dintorni Body Wash Mini confezione,Sapori e Dintorni,750.0,ml,2,6.10,,Euro,OUT OF STOCK,Conad,milan,12-02-2026,6919229954280,new
+CON-00385,CP0385,ALT0385,Personal Care,TOOTHPASTE,Toothpaste Mini 112.5ml,Conad Kids,112.5,ml,3,EUR 4.37,,EUR,OUT OF STOCK,Conad,milan,10/01/2026,0043573925363,private label
+CON-00386,CP0386,ALT0386,Dairy,Mozzarella,Mozzarella Maxi 125g,Sapori e Dintorni,125,g,4,"1,63",,Euro,available,Conad,Milano,2026/03/26 11:31,1181568615344,new
+CON-00387,CP0387,ALT0387,Dairy,Mozzarella,Mozzarella di Bufala Maxi,Conad,125,g,1,EUR 2.48,,EUR,OUT OF STOCK,Conad,MILANO,18-02-2026,4862338887040,new
+CON-00388,CP0388,ALT0388,Dairy,Mozzarella,Fior di latte mozzarella Maxi 200g,Conad,200,g,1,2.69,,Euro,,Conad,MILANO,2026/04/28 11:46,6064041536590,
+CON-00389,CP0389,ALT0389,Dairy,Yogurt,Conad Greek Yogurt Maxi confezione,Conad,170,g,4,1.47,,eur,low stock,Conad,Milano,01-04-2026,9107562427502,
+CON-00390,CP0390,ALT0390,Dairy,Yogurt,Aia Strawberry Yogurt Maxi,Aia,2,pcs,1,"2,27",,EUR,available,Conad,Milan,2026-03-10 17:57:00,8541388703053,imported
+CON-00391,CP0391,ALT0391,Dairy,Yogurt,Plain Yogurt Maxi 500g,Sapori e Dintorni,,g,,"3,18",,€,low stock,Conad,Milano,25/04/2026,6120973321740,seasonal item
+CON-00392,CP0392,ALT0392,Dairy,Milk,Whole Milk Maxi,Piacersi,1.25,l,8, 1.94 , 1.55 ,€,in stock,Conad,Milan,02/02/2026,3295927881911,new
+CON-00393,CP0393,ALT0393,Dairy,Milk,Semi-skimmed Milk Maxi 1l,Piacersi,1,l,1,EUR 1.36,,eur,OUT OF STOCK,Conad,Milan,2026-01-10,5034902809956,imported
+CON-00394,CP0394,ALT0394,Dairy,Milk,Sapori e Dintorni Lactose Free Milk Maxi confezione,Sapori e Dintorni,1,l,, 2.11 ,,EUR,,Conad,Milan,2026-04-05 10:30:00,7274351131906,
+CON-00395,CP0395,ALT0395,Dairy,Butter,Granarolo Unsalted Butter Maxi,Granarolo,312.5,g,2, 1.81 ,,Euro,limited,Conad,Milano,2026/04/28 00:55,8008906606570,promo shelf
+CON-00396,CP0396,ALT0396,Dairy,Butter,Verso Natura Salted Butter Maxi,Verso Natura,,g,1, 2.54 ,,EUR,in stock,Conad,Milano,2026-03-21,6796506378952,private label
+CON-00397,CP0397,ALT0397,Dairy,Cheese,Aia Parmigiano Reggiano Maxi confezione,Aia,150.0,g,1, 2.24 ,,€,in stock,Conad,Milano,07/01/2026,3423355197687,check allergen label
+CON-00398,CP0398,ALT0398,Dairy,Cheese,Parmalat Gorgonzola Maxi,Parmalat,112.5,g,4,2.76,,€,OUT OF STOCK,Conad,MILANO,2026/02/18 06:07,2255532908966,private label
+CON-00399,CP0399,ALT0399,Dairy,Cheese,Conad Ricotta Maxi,Conad,312.5,g,1, 2.37 ,,Euro,available,Conad,MILANO,2026/02/25 09:23,3492097824904,private label
+CON-00400,CP0400,ALT0400,Bakery,Bread,Whole Wheat Bread Maxi 750g,Verso Natura,750.0,g,6,EUR 1.49,"€1,24",eur,OUT OF STOCK,Conad,Milan,2026-04-29 08:59:00,0491241280489,limited edition
+CON-00401,CP0401,ALT0401,Bakery,Bread,Ciabatta Maxi 450g,Rio Mare,450.0,g,1,,,EUR,available,Conad,Milan,29/04/2026,6221494069883,seasonal item
+CON-00402,CP0402,ALT0402,Bakery,BREAD,Conad Sandwich Bread Maxi,Conad,412.5,g,8,2.42,,€,in stock,Conad,Milan,15-04-2026,7263250325072,seasonal item
+CON-00403,CP0403,ALT0403,Bakery,Croissants,Piacersi Butter Croissant Maxi,Piacersi,4.5,pcs,6,3.08,,eur,OUT OF STOCK,Conad,MILANO,15-04-2026,2965581742441,imported
+CON-00404,CP0404,ALT0404,Bakery,Croissants,Conad Kids Chocolate Croissant Maxi confezione,Conad Kids,9.0,pcs,8,"2,07",,EUR,in stock,Conad,Milan,20-02-2026,6476439057445,promo shelf
+CON-00405,CP0405,ALT0405,Bakery,Cookies,Chocolate Chip Cookies Maxi 300g,Petfriends,300,g,,,,Euro,in stock,Conad,milan,19-04-2026,1686472081722,
+CON-00406,CP0406,ALT0406,Bakery,Cookies,Sapori e Dintorni Digestive Biscuits Maxi,Sapori e Dintorni,600.0,g,3,"€2,23",,€,OUT OF STOCK,Conad,MILANO,2026/01/19 05:09,5822649710714,seasonal item
+CON-00407,CP0407,ALT0407,Produce,Tomatoes,Rio Mare Cherry Tomatoes Maxi, Rio Mare ,500,g,1,EUR 3.12,,eur,in stock,Conad,Milano,2026-04-05,2575336588966,
+CON-00408,CP0408,ALT0408,Produce,Tomatoes,Sapori e Dintorni Round Tomatoes Maxi,Sapori e Dintorni,1,kg,8,3.68,2.81,€,low stock,Conad,Milan,2026-02-21 19:27:00,8574430491560,limited edition
+CON-00409,CP0409,ALT0409,Produce,Salad,Iceberg Lettuce Maxi,sapori e dintorni,1,pcs,3, 2.41 ,,eur,available,Conad,milan,19/02/2026,5545349972927,limited edition
+CON-00410,CP0410,ALT0410,Produce,Salad,Rocket Salad Maxi,Conad Kids,93.75,g,,"€1,87",EUR 1.67,€,limited,Conad,Milan,2026-03-25 00:20:00,2096257735241,private label
+CON-00411,CP0411,ALT0411,Produce,Apples,Golden Apples Maxi,Verso Natura,1,kg,6,EUR 2.89,,eur,limited,Conad,MILANO,2026/04/12 12:28,0234244229917,imported
+CON-00412,CP0412,ALT0412,Produce,Apples,granarolo pink lady apples maxi,Granarolo,1,,1,"€3,69",,EUR,low stock,Conad,milan,2026-04-24 00:42:00,8134618572487,seasonal item
+CON-00413,CP0413,ALT0413,Produce,Bananas,Galbani Bananas Maxi confezione,Galbani,1,kg,,2.99,EUR 2.79,€,limited,Conad,Milano,2026/03/12 09:18,8977789451007,
+CON-00414,CP0414,ALT0414,Produce,Potatoes,verso natura potatoes maxi confezione,Verso Natura,2,kg,2,2.61,,€,available,Conad,MILANO,2026/03/02 08:39,4958339091433,limited edition
+CON-00415,CP0415,ALT0415,Meat,Chicken,Chicken Breast Maxi,Rio Mare,500.0,g,1,EUR 5.85,4.70,Euro,low stock,Conad,MILANO,07-02-2026,,limited edition
+CON-00416,CP0416,ALT0416,Meat,Chicken, Chicken Thighs Maxi,Conad Kids,750.0,g,4,8.34,"€7,65",eur,limited,Conad,MILANO,24/03/2026,6406142421466,check allergen label
+CON-00417,CP0417,ALT0417,Meat,Beef,Minced Beef Maxi 400g,Conad,400,g,6,"€7,21",,€,limited,Conad,milan,2026-03-29,4084323752319,
+CON-00418,CP0418,ALT0418,Meat,Beef,Barilla Beef Steak Maxi,Barilla,450.0,g,1,6.89,,Euro,available,Conad,Milano,2026-03-16,3004119569580,check allergen label
+CON-00419,CP0419,ALT0419,Meat,Cured Meats,Sapori e Dintorni Prosciutto Cotto Maxi confezione,Sapori e Dintorni,180.0,g,6,8.61,,EUR,in stock,Conad,Milano,2026-03-01,7241028563071,
+CON-00420,CP0420,ALT0420,Meat,Cured Meats,Salame Milano Maxi 75g,Mutti,75.0,g,3,"6,10",4.45,€,,Conad,Milan,11/01/2026,,
+CON-00421,CP0421,ALT0421,Pantry,Pasta,Verso Natura Spaghetti Maxi confezione,verso natura,750.0,g,6, 2.06 ,,Euro,in stock, Conad ,milan,2026-03-29,8815578003342,private label
+CON-00422,CP0422,ALT0422,Pantry,Pasta,Verso Natura Penne Rigate Maxi confezione,Verso Natura,500,g,3, 3.41 ,,Euro,,Conad,MILANO,30/01/2026,5349086013742,
+CON-00423,CP0423,ALT0423,Pantry,Pasta,Conad Kids Fusilli Maxi confezione,Conad Kids,375.0,g,8,"€3,33",,€,limited,Conad,milan,21/03/2026,9818741731274,
+CON-00424,CP0424,ALT0424,Pantry,Rice,Ferrero Carnaroli Rice Maxi,Ferrero,1,kg,3,"€1,94",,€,limited,Conad,Milano,22/04/2026,3534120741132,
+CON-00425,CP0425,ALT0425,Pantry,Rice,Basmati Rice Maxi 1kg,Verso Natura,1,kg,3,EUR 3.37,,eur,available,Conad,milan,2026/02/19 20:47,4854550257176,seasonal item
+CON-00426,CP0426,ALT0426,Pantry,sauce,petfriends tomato passata maxi,Petfriends,525.0,ml,6, 2.90 ,"€2,24",eur,low stock,Conad,MILANO,2026-02-03,,check allergen label
+CON-00427,CP0427,ALT0427,Pantry,Sauce,Pesto Genovese Maxi,De Cecco,142.5,g,2,4.58,,EUR,available,Conad,Milano,2026/03/23 12:42,2088184674498,
+CON-00428,CP0428,ALT0428,Pantry,Oil,Extra Virgin Olive Oil Maxi,Verso Natura,1.5,l,6,3.19,,eur,limited, Conad,milan,15-02-2026,0652753836355,
+CON-00429,CP0429,ALT0429,Pantry,Oil,Conad Kids Sunflower Oil Maxi,Conad Kids,,l,6, 2.93 ,,EUR,available,Conad,Milano,28-02-2026,7548304439641,new
+CON-00430,CP0430,ALT0430,Pantry,Flour,All Purpose Flour Maxi,Conad,1,kg,1, 4.30 ,,€,limited,Conad,Milan,2026-02-28,1750908006005,
+CON-00431,CP0431,ALT0431,Pantry,Flour,Petfriends 00 Flour Maxi confezione,Petfriends,1,kg,4,2.41,,€,,Conad,milan,23/03/2026,6448383033619,private label
+CON-00432,CP0432,ALT0432,Pantry,Sugar,Verso Natura White Sugar Maxi,Verso Natura,1.5,kg,1,"4,30",3.26,eur,available,Conad,Milan,12-02-2026,9339934925887,check allergen label
+CON-00433,CP0433,ALT0433,Pantry,Sugar,Petfriends Brown Sugar Maxi,Petfriends,1,kg,1,"€4,35",3.81,€,low stock,Conad,MILANO,2026-04-27,4617326987966,imported
+CON-00434,CP0434,ALT0434,Pantry,Coffee,Ground Coffee Maxi,Petfriends,250,g,6, 4.09 ,,€,available,CONAD,MILANO,2026-01-08 12:03:00,0144762238193,
+CON-00435,CP0435,ALT0435,Pantry,Coffee,Coffee Beans Maxi ,Piacersi,500,g,1,"€4,17",,eur,,Conad,MILANO,2026/04/13 18:25,6782637352734,
+CON-00436,CP0436,ALT0436,Pantry,Cereal,De Cecco Corn Flakes Maxi confezione,De Cecco,375,g,1,"€2,23",,€,limited,Conad,Milano,2026/03/05 15:41,1285040618804,new
+CON-00437,CP0437,ALT0437,Pantry,Cereal,Piacersi Muesli Maxi confezione,Piacersi,1125.0,g,,"2,92",2.51,eur,,Conad,Milano,2026-01-18,2193059067592,limited edition
+CON-00438,CP0438,ALT0438,Frozen,Pizza,Lavazza Margherita Pizza Maxi confezione,Lavazza,437.5,g,1,EUR 2.97,,Euro,available,Conad,Milano,03-01-2026,9767976814367,
+CON-00439,CP0439,ALT0439,Frozen,Pizza,Vegetable Pizza Maxi 380g,Mutti,380,g,1,"€3,07",,Euro,in stock,Conad,milan,25/04/2026,5418730855846,
+CON-00440,CP0440,ALT0440,Frozen,Vegetables,Frozen Peas Maxi 337.5g,Verso Natura,337.5,g,3,3.51,,Euro,limited,CONAD,milan,2026-01-03 16:57:00,,
+CON-00441,CP0441,ALT0441,Frozen,Vegetables,Frozen Spinach Maxi 337.5g,Conad,,g,1,"5,16",,eur,OUT OF STOCK,conad,Milano,2026-03-22 13:22:00,6973742067351,check allergen label
+CON-00442,CP0442,ALT0442,Frozen,Fish,Rio Mare Frozen Salmon Fillets Maxi confezione,Rio Mare,500.0,g,4, 2.86 ,,eur,low stock,Conad,Milan,2026/02/24 16:04,5555355396977,
+CON-00443,CP0443,ALT0443,Frozen,Fish,Fish Fingers Maxi 300g,Mulino Bianco,300,g,2,"3,61","€3,13",€,,Conad,milan,07-02-2026,0895387722428,limited edition
+CON-00444,CP0444,ALT0444,Beverages,Water,Still Water Maxi,Petfriends,1.12,l,1, 2.33 ,,Euro,available,Conad,Milano,2026-03-26 01:47:00,8470311813091,check allergen label
+CON-00445,CP0445,ALT0445,Beverages,Water, Sparkling Water Maxi ,Petfriends,1.12,l,1,2.23,2.06,€,OUT OF STOCK,Conad,Milano,2026/03/16 03:18,0424617882696,seasonal item
+CON-00446,CP0446,ALT0446,Beverages,Juice,Lavazza Orange Juice Maxi confezione,Lavazza,1,l,8,1.64,,eur,available,Conad,MILANO,2026-04-30 20:37:00,9020136548835,seasonal item
+CON-00447,CP0447,ALT0447,Beverages,Juice,Apple Juice Maxi,Petfriends,1,l,4,1.97, 1.64 ,€,limited,Conad,Milan,2026/01/01 23:59,8303052326356,imported
+CON-00448,CP0448,ALT0448,Beverages,Soft Drinks,Cola Maxi 1.5l,Granarolo,1.5,l,4,"1,60",1.47,eur,available,Conad,milan,07-02-2026,9377066612987,
+CON-00449,CP0449,ALT0449,Beverages,Soft Drinks,Conad Kids Lemon Soda Maxi confezione,Conad Kids,1.5,l,4, 1.85 ,1.40,Euro,OUT OF STOCK,Conad,Milano,25-03-2026,0104674577191,limited edition
+CON-00450,CP0450,ALT0450,Beverages,Tea,Green Tea Maxi 25pcs,Sapori e Dintorni,25.0,pcs,2,2.45,,EUR,OUT OF STOCK, Conad,milan,28-01-2026,8454310566624,limited edition
+CON-00451,CP0451,ALT0451,Beverages,Tea ,Black Tea Maxi 37.5pcs, Sapori e Dintorni ,37.5,pcs,8,EUR 1.39,,€,OUT OF STOCK,Conad,Milan,2026-03-26,,check allergen label
+CON-00452,CP0452,ALT0452,Household,Detergent,Dish Soap Maxi,Sapori e Dintorni,937.5,ml,2,4.66,,Euro,available,Conad,milan,2026-04-25,5105094977254,seasonal item
+CON-00453,CP0453,ALT0453,Household,Detergent,Laundry Detergent Maxi 2.25l,Sapori e Dintorni,2.25,l,2, 4.82 ,,Euro,OUT OF STOCK,Conad,milan,2026-01-07,9662890696831,seasonal item
+CON-00454,CP0454,ALT0454,Household,Paper,Conad Toilet Paper Maxi confezione,Conad,6.0,pcs,8,"6,42",,eur,available,Conad,milan,02/04/2026,2062552801822,seasonal item
+CON-00455,CP0455,ALT0455,Household,Paper,Petfriends Kitchen Towels Maxi,Petfriends,3.0,pcs,4,"5,57",,Euro,OUT OF STOCK,Conad,Milano,20/03/2026,3033499660875,limited edition
+CON-00456,CP0456,ALT0456,Household,Cleaning,Multi Surface Cleaner Maxi 562.5ml,Petfriends,562.5,ml,1, 4.13 ,,eur,,Conad,Milan,2026-01-01 02:18:00,6024487411167,seasonal item
+CON-00457,CP0457,ALT0457,Household,Cleaning,Bleach Maxi,Piacersi,2,l,1, 3.94 ,,EUR,in stock,Conad,Milan,19/02/2026,2122611238476,check allergen label
+CON-00458,CP0458,ALT0458,Personal Care,Shampoo, Conad Kids Shampoo Maxi ,Conad Kids,375.0,ml,2,"€4,32",,Euro,limited,Conad,MILANO,2026/02/28 17:02,4928506360683,seasonal item
+CON-00459,CP0459,ALT0459,Personal Care,Shampoo,Conditioner Maxi,Conad,187.5,ml,8,EUR 3.15,,€,low stock,Conad,Milan,2026-01-12 17:41:00,1389419942887,imported
+CON-00460,CP0460,ALT0460,Personal Care,Soap,Mutti Hand Soap Maxi confezione,Mutti,300,ml,1, 5.26 ,,€,in stock,Conad,MILANO,2026/04/11 14:31,8920612532407,
+CON-00461,CP0461,ALT0461,Personal Care,Soap,Lavazza Body Wash Maxi,Lavazza,750.0,ml,6,6.04,,Euro,in stock,Conad,MILANO,20-01-2026,,limited edition
+CON-00462,CP0462,ALT0462,Personal Care,Toothpaste, Toothpaste Maxi 112.5ml ,Conad Kids,112.5,ml,8,,,EUR,,Conad,Milan,22-01-2026,8333957825030,limited edition
+CON-00463,CP0463,ALT0463,Dairy,Mozzarella,Mulino Bianco Mozzarella Light confezione,Mulino Bianco,125,,3,,,Euro,in stock,Conad,MILANO,2026-01-06 05:20:00,,
+CON-00464,CP0464,ALT0464,Dairy,Mozzarella,CONAD MOZZARELLA DI BUFALA LIGHT,Conad,156.25,g,2,EUR 1.80,,€,OUT OF STOCK,Conad,Milano,2026/02/26 12:31,8214748412380,
+CON-00465,CP0465,ALT0465,Dairy,Mozzarella,Petfriends Fior di latte mozzarella Light confezione,Petfriends,200,g,1,"3,10",,Euro,OUT OF STOCK,Conad,milan,17-04-2026,9221152082748,
+CON-00466,CP0466,ALT0466,Dairy ,Yogurt,Greek Yogurt Light,Sapori e Dintorni,127.5,g,3,EUR 2.70, 2.09 ,EUR,,Conad,Milano,2026-04-18,9388864663662,private label
+CON-00467,CP0467,ALT0467,Dairy,Yogurt,Strawberry Yogurt Light,Conad Kids,2,pcs,8,2.52,"€1,86",eur,in stock,Conad,milan,2026-04-05,3215808148320,new
+CON-00468,CP0468,ALT0468,Dairy,Yogurt,Lavazza Plain Yogurt Light confezione,Lavazza,500,g,1,1.61,1.14,Euro,OUT OF STOCK,Conad,Milan,19/01/2026,2685234300873,
+CON-00469,CP0469,ALT0469,Dairy,Milk,Conad Kids Whole Milk Light,CONAD KIDS,0.75,l,6,EUR 2.90,,EUR,OUT OF STOCK,Conad,milan,2026/02/07 03:40,,promo shelf
+CON-00470,CP0470,ALT0470,Dairy,Milk, Conad Semi-skimmed Milk Light confezione ,Conad,1,l,6,EUR 2.86,,EUR,in stock,Conad,Milan,2026/03/09 01:48,1309646788742,limited edition
+CON-00471,CP0471,ALT0471,Dairy,Milk,Lactose Free Milk Light,Petfriends,1,l,6,EUR 1.95,EUR 1.61,Euro,low stock,Conad,milan,19/04/2026,5395332129199,imported
+CON-00472,CP0472,ALT0472,Dairy,Butter,Unsalted Butter Light 250g,Conad,250,g,4,EUR 1.53,,EUR,available,Conad,Milan,2026-01-05 16:35:00,5164920104912,
+CON-00473,CP0473,ALT0473,dairy,Butter,Salted Butter Light,De Cecco,187.5,g,4, 2.62 ,,eur,available,Conad,milan,2026-04-25 05:58:00,1713562754243,promo shelf
+CON-00474,CP0474,ALT0474,Dairy,Cheese,Parmigiano Reggiano Light 200g, Lavazza ,200,g,3,1.78,,€,,conad,Milan,25-03-2026,9185438115074,new
+CON-00475,CP0475,ALT0475,Dairy,Cheese,Conad Gorgonzola Light,Conad,225.0,g,4,"2,72",,eur,low stock,Conad,Milan,01-02-2026,6131378432600,seasonal item
+CON-00476,CP0476,ALT0476,Dairy,Cheese,Ricotta Light 312.5g,Conad Kids,312.5,g,1,1.43,,€,,Conad,Milano,2026-04-08 07:10:00,3373636525946,imported
+CON-00477,CP0477,ALT0477,Bakery, Bread,Piacersi Whole Wheat Bread Light,Piacersi,750.0,g,1,"3,13",,€,limited,Conad,MILANO,2026-02-06 03:45:00,7525037776585,limited edition
+CON-00478,CP0478,ALT0478,Bakery,Bread,Ciabatta Light 300g,Mulino Bianco,300,g,3, 2.28 ,"1,90",€,limited,Conad,MILANO,22-04-2026,2339218537030,limited edition
+CON-00479,CP0479,ALT0479,Bakery, Bread ,Sapori e Dintorni Sandwich Bread Light confezione,Sapori e Dintorni,550,g,, 2.91 ,,eur,low stock,Conad,Milan,2026/03/11 17:49,,promo shelf
+CON-00480,CP0480,ALT0480,Bakery,Croissants,Conad Kids Butter Croissant Light confezione,Conad Kids,6,pcs,6,"€2,83",,€,limited, Conad,Milan,05-01-2026,1502732224309,
+CON-00481,CP0481,ALT0481,Bakery,Croissants,Verso Natura Chocolate Croissant Light ,Verso Natura,6,pcs,4,"€3,60",,EUR,low stock,Conad,milan,26/01/2026,6883762650764,promo shelf
+CON-00482,CP0482,ALT0482,Bakery,Cookies,Conad Kids Chocolate Chip Cookies Light confezione,Conad Kids,375.0,g,1,1.74,,€,,Conad,milan,2026-01-10 20:44:00,6897683040495,seasonal item
+CON-00483,CP0483,ALT0483,Bakery,Cookies,Digestive Biscuits Light 300g,Verso Natura,300.0,g,2,2.64, 1.94 ,eur,in stock,Conad,milan,2026/02/17 17:54,3990008119776,
+CON-00484,CP0484,ALT0484,Produce,Tomatoes,Rio Mare Cherry Tomatoes Light, Rio Mare,500,g,1,"€3,25",2.62,EUR,limited,Conad,milan,20/01/2026,4537326377343,limited edition
+CON-00485,CP0485,ALT0485,Produce,Tomatoes,Round Tomatoes Light,Barilla,1,kg,2,EUR 3.77,,EUR,available,Conad,milan,2026-02-09 14:38:00,9611449950060,imported
+CON-00486,CP0486,ALT0486,Produce,SALAD,Iceberg Lettuce Light 1.25pcs,Sapori e Dintorni,1.25,,6,2.88,,€,limited,Conad,MILANO,2026-02-05 09:15:00,2498434881652,limited edition
+CON-00487,CP0487,ALT0487,produce,Salad,Conad Rocket Salad Light confezione,Conad,125,g,1,"€3,42",,eur,,Conad,milan,2026-01-09,2794684953300,new
+CON-00488,CP0488,ALT0488,Produce,Apples,Golden Apples Light 1kg,Mutti,1,kg,1,,"€1,55",Euro,limited,Conad,Milano,12-04-2026,5799640063355,seasonal item
+CON-00489,CP0489,ALT0489,Produce,Apples,Verso Natura Pink Lady Apples Light,Verso Natura,1,kg,3,3.41,,Euro,OUT OF STOCK,Conad,Milan,2026/03/05 21:26,8619571414794,
+CON-00490,CP0490,ALT0490,Produce,Bananas,Bananas Light 0.75kg,Granarolo,0.75,kg,1,"3,90", 3.69 ,eur,,Conad,MILANO,19/01/2026,9520591784289,seasonal item
+CON-00491,CP0491,ALT0491,Produce,Potatoes,Potatoes Light,Petfriends,2.5,kg,4,2.94,,EUR,in stock,Conad,milan,2026-03-02,7032619890673,private label
+CON-00492,CP0492,ALT0492,MEAT,Chicken,Petfriends Chicken Breast Light confezione,Petfriends,300.0,g,1, 6.43 ,5.16,€,OUT OF STOCK,CONAD,milan,03-01-2026,,promo shelf
+CON-00493,CP0493,ALT0493,Meat,Chicken,Chicken Thighs Light,Conad Kids,625.0,g,2,7.83,,EUR,limited,Conad,Milan,12/02/2026,1175574217308,private label
+CON-00494,CP0494,ALT0494,Meat,Beef,Ferrero Minced Beef Light confezione,Ferrero,400,g,2,EUR 7.57,,Euro,OUT OF STOCK,Conad,milan,07-04-2026,3063153921019,
+CON-00495,CP0495,ALT0495,Meat,Beef,Sapori e Dintorni Beef Steak Light confezione,Sapori e Dintorni,300,g,3,"5,34",,Euro,,Conad,Milano,2026/03/15 02:51,7223851328994,promo shelf
+CON-00496,CP0496,ALT0496,Meat,Cured Meats,Prosciutto Cotto Light 150g,Petfriends,150.0,g,1,5.70,,eur,limited,Conad,Milan,09-04-2026,7769902107454,promo shelf
+CON-00497,CP0497,ALT0497,Meat,Cured Meats,Salame Milano Light 100g,Verso Natura,100,g,1,5.32,,eur,,Conad,Milano,11/03/2026,1056628307338,imported
+CON-00498,CP0498,ALT0498,Pantry,Pasta,Spaghetti Light,Piacersi,500,g,1,"3,62","€2,60",eur,,Conad,Milano,21/01/2026,1044238593148,private label
+CON-00499,CP0499,ALT0499,Pantry,Pasta,Penne Rigate Light,Aia,500,g,3,"€3,65",2.74,Euro,low stock, Conad,Milano,2026/03/25 17:26,1586984481204,limited edition
+CON-00500,CP0500,ALT0500,Pantry,Pasta,Fusilli Light 500g,Conad,500,g,4,"4,30",,Euro,in stock,Conad,Milano,13/04/2026,0372321031139,private label
+CON-00501,CP0501,ALT0501,Pantry, Rice,Carnaroli Rice Light,Verso Natura,0.75,kg,1,4.03,,Euro,low stock,Conad,MILANO,05/04/2026,,private label
+CON-00502,CP0502,ALT0502,Pantry,Rice,Basmati Rice Light 1kg,Sapori e Dintorni,1,kg,4,"3,65",,€,OUT OF STOCK,Conad,MILANO,04-04-2026,6941139393813,private label
+CON-00503,CP0503,ALT0503,Pantry,sauce, Tomato Passata Light 875ml ,Sapori e Dintorni,875.0,ml,2,"2,60",,eur,low stock,Conad,Milano,30/01/2026,2079078347364,seasonal item
+CON-00504,CP0504,ALT0504,Pantry,sauce,Verso Natura Pesto Genovese Light confezione,VERSO NATURA,190,g,1,EUR 4.46,,€,,Conad,Milano,05-04-2026,4868454983849,seasonal item
+CON-00505,CP0505,ALT0505,Pantry,Oil,Conad Extra Virgin Olive Oil Light,Conad,1,l,4,EUR 3.48,,EUR,OUT OF STOCK,Conad,Milan,09/03/2026,1454912343357,imported
+CON-00506,CP0506,ALT0506,Pantry,Oil,CONAD KIDS SUNFLOWER OIL LIGHT CONFEZIONE,Conad Kids,0.75,l,4, 2.31 ,,eur,limited,Conad,Milano,2026-02-02,7612843732157,
+CON-00507,CP0507,ALT0507,Pantry,Flour,All Purpose Flour Light 1kg,Piacersi,1,kg,2,3.44,,eur,in stock,Conad,Milano,02-04-2026,2029617927371,new
+CON-00508,CP0508,ALT0508,Pantry,Flour,00 Flour Light 1kg,Sapori e Dintorni,1,kg,1,4.33,,€,available,Conad,Milan,2026-03-06,3777183164074,limited edition
+CON-00509,CP0509,ALT0509,Pantry,Sugar,White Sugar Light 1.5kg,Mutti,1.5,kg,1,EUR 4.57,4.08,€,in stock,Conad,Milano,2026-02-06,3625328325702,seasonal item
+CON-00510,CP0510,ALT0510,Pantry,Sugar,Brown Sugar Light 1.25kg,Mutti,1.25,kg,1,EUR 3.39,,€,available,Conad,Milan,2026-03-01,,check allergen label
+CON-00511,CP0511,ALT0511,Pantry,Coffee,Granarolo Ground Coffee Light,Granarolo,375.0,g,1, 2.30 ,EUR 2.07,EUR,,Conad,Milano,2026-01-14 19:26:00,9196481200033,limited edition
+CON-00512,CP0512,ALT0512,Pantry,Coffee,Coffee Beans Light 500g,Sapori e Dintorni,500,g,4,"€4,27",,EUR,OUT OF STOCK,Conad,MILANO,2026-02-02 13:42:00,9759938516286,seasonal item
+CON-00513,CP0513,ALT0513,Pantry,Cereal,GALBANI CORN FLAKES LIGHT,Galbani,281.25,g,4,"3,86","€2,80",EUR,OUT OF STOCK,Conad,milan,2026/01/31 02:31,9973841319752,private label
+CON-00514,CP0514,ALT0514,Pantry,Cereal,Conad Muesli Light confezione,Conad,562.5,g,1,"€3,24",,€,limited,Conad,Milano,06-01-2026,6558950724663,promo shelf
+CON-00515,CP0515,ALT0515,Frozen,Pizza,Barilla Margherita Pizza Light confezione,Barilla,350,g,3,"€4,72",,€,OUT OF STOCK,Conad,Milan,02-02-2026,6254340006824,new
+CON-00516,CP0516,ALT0516,Frozen,PIZZA,Petfriends Vegetable Pizza Light,Petfriends,380,g,1,"2,56",,€,OUT OF STOCK,Conad,Milano,2026-01-20 23:29:00,9912153421519,
+CON-00517,CP0517,ALT0517,Frozen,Vegetables,Frozen Peas Light 675g,Piacersi,675.0,g,1,3.28,"2,99",Euro,in stock,Conad,Milano,30-04-2026,0679328913683,imported
+CON-00518,CP0518,ALT0518,Frozen,Vegetables,Conad Frozen Spinach Light confezione,Conad,450,g,,"€2,25",,eur,in stock,Conad,milan,2026/03/18 09:24,8996045672292,check allergen label
+CON-00519,CP0519,ALT0519,Frozen, Fish ,Verso Natura Frozen Salmon Fillets Light confezione,verso natura,300.0,g,1,4.32,,eur,,Conad,MILANO,2026/01/27 20:40,,limited edition
+CON-00520,CP0520,ALT0520,Frozen,Fish,Conad Fish Fingers Light,Conad,225.0,g,8,4.62,"3,81",eur,,Conad,Milano,03/01/2026,5284545696512,private label
+CON-00521,CP0521,ALT0521,Beverages,Water,Still Water Light 2.25l,Mutti,2.25,l,4,1.31,,EUR,limited,Conad,Milano,2026-03-04,,promo shelf
+CON-00522,CP0522,ALT0522,Beverages,Water,Conad Sparkling Water Light,Conad,1.88,l,,1.10,,eur,in stock,Conad,milan,2026/04/17 07:44,,
+CON-00523,CP0523,ALT0523,Beverages,Juice,Orange Juice Light 1l,Parmalat,1,l,1,1.08,,€,in stock,Conad,Milan,2026/03/19 01:02,5386571365676,
+CON-00524,CP0524,ALT0524,Beverages,Juice,Piacersi Apple Juice Light confezione,Piacersi,1,l,,EUR 2.38,,€,available,Conad,milan,19-01-2026,,promo shelf
+CON-00525,CP0525,ALT0525,Beverages,Soft Drinks, Cola Light 1.88l ,Piacersi,1.88,l,1,EUR 2.48,,Euro,low stock, Conad ,Milano,2026-01-10 02:55:00,7078210210881,seasonal item
+CON-00526,CP0526,ALT0526,Beverages,Soft Drinks,Lemon Soda Light 2.25l,parmalat,2.25,l,8,EUR 2.12,,€,OUT OF STOCK,Conad,Milano,2026-04-18 11:36:00,1873213826715,limited edition
+CON-00527,CP0527,ALT0527,Beverages,Tea,Green Tea Light,Parmalat,30.0,pcs,6, 2.31 ,1.99,€,limited,Conad,Milan,21/02/2026,2830537129341,seasonal item
+CON-00528,CP0528,ALT0528,Beverages,Tea,Black Tea Light,Parmalat,18.75,,1,EUR 2.27,,€,in stock,Conad,Milano,2026/03/09 22:15,8647695729527,seasonal item
+CON-00529,CP0529,ALT0529,Household,Detergent,Conad Kids Dish Soap Light ,Conad Kids,937.5,ml,,"4,90",,€,in stock,Conad,milan,2026-01-16 04:11:00,5717177074817,seasonal item
+CON-00530,CP0530,ALT0530,Household,Detergent,Sapori e Dintorni Laundry Detergent Light,Sapori e Dintorni,2.25,l,1,"€2,81",,Euro,OUT OF STOCK,Conad,Milan,2026-04-05,9789692849973,
+CON-00531,CP0531,ALT0531,Household,Paper,Mulino Bianco Toilet Paper Light,Mulino Bianco,8,pcs,2,5.19,EUR 4.65,Euro,available,Conad,Milan,2026-03-27,9920220255878,check allergen label
+CON-00532,CP0532,ALT0532,Household,Paper, Kitchen Towels Light ,Petfriends,4,pcs,3,"5,72",,EUR,available,Conad,MILANO,2026/04/12 08:40,8592476842880,limited edition
+CON-00533,CP0533,ALT0533,Household,Cleaning,Parmalat Multi Surface Cleaner Light confezione,Parmalat,562.5,ml,1,"3,04",,eur,available,Conad,milan,07/04/2026,7040380104369,limited edition
+CON-00534,CP0534,ALT0534,Household,Cleaning,Conad Bleach Light,Conad,2.5,l,1,EUR 5.66,,eur,available,Conad,Milan,2026-03-19,6600642927322,promo shelf
+CON-00535,CP0535,ALT0535,Personal Care,Shampoo,Petfriends Shampoo Light confezione,Petfriends ,187.5,ml,6,"5,32", 4.62 ,Euro,available,Conad,MILANO,2026-04-08 02:09:00,9447044838073,private label
+CON-00536,CP0536,ALT0536,Personal Care,Shampoo,Conditioner Light 375ml,Sapori e Dintorni,375.0,ml,4,"4,52",,eur,in stock,Conad,MILANO,2026/04/29 22:08,4332842221629,limited edition
+CON-00537,CP0537,ALT0537,Personal Care,Soap,HAND SOAP LIGHT,Conad,450.0,ml,1,"3,29",,EUR,OUT OF STOCK,Conad,Milan,2026-01-10,2799462673336,new
+CON-00538,CP0538,ALT0538,Personal Care, Soap,Body Wash Light 500ml,Conad Kids,500,ml,1,"€4,54",,€,limited,Conad,milan,19/01/2026,,
+CON-00539,CP0539,ALT0539,Personal Care,Toothpaste,Toothpaste Light,Sapori e Dintorni,75,ml,6,"€2,53",,EUR,,Conad,Milan,2026/01/27 13:07,9479674145711,seasonal item
+CON-00540,CP0540,ALT0540,Dairy,Mozzarella, Petfriends Mozzarella Fresh confezione ,Petfriends,156.25,g,,"2,28",,Euro,OUT OF STOCK,Conad,Milano,27-02-2026,0028057312850,seasonal item
+CON-00541,CP0541,ALT0541,Dairy,Mozzarella,Mozzarella di Bufala Fresh 93.75g,Conad Kids,93.75,g,1,3.23,,EUR,limited,Conad,milan,2026-03-10,3851837891655,
+CON-00542,CP0542,ALT0542,Dairy,Mozzarella,Fior di latte mozzarella Fresh,Piacersi,200,g,8,"€1,77", 1.62 ,€,limited,Conad,MILANO,16/01/2026,2037248841469,limited edition
+CON-00543,CP0543,ALT0543,Dairy,Yogurt,Greek Yogurt Fresh 255g,Piacersi,255.0,g,1,"1,76",1.51,€,limited,Conad,milan,2026/02/25 20:33,8949272399672,promo shelf
+CON-00544,CP0544,ALT0544,Dairy,Yogurt,de cecco strawberry yogurt fresh confezione, De Cecco,2,pcs,6,1.35,,EUR,,Conad,Milano,21-01-2026,2161175163307,limited edition
+CON-00545,CP0545,ALT0545,Dairy,Yogurt,Plain Yogurt Fresh 375g,Conad Kids,375.0,g,1,EUR 3.11,,€,,Conad,MILANO,2026-03-31,,
+CON-00546,CP0546,ALT0546,Dairy,Milk,Conad Kids Whole Milk Fresh confezione,Conad Kids,1,l,6, 1.32 ,,EUR,OUT OF STOCK,Conad,milan,2026/04/02 13:38,6401163082345,check allergen label
+CON-00547,CP0547,ALT0547,Dairy,Milk,Semi-skimmed Milk Fresh 1.5l,Conad,,l,1, 2.90 ,"€2,75",EUR,in stock,Conad,MILANO,01-05-2026,4438752611910,
+CON-00548,CP0548,ALT0548,Dairy,Milk,FERRERO LACTOSE FREE MILK FRESH,Ferrero,1,l,8,2.79,,EUR,low stock,Conad,Milan,19-03-2026,6418577839204,private label
+CON-00549,CP0549,ALT0549,Dairy,Butter,unsalted butter fresh 312.5g,Conad Kids,312.5,g,3,"2,64",2.43,Euro,,Conad,Milano,09-03-2026,5344756195317,seasonal item
+CON-00550,CP0550,ALT0550,Dairy,Butter,Lavazza Salted Butter Fresh,Lavazza,250,g,1,1.94, 1.64 ,EUR,low stock,Conad,Milan,02/01/2026,,new
+CON-00551,CP0551,ALT0551,Dairy,Cheese,Galbani Parmigiano Reggiano Fresh confezione,Galbani,250.0,g,3, 2.23 , 1.79 ,€,available,Conad,Milan,2026-02-27,3037915439115,promo shelf
+CON-00552,CP0552,ALT0552,Dairy,Cheese,Conad Kids Gorgonzola Fresh,Conad Kids,150,g,1,"1,84",EUR 1.32,Euro,in stock,Conad,Milan,2026/04/19 18:04,,new
+CON-00553,CP0553,ALT0553,Dairy,Cheese,Petfriends Ricotta Fresh confezione,Petfriends,375.0,g,3,,2.20,€,,Conad,Milano,2026/01/26 06:36,3520462330642,private label
+CON-00554,CP0554,ALT0554,Bakery,Bread,Whole Wheat Bread Fresh,Aia,500,g,8,"2,06",,€,OUT OF STOCK,Conad,milan,2026/01/08 01:31,4187956139000,private label
+CON-00555,CP0555,ALT0555,Bakery, Bread ,Petfriends Ciabatta Fresh confezione,Petfriends,300,g,2,"2,50","1,82",eur,,Conad,milan,2026-03-09,5436711176021,private label
+CON-00556,CP0556,ALT0556,Bakery,Bread,Piacersi Sandwich Bread Fresh,Piacersi,687.5,g,8,"€3,49",,Euro,low stock,Conad,MILANO,2026-03-23,2524178450439,limited edition
+CON-00557,CP0557,ALT0557,Bakery,Croissants,Butter Croissant Fresh,Verso Natura,7.5,pcs,8,"€3,46", 3.28 ,Euro,available,Conad,Milano,19-02-2026,,new
+CON-00558,CP0558,ALT0558,Bakery,Croissants,Verso Natura Chocolate Croissant Fresh confezione, Verso Natura,6,pcs,1,"1,43",,€,available,Conad,MILANO,12-01-2026,5817313236082,private label
+CON-00559,CP0559,ALT0559,Bakery,Cookies,Piacersi Chocolate Chip Cookies Fresh,Piacersi,450.0,g,1,"€1,69","1,39",EUR,in stock,Conad,Milan,21-01-2026,0203563790529,check allergen label
+CON-00560,CP0560,ALT0560,Bakery,Cookies,Petfriends Digestive Biscuits Fresh confezione,Petfriends,600.0,g,2,3.06,EUR 2.48,EUR,available,Conad,milan,11-03-2026,8396463547909,
+CON-00561,CP0561,ALT0561,Produce,Tomatoes,Barilla Cherry Tomatoes Fresh,Barilla,500,,2,EUR 1.55,,Euro,in stock, Conad ,MILANO,2026/02/15 11:36,5256733911976,check allergen label
+CON-00562,CP0562,ALT0562,Produce,Tomatoes,Round Tomatoes Fresh,Conad Kids,1.25,kg,8,"€3,14",,eur,available,Conad,MILANO,12-01-2026,7957425590248,check allergen label
+CON-00563,CP0563,ALT0563,Produce,Salad,Iceberg Lettuce Fresh 1.5pcs,Petfriends,1.5,pcs,1,2.07, 1.84 ,EUR,limited,Conad,milan,2026-02-24,9161366410360,promo shelf
+CON-00564,CP0564,ALT0564,Produce,Salad,Sapori e Dintorni Rocket Salad Fresh,Sapori e Dintorni ,93.75,g,3, 2.16 ,,€,in stock,Conad,milan,2026-02-26,7075792703084,
+CON-00565,CP0565,ALT0565,Produce,Apples,Conad Golden Apples Fresh confezione,Conad,1,kg,4,3.81,,eur,OUT OF STOCK,Conad,Milan,2026/01/29 05:46,5235654759784,
+CON-00566,CP0566,ALT0566,Produce,Apples,Pink Lady Apples Fresh,Conad Kids,1,kg,1,"2,45",,€,available,Conad,MILANO,2026-04-03,6542473041749,check allergen label
+CON-00567,CP0567,ALT0567,Produce,Bananas,Bananas Fresh 1kg,Piacersi,1,kg,1,EUR 2.53,,€,OUT OF STOCK,Conad,Milan,2026-01-29,6410148444993,imported
+CON-00568,CP0568,ALT0568,Produce,Potatoes,POTATOES FRESH 2.5KG,Mutti,2.5,kg,3,EUR 1.78,,Euro,in stock,Conad,milan,2026-01-15 22:56:00,2325973668755,check allergen label
+CON-00569,CP0569,ALT0569,Meat,Chicken,Piacersi Chicken Breast Fresh confezione,Piacersi,600.0,g,1,3.55,,Euro,limited,Conad,milan,2026/02/09 16:43,7463818130255,imported
+CON-00570,CP0570,ALT0570,Meat,Chicken,Chicken Thighs Fresh,Rio Mare,750.0,g,1,"5,11","€4,43",Euro,limited,Conad,milan,2026/04/29 22:16,3527929965032,limited edition
+CON-00571,CP0571,ALT0571,Meat,Beef,Minced Beef Fresh,Aia,400,g,6,"€8,29",,€,limited,Conad,Milan,20/03/2026,0808293870241,new
+CON-00572,CP0572,ALT0572,meat,Beef,Beef Steak Fresh 375g,piacersi,375.0,g,6,"€4,41",,eur,low stock,Conad,MILANO,2026-02-12,6822904699539,new
+CON-00573,CP0573,ALT0573,Meat,Cured Meats,Piacersi Prosciutto Cotto Fresh,Piacersi,150.0,g,3,"3,44",,EUR,,Conad,Milan,2026-04-30 02:21:00,4404131560913,private label
+CON-00574,CP0574,ALT0574,Meat,Cured Meats,Salame Milano Fresh 125g,Conad Kids,125.0,g,1,,,eur,in stock,Conad,Milano,2026-02-26 08:22:00,9680324526988,
+CON-00575,CP0575,ALT0575,Pantry,Pasta,Petfriends Spaghetti Fresh,Petfriends,500,g,3,"4,46",,€,available,Conad,Milano,27/03/2026,1588619045236,seasonal item
+CON-00576,CP0576,ALT0576,Pantry,Pasta,Verso Natura Penne Rigate Fresh confezione,Verso Natura,750.0,g,3,"3,30",,EUR,low stock,Conad,milan,2026-03-28,4922616111376,imported
+CON-00577,CP0577,ALT0577,Pantry, Pasta ,Fusilli Fresh 625g,Sapori e Dintorni,625.0,g,1,"4,18","€3,89",EUR,,Conad,milan,2026/02/21 13:40,1971773955176,private label
+CON-00578,CP0578,ALT0578,Pantry,Rice,Carnaroli Rice Fresh 1kg,Petfriends,1,kg,1,EUR 3.82,,eur,low stock,Conad,MILANO,2026-02-20 02:59:00,4908699336855,check allergen label
+CON-00579,CP0579,ALT0579, Pantry,Rice,Basmati Rice Fresh,Conad,0.75,kg,2,"€1,95",,eur,OUT OF STOCK,conad,milan,2026-03-17,3302739496855,limited edition
+CON-00580,CP0580,ALT0580,Pantry,Sauce,Piacersi Tomato Passata Fresh,Piacersi,700,ml,2,"4,65",,€,limited,Conad,Milan,2026/01/05 04:14,9598734526221,
+CON-00581,CP0581,ALT0581,Pantry,Sauce,Barilla Pesto Genovese Fresh,Barilla,285.0,g,4,2.06,,Euro,low stock,Conad,milan,06-03-2026,6968900433749,limited edition
+CON-00582,CP0582,ALT0582,Pantry ,Oil,Extra Virgin Olive Oil Fresh 1.5l,Piacersi,1.5,l,1, 2.10 ,1.84,EUR,limited,Conad,MILANO,2026/03/15 00:35,6140466045514,new
+CON-00583,CP0583,ALT0583,Pantry,Oil,Sunflower Oil Fresh,Conad,1,l,1,EUR 4.35,,eur,available,Conad,milan,2026/02/07 01:17,2928613713436,new
+CON-00584,CP0584,ALT0584,Pantry,Flour,All Purpose Flour Fresh,Ferrero,0.75,kg,1, 2.94 ,,eur,,Conad,Milano,19/04/2026,6993117665450,check allergen label
+CON-00585,CP0585,ALT0585,Pantry,Flour,Conad Kids 00 Flour Fresh,Conad Kids,1,kg,2,"€3,07", 2.32 ,eur,,Conad,milan,05/01/2026,7011713594868,promo shelf
+CON-00586,CP0586,ALT0586,Pantry,Sugar,Verso Natura White Sugar Fresh,Verso Natura,1,kg,1,2.69,,eur,OUT OF STOCK,Conad,MILANO,2026/04/15 13:09,2626164978596,private label
+CON-00587,CP0587,ALT0587,Pantry, Sugar,Sapori e Dintorni Brown Sugar Fresh,Sapori e Dintorni,1,kg,1, 3.02 , 2.14 ,EUR,limited,Conad,Milan,23/03/2026,6300828295813,check allergen label
+CON-00588,CP0588,ALT0588,Pantry,Coffee,ground coffee fresh,Aia,250,g,1, 1.83 ,,eur,,Conad,MILANO,2026-01-02 22:02:00,,
+CON-00589,CP0589,ALT0589,Pantry,Coffee,Coffee Beans Fresh 500g,Conad,500,g,8,"€2,40",,EUR,limited,Conad,Milan,2026-02-13 06:05:00,8737823780161,promo shelf
+CON-00590,CP0590,ALT0590,Pantry,Cereal,Conad Corn Flakes Fresh confezione,conad,281.25,g,6,3.81,2.77,€,available,Conad,milan,2026-04-17 21:03:00,,imported
+CON-00591,CP0591,ALT0591,Pantry,Cereal,petfriends muesli fresh confezione,Petfriends,562.5,g,1,4.47,,eur,available,Conad,MILANO,2026-01-13,4949686567004,new
+CON-00592,CP0592,ALT0592,Frozen,Pizza,Margherita Pizza Fresh 350g,Sapori e Dintorni,350,g,2, 4.13 ,,€,low stock,Conad,MILANO,19/02/2026,3263196573323,
+CON-00593,CP0593,ALT0593,Frozen,Pizza,Vegetable Pizza Fresh,Conad,475.0,g,3,3.15,,EUR,low stock,Conad,MILANO,2026-02-23 07:51:00,3448837518576,promo shelf
+CON-00594,CP0594,ALT0594,Frozen,Vegetables,Petfriends Frozen Peas Fresh confezione,Petfriends,675.0,g,4,,,eur,OUT OF STOCK,Conad,milan,2026-01-08,5357803190682,promo shelf
+CON-00595,CP0595,ALT0595, Frozen ,Vegetables,Frozen Spinach Fresh,Rio Mare,337.5,g,3, 4.04 ,,€,limited,Conad,MILANO,2026/04/05 23:39,1037976294661,seasonal item
+CON-00596,CP0596,ALT0596,Frozen,Fish,Verso Natura Frozen Salmon Fillets Fresh,verso natura,500.0,g,1, 2.78 , 2.19 ,€,low stock,Conad,Milano,2026/03/13 16:14,3998182909058,promo shelf
+CON-00597,CP0597,ALT0597,Frozen,Fish,Verso Natura Fish Fingers Fresh confezione,Verso Natura,,g,2,EUR 5.71,5.24,€,limited,Conad,MILANO,2026-03-09 13:38:00,7375476038304,check allergen label
+CON-00598,CP0598,ALT0598,Beverages,Water,Still Water Fresh,Mutti,2.25,l,1,1.12,,eur,in stock,Conad,Milan,2026-02-13,9990451210141,seasonal item
+CON-00599,CP0599,ALT0599,Beverages,Water,Conad Kids Sparkling Water Fresh,conad kids,1.5,l,4,"€2,00",,EUR,limited,Conad,Milano,12/01/2026,9636104341667,
+CON-00600,CP0600,ALT0600,Beverages,Juice,Orange Juice Fresh 1.25l,Parmalat,1.25,l,1,EUR 1.33,,Euro,in stock,Conad,Milan,06-04-2026,3238509996428,new
+CON-00601,CP0601,ALT0601,Beverages,Juice,Apple Juice Fresh 1.25l ,Parmalat,1.25,l,1,EUR 2.18,,EUR,low stock,Conad,milan,05-01-2026,0310738520383,private label
+CON-00602,CP0602,ALT0602,Beverages,Soft Drinks,Cola Fresh 1.88l,Aia,1.88,l,1,"2,36",,eur,,Conad,MILANO,2026/01/29 07:32,7235156746648,
+CON-00603,CP0603,ALT0603,Beverages,Soft Drinks,Conad Lemon Soda Fresh,Conad,1.5,l,1,1.72,,EUR,in stock,Conad,Milano,2026/01/04 03:32,9795940512303,check allergen label
+CON-00604,CP0604,ALT0604,Beverages,Tea, Green Tea Fresh ,Petfriends,20,pcs,4,EUR 1.44,,€,in stock,conad,Milano,2026/02/21 00:15,7157091131998,
+CON-00605,CP0605,ALT0605,Beverages,Tea,Conad Kids Black Tea Fresh confezione,Conad Kids,18.75,pcs,2, 2.27 ,EUR 2.00,Euro,low stock,Conad,milan,2026/01/27 17:59,0414670109016,
+CON-00606,CP0606,ALT0606,Household,Detergent,Dish Soap Fresh 562.5ml,CONAD KIDS,562.5,ml,1, 4.15 ,,Euro,available,Conad,MILANO,2026-02-10,0220965393972,imported
+CON-00607,CP0607,ALT0607,Household,Detergent,Parmalat Laundry Detergent Fresh confezione,Parmalat,1.88,l,8,3.90,,€,available,Conad,Milano,2026/01/23 10:00,5435115879162,limited edition
+CON-00608,CP0608,ALT0608,Household,Paper,Sapori e Dintorni Toilet Paper Fresh, Sapori e Dintorni ,8,pcs,4,"6,78",,Euro,limited,Conad,MILANO,2026-01-11 21:21:00,1354162731148,promo shelf
+CON-00609,CP0609,ALT0609,Household,Paper,Kitchen Towels Fresh,Sapori e Dintorni,4,pcs,4,2.94,,€,low stock,Conad,Milan,11-01-2026,8510798043145,seasonal item
+CON-00610,CP0610,ALT0610,household,Cleaning,Multi Surface Cleaner Fresh,Conad Kids,1125.0,ml,1,"€6,31",,Euro,in stock,Conad,Milano,04-04-2026,7037963473774,imported
+CON-00611,CP0611,ALT0611,Household,Cleaning,Parmalat Bleach Fresh,Parmalat,2.5,l,,"€5,80",,€,OUT OF STOCK,Conad,milan,2026/04/04 09:17,,check allergen label
+CON-00612,CP0612,ALT0612,Personal Care,Shampoo,Piacersi Shampoo Fresh confezione,Piacersi,187.5,ml,3,,,EUR,low stock,Conad,MILANO,2026/03/10 04:18,8254151568191,
+CON-00613,CP0613,ALT0613,Personal Care,Shampoo,Conditioner Fresh 375ml,Granarolo,375.0,ml,3,5.44,,eur,available,Conad,Milan,2026-04-22,2371428774881,limited edition
+CON-00614,CP0614,ALT0614,Personal Care,Soap,Conad Hand Soap Fresh,Conad,300,ml,,EUR 4.23,,Euro,,Conad,milan,05/01/2026,8494568998884,private label
+CON-00615,CP0615,ALT0615,Personal Care,Soap,Body Wash Fresh,Conad Kids,375.0,ml,6,"€6,12","4,52",Euro,low stock,Conad,Milano,21/03/2026,1501132792825,
+CON-00616,CP0616,ALT0616,Personal Care,Toothpaste,Parmalat Toothpaste Fresh,Parmalat,93.75,ml,2,4.49,,€,,Conad,MILANO,2026-01-29,8397052380563,private label
+CON-00617,CP0617,ALT0617,Dairy,Mozzarella,Sapori e Dintorni Mozzarella Tradizionale confezione,Sapori e Dintorni,125,g,1, 2.90 ,,€,OUT OF STOCK,Conad,MILANO,2026/02/21 05:22,2561807972468,new
+CON-00618,CP0618,ALT0618,Dairy,Mozzarella,Verso Natura Mozzarella di Bufala Tradizionale,Verso Natura,156.25,g,6,"2,23",,EUR,in stock,Conad,Milano,11-04-2026,5610265720482,
+CON-00619,CP0619,ALT0619,Dairy,Mozzarella,Aia Fior di latte mozzarella Tradizionale,Aia,300.0,g,1,EUR 1.65,"1,35",EUR,in stock,Conad,MILANO,28-04-2026,0791734762395,limited edition
+CON-00620,CP0620,ALT0620,Dairy,Yogurt,Greek Yogurt Tradizionale,Petfriends,255.0,g,3,2.50,,Euro,available,Conad,MILANO,2026-04-20 14:53:00,6266168643005,
+CON-00621,CP0621,ALT0621,Dairy,Yogurt,Strawberry Yogurt Tradizionale 3pcs,Conad Kids,3.0,pcs,4,1.66,,Euro,available,Conad,milan,08-04-2026,8942779563546,new
+CON-00622,CP0622,ALT0622,Dairy,Yogurt,Plain Yogurt Tradizionale,Conad,500,g,1,1.64, 1.35 ,€,,Conad,Milano,2026-03-16 21:16:00,0365421747004,limited edition
+CON-00623,CP0623,ALT0623,Dairy,Milk,Petfriends Whole Milk Tradizionale confezione,Petfriends,1.25,l,2,"3,22",,EUR,limited,Conad,Milan,04-01-2026,6739787861500,seasonal item
+CON-00624,CP0624,ALT0624,Dairy,Milk,Semi-skimmed Milk Tradizionale 1.5l,Conad,1.5,l,4,1.43,,Euro,available,Conad,Milano,2026/02/13 09:02,6977709382020,private label
+CON-00625,CP0625,ALT0625,Dairy,Milk,Lactose Free Milk Tradizionale 1.5l,Conad,1.5,l,3,"€3,01",,eur,available,CONAD,milan,14-03-2026,2010466379916,private label
+CON-00626,CP0626,ALT0626,Dairy,Butter,Verso Natura Unsalted Butter Tradizionale,Verso Natura,312.5,g,1,"€3,10",,EUR,in stock,Conad,Milano,2026/03/26 08:35,2027523778011,check allergen label
+CON-00627,CP0627,ALT0627,Dairy,Butter,Conad Kids Salted Butter Tradizionale confezione,Conad Kids,375.0,g,1,2.25,,EUR,low stock,Conad ,MILANO,2026-04-16 06:58:00,9370465387364,
+CON-00628,CP0628,ALT0628,Dairy,Cheese,Conad Kids Parmigiano Reggiano Tradizionale,Conad Kids,250.0,g,4,"1,37",,EUR,, Conad ,MILANO,24/03/2026,2779901929761,private label
+CON-00629,CP0629,ALT0629,Dairy,Cheese,Gorgonzola Tradizionale,Verso Natura,150,g,2,EUR 1.73,,EUR,available,Conad,Milano,02-04-2026,7576921466045,promo shelf
+CON-00630,CP0630,ALT0630,Dairy,Cheese,Conad Kids Ricotta Tradizionale confezione,Conad Kids,312.5,g,6,EUR 2.70,,eur,,CONAD,MILANO,2026-04-27 16:29:00,4437662698967,promo shelf
+CON-00631,CP0631,ALT0631,Bakery,Bread,Sapori e Dintorni Whole Wheat Bread Tradizionale confezione,Sapori e Dintorni,625.0,g,4, 2.89 ,,EUR,OUT OF STOCK,Conad,milan,18-03-2026,0836843722881,promo shelf
+CON-00632,CP0632,ALT0632,Bakery,Bread,Ciabatta Tradizionale 300g,De Cecco,300,g,1,EUR 3.25,2.48,EUR,OUT OF STOCK,Conad,Milan,20-01-2026,9214810043328,limited edition
+CON-00633,CP0633,ALT0633,Bakery,Bread, Sandwich Bread Tradizionale 550g ,Verso Natura,550,g,6,"€3,58",,EUR,low stock,Conad,Milan,22/03/2026,8114251532442,promo shelf
+CON-00634,CP0634,ALT0634,Bakery,Croissants,Butter Croissant Tradizionale,Petfriends,6,pcs,1,EUR 3.05,,EUR,in stock,conad,Milano,2026-03-26,9304352135653,private label
+CON-00635,CP0635,ALT0635,Bakery,Croissants,Piacersi Chocolate Croissant Tradizionale confezione,Piacersi,9.0,pcs,2,3.27,,€,in stock,Conad,Milano,2026/03/04 06:50,2695135047408,imported
+CON-00636,CP0636,ALT0636,Bakery,Cookies,Ferrero Chocolate Chip Cookies Tradizionale,Ferrero,375.0,g,3,2.90,EUR 2.15,€,OUT OF STOCK,Conad,milan,2026/04/15 23:19,1684162063561,
+CON-00637,CP0637,ALT0637,Bakery,Cookies, Conad Kids Digestive Biscuits Tradizionale confezione ,Conad Kids,400,g,1,2.57,,Euro,OUT OF STOCK,Conad,milan,2026-04-26 18:55:00,6769861150408,imported
+CON-00638,CP0638,ALT0638,Produce,Tomatoes,Cherry Tomatoes Tradizionale 500g,Verso Natura,500,g,1,"3,66", 3.26 ,eur,in stock,Conad,Milan,2026-01-05 13:52:00,4153078300315,new
+CON-00639,CP0639,ALT0639,Produce,Tomatoes,Conad Round Tomatoes Tradizionale,Conad,1.25,kg,3,2.79,2.34,EUR,available,Conad,Milan,2026-01-23,8015749417691,new
+CON-00640,CP0640,ALT0640,Produce,Salad,Conad Iceberg Lettuce Tradizionale confezione,Conad,0.75,,6,"2,22",,eur,,Conad,Milano,2026-03-06,7524070182760,
+CON-00641,CP0641,ALT0641,Produce,Salad,Rocket Salad Tradizionale,Conad Kids,125,g,8, 2.98 ,EUR 2.35,EUR,OUT OF STOCK,Conad,Milan,16/02/2026,0857782689721,
+CON-00642,CP0642,ALT0642,Produce,Apples,Golden Apples Tradizionale,Conad Kids,1,kg,, 3.74 ,,Euro,,Conad,Milan,01-05-2026,5172303018037,
+CON-00643,CP0643,ALT0643,Produce,Apples,Conad Kids Pink Lady Apples Tradizionale confezione,Conad Kids,1,kg,3,"3,04",,EUR,in stock,Conad,Milano,2026-01-10,6037827560839,check allergen label
+CON-00644,CP0644,ALT0644,Produce,Bananas,Bananas Tradizionale 1kg,Mulino Bianco,1,kg,3, 3.61 , 2.69 ,EUR,,Conad,Milan,2026/01/21 23:07,7066625833930,imported
+CON-00645,CP0645,ALT0645,Produce,Potatoes,Potatoes Tradizionale,RIO MARE,2,kg,4,"€2,37",,€,in stock,Conad,Milano,2026-04-12,3383111091571,private label
+CON-00646,CP0646,ALT0646,Meat,Chicken,Barilla Chicken Breast Tradizionale,Barilla,600.0,g,3,4.01,"3,29",EUR,low stock,Conad,Milano,16-02-2026,0285055580918,seasonal item
+CON-00647,CP0647,ALT0647,Meat,Chicken,Chicken Thighs Tradizionale 375g,Sapori e Dintorni,375.0,g,8,,,€,OUT OF STOCK,conad,MILANO,2026/04/15 17:30,3120803348333,check allergen label
+CON-00648,CP0648,ALT0648,Meat, Beef, Minced Beef Tradizionale 400g,Petfriends,400,g,3,"€6,88",5.58,Euro,in stock,Conad,Milano,2026-01-22,0030487439183,promo shelf
+CON-00649,CP0649,ALT0649,Meat,Beef,Conad Beef Steak Tradizionale confezione,Conad,300,g,3,7.48,,€,,Conad,Milan,2026-02-15,2945628182762,promo shelf
+CON-00650,CP0650,ALT0650,Meat,Cured Meats,Prosciutto Cotto Tradizionale,Sapori e Dintorni,120,g,2,EUR 4.83,,€,available,Conad,Milan,2026-02-20,1280816003474,limited edition
+CON-00651,CP0651,ALT0651,Meat,Cured Meats,Salame Milano Tradizionale,Piacersi,125.0,g,1,,5.67,EUR,available,Conad,milan,2026-01-27 01:16:00,5903302423910,new
+CON-00652,CP0652,ALT0652,Pantry,Pasta,Spaghetti Tradizionale 500g,Conad Kids,500,g,1,EUR 3.75,,€,available,Conad,MILANO,2026-04-05 21:06:00,9126220452453,
+CON-00653,CP0653,ALT0653,Pantry,Pasta,Penne Rigate Tradizionale,Verso Natura,500,g,6,4.51,3.73,Euro,in stock,Conad,Milano,2026-01-12,8471070542303,private label
+CON-00654,CP0654,ALT0654,Pantry,Pasta,Petfriends Fusilli Tradizionale confezione,Petfriends,375.0,g,1, 2.58 ,,eur,available,Conad,MILANO,2026-03-26,5510865471539,imported
+CON-00655,CP0655,ALT0655,Pantry,Rice,Sapori e Dintorni Carnaroli Rice Tradizionale confezione,Sapori e Dintorni,1.25,kg,1,"4,27",,€,available,Conad,MILANO,23/04/2026,3662017918091,check allergen label
+CON-00656,CP0656,ALT0656,Pantry,Rice,Basmati Rice Tradizionale 1.25kg,Petfriends,1.25,kg,8,2.78, 2.22 ,eur,in stock,Conad,MILANO,12-04-2026,2681137673179,check allergen label
+CON-00657,CP0657,ALT0657,Pantry,Sauce,Tomato Passata Tradizionale,Barilla,700,ml,4,3.90,,EUR,OUT OF STOCK,Conad,milan,17-03-2026,2232687862206,
+CON-00658,CP0658,ALT0658, Pantry,Sauce,Pesto Genovese Tradizionale 285g,Verso Natura,285.0,g,,2.07,,Euro,low stock,Conad,milan,2026-02-19 16:26:00,3341875043571,seasonal item
+CON-00659,CP0659,ALT0659,Pantry,Oil,Piacersi Extra Virgin Olive Oil Tradizionale confezione,Piacersi,1.25,l,8,"4,33",,€,OUT OF STOCK,Conad,Milano,19-04-2026,1224864093942,new
+CON-00660,CP0660,ALT0660,Pantry,Oil,Sunflower Oil Tradizionale,Aia,1.25,l,2,,,€,in stock,conad,MILANO,07-01-2026,7249806393796,limited edition
+CON-00661,CP0661,ALT0661,Pantry,Flour,Verso Natura All Purpose Flour Tradizionale confezione,Verso Natura,0.75,,1,4.03,,Euro,in stock,Conad,milan,25/01/2026,1969594132730,seasonal item
+CON-00662,CP0662,ALT0662,Pantry,Flour,Sapori e Dintorni 00 Flour Tradizionale confezione,Sapori e Dintorni,1,kg,, 3.69 ,,EUR,low stock,Conad,MILANO,2026-05-01,2607344312115,limited edition
+CON-00663,CP0663,ALT0663,Pantry,Sugar ,Piacersi White Sugar Tradizionale confezione,Piacersi,1.25,kg,4,EUR 3.42,,Euro,available,Conad,milan,20/02/2026,4670454440848,
+CON-00664,CP0664,ALT0664,Pantry,Sugar,Piacersi Brown Sugar Tradizionale confezione,Piacersi,1.25,kg,2,"3,42",,€,available,Conad,MILANO,02-02-2026,8859738683454,private label
+CON-00665,CP0665,ALT0665,Pantry,Coffee,ground coffee tradizionale 375g,Piacersi,375.0,g,1, 2.25 ,,eur,OUT OF STOCK,Conad,Milan,2026/01/03 12:44,9494242258872,
+CON-00666,CP0666,ALT0666,Pantry,Coffee,Coffee Beans Tradizionale,Piacersi,375.0,g,6,EUR 4.44,,eur,limited,Conad,milan,21/02/2026,1608275681351,
+CON-00667,CP0667,ALT0667,Pantry,Cereal,Conad Corn Flakes Tradizionale confezione,Conad,,g,1,"€1,92",,Euro,OUT OF STOCK,Conad,Milan,2026-04-25,0701502835710,private label
+CON-00668,CP0668,ALT0668,Pantry,Cereal,Rio Mare Muesli Tradizionale confezione,Rio Mare,937.5,g,8, 2.27 ,,EUR,low stock,Conad,MILANO,28-03-2026,4920273239239,seasonal item
+CON-00669,CP0669,ALT0669,Frozen, Pizza ,Verso Natura Margherita Pizza Tradizionale confezione,Verso Natura,,g,2,4.80,4.25,Euro,low stock,Conad,Milano,2026/01/05 15:37,5302432429581,promo shelf
+CON-00670,CP0670,ALT0670,Frozen,Pizza,Conad Kids Vegetable Pizza Tradizionale confezione,Conad Kids,285.0,g,2,"3,53",3.18,€,in stock,Conad,milan,14/02/2026,7430770871559,
+CON-00671,CP0671,ALT0671,Frozen, Vegetables ,Frozen Peas Tradizionale 450g,Verso Natura,450,g,,"3,01",,€,low stock,Conad,Milano,2026-02-23 08:07:00,8502110909939,
+CON-00672,CP0672,ALT0672,Frozen,Vegetables,Granarolo Frozen Spinach Tradizionale confezione,Granarolo,450,g,6,,"1,99",EUR,low stock,Conad,Milan,2026/04/07 08:48,2776270767742,
+CON-00673,CP0673,ALT0673,Frozen,Fish,Frozen Salmon Fillets Tradizionale,Piacersi,500.0,g,1,3.99, 3.34 ,EUR,,Conad,Milano,02/04/2026,8899904733776,new
+CON-00674,CP0674,ALT0674, Frozen,Fish,Verso Natura Fish Fingers Tradizionale confezione,Verso Natura ,375.0,g,,5.39,,eur,OUT OF STOCK,Conad,Milano,2026/02/09 18:09,6146521218168,
+CON-00675,CP0675,ALT0675,Beverages,Water,Still Water Tradizionale 2.25l,Rio Mare,2.25,l,6,"2,10",,Euro,low stock,Conad,Milan,31-03-2026,9316537093087,
+CON-00676,CP0676,ALT0676,Beverages, Water ,Sparkling Water Tradizionale 2.25l,Verso Natura,2.25,l,6,"€1,45",,€,in stock,Conad,Milan,2026-01-26 17:42:00,5150442886020,
+CON-00677,CP0677,ALT0677,Beverages,Juice,Piacersi Orange Juice Tradizionale,Piacersi,1.5,l,,1.86,,eur,available,Conad,milan,2026-02-26,4566286800408,limited edition
+CON-00678,CP0678,ALT0678,Beverages,Juice,Petfriends Apple Juice Tradizionale confezione,Petfriends,1,l,1,"1,52",,eur,low stock,Conad,MILANO,17-01-2026,4919260229961,
+CON-00679,CP0679,ALT0679,Beverages,Soft Drinks,Aia Cola Tradizionale,Aia,1.88,l,1, 1.14 ,"€0,99",eur,limited,Conad,MILANO,12/02/2026,,promo shelf
+CON-00680,CP0680,ALT0680,Beverages,Soft Drinks,Sapori e Dintorni Lemon Soda Tradizionale confezione,Sapori e Dintorni,,l,1,"€1,78",,Euro,,Conad,MILANO,26/02/2026,,check allergen label
+CON-00681,CP0681,ALT0681,Beverages,Tea,Rio Mare Green Tea Tradizionale,Rio Mare,20,pcs,8,1.92,,€,available,Conad,Milano,2026/04/05 09:12,8259951972274,check allergen label
+CON-00682,CP0682,ALT0682,Beverages,Tea,Lavazza Black Tea Tradizionale,Lavazza,31.25,pcs,6,2.08,,Euro,in stock,Conad,Milano,2026-02-27 14:05:00,9702672156090,new
+CON-00683,CP0683,ALT0683,Household,Detergent,Conad Dish Soap Tradizionale,Conad,937.5,ml,8,3.93,,Euro,low stock,Conad,Milan,2026-03-11,5914893838324,promo shelf
+CON-00684,CP0684,ALT0684,Household,Detergent,Laundry Detergent Tradizionale 1.12l,Piacersi,1.12,l,1,EUR 6.49,,Euro,low stock,Conad,Milano,13/04/2026,5813944010704,seasonal item
+CON-00685,CP0685,ALT0685,Household,Paper,Galbani Toilet Paper Tradizionale,Galbani,10.0,pcs,1,EUR 2.83,,Euro,low stock,Conad,Milan,2026-01-15,3023348077758,promo shelf
+CON-00686,CP0686,ALT0686,Household,Paper,Conad Kitchen Towels Tradizionale,Conad,4,pcs,8,"€2,67",,€,OUT OF STOCK, Conad,Milan,2026-01-09,1517245838027,promo shelf
+CON-00687,CP0687,ALT0687,Household,Cleaning,multi surface cleaner tradizionale 937.5ml,Conad Kids,937.5,ml,3,6.11,4.87,€,available,Conad,Milan,2026/02/23 17:29,,new
+CON-00688,CP0688,ALT0688,Household,Cleaning,Verso Natura Bleach Tradizionale,Verso Natura,2,l,1,"5,57",,Euro,in stock,Conad,MILANO,2026-02-16,,check allergen label
+CON-00689,CP0689,ALT0689,Personal Care,Shampoo,Conad Shampoo Tradizionale confezione,Conad,312.5,ml,6,"€3,65",,Euro,in stock,Conad,Milan,01/04/2026,,imported
+CON-00690,CP0690,ALT0690,Personal Care,Shampoo,Conditioner Tradizionale 250ml,Ferrero,250,ml,6,"3,03",EUR 2.58,Euro,low stock,Conad,MILANO,2026-04-28,3822598436328,seasonal item
+CON-00691,CP0691,ALT0691,Personal Care,Soap,Hand Soap Tradizionale 450ml,Conad Kids,,ml,1,3.58,,eur,limited,Conad,milan,2026/03/01 08:48,7153995582129,
+CON-00692,CP0692,ALT0692,Personal Care,Soap,BODY WASH TRADIZIONALE 750ML,Mutti,750.0,ml,4,5.53,,eur,OUT OF STOCK,Conad,milan,19/03/2026,0651181103389,check allergen label
+CON-00693,CP0693,ALT0693,Personal Care,Toothpaste,Toothpaste Tradizionale 56.25ml,Conad Kids,56.25,ml,2,EUR 3.22,,eur,OUT OF STOCK,Conad,Milano,2026-02-09,1416475161827,new
+CON-00694,CP0694,ALT0694,Dairy,Mozzarella,Mozzarella Deluxe,Conad Kids,156.25,g,4,3.11,"2,41",EUR,OUT OF STOCK,Conad,Milano,2026-02-06,0020960310898,promo shelf
+CON-00695,CP0695,ALT0695,Dairy,Mozzarella,Conad Mozzarella di Bufala Deluxe confezione,Conad,187.5,g,1,2.59,,Euro,,Conad,Milan,26-03-2026,8447821370392,limited edition
+CON-00696,CP0696,ALT0696,Dairy,mozzarella,Fior di latte mozzarella Deluxe 300g ,De Cecco,300.0,g,1,1.47,,€,in stock,Conad,Milano,2026/02/06 14:00,8837653447363,limited edition
+CON-00697,CP0697,ALT0697,Dairy,Yogurt,Conad Kids Greek Yogurt Deluxe,Conad Kids,127.5,g,8,EUR 1.36,1.04,eur,,Conad,milan,2026/02/15 16:33,7946735612858,new
+CON-00698,CP0698,ALT0698,Dairy, Yogurt ,Strawberry Yogurt Deluxe 1.5pcs,Conad,1.5,pcs,1,2.87,"€2,64",Euro,OUT OF STOCK,Conad,Milan,15-01-2026,2651655320216,check allergen label
+CON-00699,CP0699,ALT0699,Dairy,Yogurt,Plain Yogurt Deluxe,Sapori e Dintorni,625.0,g,8, 2.05 ,,eur,limited,Conad,MILANO,26/04/2026,5588386192762,imported
+CON-00700,CP0700,ALT0700,Dairy,Milk,Whole Milk Deluxe ,Aia,,l,1,"€2,33",,eur,low stock,Conad,milan,27-01-2026,8598340233607,new
+CON-00701,CP0701,ALT0701,Dairy,Milk,Sapori e Dintorni Semi-skimmed Milk Deluxe confezione,Sapori e Dintorni,1.25,l,4, 2.21 ,,Euro,limited,conad,Milan,2026/01/26 00:10,9577859122413,promo shelf
+CON-00702,CP0702,ALT0702,Dairy,MILK,Lactose Free Milk Deluxe,Conad Kids,1,l,4,"2,00",,€,limited,CONAD,Milan,10-02-2026,5489528622035,
+CON-00703,CP0703,ALT0703,Dairy,Butter,Unsalted Butter Deluxe,Conad,187.5,g,8,1.86, 1.39 ,EUR,low stock,Conad,Milan,10/02/2026,9397510783806,
+CON-00704,CP0704,ALT0704,Dairy,BUTTER,Salted Butter Deluxe,Barilla,250,g,4,"€2,85",,EUR,OUT OF STOCK,Conad,MILANO,12-04-2026,1322040071848,seasonal item
+CON-00705,CP0705,ALT0705,Dairy,Cheese,Parmigiano Reggiano Deluxe,Conad,250.0,g,6, 2.19 ,"2,08",Euro,in stock,Conad,Milano,26/04/2026,5341332770566,check allergen label
+CON-00706,CP0706,ALT0706,Dairy,Cheese,Piacersi Gorgonzola Deluxe confezione,Piacersi,150,g,4,EUR 2.91,EUR 2.42,eur,,Conad,MILANO,2026-02-07,9530796932154,limited edition
+CON-00707,CP0707,ALT0707,Dairy,Cheese,Ricotta Deluxe,Lavazza,250,g,4,2.29,,Euro,in stock,Conad,Milano,08/02/2026,5330793769768,promo shelf
+CON-00708,CP0708,ALT0708,Bakery,BREAD,Verso Natura Whole Wheat Bread Deluxe,Verso Natura,625.0,,6,"3,19",,Euro,,Conad,MILANO,2026/04/07 10:07,,promo shelf
+CON-00709,CP0709,ALT0709,Bakery,Bread,Verso Natura Ciabatta Deluxe,Verso Natura,300,g,1,, 1.71 ,Euro,limited,Conad,Milan,2026-03-14,2494521645019,new
+CON-00710,CP0710,ALT0710,Bakery,Bread,aia sandwich bread deluxe,Aia,550,g,8,EUR 3.06,,Euro,,Conad,Milan,2026/03/12 06:24,1592952690300,
+CON-00711,CP0711,ALT0711,Bakery,Croissants,Butter Croissant Deluxe,Ferrero,7.5,pcs,1,,,€,available, Conad ,milan,22/01/2026,2339418846431,seasonal item
+CON-00712,CP0712,ALT0712,Bakery,Croissants,Piacersi Chocolate Croissant Deluxe confezione,Piacersi,6,pcs,1,"1,93","1,70",EUR,low stock,Conad,Milan,2026-03-27,5061747965338,limited edition
+CON-00713,CP0713,ALT0713,Bakery,Cookies,Chocolate Chip Cookies Deluxe 375g,Conad,375.0,g,1,EUR 1.55,"€1,43",eur,available,Conad,milan,26/02/2026,8093193422050,new
+CON-00714,CP0714,ALT0714,Bakery,Cookies, Verso Natura Digestive Biscuits Deluxe confezione ,VERSO NATURA,400,,,"€2,42",,eur,limited,Conad,Milano,23/03/2026,5509499357277,imported
+CON-00715,CP0715,ALT0715,PRODUCE,Tomatoes, Verso Natura Cherry Tomatoes Deluxe confezione, Verso Natura ,375.0,g,1, 3.95 ,,EUR,available,Conad,milan,2026-03-28,2743106397081,new
+CON-00716,CP0716,ALT0716,Produce,Tomatoes,Conad Round Tomatoes Deluxe confezione,Conad,1.25,kg,1,2.82,2.01,EUR,low stock,Conad,MILANO,2026-01-04 02:36:00,6786518519161,private label
+CON-00717,CP0717,ALT0717,Produce,Salad,Iceberg Lettuce Deluxe 0.75pcs,Piacersi,0.75,pcs,2, 3.34 ,"€3,12",Euro,OUT OF STOCK,Conad,Milano,21-01-2026,0161625021748,new
+CON-00718,CP0718,ALT0718,Produce,Salad,PIACERSI ROCKET SALAD DELUXE,Piacersi,187.5,g,8,1.65,,eur,,Conad,milan,13/03/2026,1100535110656,
+CON-00719,CP0719,ALT0719,Produce,Apples,Piacersi Golden Apples Deluxe confezione,Piacersi,0.75,,8,EUR 3.42,,eur,,Conad ,MILANO,2026-04-12,2052604838061,private label
+CON-00720,CP0720,ALT0720,Produce,Apples,Pink Lady Apples Deluxe 1kg,Verso Natura,1,kg,2,EUR 3.75,,Euro,limited,Conad,Milano,03-01-2026,5924442709689,
+CON-00721,CP0721,ALT0721,Produce,Bananas,Bananas Deluxe 1kg,Petfriends,1,kg,1,"€3,55",,eur,OUT OF STOCK,Conad,Milan,2026-04-21,3836365045261,seasonal item
+CON-00722,CP0722,ALT0722,Produce,Potatoes,Potatoes Deluxe 1.5kg,Sapori e Dintorni,1.5,kg,3, 3.80 ,EUR 3.08,EUR,,Conad,Milano,2026/01/28 04:22,,new
+CON-00723,CP0723,ALT0723,Meat,Chicken,Piacersi Chicken Breast Deluxe,Piacersi,300.0,g,8,7.56,"€5,56",eur,available,Conad,MILANO,24/04/2026,5611274061594,promo shelf
+CON-00724,CP0724,ALT0724,Meat,Chicken,Chicken Thighs Deluxe,Conad,375.0,g,4, 5.78 ,,EUR,in stock,Conad,MILANO,2026-01-23,3375504237969,new
+CON-00725,CP0725,ALT0725,Meat,Beef,Minced Beef Deluxe,Verso Natura,,g,1,"8,18",,eur,OUT OF STOCK,Conad,Milano,16-04-2026,7365038898483,
+CON-00726,CP0726,ALT0726,Meat,Beef,Petfriends Beef Steak Deluxe confezione,Petfriends,300,g,3,"€4,36",,Euro,in stock,Conad,MILANO,23/03/2026,2405331546953,
+CON-00727,CP0727,ALT0727,Meat,Cured Meats,Prosciutto Cotto Deluxe,Piacersi,90.0,g,4,"€3,88","€3,13",€,limited,Conad,milan,2026-01-18,3275825143416,seasonal item
+CON-00728,CP0728,ALT0728,Meat,Cured Meats,Galbani Salame Milano Deluxe ,Galbani,150.0,g,1,EUR 4.39,,Euro,low stock,Conad,Milan,2026/03/01 14:32,8487611297943,private label
+CON-00729,CP0729,ALT0729,Pantry,Pasta,Spaghetti Deluxe,Parmalat,500,g,6,2.69,EUR 2.29,Euro,in stock,Conad,Milan,28-01-2026,3171118551463,
+CON-00730,CP0730,ALT0730,pantry,Pasta,Penne Rigate Deluxe,Piacersi,500,g,1,EUR 2.43,,€,low stock,Conad,MILANO,20/04/2026,5621497574992,new
+CON-00731,CP0731,ALT0731, Pantry ,Pasta,Piacersi Fusilli Deluxe,Piacersi,500,g,3,"€3,23",,€,limited,Conad,milan,2026/04/05 21:14,8036584484358,seasonal item
+CON-00732,CP0732,ALT0732,Pantry,Rice,Verso Natura Carnaroli Rice Deluxe,Verso Natura,1.25,kg,4,"€4,64",3.73,eur,limited,Conad,Milano,2026-03-08,9649546382213,promo shelf
+CON-00733,CP0733,ALT0733,Pantry,Rice,conad basmati rice deluxe,Conad,0.75,kg,1,"€4,41","€3,42",eur,limited,Conad,MILANO,22-04-2026,5083214310753,imported
+CON-00734,CP0734,ALT0734,Pantry,Sauce,Tomato Passata Deluxe,Conad Kids,1050.0,ml,8,3.62,3.34,eur,in stock,Conad,Milano,12/04/2026,2889612421655,private label
+CON-00735,CP0735,ALT0735,Pantry,sauce,Pesto Genovese Deluxe 190g,Mutti,190,g,4,"1,94",,€,available,Conad,milan,08/02/2026,2100082074407,check allergen label
+CON-00736,CP0736,ALT0736,Pantry,Oil,Petfriends Extra Virgin Olive Oil Deluxe confezione,Petfriends,1.25,l,6,2.17,,Euro,limited,Conad,Milan,2026-03-20 19:14:00,3513300551641,private label
+CON-00737,CP0737,ALT0737,Pantry,Oil,Sunflower Oil Deluxe 1l,Piacersi,1,l,1, 2.42 ,,Euro,,Conad,Milano,01-05-2026,1549317489684,new
+CON-00738,CP0738,ALT0738,Pantry,Flour,All Purpose Flour Deluxe 1kg,Galbani,1,kg,4,2.57,2.30,€,,Conad,Milan,2026-01-30 10:17:00,7652403473758,seasonal item
+CON-00739,CP0739,ALT0739,PANTRY,Flour,00 Flour Deluxe 1kg,Lavazza,1,kg,4,"€2,26",1.79,EUR,OUT OF STOCK,Conad,milan,02-01-2026,9464119771344,
+CON-00740,CP0740,ALT0740,Pantry,Sugar,White Sugar Deluxe 1.5kg,Conad Kids,1.5,,2,"€4,58",,eur,limited,Conad,milan,2026-04-19 10:43:00,6420372254079,limited edition
+CON-00741,CP0741,ALT0741,Pantry,Sugar ,Aia Brown Sugar Deluxe,Aia,1.5,kg,8,,,eur,,Conad,Milan,2026-02-12,9913153979294,imported
+CON-00742,CP0742,ALT0742,Pantry,Coffee,Ground Coffee Deluxe 187.5g,Ferrero,187.5,g,3,"2,48",,Euro,in stock,Conad,Milan,2026/03/28 12:07,0730104876570,imported
+CON-00743,CP0743,ALT0743, Pantry,Coffee,Coffee Beans Deluxe,Mulino Bianco,,g,4,2.51, 1.96 ,EUR,in stock,Conad,Milan,03/04/2026,3691891595812,
+CON-00744,CP0744,ALT0744,pantry,Cereal,Corn Flakes Deluxe, Conad Kids,375,g,4,3.10,,€,limited,Conad,Milan,20-04-2026,9091628500007,imported
+CON-00745,CP0745,ALT0745,Pantry,Cereal,Muesli Deluxe,Mutti,562.5,g,4,"€4,14",3.04,Euro,low stock,Conad,milan,14-04-2026,5695096016217,
+CON-00746,CP0746,ALT0746,Frozen,PIZZA,Margherita Pizza Deluxe 525g,Piacersi,525.0,g,4,3.79,,Euro,limited,Conad,milan,08-02-2026,,
+CON-00747,CP0747,ALT0747,Frozen,Pizza,Vegetable Pizza Deluxe 285g,Conad,285.0,g,6,"4,76",,Euro,OUT OF STOCK,Conad,Milano,2026/01/15 02:34,7500344581915,seasonal item
+CON-00748,CP0748,ALT0748,Frozen,Vegetables,Sapori e Dintorni Frozen Peas Deluxe,Sapori e Dintorni,450,g,6,EUR 3.85,,EUR,limited,Conad,Milan,2026/04/02 02:19,,
+CON-00749,CP0749,ALT0749,Frozen,Vegetables,rio mare frozen spinach deluxe confezione,Rio Mare,675.0,g,4,"€2,27",,eur,low stock,Conad,Milano,27-02-2026,0195770244047,private label
+CON-00750,CP0750,ALT0750,FROZEN,Fish,Conad Kids Frozen Salmon Fillets Deluxe confezione,Conad Kids,,g,3,5.28,4.74,eur,OUT OF STOCK,Conad,MILANO,28/02/2026,9910503085009,
+CON-00751,CP0751,ALT0751,Frozen,Fish,Conad Fish Fingers Deluxe confezione,Conad,,g,1,"2,87",,eur,,Conad,MILANO,2026/03/10 15:54,0930666845770,imported
+CON-00752,CP0752,ALT0752,Beverages,Water,Conad Kids Still Water Deluxe,Conad Kids,1.5,l,6,"1,96",,Euro,available,Conad,Milano,2026/01/20 07:42,4320546703870,seasonal item
+CON-00753,CP0753,ALT0753,Beverages,Water,Sparkling Water Deluxe 1.12l,Conad Kids,,l,8,"2,37",,Euro,available,Conad ,Milan,2026-02-09,7425071293667,check allergen label
+CON-00754,CP0754,ALT0754,Beverages,Juice,Aia Orange Juice Deluxe,Aia,1.5,l,1,"1,55",,EUR,low stock,Conad,Milano,2026-04-27 08:46:00,8979227008741,
+CON-00755,CP0755,ALT0755,Beverages,Juice,Piacersi Apple Juice Deluxe,Piacersi,1,l,1,1.00,,Euro,OUT OF STOCK,Conad,MILANO,31-01-2026,1204897687547,private label
+CON-00756,CP0756,ALT0756,Beverages,Soft Drinks,Cola Deluxe 1.12l,Conad,1.12,l,3,"1,82",,EUR,low stock,Conad,milan,2026/04/07 06:19,0246013534529,
+CON-00757,CP0757,ALT0757,Beverages ,Soft Drinks,Lemon Soda Deluxe,Aia,1.5,l,,"1,06",EUR 0.93,EUR,,Conad,MILANO,2026-01-10 11:07:00,4656537108742,promo shelf
+CON-00758,CP0758,ALT0758,Beverages ,Tea,Green Tea Deluxe,Mulino Bianco,30.0,pcs,4,,,€,limited,Conad,Milano,2026-01-29,1103822586506,imported
+CON-00759,CP0759,ALT0759,Beverages,Tea,CONAD KIDS BLACK TEA DELUXE,Conad Kids,18.75,pcs,1, 1.89 ,,Euro,limited,Conad,MILANO,2026/04/30 18:44,7588576927185,
+CON-00760,CP0760,ALT0760,Household,Detergent,SAPORI E DINTORNI DISH SOAP DELUXE,sapori e dintorni,1125.0,ml,6,4.58,"€4,05",€,limited,Conad,MILANO,2026/02/04 23:18,1097429192364,limited edition
+CON-00761,CP0761,ALT0761,Household,Detergent,conad laundry detergent deluxe confezione,Conad,1.12,l,1,6.35,,EUR,available,Conad,Milan,2026-01-25 20:10:00,7729450893698,
+CON-00762,CP0762,ALT0762,Household,Paper,Toilet Paper Deluxe 8pcs,Conad Kids,8,pcs,8,EUR 6.02,,eur,OUT OF STOCK,Conad,milan,2026-02-21,4779628938043,new
+CON-00763,CP0763,ALT0763,Household,Paper,Kitchen Towels Deluxe 6pcs,Mulino Bianco,6.0,pcs,2,EUR 3.92,"3,43",EUR,limited,Conad,milan,01-04-2026,7286295141410,check allergen label
+CON-00764,CP0764,ALT0764,Household, Cleaning ,Sapori e Dintorni Multi Surface Cleaner Deluxe confezione,Sapori e Dintorni,937.5,ml,1, 6.80 ,,EUR,OUT OF STOCK,Conad,milan,25-03-2026,,
+CON-00765,CP0765,ALT0765,Household,Cleaning,Mutti Bleach Deluxe,Mutti,2,l,4,5.22,,EUR,,Conad,Milano,20/02/2026,8359775079356,private label
+CON-00766,CP0766,ALT0766,Personal Care,Shampoo,Conad Kids Shampoo Deluxe,Conad Kids,187.5,ml,8,"5,11",,€,OUT OF STOCK,Conad,Milan,2026-04-16,1262309760692,seasonal item
+CON-00767,CP0767,ALT0767,Personal Care,Shampoo,Sapori e Dintorni Conditioner Deluxe confezione,Sapori e Dintorni,375.0,ml,4,"€2,72",2.48,€,OUT OF STOCK,Conad,Milan,01/05/2026,0738621524728,
+CON-00768,CP0768,ALT0768,Personal Care,Soap,Hand Soap Deluxe,Sapori e Dintorni,300,ml,8,EUR 6.01,,EUR,in stock,Conad,milan,24-01-2026,9781933273100,
+CON-00769,CP0769,ALT0769,Personal Care,Soap,Body Wash Deluxe,Aia,375.0,ml,2,"2,86","2,38",EUR,OUT OF STOCK,Conad,Milan,2026-03-10 07:39:00,6791309956497,private label
+CON-00770,CP0770,ALT0770,Personal Care,Toothpaste,rio mare toothpaste deluxe,Rio Mare,93.75,ml,1,EUR 2.93,,EUR,low stock,Conad,milan,06/03/2026,8506243822968,seasonal item
+CON-00771,CP0771,ALT0771,Dairy,Mozzarella,Mozzarella Classic,sapori e dintorni,156.25,g,6,3.01,,€,limited,Conad,milan,2026-03-24,2094117623209,check allergen label
+CON-00772,CP0772,ALT0772,Dairy,Mozzarella,Conad Kids Mozzarella di Bufala Classic confezione,Conad Kids,93.75,g,1,"€2,24",,Euro,available,Conad,Milano,2026-01-27,4617766858425,private label
+CON-00773,CP0773,ALT0773,Dairy,Mozzarella,Fior di latte mozzarella Classic 250g,Conad,250.0,g,3,2.26,,Euro,available,Conad,Milano,19/03/2026,8381485470912,
+CON-00774,CP0774,ALT0774,Dairy, Yogurt,Verso Natura Greek Yogurt Classic confezione,Verso Natura,170,g,1,EUR 2.16,,EUR,OUT OF STOCK,Conad,Milano,2026-01-23,2677291263623,seasonal item
+CON-00775,CP0775,ALT0775,Dairy,Yogurt,Rio Mare Strawberry Yogurt Classic confezione,Rio Mare,2.5,pcs,1,"€2,64",,Euro,available, Conad ,Milano,21-01-2026,9467267708570,seasonal item
+CON-00776,CP0776,ALT0776,Dairy,Yogurt,Verso Natura Plain Yogurt Classic confezione,Verso Natura ,,g,1,3.22,,EUR,available,Conad,Milan,07/02/2026,9445324287196,private label
+CON-00777,CP0777,ALT0777,Dairy,Milk,Whole Milk Classic 1.25l,Petfriends,1.25,l,1,1.40,,Euro,in stock,Conad,Milan,11/03/2026,4027421795525,
+CON-00778,CP0778,ALT0778, Dairy ,Milk,Petfriends Semi-skimmed Milk Classic,Petfriends,1,l,1,"€2,94",,€,in stock,Conad,milan,2026-04-02,6917687238561,
+CON-00779,CP0779,ALT0779,Dairy,Milk,Parmalat Lactose Free Milk Classic, Parmalat,1.5,l,1,"€1,39",,eur,low stock,Conad,Milan,05/03/2026,3070052047772,check allergen label
+CON-00780,CP0780,ALT0780,Dairy,Butter,Mulino Bianco Unsalted Butter Classic ,Mulino Bianco,250,,6,EUR 1.97,,eur,in stock,Conad,Milan,03/04/2026,8639278152567,limited edition
+CON-00781,CP0781,ALT0781,Dairy,Butter ,Salted Butter Classic,Sapori e Dintorni,375.0,g,8, 2.20 ,,eur,in stock,Conad,Milano,2026/04/30 00:34,9354693636197,limited edition
+CON-00782,CP0782,ALT0782,dairy,Cheese,Petfriends Parmigiano Reggiano Classic,Petfriends,300.0,g,1, 2.92 ,,Euro,OUT OF STOCK,Conad,milan,2026/01/22 07:48,0597790209233,check allergen label
+CON-00783,CP0783,ALT0783,Dairy,Cheese,Gorgonzola Classic, Mutti ,187.5,g,4, 2.87 ,2.03,€,, Conad,milan,2026-03-18 11:45:00,6376325661988,imported
+CON-00784,CP0784,ALT0784,Dairy,Cheese,Aia Ricotta Classic,Aia,312.5,g,4,3.11,"€2,52",Euro,low stock,Conad,Milano,31-01-2026,9712764685191,promo shelf
+CON-00785,CP0785,ALT0785,Bakery,Bread,Petfriends Whole Wheat Bread Classic confezione,Petfriends,625.0,g,6,2.38,,Euro,limited,Conad,MILANO,2026-02-13,7247687938381,
+CON-00786,CP0786,ALT0786,Bakery,Bread,Rio Mare Ciabatta Classic confezione,Rio Mare,450.0,g,,"3,12", 2.24 ,€,in stock,Conad,Milano,25/03/2026,3577633316141,
+CON-00787,CP0787,ALT0787,Bakery,Bread,Sapori e Dintorni Sandwich Bread Classic confezione,Sapori e Dintorni,550,g,1,"2,25",,EUR,,Conad,MILANO,2026/03/16 00:58,0905068929646,new
+CON-00788,CP0788,ALT0788,Bakery,Croissants,Conad Butter Croissant Classic,Conad,6,pcs,1,,,EUR,limited,Conad,MILANO,2026-02-01,6998460541849,
+CON-00789,CP0789,ALT0789,Bakery,CROISSANTS,Chocolate Croissant Classic,Conad Kids,6,pcs,4,3.47,,eur,available,Conad,MILANO,2026/01/04 23:34,3091843442942,seasonal item
+CON-00790,CP0790,ALT0790,Bakery,Cookies,Chocolate Chip Cookies Classic 225g, Mulino Bianco ,225.0,g,4, 2.10 ,"1,87",Euro,in stock, Conad ,Milano,2026-04-18 17:08:00,5478836545649,promo shelf
+CON-00791,CP0791,ALT0791,Bakery,Cookies,Piacersi Digestive Biscuits Classic confezione,Piacersi,400,g,3,3.07,,EUR,limited,Conad,MILANO,2026-03-03,2572348661447,new
+CON-00792,CP0792,ALT0792,Produce,Tomatoes,Ferrero Cherry Tomatoes Classic,Ferrero,625.0,g,3,"1,79", 1.52 ,Euro,,Conad,Milan,2026-04-13,6822831242901,limited edition
+CON-00793,CP0793,ALT0793,Produce,Tomatoes ,Round Tomatoes Classic 1kg,Verso Natura,1,kg,2,1.79,,Euro,low stock,Conad,milan,2026-04-22,,limited edition
+CON-00794,CP0794,ALT0794,Produce,Salad, Iceberg Lettuce Classic ,Conad Kids,1.25,pcs,1,3.92,,EUR,available,Conad,Milan,2026-04-17,0550601656127,
+CON-00795,CP0795,ALT0795,Produce,Salad, Rocket Salad Classic ,Parmalat,187.5,g,2, 3.67 ,,Euro,low stock,Conad,milan,2026/03/24 01:46,7356616895667,new
+CON-00796,CP0796,ALT0796,Produce,Apples,Golden Apples Classic 1.5kg,Conad Kids,1.5,kg,3,EUR 3.84,,€,available,Conad,Milan,2026-02-27,5211507324974,check allergen label
+CON-00797,CP0797,ALT0797,Produce,Apples ,Pink Lady Apples Classic,GRANAROLO,1.25,kg,6,"€1,85",,€,available,Conad,milan,2026-02-11,4035295897745,private label
+CON-00798,CP0798,ALT0798,Produce,Bananas,Bananas Classic,Conad Kids,1,kg,4,"3,77","2,79",EUR,in stock,Conad,MILANO,01-02-2026,6910274406503,private label
+CON-00799,CP0799,ALT0799,Produce,Potatoes,Barilla Potatoes Classic confezione,Barilla,1.5,kg,2,EUR 3.73,,€,in stock,Conad,MILANO,20-02-2026,4906603175234,
+CON-00800,CP0800,ALT0800,Meat,Chicken,Aia Chicken Breast Classic confezione,AIA,500.0,g,1, 4.48 ,,€,limited,Conad,Milan,20-01-2026,0723199594969,new
+CON-00801,CP0801,ALT0801,Meat,Chicken, Chicken Thighs Classic 500g ,Conad Kids,500,g,, 4.34 ,,eur,,Conad,Milan,23/03/2026,2345811708132,imported
+CON-00802,CP0802,ALT0802,Meat,Beef,Verso Natura Minced Beef Classic confezione,Verso Natura,400,g,6,6.21,"5,49",Euro,low stock,Conad,MILANO,01-04-2026,9633795340668,new
+CON-00803,CP0803,ALT0803,Meat,Beef,Beef Steak Classic,De Cecco,375.0,g,1,"€5,98",5.00,EUR,limited,Conad,Milano,14/04/2026,7950477291095,private label
+CON-00804,CP0804,ALT0804,Meat,Cured Meats,Prosciutto Cotto Classic,Piacersi,120,g,4, 5.89 ,"€5,13",eur,OUT OF STOCK,Conad,milan,2026/02/03 22:14,8023396941300,imported
+CON-00805,CP0805,ALT0805,meat,CURED MEATS,Rio Mare Salame Milano Classic confezione, Rio Mare ,100,g,3, 8.26 ,"7,82",EUR,low stock,Conad,MILANO,2026-01-25,0424812007865,imported
+CON-00806,CP0806,ALT0806,Pantry,Pasta,Spaghetti Classic,Barilla,500,g,4, 2.75 ,,€,,Conad,MILANO,05-03-2026,8540584898142,private label
+CON-00807,CP0807,ALT0807,Pantry,Pasta,Verso Natura Penne Rigate Classic confezione, Verso Natura ,500,g,1, 2.73 ,"€2,57",Euro,,Conad,Milan,2026-03-17,6000362713083,imported
+CON-00808,CP0808,ALT0808,PANTRY,Pasta,Petfriends Fusilli Classic confezione,Petfriends,500,g,6,EUR 3.90,2.98,Euro,in stock,Conad,MILANO,2026-04-11,7242819257940,seasonal item
+CON-00809,CP0809,ALT0809,Pantry,Rice,Conad Carnaroli Rice Classic,Conad,1.5,kg,1,2.17,1.63,EUR,,Conad,Milan,2026/02/25 09:41,0747423779676,new
+CON-00810,CP0810,ALT0810,Pantry,Rice,Sapori e Dintorni Basmati Rice Classic confezione,Sapori e Dintorni,1,kg,1,"€2,93",,€,in stock,Conad,MILANO,08-04-2026,1065674845007,
+CON-00811,CP0811,ALT0811,Pantry,Sauce,Parmalat Tomato Passata Classic confezione,Parmalat,1050.0,ml,8,"€3,39",,EUR,,Conad,MILANO,2026-02-19 10:52:00,6157435624190,limited edition
+CON-00812,CP0812,ALT0812,Pantry,Sauce,Pesto Genovese Classic 142.5g,Parmalat,142.5,g,4,"€1,94",,eur,available,Conad,milan,10/01/2026,9275820241006,
+CON-00813,CP0813,ALT0813,Pantry,Oil,Extra Virgin Olive Oil Classic 1.5l,Galbani,1.5,l,8,"€3,28",,eur,available,Conad,milan,16-04-2026,4170216554734,new
+CON-00814,CP0814,ALT0814,Pantry,Oil,Sunflower Oil Classic 1l,Verso Natura,1,l,2, 2.78 ,,Euro,in stock,Conad,Milan,2026/03/23 05:26,1638040707936,check allergen label
+CON-00815,CP0815,ALT0815,Pantry,Flour,All Purpose Flour Classic,Sapori e Dintorni,0.75,kg,2,EUR 4.25,,eur,OUT OF STOCK,Conad,MILANO,2026/03/02 10:40,0334694818352,
+CON-00816,CP0816,ALT0816,Pantry,Flour,Petfriends 00 Flour Classic confezione,Petfriends,1,kg,1,"€4,02",,EUR,limited,Conad,MILANO,2026/01/02 14:22,,seasonal item
+CON-00817,CP0817,ALT0817,Pantry,Sugar,white sugar classic 1.25kg,Conad Kids,1.25,kg,8,"€4,37", 4.00 ,€,OUT OF STOCK,Conad,Milano,2026-03-22 07:50:00,1764424455910,seasonal item
+CON-00818,CP0818,ALT0818,Pantry,Sugar,Ferrero Brown Sugar Classic confezione,Ferrero,1.25,kg,6,EUR 2.89,,eur,,Conad,Milan,23-04-2026,3113011260322,check allergen label
+CON-00819,CP0819,ALT0819,Pantry,Coffee,Barilla Ground Coffee Classic confezione,Barilla,375.0,g,2,"3,70",,eur,,Conad,MILANO,04-01-2026,8012355926051,imported
+CON-00820,CP0820,ALT0820,Pantry,Coffee, Coffee Beans Classic 500g,Aia,500,g,1,"€3,08","2,51",EUR,low stock,Conad,MILANO,2026/04/22 13:22,1717718164358,promo shelf
+CON-00821,CP0821,ALT0821,Pantry,Cereal,Conad Kids Corn Flakes Classic,Conad Kids,468.75,g,1,"2,14",,EUR,,Conad,Milano,27/02/2026,9994349651582,seasonal item
+CON-00822,CP0822,ALT0822,Pantry,Cereal,Muesli Classic 937.5g,Rio Mare,937.5,g,1,EUR 2.43,,€,,Conad,MILANO,25-01-2026,1938078364961,limited edition
+CON-00823,CP0823,ALT0823,Frozen,Pizza,Verso Natura Margherita Pizza Classic confezione,Verso Natura,437.5,g,4,"3,35",,EUR,,Conad,MILANO,2026/03/27 12:34,5268202186309,limited edition
+CON-00824,CP0824,ALT0824,Frozen, Pizza,Petfriends Vegetable Pizza Classic,Petfriends,285.0,,1, 5.40 ,,Euro,OUT OF STOCK,Conad,Milan,18-03-2026,9730964491714,seasonal item
+CON-00825,CP0825,ALT0825,Frozen,Vegetables,Frozen Peas Classic,Conad,337.5,g,4,"2,45",,eur,,Conad,milan,2026/01/23 14:27,,limited edition
+CON-00826,CP0826,ALT0826,Frozen,Vegetables,Frozen Spinach Classic,Mutti,450,g,4,"€4,51",,eur,in stock,Conad,Milan,13-04-2026,4875989442664,new
+CON-00827,CP0827,ALT0827,Frozen,Fish,frozen salmon fillets classic 400g,Verso Natura,400,g,3,"€5,40",,eur,low stock,Conad,Milan,10-03-2026,5873863825826,
+CON-00828,CP0828,ALT0828,Frozen,Fish,Mutti Fish Fingers Classic confezione,Mutti,375.0,g,8,"5,66",,eur,limited,Conad,Milan,2026-02-27 08:42:00,0684921015976,private label
+CON-00829,CP0829,ALT0829,Beverages,Water,Still Water Classic 1.5l,Mulino Bianco,1.5,l,4,"€1,25",,Euro,low stock,Conad,milan,03/03/2026,,new
+CON-00830,CP0830,ALT0830,Beverages,Water,Piacersi Sparkling Water Classic,Piacersi,1.5,l,1,1.85,,Euro,low stock,Conad,MILANO,2026/04/21 13:23,1289566767202,imported
+CON-00831,CP0831,ALT0831,Beverages,Juice,Parmalat Orange Juice Classic confezione,Parmalat,1.5,l,6, 1.04 ,,EUR,limited,Conad,milan,07/03/2026,6879457543604,seasonal item
+CON-00832,CP0832,ALT0832,Beverages,Juice,Barilla Apple Juice Classic confezione,Barilla,1,l,1,2.38,,eur,available,Conad,MILANO,2026/03/10 06:48,8360784334488,
+CON-00833,CP0833,ALT0833,Beverages,Soft Drinks,Lavazza Cola Classic confezione,Lavazza,1.88,l,1,2.23,,Euro,limited,Conad,Milano,2026-04-05 22:42:00,5104208962928,private label
+CON-00834,CP0834,ALT0834,Beverages,Soft Drinks,Conad Lemon Soda Classic,Conad,2.25,l,2,EUR 2.22,,eur,available,Conad,MILANO,2026-04-15 03:47:00,1983769463352,private label
+CON-00835,CP0835,ALT0835,Beverages,tea,Green Tea Classic,De Cecco,30.0,pcs,3,"1,87",,€,low stock,Conad,Milan,09/01/2026,8970235659937,imported
+CON-00836,CP0836,ALT0836,Beverages,Tea,Black Tea Classic,Conad Kids,25,pcs,3,1.08,"1,02",€,,Conad,MILANO,24-04-2026,1275054780387,private label
+CON-00837,CP0837,ALT0837,Household,Detergent,Dish Soap Classic 937.5ml,Sapori e Dintorni,937.5,ml,1,"€4,56",,EUR,,Conad,Milano,09/01/2026,1474214731969,limited edition
+CON-00838,CP0838,ALT0838,Household,Detergent,Rio Mare Laundry Detergent Classic,Rio Mare,2.25,l,3,"4,00",,eur,OUT OF STOCK,Conad,MILANO,07-02-2026,9528024612585,imported
+CON-00839,CP0839,ALT0839,Household,Paper,Piacersi Toilet Paper Classic,Piacersi,8,pcs,3, 5.35 ,,eur,available,Conad,MILANO,2026/02/06 04:35,8515556520084,limited edition
+CON-00840,CP0840,ALT0840,Household,Paper,Conad Kids Kitchen Towels Classic confezione,Conad Kids,4,pcs,1, 3.07 ,,EUR,low stock,Conad,MILANO,2026-03-12,4330319837617,promo shelf
+CON-00841,CP0841,ALT0841,Household,Cleaning,Parmalat Multi Surface Cleaner Classic,Parmalat,937.5,ml,4,4.74,,Euro,low stock,Conad,Milano,16-01-2026,6235013803906,private label
+CON-00842,CP0842,ALT0842,Household,Cleaning,Bleach Classic 2l,Piacersi,2,l,3, 4.20 ,,Euro,in stock,Conad,MILANO,22/02/2026,0755010541104,imported
+CON-00843,CP0843,ALT0843,Personal Care,Shampoo,Petfriends Shampoo Classic,Petfriends,250,,1, 5.13 ,,€,limited,Conad,milan,16-03-2026,0977432647994,private label
+CON-00844,CP0844,ALT0844,Personal Care,Shampoo,Sapori e Dintorni Conditioner Classic confezione,Sapori e Dintorni,250,ml,1,EUR 3.24,,eur,OUT OF STOCK,Conad,Milan,2026-03-15,9660212757431,private label
+CON-00845,CP0845,ALT0845,Personal Care,Soap,Hand Soap Classic 300ml,Conad,300,ml,3,"5,82",,eur,limited,Conad,MILANO,2026-01-15 11:33:00,,
+CON-00846,CP0846,ALT0846,Personal Care,Soap,Conad Body Wash Classic confezione,Conad,375.0,ml,1,5.93,,Euro,limited,Conad,Milano,28-02-2026,2830763751217,imported
+CON-00847,CP0847,ALT0847, Personal Care,Toothpaste,Toothpaste Classic, Piacersi ,75,ml,1, 5.24 ,,Euro,in stock,Conad,Milano,2026-02-10,7483319069618,
+CON-00848,CP0848,ALT0848,Dairy,Mozzarella,Mozzarella Premium 125g,Verso Natura,125,g,6,"3,15",,€,OUT OF STOCK,Conad,Milano,07/03/2026,3361439137295,private label
+CON-00849,CP0849,ALT0849,Dairy,Mozzarella,Lavazza Mozzarella di Bufala Premium,Lavazza,93.75,g,1, 1.85 ,"€1,43",Euro,OUT OF STOCK,Conad,MILANO,2026-02-24,5586692913859,
+CON-00850,CP0850,ALT0850,Dairy,MOZZARELLA,Fior di latte mozzarella Premium,Conad,300.0,g,2,2.81,,Euro,available,Conad,Milan,15/01/2026,5303210698800,
+CON-00851,CP0851,ALT0851,Dairy,Yogurt,Conad Greek Yogurt Premium,Conad,170,g,2,2.56,,EUR,available, Conad ,milan,09-04-2026,1719340029234,private label
+CON-00852,CP0852,ALT0852,Dairy,Yogurt,Strawberry Yogurt Premium 2pcs,Verso Natura,2,pcs,8,1.77, 1.66 ,eur,OUT OF STOCK,Conad,Milan,29-04-2026,4614224774613,check allergen label
+CON-00853,CP0853,ALT0853,Dairy,Yogurt ,Sapori e Dintorni Plain Yogurt Premium confezione,Sapori e Dintorni,500,g,8, 1.97 ,,EUR,limited,Conad,MILANO,2026-02-14 14:19:00,1772408767661,private label
+CON-00854,CP0854,ALT0854, Dairy,Milk,Whole Milk Premium,Conad,1.25,l,6,"€1,73",,Euro,OUT OF STOCK,Conad,Milano,2026/03/27 18:35,6521510968367,seasonal item
+CON-00855,CP0855,ALT0855,Dairy,Milk,Semi-skimmed Milk Premium 1l,Conad,1,l,6,EUR 1.87,EUR 1.69,€,available,Conad ,MILANO,19/04/2026,9202743871793,private label
+CON-00856,CP0856,ALT0856,Dairy,Milk,LACTOSE FREE MILK PREMIUM,petfriends,1.5,l,1,2.82,,Euro,,Conad,Milan,2026-04-25 15:19:00,2835949972949,
+CON-00857,CP0857,ALT0857,Dairy,Butter,Granarolo Unsalted Butter Premium, Granarolo,375.0,g,1,"1,68",,EUR,limited,Conad,milan,2026-04-05 15:11:00,6604868601691,imported
+CON-00858,CP0858,ALT0858,Dairy,Butter,Mulino Bianco Salted Butter Premium,Mulino Bianco,375.0,g,2,1.95,,eur,in stock,conad,milan,2026/03/07 00:08,6354436194063,imported
+CON-00859,CP0859,ALT0859,Dairy,Cheese,Parmigiano Reggiano Premium,Aia,200,g,8,EUR 3.05, 2.74 ,Euro,available,Conad,Milan,11-01-2026,,
+CON-00860,CP0860,ALT0860,Dairy,Cheese,Gorgonzola Premium 112.5g,Lavazza,112.5,g,1,EUR 3.07, 2.25 ,€,OUT OF STOCK,Conad,Milano,21-03-2026,3731480073467,private label
+CON-00861,CP0861,ALT0861,Dairy,Cheese,Ricotta Premium 250g,Piacersi,250,g,1,"1,97",,eur,,Conad,Milan,17-03-2026,9687279783344,private label
+CON-00862,CP0862,ALT0862,Bakery,Bread,Verso Natura Whole Wheat Bread Premium confezione,Verso Natura,500,g,1, 2.74 ,,Euro,available,Conad,milan,2026/04/29 17:19,6285707852433,check allergen label
+CON-00863,CP0863,ALT0863,Bakery,Bread,Ciabatta Premium,Conad,300,g,1, 2.71 ,,€,,Conad,milan,2026-01-13,1695673507873,new
+CON-00864,CP0864,ALT0864,Bakery,Bread,Sandwich Bread Premium 550g,Conad,550,g,1,"3,19",,eur,in stock,Conad,MILANO,10/03/2026,1742283024563,promo shelf
+CON-00865,CP0865,ALT0865,Bakery,Croissants,Butter Croissant Premium 6pcs,Barilla,6,pcs,,3.11,,Euro,low stock,Conad,milan,2026-02-11,2046349750071,private label
+CON-00866,CP0866,ALT0866,Bakery,Croissants,Chocolate Croissant Premium,Galbani,6,pcs,1,3.59,,€,in stock,Conad,Milano,15/04/2026,2433827207241,
+CON-00867,CP0867,ALT0867,Bakery,Cookies,Conad Kids Chocolate Chip Cookies Premium confezione,Conad Kids,225.0,g,,1.94,,EUR,OUT OF STOCK,Conad,Milano,20-03-2026,0159357694385,seasonal item
+CON-00868,CP0868,ALT0868,Bakery,Cookies,Petfriends Digestive Biscuits Premium,Petfriends,600.0,g,8,"€1,47",,Euro,OUT OF STOCK,Conad,Milan,31/01/2026,3946076345955,new
+CON-00869,CP0869,ALT0869, Produce ,Tomatoes,Sapori e Dintorni Cherry Tomatoes Premium,Sapori e Dintorni,500,g,3,"1,78","€1,30",EUR,,conad,milan,19-01-2026,7558459839782,limited edition
+CON-00870,CP0870,ALT0870,Produce ,Tomatoes,Petfriends Round Tomatoes Premium,Petfriends,1,kg,4,EUR 2.48,,EUR,available,Conad,milan,14-04-2026,4362894840234,
+CON-00871,CP0871,ALT0871,Produce,Salad,Iceberg Lettuce Premium 0.75pcs,Mulino Bianco,0.75,pcs,3,2.15,,eur,,Conad,milan,2026-04-18,5445304221566,check allergen label
+CON-00872,CP0872,ALT0872,Produce,Salad,Conad Kids Rocket Salad Premium confezione,Conad Kids,93.75,g,1, 1.79 ,,EUR,OUT OF STOCK,Conad,milan,15/03/2026,1589271259726,private label
+CON-00873,CP0873,ALT0873,Produce,Apples,Golden Apples Premium,Conad,1.5,kg,1,1.59,,€,OUT OF STOCK,Conad,Milano,2026/05/01 16:04,2825862890067,imported
+CON-00874,CP0874,ALT0874,Produce,Apples,Pink Lady Apples Premium,Verso Natura,1,kg,8,2.57,,Euro,low stock,Conad,Milan,2026-02-11 14:44:00,7815774723992,
+CON-00875,CP0875,ALT0875,Produce,Bananas, Piacersi Bananas Premium confezione,Piacersi,1,kg,1,EUR 3.42,,eur,low stock,Conad,Milan,2026-03-11 15:22:00,9023679485143,
+CON-00876,CP0876,ALT0876,Produce,Potatoes,Potatoes Premium 2.5kg,Parmalat,2.5,kg,1,"3,79",,eur,available,Conad,Milan,2026-02-27,8389378251841,
+CON-00877,CP0877,ALT0877,Meat,Chicken,Conad Chicken Breast Premium confezione,Conad,,g,2,EUR 7.59,,eur,OUT OF STOCK,Conad,Milan,2026-02-18 18:40:00,4148310312953,promo shelf
+CON-00878,CP0878,ALT0878,Meat,Chicken,De Cecco Chicken Thighs Premium confezione,De Cecco,375.0,g,2, 5.30 ,"4,36",€,,Conad,MILANO,2026-01-05 00:03:00,5993423459314,promo shelf
+CON-00879,CP0879,ALT0879,Meat,Beef,Sapori e Dintorni Minced Beef Premium confezione,Sapori e Dintorni,600.0,g,6,4.00,,EUR,low stock,Conad,Milan,09-01-2026,1140930306066,
+CON-00880,CP0880,ALT0880,Meat,Beef,Petfriends Beef Steak Premium,Petfriends,300,g,1,"4,60",EUR 3.78,Euro,available,Conad,Milan,2026/05/01 20:32,,limited edition
+CON-00881,CP0881,ALT0881,Meat,Cured Meats,Prosciutto Cotto Premium 150g,Parmalat,150.0,g,4, 6.47 , 5.63 ,EUR,low stock,Conad,Milan,22-04-2026,5902653588185,
+CON-00882,CP0882,ALT0882,meat,Cured Meats, Piacersi Salame Milano Premium ,Piacersi,125.0,g,4,7.51,,€,low stock,Conad,milan,2026/03/08 17:31,4955751757415,new
+CON-00883,CP0883,ALT0883,Pantry,Pasta,Conad Spaghetti Premium ,Conad,625.0,g,1,3.50,,EUR,,Conad,milan,2026/04/06 23:47,7370912363583,
+CON-00884,CP0884,ALT0884,Pantry,Pasta,Penne Rigate Premium 500g,Petfriends,500,g,4, 3.73 ,,eur,limited,Conad,Milan,2026-04-18,1037938492137,check allergen label
+CON-00885,CP0885,ALT0885,Pantry,Pasta,Fusilli Premium 500g,Mulino Bianco,500,g,4, 2.36 ,,€,OUT OF STOCK,Conad,milan,21/04/2026,5474965781682,check allergen label
+CON-00886,CP0886,ALT0886,Pantry,Rice,Carnaroli Rice Premium,Petfriends,0.75,kg,1,,,eur,low stock,Conad,Milano,2026-04-30,2478537249285,private label
+CON-00887,CP0887,ALT0887,Pantry,Rice,Piacersi Basmati Rice Premium confezione,Piacersi,1,kg,1,2.03,,Euro,available,Conad,Milan,2026/01/13 20:44,9049839545416,seasonal item
+CON-00888,CP0888,ALT0888,Pantry,Sauce,Tomato Passata Premium 875ml,Sapori e Dintorni,875.0,ml,6,"€2,35",,Euro,limited,Conad,MILANO,2026-03-13 16:51:00,5238019656115,limited edition
+CON-00889,CP0889,ALT0889,Pantry,Sauce,Piacersi Pesto Genovese Premium,Piacersi,142.5,g,1,"€4,59",EUR 4.02,EUR,,Conad,milan,2026-04-02,7144033083921,private label
+CON-00890,CP0890,ALT0890,Pantry, Oil ,Extra Virgin Olive Oil Premium 0.75l,Verso Natura,0.75,l,6,"€3,24",,Euro,,conad,MILANO,2026-04-18 04:49:00,7470800514642,check allergen label
+CON-00891,CP0891,ALT0891,Pantry,Oil,Verso Natura Sunflower Oil Premium,Verso Natura,1.25,l,1, 1.97 ,,eur,OUT OF STOCK,Conad,Milan,2026-01-08 05:51:00,9291693575760,
+CON-00892,CP0892,ALT0892,Pantry,Flour,All Purpose Flour Premium 1.25kg,Verso Natura,1.25,kg,3,"€4,18","3,15",EUR,limited,Conad,MILANO,04-04-2026,8051725605195,imported
+CON-00893,CP0893,ALT0893,Pantry,Flour,Piacersi 00 Flour Premium,Piacersi,0.75,kg,,"2,06",,€,limited,Conad,Milano,2026-01-30,6899766824985,private label
+CON-00894,CP0894,ALT0894,Pantry,Sugar,White Sugar Premium 1.5kg,Mulino Bianco,1.5,kg,8,"€2,69",,Euro,,Conad,MILANO,2026/03/22 01:52,2328815722263,
+CON-00895,CP0895,ALT0895,Pantry,Sugar,Verso Natura Brown Sugar Premium,Verso Natura,0.75,kg,8, 4.22 ,,€,OUT OF STOCK,Conad,milan,15/03/2026,7592775809181,promo shelf
+CON-00896,CP0896,ALT0896,Pantry,Coffee,Ground Coffee Premium 250g,verso natura,250,g,4,EUR 4.68,"4,09",eur,available,Conad,MILANO,2026-04-16 11:51:00,6891555822925,
+CON-00897,CP0897,ALT0897,Pantry,Coffee,Coffee Beans Premium,Conad,500,g,1,2.20,,€,,Conad,milan,2026-02-13 18:46:00,4996575657064,
+CON-00898,CP0898,ALT0898,PANTRY,Cereal,Corn Flakes Premium 562.5g,Petfriends,562.5,g,, 3.98 ,"€3,51",€,,Conad,MILANO,2026-02-26,8051066330901,
+CON-00899,CP0899,ALT0899,Pantry,Cereal,Muesli Premium 750g,Petfriends,750,g,1,"€2,49",2.19,eur,in stock,Conad,Milan,09/03/2026,4795967240166,private label
+CON-00900,CP0900,ALT0900,Frozen,Pizza,Margherita Pizza Premium 262.5g,De Cecco,262.5,g,,"€3,96",3.54,Euro,available,Conad,milan,2026/02/07 12:51,7802164400780,limited edition
+CON-00901,CP0901,ALT0901,Frozen,Pizza ,Vegetable Pizza Premium,conad kids,380,g,1,"€3,87",,Euro,low stock,Conad,Milano,16/01/2026,4767229773205,new
+CON-00902,CP0902,ALT0902,Frozen,Vegetables,Conad Kids Frozen Peas Premium,Conad Kids,337.5,g,1, 5.63 ,,€,,Conad,Milan,2026-03-23 01:21:00,0426893378913,new
+CON-00903,CP0903,ALT0903,Frozen,Vegetables,VERSO NATURA FROZEN SPINACH PREMIUM,Verso Natura,,g,,"€3,99","3,04",Euro,OUT OF STOCK,Conad,Milan,2026-03-16,9575094866900,
+CON-00904,CP0904,ALT0904,Frozen,Fish,Frozen Salmon Fillets Premium 500g,Conad,500.0,g,2,"5,13", 3.67 ,€,available,Conad,Milano,07-04-2026,4401654909239,promo shelf
+CON-00905,CP0905,ALT0905,Frozen,Fish,Sapori e Dintorni Fish Fingers Premium,Sapori e Dintorni,450.0,g,, 4.48 ,3.56,€,available,Conad,Milan,27/01/2026,,imported
+CON-00906,CP0906,ALT0906,Beverages,Water,Still Water Premium,Sapori e Dintorni,2.25,l,8, 1.02 ,,eur,limited,Conad,milan,2026/01/25 01:38,4749097940591,seasonal item
+CON-00907,CP0907,ALT0907,Beverages,Water,Sparkling Water Premium,Conad Kids,2.25,l,1,1.89,,EUR,available,Conad,Milan,2026-01-25 07:00:00,0419557369718,new
+CON-00908,CP0908,ALT0908,Beverages,Juice, Verso Natura Orange Juice Premium confezione ,Verso Natura,1,l,1,1.74,"€1,45",Euro,limited,Conad,milan,2026/03/22 02:18,3998564191339,
+CON-00909,CP0909,ALT0909,Beverages,Juice,Apple Juice Premium 1.5l,De Cecco,1.5,l,3,1.80,,€,limited,Conad,Milano,2026/02/17 13:44,1565843884105,seasonal item
+CON-00910,CP0910,ALT0910,Beverages,Soft Drinks,Sapori e Dintorni Cola Premium confezione,Sapori e Dintorni,1.88,l,3, 2.35 ,,Euro,limited,Conad,milan,15-02-2026,3497155134518,private label
+CON-00911,CP0911,ALT0911,beverages,Soft Drinks, Piacersi Lemon Soda Premium confezione,Piacersi,1.88,l,1,"€1,74",,Euro,low stock,Conad,milan,18-02-2026,9645600155815,
+CON-00912,CP0912,ALT0912,Beverages,Tea,Conad Green Tea Premium,Conad,25.0,pcs,6, 1.00 ,,EUR,available,Conad,milan,06/04/2026,0821416885883,private label
+CON-00913,CP0913,ALT0913,Beverages,Tea,Piacersi Black Tea Premium confezione, Piacersi ,25,pcs,2,1.61,,Euro,available,CONAD,Milano,2026/04/24 21:45,2484602382452,private label
+CON-00914,CP0914,ALT0914,Household,Detergent,Sapori e Dintorni Dish Soap Premium confezione,Sapori e Dintorni,1125.0,ml,1, 5.85 ,,Euro,low stock,Conad,Milan,01-05-2026,2168081465810,private label
+CON-00915,CP0915,ALT0915,Household,Detergent,Laundry Detergent Premium 1.88l,Rio Mare,1.88,l,2, 3.28 ,,EUR,limited,Conad,milan,2026-04-27 11:34:00,4573444213671,imported
+CON-00916,CP0916,ALT0916,Household,Paper,Conad Toilet Paper Premium,Conad,8,pcs,6,5.29,,EUR,OUT OF STOCK,Conad,Milano,2026-03-10 01:26:00,0320374353948,check allergen label
+CON-00917,CP0917,ALT0917,Household,Paper,De Cecco Kitchen Towels Premium confezione,De Cecco,6.0,pcs,1,4.34,,eur,low stock,Conad,MILANO,2026-05-01 05:13:00,1092971280945,seasonal item
+CON-00918,CP0918,ALT0918,Household,Cleaning,Multi Surface Cleaner Premium 1125ml,Piacersi,1125.0,ml,1,"€4,16",,€,,Conad,MILANO,08/01/2026,9847438245250,limited edition
+CON-00919,CP0919,ALT0919,Household,Cleaning,Bleach Premium,Conad,1.5,l,1,5.20,"€4,37",€,available,Conad,milan,2026/01/30 00:24,8408527045849,seasonal item
+CON-00920,CP0920,ALT0920,Personal Care,Shampoo,Conad Kids Shampoo Premium confezione,Conad Kids,375.0,ml,1,5.39,EUR 4.19,eur,available, Conad,MILANO,2026-01-20 22:45:00,,limited edition
+CON-00921,CP0921,ALT0921,Personal Care,Shampoo,Conditioner Premium,Petfriends,187.5,ml,8,"4,96",,€,in stock,Conad,Milan,27/03/2026,4835181599444,new
+CON-00922,CP0922,ALT0922,Personal Care,Soap,Hand Soap Premium 300ml,sapori e dintorni,300,ml,,4.34,,EUR,low stock,Conad,MILANO,01-01-2026,0751062857475,promo shelf
+CON-00923,CP0923,ALT0923,PERSONAL CARE,Soap,Petfriends Body Wash Premium,Petfriends,500,ml,1,,,Euro,OUT OF STOCK,Conad,milan,10/02/2026,,check allergen label
+CON-00924,CP0924,ALT0924,Personal Care,Toothpaste,Conad Toothpaste Premium,Conad,75,ml,6,2.82,,€,in stock,Conad,Milano,15/03/2026,4293259455131,private label
+CON-00925,CP0925,ALT0925,Dairy,Mozzarella,Mozzarella Bio,Granarolo,93.75,g,4,1.53,,eur,in stock,Conad,Milano,18-02-2026,2304994089797,
+CON-00926,CP0926,ALT0926,Dairy,Mozzarella,Piacersi Mozzarella di Bufala Bio confezione,Piacersi,125,g,2,"€3,06","€2,46",€,,Conad,MILANO,2026-02-10 14:22:00,2386537221845,
+CON-00927,CP0927,ALT0927,Dairy,Mozzarella,Conad Kids Fior di latte mozzarella Bio confezione,Conad Kids,200,g,1,EUR 1.82,,€,low stock,Conad,milan,16-03-2026,5581519613243,promo shelf
+CON-00928,CP0928,ALT0928,Dairy,Yogurt,Greek Yogurt Bio,Petfriends,170,g,3,EUR 3.15,2.46,Euro,available,Conad,Milan,2026/01/12 22:49,,check allergen label
+CON-00929,CP0929,ALT0929,Dairy,Yogurt,Petfriends Strawberry Yogurt Bio confezione,Petfriends,3.0,pcs,1,"€1,50",1.07,EUR,,Conad,Milan,2026/03/08 00:45,6393658980437,limited edition
+CON-00930,CP0930,ALT0930,Dairy,Yogurt,Rio Mare Plain Yogurt Bio,Rio Mare,375.0,g,1,"€2,66", 1.93 ,Euro,available,Conad,MILANO,2026-04-08 04:35:00,,
+CON-00931,CP0931,ALT0931,Dairy,Milk,Verso Natura Whole Milk Bio confezione,Verso Natura,1,l,1, 2.95 ,,€,available,Conad,MILANO,2026-04-27 08:24:00,3745974683336,private label
+CON-00932,CP0932,ALT0932,Dairy,Milk,Semi-skimmed Milk Bio 0.75l,Petfriends,0.75,l,1,"1,28","€0,91",€,in stock,Conad,Milan,20/04/2026,5961715363984,limited edition
+CON-00933,CP0933,ALT0933,Dairy,Milk,Lactose Free Milk Bio 1.25l,Verso Natura,1.25,l,1,,,EUR,in stock,Conad,MILANO,27-04-2026,5875334677047,imported
+CON-00934,CP0934,ALT0934,Dairy,Butter,Petfriends Unsalted Butter Bio,Petfriends,312.5,g,,EUR 2.30,,Euro,OUT OF STOCK,Conad,milan,22/01/2026,5737327474612,
+CON-00935,CP0935,ALT0935,Dairy,BUTTER,Salted Butter Bio 375g,Sapori e Dintorni,375.0,g,8, 2.45 ,,EUR,available,Conad,Milan,24-01-2026,6013583630604,promo shelf
+CON-00936,CP0936,ALT0936,Dairy,Cheese,Sapori e Dintorni Parmigiano Reggiano Bio,Sapori e Dintorni,250.0,g,2,EUR 2.93,,EUR,low stock, Conad ,Milan,13/03/2026,0166738225305,private label
+CON-00937,CP0937,ALT0937,Dairy,Cheese,gorgonzola bio,Sapori e Dintorni,150,g,1,"3,15",,Euro,OUT OF STOCK,Conad,Milano,2026-04-16,5802392356035,limited edition
+CON-00938,CP0938,ALT0938,Dairy,Cheese,Ricotta Bio 187.5g,Conad Kids,187.5,g,4,2.39,,Euro,OUT OF STOCK,Conad,MILANO,20-03-2026,1013953848642,new
+CON-00939,CP0939,ALT0939,Bakery,Bread,Whole Wheat Bread Bio,Conad,,g,,EUR 1.54,,€,,Conad,milan,2026-04-01,2373331002578,limited edition
+CON-00940,CP0940,ALT0940,Bakery,Bread,Ciabatta Bio,Piacersi,300,g,6,"3,40",,€,low stock,Conad,MILANO,2026-03-02 03:49:00,5869572529426,new
+CON-00941,CP0941,ALT0941,BAKERY,Bread,Sandwich Bread Bio,Sapori e Dintorni,550,g,,"€2,55",,eur,in stock,Conad,Milan,28-04-2026,2590828108563,
+CON-00942,CP0942,ALT0942,Bakery,Croissants, Butter Croissant Bio 7.5pcs ,Piacersi,7.5,pcs,1,"3,23",,Euro,in stock,Conad,MILANO,2026-03-25 17:52:00,0880727247395,imported
+CON-00943,CP0943,ALT0943,Bakery,Croissants,Piacersi Chocolate Croissant Bio confezione,Piacersi,4.5,pcs,6,EUR 3.49, 3.12 ,eur,in stock,Conad,milan,2026/04/06 19:15,1934978497808,
+CON-00944,CP0944,ALT0944,Bakery,Cookies,Chocolate Chip Cookies Bio 300g, Piacersi,300,g,4,3.37,,Euro,low stock,Conad,MILANO,2026-02-09,9088394119816,
+CON-00945,CP0945,ALT0945,Bakery,Cookies,Digestive Biscuits Bio,Sapori e Dintorni,400,g,1, 1.50 ,1.14,€,limited,Conad,Milano,2026-03-26,1022961939731,limited edition
+CON-00946,CP0946,ALT0946,Produce,Tomatoes,Cherry Tomatoes Bio,Verso Natura,750.0,g,,2.07,EUR 1.85,Euro,,Conad,Milan,2026/01/14 11:41,6393593185512,seasonal item
+CON-00947,CP0947,ALT0947,Produce,Tomatoes,Conad Round Tomatoes Bio,Conad,1,kg,8,"2,91",,eur,low stock,Conad,milan,2026-04-10 07:06:00,6831983335929,seasonal item
+CON-00948,CP0948,ALT0948,Produce,Salad,Iceberg Lettuce Bio 1.25pcs,Piacersi,1.25,pcs,8,3.38, 2.53 ,€,OUT OF STOCK,Conad,MILANO,27/03/2026,,check allergen label
+CON-00949,CP0949,ALT0949,Produce,Salad,ROCKET SALAD BIO 93.75G,Petfriends ,93.75,g,8,"2,87",,Euro,,Conad,milan,26/01/2026,3083164094087,limited edition
+CON-00950,CP0950,ALT0950,Produce,Apples,Verso Natura Golden Apples Bio,Verso Natura,1.5,kg,4,1.72,,EUR,OUT OF STOCK,Conad,MILANO,12-02-2026,3201134377571,new
+CON-00951,CP0951,ALT0951,Produce,Apples,Verso Natura Pink Lady Apples Bio confezione,Verso Natura,1,kg,4,2.61,1.97,eur,available,Conad,Milano,2026/01/29 15:34,4921826553979,promo shelf
+CON-00952,CP0952,ALT0952,Produce,Bananas,Verso Natura Bananas Bio confezione,Verso Natura,1,kg,1,1.76,,EUR,available,Conad,Milan,2026-04-03,7508604588861,
+CON-00953,CP0953,ALT0953,Produce,potatoes,Potatoes Bio 2kg,Sapori e Dintorni,2,kg,4,3.00,,eur,in stock,Conad,Milano,2026/01/22 16:15,6508505844958,promo shelf
+CON-00954,CP0954,ALT0954,Meat,Chicken,Conad Kids Chicken Breast Bio confezione,Conad Kids,400,g,1,EUR 6.09,4.96,eur,,Conad,Milano,01/05/2026,2125456938854,imported
+CON-00955,CP0955,ALT0955,Meat,Chicken,Rio Mare Chicken Thighs Bio,Rio Mare,375.0,g,1,7.53,,EUR,in stock,Conad,milan,2026-03-19 12:18:00,5788684472079,private label
+CON-00956,CP0956,ALT0956,Meat,Beef,Aia Minced Beef Bio,Aia,300.0,g,1, 4.16 ,"€3,25",Euro,in stock,Conad,milan,25/03/2026,0168529919422,seasonal item
+CON-00957,CP0957,ALT0957,Meat,Beef,Petfriends Beef Steak Bio confezione,Petfriends,300,g,2,,3.02,EUR,in stock,Conad,MILANO,2026-03-04 09:31:00,4260365461836,imported
+CON-00958,CP0958,ALT0958,Meat,Cured Meats,Mutti Prosciutto Cotto Bio confezione,Mutti,120,g,4, 7.48 ,,EUR,,Conad,milan,12-01-2026,3338715451650,
+CON-00959,CP0959,ALT0959,Meat,Cured Meats,Piacersi Salame Milano Bio,Piacersi,150.0,g,8, 6.95 ,"€6,40",Euro,limited,Conad,Milan,20-02-2026,5652272256992,limited edition
+CON-00960,CP0960,ALT0960,Pantry,Pasta,Spaghetti Bio,Ferrero,750.0,g,8,4.29,,EUR,available,Conad,MILANO,09-04-2026,7102011934916,imported
+CON-00961,CP0961,ALT0961,Pantry,Pasta,Conad Penne Rigate Bio confezione,Conad,500,g,4,EUR 3.96,,EUR,,Conad,MILANO,2026-04-28 00:34:00,2865778138612,
+CON-00962,CP0962,ALT0962,Pantry,Pasta,Conad Kids Fusilli Bio,Conad Kids,625.0,g,1,1.93,,eur,limited,Conad,milan,2026-04-20,7301998961125,check allergen label
+CON-00963,CP0963,ALT0963,Pantry,Rice,Verso Natura Carnaroli Rice Bio confezione,Verso Natura,0.75,kg,2,EUR 2.67,1.92,Euro,in stock,Conad,Milano,2026-04-10 18:09:00,5055779501723,private label
+CON-00964,CP0964,ALT0964,Pantry,Rice,Piacersi Basmati Rice Bio,piacersi,1.25,kg,3,"3,85",,EUR,low stock,Conad,milan,2026/01/10 05:15,1469803032113,limited edition
+CON-00965,CP0965,ALT0965,Pantry,Sauce,Sapori e Dintorni Tomato Passata Bio,Sapori e Dintorni,700,ml,6,2.30,,EUR,available,Conad,MILANO,2026/01/02 05:43,6881248346104,imported
+CON-00966,CP0966,ALT0966,Pantry,Sauce,De Cecco Pesto Genovese Bio,De Cecco,237.5,g,6,4.21,,Euro,OUT OF STOCK,Conad,milan,2026/04/17 23:06,,imported
+CON-00967,CP0967,ALT0967,Pantry,Oil,Conad Extra Virgin Olive Oil Bio confezione,Conad,1,l,1,"€4,44",,€,OUT OF STOCK,Conad,Milan,2026-02-13 15:45:00,2207311964880,seasonal item
+CON-00968,CP0968,ALT0968,PANTRY,Oil,Sunflower Oil Bio,Parmalat,1.5,l,1,4.24,3.42,EUR,,Conad,Milan,26/02/2026,7106459340009,new
+CON-00969,CP0969,ALT0969,Pantry,Flour,Sapori e Dintorni All Purpose Flour Bio confezione,Sapori e Dintorni,1.5,kg,2,4.34,,€,in stock,Conad,MILANO,2026/01/01 22:49,9691484454027,new
+CON-00970,CP0970,ALT0970,Pantry,Flour,Verso Natura 00 Flour Bio,Verso Natura,1.25,kg,1,3.34,EUR 2.99,€,OUT OF STOCK,Conad,Milan,2026-01-09 17:45:00,1801582119748,limited edition
+CON-00971,CP0971,ALT0971,Pantry,Sugar,Petfriends White Sugar Bio,Petfriends,1.25,kg,1,"€4,32",3.58,Euro,OUT OF STOCK,Conad,milan,2026-04-04 22:08:00,3991753776314,imported
+CON-00972,CP0972,ALT0972,Pantry,Sugar,Brown Sugar Bio,Rio Mare,0.75,kg,1, 2.87 ,2.42,EUR,limited,Conad,milan,2026/03/15 11:14,,seasonal item
+CON-00973,CP0973,ALT0973,Pantry,Coffee,Ground Coffee Bio 375g,Mulino Bianco,375.0,g,6,2.31,"1,90",eur,,Conad,Milano,2026/02/05 09:26,1853855609964,imported
+CON-00974,CP0974,ALT0974,Pantry,Coffee,Coffee Beans Bio,Petfriends,375.0,g,,"€2,93",EUR 2.21,€,OUT OF STOCK,Conad,MILANO,2026-02-01 18:36:00,1545813734485,seasonal item
+CON-00975,CP0975,ALT0975,Pantry,Cereal,Corn Flakes Bio,Conad Kids,468.75,g,1,"4,05",,Euro,available,Conad,milan,2026-03-30,5995895748010,private label
+CON-00976,CP0976,ALT0976,Pantry,Cereal, Petfriends Muesli Bio,Petfriends,750,g,1, 2.77 ,,eur,in stock,Conad,Milano,2026-01-31,5792844993971,private label
+CON-00977,CP0977,ALT0977,Frozen,Pizza,Mutti Margherita Pizza Bio confezione,Mutti,525.0,g,4,4.06,,Euro,available,Conad,Milano,2026-04-12,3421333751879,seasonal item
+CON-00978,CP0978,ALT0978,Frozen, Pizza ,Vegetable Pizza Bio 380g,Sapori e Dintorni,380,g,1,"€3,94",,€,limited,Conad,MILANO,2026-01-08 17:55:00,1214278817327,seasonal item
+CON-00979,CP0979,ALT0979,Frozen,Vegetables,Mutti Frozen Peas Bio,Mutti,337.5,g,6, 5.32 ,,eur,,Conad,Milan,2026/02/11 01:13,0635026457948,check allergen label
+CON-00980,CP0980,ALT0980,Frozen,Vegetables,Frozen Spinach Bio 337.5g,Sapori e Dintorni,337.5,g,2, 3.36 ,,EUR,limited,Conad,Milano,22-01-2026,2392778320342,promo shelf
+CON-00981,CP0981,ALT0981,Frozen,Fish,Frozen Salmon Fillets Bio, Conad ,400,g,1,"€3,44",,eur,OUT OF STOCK,Conad,Milan,2026-04-16 14:42:00,7341613827871,
+CON-00982,CP0982,ALT0982,Frozen,Fish,Petfriends Fish Fingers Bio confezione,Petfriends,450.0,g,2,EUR 5.24,EUR 4.49,eur,, Conad,MILANO,27-01-2026,9521010967291,check allergen label
+CON-00983,CP0983,ALT0983,Beverages, Water,Still Water Bio 2.25l,Mutti,2.25,l,2,"2,17","1,94",Euro,limited,Conad,milan,2026-04-24,0872259355544,promo shelf
+CON-00984,CP0984,ALT0984, Beverages ,Water,Verso Natura Sparkling Water Bio confezione,Verso Natura,1.12,l,4,2.00,,EUR,OUT OF STOCK,Conad,MILANO,11-04-2026,7367828940604,imported
+CON-00985,CP0985,ALT0985,Beverages,juice,Orange Juice Bio,Verso Natura,1,l,4, 1.07 ,,EUR,low stock,Conad,Milan,16/02/2026,8021471859909,check allergen label
+CON-00986,CP0986,ALT0986,Beverages,Juice, Apple Juice Bio,Sapori e Dintorni,1.5,l,4, 1.66 ,,eur,limited,Conad,MILANO,2026-01-26 18:32:00,9169500039303,
+CON-00987,CP0987,ALT0987,Beverages,Soft Drinks,Cola Bio,Conad Kids,1.12,l,4,"€1,88",,Euro,available,Conad,Milan,2026-04-05 10:43:00,0389408593092,imported
+CON-00988,CP0988,ALT0988,Beverages,Soft Drinks,Lemon Soda Bio 1.5l,Petfriends,1.5,l,1, 1.60 ,,Euro,available,Conad,Milano,2026/02/22 01:57,7840902289514,limited edition
+CON-00989,CP0989,ALT0989,Beverages,Tea,Green Tea Bio,Conad,25.0,pcs,6,EUR 2.03,,eur,,Conad,MILANO,27/02/2026,,seasonal item
+CON-00990,CP0990,ALT0990,Beverages,Tea,Sapori e Dintorni Black Tea Bio confezione,Sapori e Dintorni,37.5,pcs,1,EUR 1.64,,€,in stock,Conad,Milano,2026-01-10,2632254945035,private label
+CON-00991,CP0991,ALT0991,Household,Detergent,Dish Soap Bio 937.5ml,Conad Kids,937.5,ml,1,"€4,74",,EUR,available,Conad,milan,2026/04/03 22:27,6649391792976,
+CON-00992,CP0992,ALT0992,Household,Detergent,Laundry Detergent Bio,Rio Mare,1.5,l,1,"€6,25",,Euro,available,Conad,Milano,24-01-2026,9994517550935,imported
+CON-00993,CP0993,ALT0993,Household,Paper,Toilet Paper Bio 8pcs,Conad,8,pcs,1,EUR 4.81,,€,in stock,Conad,Milan,2026-01-10 00:03:00,1552328384935,
+CON-00994,CP0994,ALT0994,Household,Paper,De Cecco Kitchen Towels Bio,De Cecco,6.0,,1,,,€,in stock,Conad,Milan,18-03-2026,7299854723430,
+CON-00995,CP0995,ALT0995,Household,Cleaning,Petfriends Multi Surface Cleaner Bio,Petfriends,937.5,ml,,"€3,87",,Euro,available, Conad ,Milan,2026-03-13,5562841672176,
+CON-00996,CP0996,ALT0996,Household,Cleaning,De Cecco Bleach Bio confezione,DE CECCO,2.5,l,3,4.77,,EUR,in stock,Conad,MILANO,02-03-2026,8829113469351,imported
+CON-00997,CP0997,ALT0997,Personal Care,Shampoo,Shampoo Bio,Conad Kids,187.5,ml,3,"5,90",4.74,EUR,OUT OF STOCK,Conad,MILANO,03/01/2026,5529641713417,private label
+CON-00998,CP0998,ALT0998,Personal Care,Shampoo,Conditioner Bio 312.5ml,Conad,312.5,ml,2,6.23,,€,limited,Conad,Milan,2026-02-11,1262514033011,
+CON-00999,CP0999,ALT0999,Personal Care,Soap,Piacersi Hand Soap Bio,Piacersi,300,,1,"€3,10",,eur,OUT OF STOCK,Conad,Milan,2026-02-17,5003827874260,seasonal item
+CON-01000,CP1000,ALT1000,Personal Care,Soap,Body Wash Bio,Verso Natura,625.0,ml,1,"4,53",,EUR,low stock,Conad,Milan,16-04-2026,2873692122928,limited edition

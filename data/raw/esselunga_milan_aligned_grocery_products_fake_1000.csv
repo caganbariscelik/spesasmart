@@ -1,0 +1,1001 @@
+store_product_id,canonical_product_id,alt_group_id,category,subcategory,product_name,brand,size,unit,pack_count,price_eur,promo_price_eur,currency,availability,store_name,city,last_updated,barcode,notes
+ESS-00001,CP0001,ALT0001,Dairy,Mozzarella,Atlante Mozzarella 125g,Atlante,125,g,1,2.40,,Euro,low stock,Esselunga,MILANO,2026/02/22 04:03,7012493164598,
+ESS-00002,CP0002,ALT0002,Dairy,Mozzarella,Mozzarella di Bufala 125g,Bio,125,g,3,EUR 2.38,"€1,93",eur,available,Esselunga,Milan,25/01/2026,2735712567212,
+ESS-00003,CP0003,ALT0003,Dairy,Mozzarella,Esselunga Fior di latte mozzarella,Esselunga,200,g,,"€2,17",,EUR,OUT OF STOCK,Esselunga,Milan,2026-03-10,3034136532985,
+ESS-00004,CP0004,ALT0004,Dairy, Yogurt,Fidaty Greek Yogurt 170g,Fidaty,170,g,8,EUR 2.92,,EUR,OUT OF STOCK,Esselunga,Milan,2026-01-10,9174436871638,imported
+ESS-00005,CP0005,ALT0005,Dairy,Yogurt,Strawberry Yogurt,Smart,2,pcs,8,EUR 1.59,,EUR,low stock,Esselunga,MILANO,23/03/2026,5314198872634,imported
+ESS-00006,CP0006,ALT0006,Dairy,Yogurt,Top Plain Yogurt, Top ,500,g,1,1.71,,€,,Esselunga,milan,03-01-2026,7154176604568,
+ESS-00007,CP0007,ALT0007,Dairy,Milk,Top Whole Milk,Top,1,l,3,EUR 2.30,,€,available,Esselunga,MILANO,11-03-2026,,private label
+ESS-00008,CP0008,ALT0008,Dairy,milk,Esselunga Semi-skimmed Milk 1l,Esselunga ,1,l,4,"€1,72",,Euro,limited,Esselunga,milan,27/01/2026,,private label
+ESS-00009,CP0009,ALT0009,Dairy,Milk,Ferrero Lactose Free Milk 1l,Ferrero,1,l,8, 2.33 ,,Euro,available,Esselunga,Milano,2026-03-31,0318393301118,new
+ESS-00010,CP0010,ALT0010,Dairy,Butter,Unsalted Butter,Esselunga,250,g,8,"2,52",,Euro,low stock,Esselunga,milan,2026-03-18 09:15:00,1798387135566,private label
+ESS-00011,CP0011,ALT0011,Dairy,Butter,Salted Butter 250g,Smart,250,g,4,EUR 1.86,,EUR,,Esselunga,Milano,22/01/2026,6947629368426,promo shelf
+ESS-00012,CP0012,ALT0012,Dairy, Cheese ,Bio Parmigiano Reggiano,Bio,200,g,1,2.72,2.23,€,,Esselunga,Milan,2026-01-14 23:48:00,7212151904562,
+ESS-00013,CP0013,ALT0013,Dairy,Cheese,Atlante Gorgonzola 150g,Atlante,150,g,6, 1.82 ,"1,45",eur,available,Esselunga,Milan,2026/02/04 06:55,,check allergen label
+ESS-00014,CP0014,ALT0014,Dairy,Cheese,Rio Mare Ricotta 250g,rio mare,250,g,3,3.31,,Euro,OUT OF STOCK,Esselunga,Milan,2026-01-27 16:49:00,,
+ESS-00015,CP0015,ALT0015,Bakery , Bread,whole wheat bread,Fidaty ,500,g,2,"2,23",,eur,available,Esselunga,Milan,2026/02/28 10:38,6172757355481,
+ESS-00016,CP0016,ALT0016,Bakery,Bread,Ciabatta 300g,Smart,300,g,2,"2,57",2.37,€,in stock,Esselunga,Milano,05/04/2026,9062798958247,new
+ESS-00017,CP0017,ALT0017,Bakery,Bread,Top Sandwich Bread,Top,550,g,1,"€3,05",,€,OUT OF STOCK,Esselunga,Milano,2026-03-26,2206591004436,new
+ESS-00018,CP0018,ALT0018,Bakery,Croissants,Butter Croissant,Atlante,6,,6,2.19,,Euro,available,Esselunga,Milan,2026-03-22 18:31:00,,
+ESS-00019,CP0019,ALT0019,Bakery,Croissants,Smart Chocolate Croissant 6pcs,Smart,6,pcs,2,"1,83",,eur,OUT OF STOCK,Esselunga,MILANO,08-02-2026,4658617284703,new
+ESS-00020,CP0020,ALT0020,Bakery,Cookies,Chocolate Chip Cookies 300g,Lavazza,300,g,4,3.32,,EUR,available,Esselunga,Milan,2026-03-22 21:08:00,7696595965600,check allergen label
+ESS-00021,CP0021,ALT0021,Bakery,Cookies,Digestive Biscuits 400g,Naturama,400,g,1,"2,67",,€,in stock,Esselunga,milan,2026-03-17 08:02:00,3723766041426,check allergen label
+ESS-00022,CP0022,ALT0022,Produce,Tomatoes,Cherry Tomatoes 500g,Top,,g,2,"3,00",,€,,Esselunga,Milan,2026/04/10 04:20,,imported
+ESS-00023,CP0023,ALT0023,Produce,Tomatoes,Naturama Round Tomatoes 1kg,Naturama,1,kg,1,"€4,16",,Euro,low stock,Esselunga,milan,25-01-2026,0078244666694,imported
+ESS-00024,CP0024,ALT0024,Produce,Salad,Iceberg Lettuce,Top,1,pcs,, 3.95 ,,€,low stock,Esselunga,MILANO,10/04/2026,9232572734689,new
+ESS-00025,CP0025,ALT0025,Produce,Salad,Smart Rocket Salad,Smart,125,g,2, 2.46 ,"€2,20",Euro,in stock,Esselunga,MILANO,10/01/2026,8688792449403,limited edition
+ESS-00026,CP0026,ALT0026,Produce,Apples, Atlante Golden Apples 1kg,Atlante,1,kg,1,3.41,,eur,low stock, Esselunga,Milan,2026-03-28 08:34:00,,new
+ESS-00027,CP0027,ALT0027,Produce,Apples,Pink Lady Apples,Atlante,1,kg,1,"€3,36",,€,limited, Esselunga ,Milan,2026/04/01 05:54,1336314098212,
+ESS-00028,CP0028,ALT0028,Produce,Bananas,Bananas 1kg,Top,,kg,1,3.34,,Euro,,Esselunga,Milano,2026-05-01,1765324483438,
+ESS-00029,CP0029,ALT0029,Produce,Potatoes,Smart Potatoes,Smart,2,kg,8,EUR 1.92,,EUR,limited,Esselunga,Milan,2026/01/06 22:06,,limited edition
+ESS-00030,CP0030,ALT0030,Meat,Chicken,Naturama Chicken Breast,Naturama,400,,3,"€6,99",,eur,limited,Esselunga,Milano,2026/02/21 16:52,7625202131167,
+ESS-00031,CP0031,ALT0031,Meat, Chicken ,Naturama Chicken Thighs 500g,Naturama,500,g,1,EUR 9.41,,Euro,,Esselunga,Milan,2026/02/14 23:49,3864267302209,check allergen label
+ESS-00032,CP0032,ALT0032,Meat,BEEF,Minced Beef,Esselunga ,400,g,1,9.27,,Euro,OUT OF STOCK,Esselunga,Milano,2026/02/23 15:28,4677037846797,limited edition
+ESS-00033,CP0033,ALT0033,Meat,Beef,Beef Steak 300g,Esselunga,300,,3,"7,61",,Euro,limited,Esselunga,MILANO,2026-03-31 00:52:00,0183205112134,
+ESS-00034,CP0034,ALT0034,meat,cured meats,Prosciutto Cotto, Atlante ,120,g,1,EUR 4.19,,EUR,,Esselunga,Milano,2026-02-05 11:43:00,7968863124079,private label
+ESS-00035,CP0035,ALT0035,Meat,Cured Meats,De Cecco Salame Milano,De Cecco,100,g,1,EUR 6.97,,Euro,,Esselunga,MILANO,2026/03/09 21:23,9601709217645,
+ESS-00036,CP0036,ALT0036, Pantry ,Pasta,Spaghetti,Rio Mare,500,g,2,EUR 2.17,,eur,OUT OF STOCK,Esselunga,Milan,2026/04/24 04:02,2848987358727,promo shelf
+ESS-00037,CP0037,ALT0037,Pantry,Pasta,Penne Rigate 500g,Fidaty,500,g,1,EUR 4.36,,eur,,Esselunga,milan,2026-01-23 11:42:00,2739835652391,seasonal item
+ESS-00038,CP0038,ALT0038,Pantry,Pasta,Fusilli,Fidaty,500,g,1,EUR 3.34,,eur,in stock,Esselunga,MILANO,2026/03/08 17:45,1421563452636,imported
+ESS-00039,CP0039,ALT0039,Pantry,Rice,Carnaroli Rice,Aia,1,kg,1, 2.73 ,,eur,OUT OF STOCK,Esselunga,Milan,21-04-2026,9449574218842,limited edition
+ESS-00040,CP0040,ALT0040,Pantry,Rice,Atlante Basmati Rice 1kg,Atlante,1,kg,1, 3.66 ,,Euro,OUT OF STOCK,Esselunga,MILANO,09/04/2026,9987591530075,seasonal item
+ESS-00041,CP0041,ALT0041,Pantry,Sauce,Bio Tomato Passata 700ml,Bio,700,ml,2,"€4,12",,eur,OUT OF STOCK,Esselunga,Milan,2026-04-22 23:14:00,4643786243014,limited edition
+ESS-00042,CP0042,ALT0042,Pantry,Sauce,Pesto Genovese,Esselunga,190,g,1,"4,42",,EUR,low stock,Esselunga,Milano,13-03-2026,,check allergen label
+ESS-00043,CP0043,ALT0043,Pantry,Oil,Smart Extra Virgin Olive Oil,Smart,,l,1,EUR 2.07,"1,53",Euro,low stock,Esselunga,Milan,2026-04-17 18:57:00,1498425079669,seasonal item
+ESS-00044,CP0044,ALT0044,Pantry,Oil,Sunflower Oil,Naturama,1,l,1,EUR 2.88,"2,06",eur,,Esselunga,MILANO,2026-04-23 01:38:00,8599475763798,limited edition
+ESS-00045,CP0045,ALT0045,Pantry,flour,Barilla All Purpose Flour,Barilla,1,kg,2, 3.64 ,,EUR,OUT OF STOCK,esselunga,Milan,2026/02/18 22:45,6028586966096,check allergen label
+ESS-00046,CP0046,ALT0046,Pantry,Flour,00 Flour,de cecco,1,kg,4, 3.30 ,,€,in stock,Esselunga,Milan,2026-01-12 15:38:00,8593565352437,
+ESS-00047,CP0047,ALT0047,Pantry,Sugar, Atlante White Sugar 1kg,Atlante,1,kg,4, 4.35 ,,eur,OUT OF STOCK,Esselunga,Milan,2026-01-01 13:08:00,6790175227929,private label
+ESS-00048,CP0048,ALT0048,Pantry,Sugar,Lavazza Brown Sugar 1kg,Lavazza,1,kg,8,2.71,,€,in stock,Esselunga,Milano,2026-02-19,1242695753851,limited edition
+ESS-00049,CP0049,ALT0049,Pantry,Coffee,Ground Coffee,Top,250,g,1,EUR 2.83,"2,18",eur,OUT OF STOCK,Esselunga,Milano,23-04-2026,3728265933804,limited edition
+ESS-00050,CP0050,ALT0050,Pantry,Coffee, Coffee Beans,Bio,500,g,2,EUR 2.19,2.07,eur,,Esselunga ,Milan,2026-04-20 16:30:00,2109367677773,
+ESS-00051,CP0051,ALT0051,Pantry,Cereal,Corn Flakes,Bio,375,g,1, 3.18 ,,EUR,in stock,Esselunga,Milan,2026-03-14 04:47:00,3308923331351,new
+ESS-00052,CP0052,ALT0052,Pantry,Cereal,Aia Muesli 750g,Aia,750,g,1,4.55,,€,,Esselunga,milan,23-03-2026,6483427973029,check allergen label
+ESS-00053,CP0053,ALT0053,Frozen,Pizza,Lavazza Margherita Pizza 350g,Lavazza,350,g,1,6.13,,eur,OUT OF STOCK,Esselunga,milan,2026-02-23,9495165991945,seasonal item
+ESS-00054,CP0054,ALT0054,Frozen,pizza,Smart Vegetable Pizza 380g,smart,380,g,1,4.21,,Euro,low stock,Esselunga,milan,2026-02-27,7795014670936,new
+ESS-00055,CP0055,ALT0055,Frozen,Vegetables,Atlante Frozen Peas 450g, Atlante,450,g,1,"5,44",,€,,Esselunga,Milano,04-02-2026,4079921645752,
+ESS-00056,CP0056,ALT0056,Frozen,Vegetables,Frozen Spinach 450g,Bio,450,g,2, 5.31 ,,EUR,available,Esselunga,MILANO,2026/02/24 07:56,7155661668940,seasonal item
+ESS-00057,CP0057,ALT0057,Frozen,Fish,Frozen Salmon Fillets 400g,Smart,400,g,4,"4,11","3,46",eur,OUT OF STOCK,Esselunga,Milano,25-02-2026,1921269748697,private label
+ESS-00058,CP0058,ALT0058,Frozen,Fish,Fish Fingers,Fidaty,300,g,6,5.77,,eur,limited,Esselunga,Milano,08/03/2026,,new
+ESS-00059,CP0059,ALT0059,Beverages,Water,Rio Mare Still Water 1.5l,Rio Mare,1.5,l,1,"2,68",,Euro,,Esselunga,milan,05-02-2026,,imported
+ESS-00060,CP0060,ALT0060,Beverages,Water,SPARKLING WATER 1.5L,Top,1.5,l,4,1.70,,EUR,OUT OF STOCK,Esselunga,Milano,04-04-2026,3248274635235,imported
+ESS-00061,CP0061,ALT0061,Beverages,Juice,Esselunga Orange Juice,Esselunga,1,l,1,"2,29",,€,limited,Esselunga,Milano,31/01/2026,1779036666369,check allergen label
+ESS-00062,CP0062,ALT0062,Beverages,JUICE,Naturama Apple Juice,Naturama,1,l,4,1.37,,EUR,limited,Esselunga,Milan,18/03/2026,1324527567195,promo shelf
+ESS-00063,CP0063,ALT0063,Beverages,Soft Drinks,Barilla Cola,Barilla,1.5,l,8,"€1,96",,EUR,low stock,Esselunga,Milan,26/02/2026,1514977764913,
+ESS-00064,CP0064,ALT0064,Beverages,Soft Drinks,Lemon Soda,Esselunga,1.5,l,1,"€1,86",,€,,Esselunga,Milano,2026/01/08 19:24,4943457766138,promo shelf
+ESS-00065,CP0065,ALT0065,Beverages,Tea,Smart Green Tea 20pcs,Smart,20,pcs,1,"1,13",,€,low stock,Esselunga,MILANO,2026-01-18,4127066185360,
+ESS-00066,CP0066,ALT0066,Beverages,Tea,Smart Black Tea,Smart,25,pcs,2,EUR 1.85,EUR 1.36,Euro,available,Esselunga,MILANO,11-04-2026,4836567071905,new
+ESS-00067,CP0067,ALT0067,Household,detergent,Atlante Dish Soap 750ml,Atlante,750,ml,2, 4.32 ,,EUR,low stock,Esselunga,milan,2026-03-28 10:03:00,7305886810253,check allergen label
+ESS-00068,CP0068,ALT0068,Household,Detergent,Laundry Detergent 1.5l,Top,1.5,l,8, 7.11 ,EUR 5.46,EUR,OUT OF STOCK,Esselunga,MILANO,2026-01-23,,promo shelf
+ESS-00069,CP0069,ALT0069,Household,Paper,Naturama Toilet Paper,Naturama,8,pcs,4,EUR 7.31,,eur,low stock,Esselunga,Milano,2026-02-20,9859671832130,limited edition
+ESS-00070,CP0070,ALT0070,Household,Paper,Top Kitchen Towels 4pcs,Top,4,pcs,1,,,€,limited,Esselunga,milan,2026-04-23 18:40:00,9903238876766,
+ESS-00071,CP0071,ALT0071,Household,Cleaning,Multi Surface Cleaner 750ml,PARMALAT,750,ml,1,"5,43",,Euro,OUT OF STOCK,Esselunga,Milan,2026-04-29 07:54:00,3293970266382,new
+ESS-00072,CP0072,ALT0072,Household,Cleaning,Smart Bleach,Smart,2,l,2,EUR 4.43,EUR 3.46,Euro,available,Esselunga,Milan,2026-01-31 02:25:00,0302875740589,new
+ESS-00073,CP0073,ALT0073,Personal Care,Shampoo,Shampoo 250ml,Top,250,ml,6,2.80,,Euro,OUT OF STOCK,Esselunga,MILANO,23-04-2026,6745145375257,imported
+ESS-00074,CP0074,ALT0074,Personal Care,Shampoo,Atlante Conditioner 250ml,Atlante,250,ml,1,"€6,84",,€,in stock,Esselunga,Milano,17-01-2026,3385157646705,private label
+ESS-00075,CP0075,ALT0075,Personal Care,Soap,Lavazza Hand Soap,Lavazza,300,ml,2,"€5,09",,Euro,in stock,Esselunga,milan,2026/01/26 00:03,3389234952457,
+ESS-00076,CP0076,ALT0076,Personal Care,Soap,Bio Body Wash 500ml,Bio,500,ml,1,6.51,,eur,available,Esselunga,Milano,05-02-2026,8697476237038,check allergen label
+ESS-00077,CP0077,ALT0077,Personal Care,Toothpaste,Toothpaste,Mulino Bianco,75,ml,1,4.66,,€,in stock,Esselunga,Milan,02/01/2026,0625394185455,check allergen label
+ESS-00078,CP0078,ALT0078,Dairy,MOZZARELLA,Mozzarella Premium 93.75g,Ferrero,93.75,g,2,"€3,40",,eur,available,Esselunga,milan,2026-02-05 14:05:00,,
+ESS-00079,CP0079,ALT0079,Dairy,Mozzarella,Mozzarella di Bufala Premium,Fidaty,93.75,g,6,"€1,63",,Euro,low stock,Esselunga,milan,10-02-2026,8823092587289,seasonal item
+ESS-00080,CP0080,ALT0080,DAIRY,Mozzarella,Naturama Fior di latte mozzarella Premium 200g,Naturama,200,g,6,3.48,,eur,low stock,Esselunga,Milan,01-01-2026,0847491163430,new
+ESS-00081,CP0081,ALT0081,Dairy,Yogurt,Smart Greek Yogurt Premium,Smart,170,g,2,2.94,,€,in stock,Esselunga,milan,04-03-2026,9511084861066,check allergen label
+ESS-00082,CP0082,ALT0082,Dairy,Yogurt,Naturama Strawberry Yogurt Premium,Naturama,2,pcs,1,2.27,"1,83",€,OUT OF STOCK,Esselunga,Milano,09-03-2026,4573216502423,
+ESS-00083,CP0083,ALT0083,Dairy,Yogurt,Plain Yogurt Premium 500g, Fidaty,500,g,1,"3,06",,eur,,Esselunga,milan,09-02-2026,1485333171479,imported
+ESS-00084,CP0084,ALT0084,Dairy,Milk,Bio Whole Milk Premium 0.75l,Bio,0.75,l,1,"€1,56",,EUR,OUT OF STOCK,Esselunga,Milan,2026/04/25 07:23,7680126962505,limited edition
+ESS-00085,CP0085,ALT0085,Dairy,Milk,Semi-skimmed Milk Premium 1.5l, Smart ,1.5,l,1,"1,71",,Euro,OUT OF STOCK,Esselunga,Milan,21/01/2026,4403765439994,new
+ESS-00086,CP0086,ALT0086,Dairy,Milk,Ferrero Lactose Free Milk Premium 0.75l,Ferrero,0.75,l,6,"€1,45", 1.02 ,EUR,OUT OF STOCK,Esselunga,milan,02-01-2026,5905182377210,limited edition
+ESS-00087,CP0087,ALT0087,Dairy,Butter,Smart Unsalted Butter Premium 375g,Smart,375.0,g,1, 2.45 ,,Euro,low stock,Esselunga,milan,2026/01/04 07:35,7374496660723,
+ESS-00088,CP0088,ALT0088,Dairy,Butter,Naturama Salted Butter Premium,Naturama,312.5,g,3,3.30,,eur,low stock,Esselunga,milan,2026-05-01 14:47:00,5160269577526,
+ESS-00089,CP0089,ALT0089,Dairy,Cheese,Bio Parmigiano Reggiano Premium,Bio,150.0,g,6,"3,05",,Euro,available,Esselunga,Milan,2026-02-12 07:46:00,3953952608853,imported
+ESS-00090,CP0090,ALT0090,Dairy,Cheese,Gorgonzola Premium,Ferrero,112.5,g,1,2.05,,Euro,available,Esselunga ,Milano,2026-02-17 10:31:00,,
+ESS-00091,CP0091,ALT0091,Dairy,Cheese,Parmalat Ricotta Premium 187.5g,Parmalat,187.5,g,1,3.51,2.79,EUR,OUT OF STOCK,Esselunga,MILANO,2026-01-08 13:33:00,3072188771699,new
+ESS-00092,CP0092,ALT0092,Bakery ,Bread,Whole Wheat Bread Premium,Granarolo,500,g,1,2.58,,eur,available,Esselunga,MILANO,2026-02-02,2912789885249,
+ESS-00093,CP0093,ALT0093,Bakery,Bread,Fidaty Ciabatta Premium,Fidaty,300,g,3,2.56,,€,limited,Esselunga,MILANO,2026/04/05 20:27,6707169448144,
+ESS-00094,CP0094,ALT0094,Bakery,Bread, Top Sandwich Bread Premium 825g,Top,825.0,g,1,"€2,48",EUR 1.88,eur,limited,Esselunga,milan,26-01-2026,4497992519736,
+ESS-00095,CP0095,ALT0095,Bakery,Croissants,Atlante Butter Croissant Premium 9pcs,Atlante,9.0,pcs,8,2.67,,€,limited,Esselunga,Milan,2026-03-17 03:15:00,,promo shelf
+ESS-00096,CP0096,ALT0096,Bakery,Croissants,Chocolate Croissant Premium,Atlante,4.5,pcs,1,2.94,2.35,€,in stock,Esselunga,Milano,10-03-2026,2707127971763,imported
+ESS-00097,CP0097,ALT0097,Bakery,Cookies,Bio Chocolate Chip Cookies Premium,bio,450.0,g,8,3.53,,Euro,limited,Esselunga,Milan,13/01/2026,4316391584647,seasonal item
+ESS-00098,CP0098,ALT0098,Bakery,Cookies,Lavazza Digestive Biscuits Premium, Lavazza ,400,g,1, 2.51 ,,EUR,,Esselunga,MILANO,2026/01/05 21:45,,
+ESS-00099,CP0099,ALT0099,Produce,Tomatoes,CHERRY TOMATOES PREMIUM 750G,Smart,750.0,,1,2.14,,eur,,Esselunga,Milano,2026/02/02 10:24,3286178058138,check allergen label
+ESS-00100,CP0100,ALT0100,Produce,Tomatoes,Round Tomatoes Premium,Granarolo,1.25,kg,8,EUR 2.04,,EUR,OUT OF STOCK,Esselunga,MILANO,2026/04/30 00:38,0529508687441,promo shelf
+ESS-00101,CP0101,ALT0101,Produce,Salad,Atlante Iceberg Lettuce Premium 1pcs,Atlante,1,pcs,6,3.31,,EUR,available,Esselunga,milan,2026/02/05 12:56,9751937849531,seasonal item
+ESS-00102,CP0102,ALT0102,Produce,Salad,Rocket Salad Premium,Top,156.25,g,4, 2.45 ,,Euro,in stock,Esselunga,MILANO,22-04-2026,3222470810148,promo shelf
+ESS-00103,CP0103,ALT0103,Produce,Apples,Golden Apples Premium ,Top,1.5,kg,3,3.18,"2,89",Euro,low stock,Esselunga,Milan,2026-04-30 01:00:00,5889905808140,new
+ESS-00104,CP0104,ALT0104,Produce,Apples,De Cecco Pink Lady Apples Premium,De Cecco,1,kg,1,1.82,,EUR,,Esselunga,Milano,2026-01-22,6946021246764,
+ESS-00105,CP0105,ALT0105,Produce,bananas,Bananas Premium 0.75kg,Smart,0.75,kg,2,3.69,,EUR,limited,Esselunga,Milan,2026-05-01,4656571665781,check allergen label
+ESS-00106,CP0106,ALT0106,Produce,Potatoes,De Cecco Potatoes Premium 2kg,De Cecco,2,kg,6,"€2,55",,€,limited,Esselunga,Milan,23/01/2026,,limited edition
+ESS-00107,CP0107,ALT0107,Meat,Chicken,Chicken Breast Premium,Bio,500.0,g,2,, 3.13 ,eur,low stock,Esselunga,Milano,2026/02/24 16:37,4278859881920,private label
+ESS-00108,CP0108,ALT0108,Meat,Chicken,Smart Chicken Thighs Premium 500g,Smart,500,g,6,"4,92",,Euro,OUT OF STOCK,Esselunga,milan,2026-04-16 06:47:00,5578022801771,seasonal item
+ESS-00109,CP0109,ALT0109,Meat,Beef,Minced Beef Premium,Esselunga,400,g,1,"5,51",,€,in stock,Esselunga,milan,2026-02-01,,seasonal item
+ESS-00110,CP0110,ALT0110,Meat,Beef,Barilla Beef Steak Premium,Barilla,300,g,6,EUR 6.31,,Euro,,Esselunga,Milano,2026-01-30,8384378260187,imported
+ESS-00111,CP0111,ALT0111,Meat,Cured Meats,Smart Prosciutto Cotto Premium 120g,Smart,120,g,3,EUR 4.88,,Euro,available,Esselunga,MILANO,04-03-2026,0218852114846,seasonal item
+ESS-00112,CP0112,ALT0112,Meat,Cured Meats,Salame Milano Premium,Top,100,g,8, 5.13 ,,Euro,OUT OF STOCK,Esselunga,Milan,2026-03-15 02:28:00,7069392853202,promo shelf
+ESS-00113,CP0113,ALT0113,Pantry,Pasta,Bio Spaghetti Premium 375g,Bio,375.0,g,8,"€4,77",,Euro,limited,Esselunga,Milano,2026-01-10 16:05:00,4592118572350,limited edition
+ESS-00114,CP0114,ALT0114,Pantry,Pasta,Penne Rigate Premium,Mulino Bianco,375.0,g,6,"€3,60",,Euro,,Esselunga,Milano,31/01/2026,2008100142866,new
+ESS-00115,CP0115,ALT0115,Pantry,Pasta,Fusilli Premium 625g,Smart,625.0,g,4,3.07,,EUR,,Esselunga,Milano,2026/01/30 15:20,7242274966529,
+ESS-00116,CP0116,ALT0116,Pantry,Rice,Carnaroli Rice Premium 0.75kg,Aia,0.75,kg,8,"5,08",,eur,OUT OF STOCK,Esselunga,MILANO,03-03-2026,7734265875031,
+ESS-00117,CP0117,ALT0117, Pantry,Rice,Mutti Basmati Rice Premium,Mutti,1,kg,1,EUR 3.54,,Euro,,Esselunga,MILANO,15-01-2026,1712435668303,promo shelf
+ESS-00118,CP0118,ALT0118,Pantry,Sauce,Tomato Passata Premium,Atlante,700,ml,1,EUR 4.75,,EUR,, Esselunga,Milan,2026-02-24 01:46:00,7646126149936,private label
+ESS-00119,CP0119,ALT0119,Pantry,Sauce,Top Pesto Genovese Premium,Top,285.0,g,8,3.30,,€,available,Esselunga,MILANO,04-04-2026,2105164078704,private label
+ESS-00120,CP0120,ALT0120,Pantry,Oil, Fidaty Extra Virgin Olive Oil Premium ,Fidaty,1,l,2,4.13,,€,low stock,Esselunga,MILANO,2026-03-06,4899071299699,imported
+ESS-00121,CP0121,ALT0121,PANTRY,Oil,Bio Sunflower Oil Premium 0.75l,Bio,0.75,l,8,EUR 2.62,,eur,available,Esselunga,MILANO,29/04/2026,8841577129184,
+ESS-00122,CP0122,ALT0122,Pantry,Flour,Galbani All Purpose Flour Premium,Galbani,1.25,kg,1, 3.17 ,,€,limited,Esselunga,milan,2026-02-19,6302282933528,imported
+ESS-00123,CP0123,ALT0123,Pantry,Flour, 00 Flour Premium ,Fidaty,1.5,kg,6, 4.90 ,,€,OUT OF STOCK, Esselunga ,Milan,2026-01-07,1850880875645,limited edition
+ESS-00124,CP0124,ALT0124, Pantry ,Sugar,Naturama White Sugar Premium 0.75kg,Naturama,0.75,kg,1, 4.12 ,,€,available,Esselunga,Milan,2026-03-05 06:09:00,6364653334774,
+ESS-00125,CP0125,ALT0125,Pantry,Sugar,Brown Sugar Premium 1.25kg,Smart,1.25,kg,1,3.57,,€,in stock,Esselunga,MILANO,25-03-2026,5052194050472,seasonal item
+ESS-00126,CP0126,ALT0126,Pantry,Coffee,Ground Coffee Premium,Esselunga,187.5,g,,"€4,09",,€,low stock,Esselunga,Milano,06/03/2026,5397885874895,limited edition
+ESS-00127,CP0127,ALT0127,Pantry,Coffee,Atlante Coffee Beans Premium 750g,Atlante,750.0,g,3,"€2,82",,€,limited,Esselunga,milan,2026/03/01 08:30,2123848775619,limited edition
+ESS-00128,CP0128,ALT0128,Pantry,Cereal,Corn Flakes Premium,Ferrero,375,g,, 3.62 ,,€,,Esselunga,Milan,2026/03/14 13:25,5919344246271,seasonal item
+ESS-00129,CP0129,ALT0129,Pantry,Cereal,Muesli Premium 1125g,Top,1125.0,g,6, 4.87 ,"€4,60",EUR,low stock,Esselunga,Milan,2026-02-26,0878757882737,private label
+ESS-00130,CP0130,ALT0130,Frozen,Pizza, Margherita Pizza Premium 350g,Smart,350,g,2, 4.31 ,,€,in stock,Esselunga,Milano,2026/02/03 03:42,0729629010793,check allergen label
+ESS-00131,CP0131,ALT0131,Frozen,Pizza ,Vegetable Pizza Premium 570g,Naturama,570.0,g,4,3.09,,Euro,available,Esselunga,MILANO,2026/04/10 15:09,9870884075538,limited edition
+ESS-00132,CP0132,ALT0132,Frozen,Vegetables,Frozen Peas Premium 450g,Bio,450,g,1,3.84,,€,in stock,Esselunga,Milano,10-03-2026,2815683870278,check allergen label
+ESS-00133,CP0133,ALT0133,Frozen,Vegetables,Frozen Spinach Premium,Top,337.5,g,1,5.72,,Euro,,Esselunga,Milano,2026-01-15 07:37:00,6848368167238,limited edition
+ESS-00134,CP0134,ALT0134,Frozen,Fish, Frozen Salmon Fillets Premium,Bio,300.0,g,4, 4.38 ,,Euro,available,Esselunga,Milan,2026-03-17,8988108558723,private label
+ESS-00135,CP0135,ALT0135,frozen,Fish,Aia Fish Fingers Premium 300g,aia,300,g,1, 5.60 ,,eur,in stock,Esselunga,Milano,24-02-2026,1155661340475,promo shelf
+ESS-00136,CP0136,ALT0136,Beverages,Water ,Top Still Water Premium 1.5l,Top,1.5,l,1, 1.62 ,,eur,OUT OF STOCK,Esselunga,milan,2026-01-27 01:06:00,3638364722455,seasonal item
+ESS-00137,CP0137,ALT0137,Beverages,Water,Naturama Sparkling Water Premium,Naturama,1.12,l,3,2.00,"€1,57",EUR,in stock,Esselunga,milan,2026-03-17 17:23:00,,seasonal item
+ESS-00138,CP0138,ALT0138,Beverages,Juice,Orange Juice Premium,Atlante,1,l,3,"1,38",,EUR,available,Esselunga,Milano,2026-01-08 11:34:00,1303846912815,
+ESS-00139,CP0139,ALT0139,Beverages,Juice,Parmalat Apple Juice Premium 0.75l,Parmalat,0.75,l,1,"€2,70",,Euro,available,Esselunga,Milan,21-01-2026,9474508098971,private label
+ESS-00140,CP0140,ALT0140,Beverages,Soft Drinks,cola premium 1.88l,top,1.88,l,3, 2.43 , 1.96 ,EUR,OUT OF STOCK,Esselunga,milan,2026-03-26 12:17:00,2969454191378,seasonal item
+ESS-00141,CP0141,ALT0141,Beverages,Soft Drinks,Lemon Soda Premium,Aia,1.5,l,2,1.33,,Euro,OUT OF STOCK,Esselunga,Milano,2026/03/23 10:44,,imported
+ESS-00142,CP0142,ALT0142,Beverages,Tea,Green Tea Premium 25pcs,Smart,25.0,pcs,4,"€1,58",,€,in stock,Esselunga,milan,2026-03-18,5425275056880,check allergen label
+ESS-00143,CP0143,ALT0143,Beverages,Tea,Black Tea Premium 25pcs,Bio,25,pcs,1,1.85,,eur,limited,Esselunga,Milan,05/03/2026,2776746958819,check allergen label
+ESS-00144,CP0144,ALT0144,Household,Detergent,Dish Soap Premium,Bio,750,ml,3, 5.07 ,,Euro,limited,Esselunga,MILANO,2026-03-10 07:44:00,0536678320316,seasonal item
+ESS-00145,CP0145,ALT0145,Household,Detergent,Atlante Laundry Detergent Premium,Atlante,1.5,l,3,5.77,,EUR,low stock, Esselunga,MILANO,2026-03-27,6280193889531,
+ESS-00146,CP0146,ALT0146,Household,Paper,Toilet Paper Premium 8pcs, Mulino Bianco ,8,pcs,3,"5,53","4,54",Euro,OUT OF STOCK, Esselunga,Milano,13/04/2026,4789225182613,
+ESS-00147,CP0147,ALT0147,Household,Paper,Kitchen Towels Premium 4pcs ,Lavazza,4,pcs,8,4.33,EUR 3.97,Euro,available,Esselunga,Milano,2026-02-22 17:34:00,6821407373087,
+ESS-00148,CP0148,ALT0148,Household,Cleaning,Multi Surface Cleaner Premium 750ml,Mulino Bianco,750,ml,1,EUR 3.89,3.59,eur,,Esselunga,MILANO,2026/03/26 07:08,7988892132738,
+ESS-00149,CP0149,ALT0149,Household,Cleaning,Bleach Premium 1.5l,granarolo,1.5,l,8,6.65, 4.88 ,Euro,OUT OF STOCK,Esselunga,Milano,2026/02/26 06:35,4780079246366,seasonal item
+ESS-00150,CP0150,ALT0150,Personal Care,Shampoo,Shampoo Premium 375ml,Atlante,375.0,ml,,4.25,,Euro,in stock,Esselunga,Milano,28-01-2026,1135980433315,
+ESS-00151,CP0151,ALT0151,Personal Care,Shampoo,Conditioner Premium,Fidaty,,ml,1,"3,24",EUR 2.60,EUR,,Esselunga,Milano,13/03/2026,6331614082310,new
+ESS-00152,CP0152,ALT0152,Personal Care,Soap,Hand Soap Premium,Bio,450.0,ml,8,,,€,available,Esselunga,Milan,09-02-2026,5951763524130,limited edition
+ESS-00153,CP0153,ALT0153,personal care,Soap,Body Wash Premium,Naturama,500,ml,4,3.17,,€,low stock, Esselunga,Milano,27/02/2026,7997526158789,check allergen label
+ESS-00154,CP0154,ALT0154,Personal Care,Toothpaste,Atlante Toothpaste Premium,Atlante,75,ml,1,5.89,,eur,OUT OF STOCK,Esselunga,milan,16-03-2026,3717419066954,imported
+ESS-00155,CP0155,ALT0155,Dairy,Mozzarella,Bio Mozzarella Bio,Bio,156.25,g,2,EUR 2.47,,EUR,available,Esselunga,Milano,17/04/2026,8318172035796,limited edition
+ESS-00156,CP0156,ALT0156,Dairy,Mozzarella,Mozzarella di Bufala Bio,Atlante,156.25,g,4,"1,48",,€,in stock,Esselunga,milan,05/04/2026,1147546624822,limited edition
+ESS-00157,CP0157,ALT0157,Dairy,Mozzarella,Fior di latte mozzarella Bio,Top ,200,g,1,3.37,2.42,eur,limited,Esselunga,MILANO,2026-03-12,7464533164950,check allergen label
+ESS-00158,CP0158,ALT0158,Dairy,Yogurt,Atlante Greek Yogurt Bio 255g,Atlante,255.0,g,8,2.05,,Euro,low stock,Esselunga,Milano,09-02-2026,5760188304154,
+ESS-00159,CP0159,ALT0159,Dairy,Yogurt,Smart Strawberry Yogurt Bio 2pcs, Smart ,2,pcs,8, 1.94 ,"1,47",EUR,,Esselunga,MILANO,2026/01/19 13:57,9370118596897,new
+ESS-00160,CP0160,ALT0160,Dairy,Yogurt,Esselunga Plain Yogurt Bio 500g,Esselunga,500,g,4,"1,46",,Euro,available,Esselunga,MILANO,2026-04-05 00:04:00,2416119540627,
+ESS-00161,CP0161,ALT0161,Dairy,Milk,Fidaty Whole Milk Bio,Fidaty,0.75,l,1,"€2,59",,€,low stock,Esselunga,Milan,22/01/2026,2567725038561,check allergen label
+ESS-00162,CP0162,ALT0162,Dairy,Milk,Semi-skimmed Milk Bio,Naturama,1,l,1, 3.54 ,"2,65",EUR,,Esselunga,Milan,30/04/2026,,imported
+ESS-00163,CP0163,ALT0163,Dairy,Milk, Smart Lactose Free Milk Bio 0.75l ,Smart,0.75,l,3, 2.54 ,"2,23",EUR,low stock,Esselunga,MILANO,2026-02-27 04:09:00,4273795723816,seasonal item
+ESS-00164,CP0164,ALT0164,Dairy,Butter,Atlante Unsalted Butter Bio,Atlante,250,g,1,"1,74", 1.26 ,Euro,low stock,Esselunga,milan,2026-01-30,2223208738570,new
+ESS-00165,CP0165,ALT0165,Dairy,Butter,Atlante Salted Butter Bio 312.5g,Atlante,312.5,g,4,3.25,EUR 2.67,eur,limited,Esselunga,Milano,2026-02-24 23:21:00,1519317844988,promo shelf
+ESS-00166,CP0166,ALT0166,Dairy,Cheese,Parmigiano Reggiano Bio 200g,Atlante,200,g,8,EUR 1.85,,eur,OUT OF STOCK,Esselunga,milan,23-03-2026,0053558823481,new
+ESS-00167,CP0167,ALT0167,Dairy,CHEESE,Atlante Gorgonzola Bio,Atlante,112.5,g,2,"€3,21",,eur,OUT OF STOCK,Esselunga,milan,2026/04/03 09:56,4153307066670,promo shelf
+ESS-00168,CP0168,ALT0168,Dairy,Cheese,Ricotta Bio,Naturama,250,g,1,"€3,42","2,88",Euro,limited,Esselunga,Milan,30/03/2026,9170379306189,check allergen label
+ESS-00169,CP0169,ALT0169,Bakery,Bread,Top Whole Wheat Bread Bio,Top,750.0,g,1, 3.83 ,,Euro,low stock,Esselunga,MILANO,2026/03/31 19:37,,imported
+ESS-00170,CP0170,ALT0170,Bakery,Bread,Ciabatta Bio 300g,Bio,300,g,2,"3,06",,EUR,low stock,Esselunga,Milano,2026/01/13 16:40,,check allergen label
+ESS-00171,CP0171,ALT0171,Bakery,Bread,Sandwich Bread Bio,Esselunga,550,g,3,3.54,,Euro,OUT OF STOCK,Esselunga,Milan,2026-04-27,5155674092016,limited edition
+ESS-00172,CP0172,ALT0172,Bakery,Croissants,Atlante Butter Croissant Bio 7.5pcs,Atlante,7.5,pcs,1,"€3,04",2.83,Euro,,Esselunga,Milano,2026/01/14 15:10,5484000040046,
+ESS-00173,CP0173,ALT0173,Bakery,Croissants,Galbani Chocolate Croissant Bio 7.5pcs,Galbani,,pcs,3,"€2,52",,eur,OUT OF STOCK,Esselunga,Milan,2026-03-22,3807951181216,promo shelf
+ESS-00174,CP0174,ALT0174,Bakery,Cookies, Naturama Chocolate Chip Cookies Bio 375g ,Naturama,375.0,g,1,1.86,,Euro,,Esselunga,Milan,2026-01-17,3231976702546,limited edition
+ESS-00175,CP0175,ALT0175,Bakery,Cookies,Aia Digestive Biscuits Bio 400g,Aia,400,g,3,2.25,,eur,low stock,Esselunga,Milano,11/01/2026,2447929759144,private label
+ESS-00176,CP0176,ALT0176,Produce,Tomatoes,Fidaty Cherry Tomatoes Bio 500g,Fidaty,500,g,4,"€3,28",,Euro,low stock, Esselunga,Milan,01-03-2026,4973780534251,promo shelf
+ESS-00177,CP0177,ALT0177,Produce,Tomatoes,Round Tomatoes Bio,Atlante,1,kg,8,"€2,07",,EUR,low stock,Esselunga,Milan,07-01-2026,2599317697085,limited edition
+ESS-00178,CP0178,ALT0178,Produce,Salad,Iceberg Lettuce Bio,Atlante,1,pcs,, 2.04 ,,€,available,Esselunga,MILANO,2026-01-04,7702501554494,new
+ESS-00179,CP0179,ALT0179,Produce,Salad,Ferrero Rocket Salad Bio 187.5g,Ferrero,187.5,g,2,2.60,,Euro,available,Esselunga,MILANO,2026/04/05 16:08,2050953072772,imported
+ESS-00180,CP0180,ALT0180,Produce,Apples,Golden Apples Bio 1.5kg,Naturama,1.5,kg,8,3.27,,Euro,in stock,Esselunga,MILANO,2026-01-18,2764482943500,
+ESS-00181,CP0181,ALT0181,Produce,Apples,Pink Lady Apples Bio,Fidaty,1,kg,8,2.90,EUR 2.39,eur,,Esselunga,milan,29/04/2026,2501691569780,promo shelf
+ESS-00182,CP0182,ALT0182,Produce,Bananas,Bananas Bio 1.5kg,Fidaty,1.5,kg,2,EUR 3.02, 2.51 ,eur,limited,Esselunga,MILANO,2026/02/17 01:49,1801695991129,new
+ESS-00183,CP0183,ALT0183,Produce,Potatoes,Smart Potatoes Bio 2.5kg,Smart,2.5,kg,8,"4,41",,eur,low stock,Esselunga,Milano,15-03-2026,9423943837542,
+ESS-00184,CP0184,ALT0184,Meat, Chicken ,Chicken Breast Bio,Bio,600.0,g,4,8.02,EUR 6.87,eur,in stock,Esselunga,milan,26/04/2026,7992448372687,
+ESS-00185,CP0185,ALT0185,Meat,Chicken,Chicken Thighs Bio 625g,Smart,625.0,g,3,EUR 8.97,,Euro,low stock,Esselunga,milan,29/04/2026,9652415731802,
+ESS-00186,CP0186,ALT0186,Meat,Beef,Esselunga Minced Beef Bio 400g,ESSELUNGA,400,g,3, 6.48 ,"€4,65",Euro,limited,Esselunga,milan,28/04/2026,1101584567313,new
+ESS-00187,CP0187,ALT0187,Meat,Beef,Naturama Beef Steak Bio,Naturama,300,g,8,"8,00",,EUR,limited,Esselunga,MILANO,04/04/2026,7010149262189,limited edition
+ESS-00188,CP0188,ALT0188,Meat,Cured Meats,Prosciutto Cotto Bio 120g,Atlante,120,g,6,"7,77",7.35,EUR,OUT OF STOCK,Esselunga,Milano,15-01-2026,8004501531195,
+ESS-00189,CP0189,ALT0189,Meat,Cured Meats,SALAME MILANO BIO,Atlante,150.0,g,, 6.61 ,,€,low stock,Esselunga,milan,14-03-2026,4224640694861,limited edition
+ESS-00190,CP0190,ALT0190,Pantry,Pasta,Spaghetti Bio,Atlante,625.0,g,8,"€2,86",2.37,EUR,low stock,Esselunga,milan,2026-03-17 08:58:00,7865044414429,imported
+ESS-00191,CP0191,ALT0191,Pantry,Pasta,Penne Rigate Bio 375g,Bio,375.0,g,1,"3,62",,Euro,low stock,Esselunga,MILANO,2026/04/26 14:51,,private label
+ESS-00192,CP0192,ALT0192,Pantry, Pasta ,Naturama Fusilli Bio, Naturama,375.0,g,8, 4.84 ,,Euro,limited,Esselunga,Milan,14-02-2026,1054171500760,check allergen label
+ESS-00193,CP0193,ALT0193,Pantry,Rice,Mutti Carnaroli Rice Bio 0.75kg,Mutti,0.75,kg,1,EUR 2.39,,Euro,in stock,Esselunga,MILANO,2026-01-04,7219228349143,
+ESS-00194,CP0194,ALT0194,Pantry,Rice,Fidaty Basmati Rice Bio,Fidaty,1,kg,8,"€3,49",2.76,eur,,Esselunga,milan,2026/02/15 05:09,7698801225620,promo shelf
+ESS-00195,CP0195,ALT0195,Pantry,Sauce,Smart Tomato Passata Bio,Smart,700,ml,1,4.79,,Euro,,Esselunga,Milano,2026/04/03 12:01,9151676166296,private label
+ESS-00196,CP0196,ALT0196,Pantry,Sauce,Pesto Genovese Bio,Bio,237.5,g,1,4.43,,eur,limited,Esselunga,milan,2026-03-16 22:09:00,0694097873871,seasonal item
+ESS-00197,CP0197,ALT0197,Pantry,Oil,Extra Virgin Olive Oil Bio 1.5l,Fidaty,1.5,l,1,2.96,"€2,11",eur,in stock,Esselunga,milan,2026/03/07 22:46,6089706493759,
+ESS-00198,CP0198,ALT0198,Pantry, Oil,Bio Sunflower Oil Bio 0.75l, Bio,0.75,l,4,EUR 3.99,EUR 3.62,€,OUT OF STOCK,Esselunga,Milan,2026-05-01,0198575473880,promo shelf
+ESS-00199,CP0199,ALT0199,Pantry,Flour,All Purpose Flour Bio,Top,,kg,4, 3.26 ,,EUR,OUT OF STOCK,Esselunga,Milano,17/04/2026,1178875051391,
+ESS-00200,CP0200,ALT0200,Pantry,Flour,Naturama 00 Flour Bio 1.25kg,naturama,1.25,kg,1, 3.19 ,2.46,€,available,Esselunga,Milan,04-04-2026,2689947387930,
+ESS-00201,CP0201,ALT0201,Pantry,Sugar,Top White Sugar Bio 1.5kg,Top,1.5,kg,4,"2,69",EUR 2.54,eur,low stock,Esselunga,Milano,2026-04-14 03:40:00,1936694364365,check allergen label
+ESS-00202,CP0202,ALT0202,Pantry,Sugar,Top Brown Sugar Bio,Top,1.25,kg,3,4.92,,€,available,Esselunga,Milano,2026-02-22 09:21:00,6330230423338,private label
+ESS-00203,CP0203,ALT0203,Pantry,Coffee,Ground Coffee Bio 375g ,Atlante,,,4,"3,28",,Euro,available,Esselunga,milan,03-03-2026,6027578966368,
+ESS-00204,CP0204,ALT0204,Pantry,Coffee,Coffee Beans Bio,Atlante,,g,1,"€2,22",,eur,OUT OF STOCK,Esselunga,Milano,2026/02/10 02:31,6210986367828,new
+ESS-00205,CP0205,ALT0205,Pantry,Cereal,Corn Flakes Bio,Esselunga,562.5,g,6,"3,88", 3.08 ,eur,low stock,Esselunga,MILANO,2026-03-21,1792241997970,promo shelf
+ESS-00206,CP0206,ALT0206,Pantry,Cereal,Top Muesli Bio,Top,562.5,g,4, 2.89 ,,eur,limited,Esselunga,milan,21-02-2026,2602131806664,limited edition
+ESS-00207,CP0207,ALT0207,Frozen,Pizza,Rio Mare Margherita Pizza Bio 262.5g,Rio Mare,262.5,g,1,EUR 2.60,,EUR,limited,Esselunga,MILANO,2026-04-29,5781373142175,new
+ESS-00208,CP0208,ALT0208,Frozen,Pizza,Top Vegetable Pizza Bio 570g,Top,570.0,g,3, 4.88 ,,Euro,available,Esselunga,Milano,2026-02-23,7846401577466,new
+ESS-00209,CP0209,ALT0209,Frozen,Vegetables,Rio Mare Frozen Peas Bio 450g,Rio Mare,450,g,3,3.86,EUR 3.57,eur,limited,Esselunga,MILANO,2026-03-02,0154138273868,seasonal item
+ESS-00210,CP0210,ALT0210,Frozen,Vegetables,Frozen Spinach Bio 450g,Top,450,g,6,EUR 5.80,,Euro,in stock,esselunga,MILANO,2026-03-15 08:43:00,,seasonal item
+ESS-00211,CP0211,ALT0211,Frozen,Fish,Frozen Salmon Fillets Bio,Top,300.0,g,1,"2,82",,Euro,available,Esselunga,MILANO,09-02-2026,,check allergen label
+ESS-00212,CP0212,ALT0212,Frozen,Fish,Esselunga Fish Fingers Bio ,Esselunga,300,g,4, 2.93 ,,Euro,limited,Esselunga,MILANO,28/01/2026,0522589873073,limited edition
+ESS-00213,CP0213,ALT0213,Beverages,Water ,Still Water Bio,Lavazza,1.88,l,1,EUR 2.43,,EUR,limited,Esselunga,milan,2026/05/01 03:51,,
+ESS-00214,CP0214,ALT0214,Beverages,Water,Sparkling Water Bio 1.5l,Mulino Bianco,1.5,l,3,1.89,,€,in stock,Esselunga,Milan,26-03-2026,4116028595388,new
+ESS-00215,CP0215,ALT0215, Beverages ,juice,Bio Orange Juice Bio 1.25l,Bio,1.25,l,4,"2,65",,eur,in stock,Esselunga,Milano,11/03/2026,,seasonal item
+ESS-00216,CP0216,ALT0216,Beverages,Juice,Apple Juice Bio 0.75l,Naturama,0.75,l,3,"€1,95",,Euro,available,Esselunga,milan,2026/01/09 01:57,7724649728341,limited edition
+ESS-00217,CP0217,ALT0217,Beverages ,Soft Drinks,Cola Bio,Esselunga,1.5,l,1,"€2,65",,eur,in stock,Esselunga,milan,2026-04-15 20:52:00,5859702489105,
+ESS-00218,CP0218,ALT0218,Beverages,Soft Drinks,Smart Lemon Soda Bio,Smart,2.25,l,3,"2,56",,€,limited,Esselunga,milan,24-04-2026,8063139594357,new
+ESS-00219,CP0219,ALT0219,Beverages,Tea,Atlante Green Tea Bio 20pcs,Atlante,20,pcs,2,"2,17",,EUR,,Esselunga,milan,30-03-2026,8937707050709,
+ESS-00220,CP0220,ALT0220,Beverages,Tea,Naturama Black Tea Bio,Naturama,37.5,pcs,2,"2,71",,Euro,OUT OF STOCK,Esselunga,Milano,2026-01-23 08:22:00,,seasonal item
+ESS-00221,CP0221,ALT0221,Household,Detergent,Dish Soap Bio,Esselunga,562.5,ml,2,"€7,65",,Euro,limited,Esselunga,Milano,2026/01/18 07:41,1983857928262,imported
+ESS-00222,CP0222,ALT0222,Household,Detergent,Esselunga Laundry Detergent Bio,Esselunga,1.5,l,4,7.28, 6.19 ,€,,Esselunga,Milan,2026-04-22 03:32:00,3134756196176,seasonal item
+ESS-00223,CP0223,ALT0223,Household,Paper,Toilet Paper Bio 12pcs,Esselunga,12.0,pcs,1,6.73,,Euro,in stock,Esselunga,milan,2026/04/16 03:52,0631905376932,imported
+ESS-00224,CP0224,ALT0224,Household,Paper,Kitchen Towels Bio 6pcs,Smart,6.0,pcs,6, 7.31 ,,eur,,Esselunga,Milan,2026-02-22,7931444941996,seasonal item
+ESS-00225,CP0225,ALT0225,Household,Cleaning,Multi Surface Cleaner Bio,Bio,750,ml,1,EUR 4.21,"€3,24",€,in stock,Esselunga,Milano,2026-03-21 02:53:00,1103186720759,imported
+ESS-00226,CP0226,ALT0226,Household,Cleaning,Mulino Bianco Bleach Bio 2l,Mulino Bianco,2,l,6, 7.43 ,5.96,EUR,in stock,Esselunga,MILANO,07-02-2026,4756657329774,imported
+ESS-00227,CP0227,ALT0227,Personal Care,Shampoo,Top Shampoo Bio 250ml ,Top,250,ml,1, 4.14 ,3.68,EUR,available,Esselunga,MILANO,15-01-2026,0534289078162,new
+ESS-00228,CP0228,ALT0228,Personal Care,Shampoo,Conditioner Bio, Esselunga,250,ml,1,4.81,,€,in stock,Esselunga,MILANO,06/03/2026,9467099608749,check allergen label
+ESS-00229,CP0229,ALT0229,Personal Care,Soap,Hand Soap Bio 450ml,Esselunga,450.0,ml,1,"€6,46",,eur,OUT OF STOCK,Esselunga,MILANO,2026-03-18 04:35:00,8627482300971,promo shelf
+ESS-00230,CP0230,ALT0230,Personal Care,Soap,Body Wash Bio,Bio,750.0,ml,1,5.29,,€,available,Esselunga,Milano,27/03/2026,2464913716509,new
+ESS-00231,CP0231,ALT0231,Personal Care,Toothpaste,Toothpaste Bio 56.25ml,Naturama,56.25,ml,2,4.36,,EUR,,Esselunga,Milano,28-04-2026,4644940581519,imported
+ESS-00232,CP0232,ALT0232,Dairy,Mozzarella,Fidaty Mozzarella Family Pack 187.5g,Fidaty,187.5,g,,"€2,51",,Euro,, Esselunga,Milano,2026-01-07,6611772942067,
+ESS-00233,CP0233,ALT0233,Dairy,Mozzarella ,Esselunga Mozzarella di Bufala Family Pack 125g,Esselunga,125,g,1, 3.06 ,,Euro,limited,Esselunga,Milano,27/04/2026,1861759896224,limited edition
+ESS-00234,CP0234,ALT0234,Dairy,Mozzarella,Fior di latte mozzarella Family Pack,Naturama,250.0,g,,EUR 2.84,"2,18",eur,OUT OF STOCK,Esselunga,Milan,13-04-2026,7085942682395,promo shelf
+ESS-00235,CP0235,ALT0235,Dairy,Yogurt,Greek Yogurt Family Pack 127.5g,Bio,127.5,g,1,1.98,,€,in stock,Esselunga,milan,15/03/2026,0839731752523,new
+ESS-00236,CP0236,ALT0236,Dairy,Yogurt,Barilla Strawberry Yogurt Family Pack 1.5pcs,Barilla,1.5,pcs,8,1.62,EUR 1.28,€,,Esselunga,milan,2026/01/29 07:58,2940782862558,check allergen label
+ESS-00237,CP0237,ALT0237,Dairy,Yogurt,Plain Yogurt Family Pack 500g,Top,500,g,1,"€3,07","2,48",eur,available,Esselunga,Milan,2026-01-02,7501153270341,private label
+ESS-00238,CP0238,ALT0238,Dairy,Milk,Atlante Whole Milk Family Pack 1l,Atlante,1,l,6,"€2,40",,Euro,in stock,Esselunga,milan,2026-03-31 07:49:00,8122396575376,promo shelf
+ESS-00239,CP0239,ALT0239, Dairy ,Milk, De Cecco Semi-skimmed Milk Family Pack 1l ,De Cecco,1,l,1,"2,14",,Euro,in stock,Esselunga,Milano,05-03-2026,,seasonal item
+ESS-00240,CP0240,ALT0240,Dairy,Milk,Lactose Free Milk Family Pack 0.75l,FIDATY,0.75,l,2,1.99, 1.87 ,eur,available,Esselunga,MILANO,2026-01-20,3056956250969,promo shelf
+ESS-00241,CP0241,ALT0241,Dairy,Butter,Unsalted Butter Family Pack 250g,Fidaty,250,g,1,2.62,,Euro,in stock,Esselunga,Milan,04-01-2026,,promo shelf
+ESS-00242,CP0242,ALT0242,Dairy,Butter,Smart Salted Butter Family Pack,Smart,375.0,g,3,"2,15",,Euro,,Esselunga,MILANO,2026-01-12 10:47:00,3191804384309,limited edition
+ESS-00243,CP0243,ALT0243,Dairy,Cheese,Parmigiano Reggiano Family Pack,Fidaty,150.0,g,3,EUR 3.12,,€,available,Esselunga,Milano,30/01/2026,2659746030231,seasonal item
+ESS-00244,CP0244,ALT0244,Dairy,Cheese,Rio Mare Gorgonzola Family Pack,Rio Mare,112.5,g,2,"3,08",,EUR,available,Esselunga,milan,17/04/2026,2618910953100,seasonal item
+ESS-00245,CP0245,ALT0245,Dairy,Cheese,Atlante Ricotta Family Pack,Atlante,312.5,g,2,2.87,"2,24",EUR,low stock,Esselunga,Milano,2026-01-15,,check allergen label
+ESS-00246,CP0246,ALT0246,Bakery,Bread,Whole Wheat Bread Family Pack,Bio,375.0,g,6,1.77,,EUR,available,Esselunga,Milan,2026/02/02 02:04,3501626251049,
+ESS-00247,CP0247,ALT0247,Bakery,Bread,Ciabatta Family Pack,Smart,450.0,g,1,"€3,73",,eur,OUT OF STOCK,Esselunga,MILANO,23/03/2026,6653390363857,private label
+ESS-00248,CP0248,ALT0248,Bakery,Bread,Barilla Sandwich Bread Family Pack,Barilla,550,g,3,"3,72",,Euro,OUT OF STOCK,Esselunga,Milan,2026/02/17 15:11,5846420181902,
+ESS-00249,CP0249,ALT0249,Bakery,Croissants,Esselunga Butter Croissant Family Pack,Esselunga,6,pcs,1, 2.43 ,,EUR,,Esselunga,Milan,2026/03/13 09:30,4616228439656,check allergen label
+ESS-00250,CP0250,ALT0250,Bakery,Croissants,Chocolate Croissant Family Pack,Naturama,7.5,pcs,8, 1.97 ,1.38,€,OUT OF STOCK,Esselunga,MILANO,2026-04-17 02:02:00,4531459550800,
+ESS-00251,CP0251,ALT0251,Bakery,Cookies,Chocolate Chip Cookies Family Pack,Esselunga,450.0,g,4,,,EUR,low stock,Esselunga,Milan,2026-03-29 13:57:00,6470236074170,check allergen label
+ESS-00252,CP0252,ALT0252,Bakery,Cookies,Digestive Biscuits Family Pack 400g,Esselunga,400,g,,"€1,99",,€,OUT OF STOCK,Esselunga,MILANO,2026-03-15,3790584828173,
+ESS-00253,CP0253,ALT0253,Produce,Tomatoes,Cherry Tomatoes Family Pack,Top,500,g,1,EUR 4.17, 3.88 ,Euro,OUT OF STOCK,Esselunga,MILANO,2026-03-14 15:31:00,6250845014399,check allergen label
+ESS-00254,CP0254,ALT0254,Produce,Tomatoes ,Round Tomatoes Family Pack,Bio,1.5,kg,1,"€4,11",,eur,OUT OF STOCK,Esselunga,Milan,2026-04-30 16:49:00,5918198052839,promo shelf
+ESS-00255,CP0255,ALT0255,Produce,Salad ,Esselunga Iceberg Lettuce Family Pack 1.5pcs,Esselunga,1.5,pcs,1,EUR 4.36,,Euro,available,Esselunga,Milano,2026-02-16,7197095744540,promo shelf
+ESS-00256,CP0256,ALT0256,Produce,Salad,Fidaty Rocket Salad Family Pack,Fidaty,156.25,g,6, 2.39 ,,Euro,available,Esselunga,milan,14/02/2026,2632732437039,imported
+ESS-00257,CP0257,ALT0257,PRODUCE,Apples,Top Golden Apples Family Pack 1kg, Top,1,kg,1,"€3,80",,Euro,available,Esselunga,Milano,08-02-2026,,limited edition
+ESS-00258,CP0258,ALT0258,Produce,Apples,Naturama Pink Lady Apples Family Pack,Naturama,1.5,kg,1,3.00,"2,61",EUR,low stock,Esselunga,Milan,2026/03/26 21:48,7168261114762,new
+ESS-00259,CP0259,ALT0259,Produce,Bananas,Atlante Bananas Family Pack 1kg,Atlante,1,kg,2, 3.03 ,,Euro,limited,Esselunga,MILANO,2026-02-25 06:40:00,6370088943830,private label
+ESS-00260,CP0260,ALT0260,Produce,Potatoes ,Ferrero Potatoes Family Pack 2kg,Ferrero,2,kg,6,3.72,,EUR,,Esselunga,milan,2026-03-11 01:49:00,2617346087363,private label
+ESS-00261,CP0261,ALT0261,Meat,Chicken,Atlante Chicken Breast Family Pack,Atlante,,g,1,4.89,,eur,OUT OF STOCK,Esselunga,Milano,11-03-2026,2738681337227,new
+ESS-00262,CP0262,ALT0262,Meat,Chicken,Atlante Chicken Thighs Family Pack,ATLANTE,500,g,1,5.91,,eur,limited,Esselunga,Milano,2026-01-05 00:30:00,0287490726488,private label
+ESS-00263,CP0263,ALT0263,Meat,Beef,Granarolo Minced Beef Family Pack,Granarolo,500.0,g,1,4.28,,EUR,low stock,Esselunga,Milan,2026-01-21 09:19:00,6953953698232,seasonal item
+ESS-00264,CP0264,ALT0264,Meat,Beef,Naturama Beef Steak Family Pack 450g,Naturama,450.0,g,1,6.21,,EUR,in stock,Esselunga,milan,2026-03-13,1280447120836,private label
+ESS-00265,CP0265,ALT0265,Meat,Cured Meats,Prosciutto Cotto Family Pack,Ferrero,150.0,g,6,5.71,"5,16",€,,ESSELUNGA,MILANO,2026-02-19 05:05:00,,
+ESS-00266,CP0266,ALT0266,Meat,Cured Meats, Smart Salame Milano Family Pack 75g,Smart,75.0,g,6,7.27,"€5,49",€,OUT OF STOCK,Esselunga,MILANO,05-03-2026,5929458361883,check allergen label
+ESS-00267,CP0267,ALT0267,Pantry,Pasta,Spaghetti Family Pack 500g,bio,500,g,1,"4,02",,EUR,available,Esselunga,Milan,2026-02-11 13:10:00,1610376329403,limited edition
+ESS-00268,CP0268,ALT0268,Pantry,Pasta,Fidaty Penne Rigate Family Pack,Fidaty,,g,1,"€3,61","€2,67",Euro,in stock,Esselunga,Milan,2026-02-11,9402759425016,promo shelf
+ESS-00269,CP0269,ALT0269,Pantry,Pasta,Bio Fusilli Family Pack 375g,Bio,375.0,g,1,EUR 3.00,,EUR,OUT OF STOCK,Esselunga,MILANO,2026/04/05 07:15,9600661615317,promo shelf
+ESS-00270,CP0270,ALT0270,Pantry,Rice,Carnaroli Rice Family Pack 1kg,Esselunga,1,kg,8,"€4,26",,Euro,OUT OF STOCK,Esselunga,milan,2026-03-29,3426053388249,
+ESS-00271,CP0271,ALT0271,Pantry,Rice,Basmati Rice Family Pack,Smart,0.75,kg,,EUR 2.20,,eur,OUT OF STOCK,Esselunga,milan,20-03-2026,9379022930944,promo shelf
+ESS-00272,CP0272,ALT0272,Pantry,Sauce,TOMATO PASSATA FAMILY PACK 1050ML,Bio,1050.0,ml,4,EUR 2.92,,Euro,limited,Esselunga,Milano,14-03-2026,8371510413677,private label
+ESS-00273,CP0273,ALT0273,Pantry,Sauce,Pesto Genovese Family Pack,Smart,285.0,g,2,EUR 4.62,,Euro,OUT OF STOCK,Esselunga,MILANO,16/02/2026,,seasonal item
+ESS-00274,CP0274,ALT0274,Pantry,Oil,Bio Extra Virgin Olive Oil Family Pack 1l,Bio,1,l,3, 4.99 ,,EUR,limited,Esselunga,MILANO,2026-02-28 15:11:00,8996908786391,limited edition
+ESS-00275,CP0275,ALT0275,Pantry,Oil,Bio Sunflower Oil Family Pack,Bio,1.5,l,3, 2.81 ,,€,OUT OF STOCK,Esselunga,Milan,2026-03-01,,
+ESS-00276,CP0276,ALT0276,Pantry,Flour,All Purpose Flour Family Pack 1kg,Mutti,,kg,1,"€2,93",2.28,eur,OUT OF STOCK,Esselunga,Milano,2026/02/04 23:25,7707501399392,new
+ESS-00277,CP0277,ALT0277,Pantry,Flour,00 Flour Family Pack,Smart,0.75,kg,8,5.02,,Euro,limited,Esselunga,MILANO,2026-01-27,3386381303262,limited edition
+ESS-00278,CP0278,ALT0278,Pantry,Sugar,White Sugar Family Pack,Aia,0.75,kg,4,"3,99",,€,low stock,Esselunga,milan,18-04-2026,0801289348280,limited edition
+ESS-00279,CP0279,ALT0279,Pantry,Sugar,Brown Sugar Family Pack 0.75kg,Atlante,0.75,kg,,3.18,,eur,limited,Esselunga,milan,2026/04/14 15:00,1575842768612,
+ESS-00280,CP0280,ALT0280,Pantry,Coffee ,Ground Coffee Family Pack 250g,Atlante,250,g,6,2.76,,Euro,,Esselunga,Milan,2026/01/08 05:07,,limited edition
+ESS-00281,CP0281,ALT0281,Pantry,Coffee,Esselunga Coffee Beans Family Pack,Esselunga,375.0,g,8, 3.75 ,3.23,€,OUT OF STOCK,Esselunga,Milano,2026-04-15,8467264401989,new
+ESS-00282,CP0282,ALT0282,Pantry,Cereal,Aia Corn Flakes Family Pack,Aia,281.25,g,2,"4,22",,Euro,,Esselunga,MILANO,02/02/2026,8475134074918,private label
+ESS-00283,CP0283,ALT0283,pantry,Cereal,Bio Muesli Family Pack,Bio,750,g,1,4.85,,Euro,low stock, Esselunga ,MILANO,2026/04/18 20:21,7372530315846,limited edition
+ESS-00284,CP0284,ALT0284,Frozen,PIZZA,Mulino Bianco Margherita Pizza Family Pack 262.5g,Mulino Bianco,262.5,g,4,5.50,,Euro,low stock,Esselunga,Milano,09/01/2026,0343292620555,limited edition
+ESS-00285,CP0285,ALT0285,Frozen,Pizza,Vegetable Pizza Family Pack,Naturama,570.0,g,8,"6,01",,eur,low stock,Esselunga,milan,2026-04-05 21:59:00,1888578782809,private label
+ESS-00286,CP0286,ALT0286,Frozen,Vegetables,Frozen Peas Family Pack 450g,Naturama,450,g,6,4.55,EUR 4.16,€,OUT OF STOCK,Esselunga,Milan,05-02-2026,0327188758750,private label
+ESS-00287,CP0287,ALT0287,Frozen,Vegetables,Fidaty Frozen Spinach Family Pack,Fidaty,450,g,1,"€2,65",,EUR,,Esselunga,milan,04-01-2026,3920244407319,
+ESS-00288,CP0288,ALT0288,Frozen,Fish,Fidaty Frozen Salmon Fillets Family Pack,Fidaty,500.0,g,6, 3.22 ,,eur,available,Esselunga,MILANO,2026/03/09 02:34,0793527565208,imported
+ESS-00289,CP0289,ALT0289,Frozen,Fish,Atlante Fish Fingers Family Pack,Atlante,300,g,2,2.81,,Euro,available,Esselunga,milan,05-04-2026,,seasonal item
+ESS-00290,CP0290,ALT0290,Beverages,Water, Still Water Family Pack 2.25l,Ferrero,2.25,l,6,1.34,EUR 1.27,eur,in stock,Esselunga,Milano,26/04/2026,0847980117056,limited edition
+ESS-00291,CP0291,ALT0291,Beverages,Water,Lavazza Sparkling Water Family Pack 1.5l,Lavazza,1.5,l,8,"€1,74",,€,available,Esselunga,Milano,2026-01-15 23:08:00,9937848652308,
+ESS-00292,CP0292,ALT0292,Beverages,Juice,Orange Juice Family Pack 1.5l,GRANAROLO,1.5,l,1, 2.61 ,EUR 2.23,€,limited,Esselunga,MILANO,2026-01-18,3825117230358,
+ESS-00293,CP0293,ALT0293,Beverages, Juice ,Apple Juice Family Pack 1.5l,Rio Mare,1.5,l,1,,,Euro,,Esselunga,Milan,2026-01-23,3065772112716,promo shelf
+ESS-00294,CP0294,ALT0294,Beverages,Soft Drinks,Esselunga Cola Family Pack,Esselunga,1.88,l,6,2.57,,EUR,in stock,Esselunga,Milano,02-01-2026,6464147359468,check allergen label
+ESS-00295,CP0295,ALT0295,Beverages,Soft Drinks,Lemon Soda Family Pack,Top,1.5,l,6,"€1,42", 1.16 ,EUR,available,Esselunga,MILANO,27/04/2026,3701409507151,promo shelf
+ESS-00296,CP0296,ALT0296,Beverages,Tea,Green Tea Family Pack 25pcs,Smart,25.0,pcs,8,1.20,,eur,limited,Esselunga,milan,2026-04-20 11:52:00,0628815660309,seasonal item
+ESS-00297,CP0297,ALT0297,Beverages,Tea,Bio Black Tea Family Pack,Bio,31.25,pcs,3,"€1,47",,eur,OUT OF STOCK,Esselunga,milan,2026-01-06,7621874309647,new
+ESS-00298,CP0298,ALT0298,Household,Detergent,Dish Soap Family Pack 750ml,Atlante,750,ml,8,"€4,09",,EUR,low stock,Esselunga,milan,23/02/2026,3312581287663,
+ESS-00299,CP0299,ALT0299,Household,Detergent,Mulino Bianco Laundry Detergent Family Pack,Mulino Bianco,1.12,l,3,"€7,54",,€,in stock,Esselunga,Milan,2026-04-23,3528454705005,imported
+ESS-00300,CP0300,ALT0300,Household,Paper,Smart Toilet Paper Family Pack 6pcs,Smart,6.0,pcs,8,"6,30",,Euro,available,Esselunga ,Milan,2026/04/06 12:22,2452488160353,check allergen label
+ESS-00301,CP0301,ALT0301,Household,Paper,Kitchen Towels Family Pack,Rio Mare,5.0,pcs,3,EUR 4.63,,eur,low stock,Esselunga,Milano,2026-02-10 18:07:00,3584480127712,
+ESS-00302,CP0302,ALT0302,Household,Cleaning,Smart Multi Surface Cleaner Family Pack,Smart,750,ml,4,"€4,78",,€,in stock,Esselunga,Milano,2026-02-06 17:59:00,2290641996584,new
+ESS-00303,CP0303,ALT0303,Household,Cleaning,Bleach Family Pack,BARILLA,2.5,l,4,"4,49",,Euro,in stock,Esselunga,Milano,2026-03-16,1888003005378,promo shelf
+ESS-00304,CP0304,ALT0304,Personal Care,Shampoo,Shampoo Family Pack,Parmalat,312.5,ml,1,EUR 6.13,,eur,limited,Esselunga,MILANO,14/03/2026,4151980702729,
+ESS-00305,CP0305,ALT0305,Personal Care,Shampoo,Atlante Conditioner Family Pack 312.5ml,Atlante,312.5,ml,6,"€6,76",,Euro,,Esselunga,milan,2026-03-18,3355885728346,new
+ESS-00306,CP0306,ALT0306,Personal Care,Soap,Naturama Hand Soap Family Pack,Naturama,,ml,4,3.10,,€,,Esselunga,Milano,2026-01-20 02:06:00,6795202798914,private label
+ESS-00307,CP0307,ALT0307,Personal Care,Soap,Mulino Bianco Body Wash Family Pack,Mulino Bianco,375.0,ml,1,"€5,17",,€,in stock,Esselunga,Milan,2026-03-09 18:25:00,5807200805701,imported
+ESS-00308,CP0308,ALT0308,Personal Care,Toothpaste,Smart Toothpaste Family Pack 56.25ml,Smart,56.25,ml,4,6.90,,Euro,low stock, Esselunga ,milan,2026-03-08,,imported
+ESS-00309,CP0309,ALT0309,Dairy,Mozzarella,Ferrero Mozzarella Mini,Ferrero,156.25,g,, 1.88 ,,EUR,low stock,Esselunga,MILANO,07/01/2026,4609577248774,seasonal item
+ESS-00310,CP0310,ALT0310,Dairy,Mozzarella,Top Mozzarella di Bufala Mini, Top ,125,g,1,"2,59",,€,,Esselunga,Milano,2026/02/26 23:08,2022305975733,promo shelf
+ESS-00311,CP0311,ALT0311,Dairy,Mozzarella,Fior di latte mozzarella Mini,Atlante,150.0,g,8, 3.13 ,,Euro,low stock,Esselunga,MILANO,2026-01-24 11:43:00,2648713000255,check allergen label
+ESS-00312,CP0312,ALT0312,Dairy,Yogurt,Mulino Bianco Greek Yogurt Mini 170g,Mulino Bianco,170,g,4,1.94,,€,OUT OF STOCK, Esselunga ,MILANO,2026-04-04,5118196138759,seasonal item
+ESS-00313,CP0313,ALT0313, Dairy ,Yogurt,Strawberry Yogurt Mini 2pcs,Mulino Bianco,2,pcs,1,2.57,1.92,Euro,available,Esselunga,MILANO,2026-03-25,8909859271436,limited edition
+ESS-00314,CP0314,ALT0314,Dairy,Yogurt,Plain Yogurt Mini,Bio,500,g,3,2.75,,Euro,available,Esselunga,milan,2026-02-23 02:57:00,1965217900531,imported
+ESS-00315,CP0315,ALT0315,Dairy,Milk,Lavazza Whole Milk Mini,Lavazza,1.5,l,1,"€2,96",,Euro,available,Esselunga,milan,18/02/2026,1307837318359,seasonal item
+ESS-00316,CP0316,ALT0316,Dairy,Milk,Semi-skimmed Milk Mini 1.25l,Esselunga,1.25,l,4, 3.11 ,,Euro,in stock,Esselunga,MILANO,2026/04/09 01:31,5149286327023,seasonal item
+ESS-00317,CP0317,ALT0317,Dairy,Milk,Mulino Bianco Lactose Free Milk Mini,Mulino Bianco,1,l,8,3.06,"2,43",eur,,Esselunga,milan,22/04/2026,8702521514351,check allergen label
+ESS-00318,CP0318,ALT0318,Dairy,Butter,Unsalted Butter Mini 312.5g,NATURAMA,312.5,g,3,3.46,,eur,OUT OF STOCK,esselunga,milan,19-01-2026,1390045892752,limited edition
+ESS-00319,CP0319,ALT0319,Dairy,Butter,salted butter mini,Top,250,g,2,"2,34",,€,limited,Esselunga,MILANO,24-03-2026,0055733807926,new
+ESS-00320,CP0320,ALT0320,Dairy,Cheese,esselunga parmigiano reggiano mini 200g,Esselunga,200,g,1,"€2,42",,EUR,,Esselunga,MILANO,10/01/2026,2420430063191,
+ESS-00321,CP0321,ALT0321,Dairy,Cheese,Gorgonzola Mini, Atlante ,187.5,g,2,,,EUR,limited,Esselunga,Milano,14/04/2026,1402454224922,check allergen label
+ESS-00322,CP0322,ALT0322,Dairy,Cheese,Ricotta Mini 250g,Esselunga,250,g,1, 1.70 ,,eur,OUT OF STOCK,Esselunga ,MILANO,18/02/2026,2956176294846,
+ESS-00323,CP0323,ALT0323,Bakery,Bread,Whole Wheat Bread Mini,Atlante,375.0,,8,3.78,,EUR,available,Esselunga,Milan,14-03-2026,1567261736292,imported
+ESS-00324,CP0324,ALT0324,Bakery,Bread,Ciabatta Mini, Ferrero,375.0,g,1,"3,70","€3,26",eur,limited,Esselunga,Milano,2026/04/06 07:01,2359062709401,limited edition
+ESS-00325,CP0325,ALT0325,Bakery,Bread,Bio Sandwich Bread Mini,Bio,825.0,g,1,"€2,40",2.03,€,in stock,Esselunga,Milan,02/02/2026,7415358338789,limited edition
+ESS-00326,CP0326,ALT0326,Bakery,Croissants,Fidaty Butter Croissant Mini,Fidaty,4.5,pcs,4,3.56,,eur,OUT OF STOCK,Esselunga,MILANO,15/04/2026,,new
+ESS-00327,CP0327,ALT0327,Bakery,Croissants,Chocolate Croissant Mini,Fidaty,4.5,pcs,3,1.74,,€,low stock,Esselunga,milan,2026/02/08 11:05,,promo shelf
+ESS-00328,CP0328,ALT0328,Bakery,Cookies,Chocolate Chip Cookies Mini 450g,Smart,450.0,g,1,,,EUR,,Esselunga,milan,17/03/2026,1266768094059,seasonal item
+ESS-00329,CP0329,ALT0329,Bakery,Cookies,Smart Digestive Biscuits Mini,Smart,300.0,g,4,EUR 2.61,,eur,OUT OF STOCK,Esselunga,Milan,01/03/2026,4310915683095,new
+ESS-00330,CP0330,ALT0330,Produce,Tomatoes,Cherry Tomatoes Mini 375g,Bio,375.0,g,6,EUR 2.71,,€,OUT OF STOCK,Esselunga,MILANO,10-02-2026,0781010124480,limited edition
+ESS-00331,CP0331,ALT0331,Produce,Tomatoes,Fidaty Round Tomatoes Mini 1kg,fidaty,1,kg,8,,,eur,,Esselunga,Milano,2026-01-28 14:02:00,0499306404121,limited edition
+ESS-00332,CP0332,ALT0332,Produce,Salad,Top Iceberg Lettuce Mini 1pcs,Top,1,pcs,1,EUR 2.29,EUR 1.80,€,,Esselunga,Milano,2026/03/29 07:46,5609514277021,new
+ESS-00333,CP0333,ALT0333,Produce,Salad,rocket salad mini,Barilla,156.25,g,,2.06,1.81,€,in stock,Esselunga,MILANO,08/04/2026,0737122072508,imported
+ESS-00334,CP0334,ALT0334,Produce,Apples,Bio Golden Apples Mini 1.25kg,Bio ,1.25,kg,1,"3,75",,eur,available, Esselunga ,Milano,2026-01-03 05:13:00,1914009981297,promo shelf
+ESS-00335,CP0335,ALT0335,Produce,Apples,Pink Lady Apples Mini 1.25kg,Esselunga,1.25,kg,8, 4.02 ,,eur,OUT OF STOCK,Esselunga,Milano,2026/04/12 11:33,7386966481105,limited edition
+ESS-00336,CP0336,ALT0336,Produce,Bananas,Bananas Mini 1kg,Naturama,1,kg,2,"€2,99",,EUR,in stock,Esselunga,Milan,2026-03-30 22:28:00,5133157920823,
+ESS-00337,CP0337,ALT0337,Produce,Potatoes,Smart Potatoes Mini,Smart,2.5,kg,1,"€2,77",EUR 2.00,Euro,in stock,Esselunga,Milano,20/02/2026,9276736086333,private label
+ESS-00338,CP0338,ALT0338, Meat ,Chicken, Fidaty Chicken Breast Mini 300g, Fidaty ,,g,8,7.92,,EUR,low stock,Esselunga,MILANO,2026/02/10 04:49,,check allergen label
+ESS-00339,CP0339,ALT0339,Meat,Chicken ,Atlante Chicken Thighs Mini,Atlante,500,g,6,EUR 9.54,,EUR,available,Esselunga,Milan,2026-02-14 03:12:00,0761918149836,limited edition
+ESS-00340,CP0340,ALT0340,Meat,Beef,Bio Minced Beef Mini,Bio,,g,1,8.72, 7.07 ,eur,available,Esselunga,Milan,27-01-2026,2295083860390,
+ESS-00341,CP0341,ALT0341,Meat,Beef,Rio Mare Beef Steak Mini 225g,Rio Mare,225.0,g,6, 6.38 ,,Euro,OUT OF STOCK,Esselunga,Milan,2026-02-27,7800378101032,imported
+ESS-00342,CP0342,ALT0342,Meat,Cured Meats,Prosciutto Cotto Mini 150g,Esselunga,150.0,g,1,EUR 5.28,EUR 4.71,EUR,low stock, Esselunga,milan,2026-03-23 15:03:00,,
+ESS-00343,CP0343,ALT0343,Meat,Cured Meats,Salame Milano Mini,De Cecco,100,g,1,6.33,,EUR,limited,Esselunga,Milano,2026/01/26 18:27,6559218956886,seasonal item
+ESS-00344,CP0344,ALT0344,Pantry,Pasta,Spaghetti Mini 625g,Atlante,625.0,g,3,EUR 4.18,,EUR,,Esselunga,milan,03/04/2026,7360908575379,private label
+ESS-00345,CP0345,ALT0345,Pantry,Pasta, Penne Rigate Mini 500g ,Parmalat,500,g,1,"2,74", 2.40 ,Euro,,Esselunga,Milano,22/03/2026,6760896010665,
+ESS-00346,CP0346,ALT0346,Pantry,Pasta,Fusilli Mini,Fidaty,625.0,g,4,2.55,,€,,Esselunga,milan,2026-04-29 01:46:00,3834669081449,check allergen label
+ESS-00347,CP0347,ALT0347,Pantry,Rice,Carnaroli Rice Mini 1.5kg,Esselunga,1.5,kg,2,EUR 3.33,,EUR,available,Esselunga,Milano,2026/02/11 22:10,7860150833451,seasonal item
+ESS-00348,CP0348,ALT0348,Pantry,Rice,Basmati Rice Mini 1.25kg,Aia,1.25,kg,1,4.11, 3.16 ,EUR,available,Esselunga,milan,03/04/2026,,promo shelf
+ESS-00349,CP0349,ALT0349,Pantry,Sauce,Galbani Tomato Passata Mini,galbani,700,ml,6,4.61,,Euro,,ESSELUNGA,MILANO,12/01/2026,1424741516329,imported
+ESS-00350,CP0350,ALT0350,Pantry,Sauce,Lavazza Pesto Genovese Mini,Lavazza,190,g,1,3.67,,Euro,available,Esselunga,MILANO,23-04-2026,,limited edition
+ESS-00351,CP0351,ALT0351,Pantry,Oil,Bio Extra Virgin Olive Oil Mini,Bio,1,l,1,3.02,,Euro,limited,Esselunga,Milan,10-02-2026,5402347145137,
+ESS-00352,CP0352,ALT0352,Pantry,Oil,Sunflower Oil Mini 1l,Esselunga,1,l,4,EUR 4.54,,€,OUT OF STOCK,Esselunga,milan,2026/04/30 16:11,8939759553642,check allergen label
+ESS-00353,CP0353,ALT0353,Pantry,Flour,Top All Purpose Flour Mini 0.75kg,Top,0.75,kg,8,3.10,,EUR,low stock,Esselunga,MILANO,2026-03-13 01:05:00,7043885287158,check allergen label
+ESS-00354,CP0354,ALT0354,Pantry,Flour,00 Flour Mini 1.5kg ,Mulino Bianco,1.5,kg,2, 4.02 ,,EUR,OUT OF STOCK,Esselunga,MILANO,2026-02-01 00:04:00,8908763427247,promo shelf
+ESS-00355,CP0355,ALT0355,Pantry,Sugar,Esselunga White Sugar Mini,Esselunga,1.5,kg,1,EUR 3.80,3.40,eur,,Esselunga,MILANO,2026-04-06,3191666162469,private label
+ESS-00356,CP0356,ALT0356,Pantry,Sugar,Brown Sugar Mini,Fidaty,0.75,kg,1,"€4,99",EUR 4.41,Euro,in stock,Esselunga,MILANO,18-04-2026,4895792578523,seasonal item
+ESS-00357,CP0357,ALT0357,Pantry,Coffee,Top Ground Coffee Mini,Top,250,g,3,2.12,,EUR,OUT OF STOCK,Esselunga,Milan,2026-01-12 18:56:00,9517190706776,
+ESS-00358,CP0358,ALT0358,Pantry,Coffee,Coffee Beans Mini 375g,Fidaty,375.0,g,3,"2,41", 2.20 ,eur,limited,Esselunga,Milan,2026-01-17,5467591499959,private label
+ESS-00359,CP0359,ALT0359,Pantry,Cereal,Corn Flakes Mini,Atlante,281.25,g,, 2.78 ,,eur,OUT OF STOCK,Esselunga,MILANO,19-01-2026,9883686364449,
+ESS-00360,CP0360,ALT0360,Pantry,Cereal,Esselunga Muesli Mini,Esselunga,1125.0,g,,"5,02","€3,68",€,limited,Esselunga,Milan,2026-01-25 21:55:00,4743506978209,imported
+ESS-00361,CP0361,ALT0361,Frozen,Pizza,Margherita Pizza Mini,Top,437.5,g,1,2.98,2.10,€,low stock,Esselunga,milan,28-02-2026,0680304005468,promo shelf
+ESS-00362,CP0362,ALT0362,Frozen,Pizza,Atlante Vegetable Pizza Mini,Atlante,570.0,g,1, 6.07 ,"€4,61",€,low stock,Esselunga,Milan,17-02-2026,1969091364176,private label
+ESS-00363,CP0363,ALT0363,Frozen,Vegetables,Fidaty Frozen Peas Mini,Fidaty ,675.0,g,3,EUR 5.77,,EUR,in stock,Esselunga,milan,07-01-2026,,promo shelf
+ESS-00364,CP0364,ALT0364,Frozen,Vegetables ,Top Frozen Spinach Mini 450g,Top,450,g,8,5.84,4.48,€,limited,Esselunga,milan,2026/03/07 00:49,8888049704648,new
+ESS-00365,CP0365,ALT0365,Frozen,fish,Bio Frozen Salmon Fillets Mini 300g,Bio,300.0,g,2, 6.41 ,,EUR,in stock,Esselunga,Milan,2026-03-15,3891667709521,seasonal item
+ESS-00366,CP0366,ALT0366,Frozen,Fish,Atlante Fish Fingers Mini 450g,Atlante,450.0,g,1,5.86,,eur,OUT OF STOCK,Esselunga,milan,01/03/2026,8037037731205,limited edition
+ESS-00367,CP0367,ALT0367,Beverages,Water,Still Water Mini,Atlante,1.12,l,2,2.28,,EUR,OUT OF STOCK,Esselunga,Milano,20-02-2026,,
+ESS-00368,CP0368,ALT0368,Beverages,Water,Esselunga Sparkling Water Mini,Esselunga,1.5,l,1,1.99,,€,OUT OF STOCK,Esselunga,MILANO,2026/04/13 13:07,4412987010932,seasonal item
+ESS-00369,CP0369,ALT0369,Beverages,Juice, Fidaty Orange Juice Mini 0.75l,Fidaty,0.75,l,2,1.29,1.18,eur,in stock,Esselunga,MILANO,2026-01-30 05:41:00,0011233016796,seasonal item
+ESS-00370,CP0370,ALT0370,Beverages,Juice,Apple Juice Mini,Galbani,1.5,l,2,"€2,66",2.23,Euro,OUT OF STOCK,Esselunga,Milano,2026-03-22 17:28:00,0595094281683,check allergen label
+ESS-00371,CP0371,ALT0371,Beverages,Soft Drinks,Cola Mini,Bio,1.12,l,8, 1.25 ,,Euro,low stock,Esselunga,Milano,2026-03-15,9552964352217,seasonal item
+ESS-00372,CP0372,ALT0372,BEVERAGES,SOFT DRINKS,Ferrero Lemon Soda Mini 1.5l,Ferrero,1.5,l,1, 2.44 ,,EUR,,Esselunga,milan,2026/04/13 22:41,8131456253030,promo shelf
+ESS-00373,CP0373,ALT0373,Beverages,Tea,Bio Green Tea Mini,Bio,25.0,pcs,6,, 0.80 ,€,,Esselunga,Milan,27-01-2026,0260497697998,limited edition
+ESS-00374,CP0374,ALT0374,beverages, Tea,Black Tea Mini 18.75pcs,Naturama,18.75,pcs,3,"2,26",,Euro,,Esselunga,Milan,2026-02-18,7119475052201,
+ESS-00375,CP0375,ALT0375,Household,Detergent,Rio Mare Dish Soap Mini,Rio Mare,1125.0,ml,4,"3,65",,EUR,available,Esselunga,Milano,2026-03-07 11:13:00,7446970711989,new
+ESS-00376,CP0376,ALT0376,Household,Detergent, Bio Laundry Detergent Mini,Bio,1.5,l,2,"5,53",,Euro,OUT OF STOCK,Esselunga,MILANO,2026/01/10 18:14,8846937147875,
+ESS-00377,CP0377,ALT0377,Household,Paper,Fidaty Toilet Paper Mini,Fidaty,12.0,pcs,1,"€6,23",,€,limited,Esselunga,Milan,06/03/2026,6044867118816,imported
+ESS-00378,CP0378,ALT0378,Household,Paper,Kitchen Towels Mini,Naturama,6.0,pcs,8,"6,00",,eur,,Esselunga,Milano,2026-02-09 07:07:00,6754135455797,imported
+ESS-00379,CP0379,ALT0379,Household,Cleaning,Multi Surface Cleaner Mini,Esselunga,562.5,ml,,EUR 6.35,,eur,in stock,Esselunga,milan,18/04/2026,9212985672405,
+ESS-00380,CP0380,ALT0380,Household,Cleaning,Bleach Mini 3l,Atlante,3.0,l,3,6.90,,Euro,OUT OF STOCK,Esselunga,Milan,21/01/2026,4106496072652,promo shelf
+ESS-00381,CP0381,ALT0381,Personal Care,Shampoo,Atlante Shampoo Mini,Atlante,187.5,ml,6,4.96,,€,available,Esselunga,Milan,2026/01/20 18:57,6506961588445,imported
+ESS-00382,CP0382,ALT0382,Personal Care ,Shampoo,Parmalat Conditioner Mini 312.5ml,Parmalat,312.5,ml,1,"3,88","3,44",eur,in stock,Esselunga,Milano,2026-02-01,7929605865314,seasonal item
+ESS-00383,CP0383,ALT0383,Personal Care,Soap,Top Hand Soap Mini 450ml, Top,450.0,ml,1, 3.52 ,,€,low stock,Esselunga,MILANO,2026-02-28 14:50:00,0176787388011,limited edition
+ESS-00384,CP0384,ALT0384,Personal Care,Soap,Atlante Body Wash Mini,Atlante,750.0,ml,1, 3.49 ,,€,low stock,Esselunga,MILANO,07/02/2026,8968460412616,new
+ESS-00385,CP0385,ALT0385,Personal Care,Toothpaste,Bio Toothpaste Mini 112.5ml,Bio,112.5,ml,2,3.30,,€,available,Esselunga,Milano,25-04-2026,5441904377029,imported
+ESS-00386,CP0386,ALT0386,Dairy,Mozzarella,Smart Mozzarella Maxi,Smart,125,g,1,EUR 1.87,,EUR,OUT OF STOCK,Esselunga,milan,2026-01-10 21:55:00,6563226791117,new
+ESS-00387,CP0387,ALT0387,Dairy,Mozzarella,Mozzarella di Bufala Maxi 125g,Esselunga,125,g,1, 2.99 ,,eur,low stock,Esselunga,MILANO,20-03-2026,6572245883660,
+ESS-00388,CP0388,ALT0388,Dairy,Mozzarella,Fior di latte mozzarella Maxi 200g,Fidaty,200,g,2,EUR 2.88,EUR 2.16,Euro,available,Esselunga,Milano,2026-02-21 23:30:00,5300022750936,imported
+ESS-00389,CP0389,ALT0389,Dairy,Yogurt,Esselunga Greek Yogurt Maxi 170g,Esselunga,170,g,2,"1,42",EUR 1.01,eur,low stock,Esselunga,Milan,2026-02-03 10:14:00,9542762933698,imported
+ESS-00390,CP0390,ALT0390,Dairy,Yogurt,De Cecco Strawberry Yogurt Maxi,De Cecco,2,pcs,1,"€1,80",,EUR,low stock,Esselunga,Milano,29/03/2026,2724452275942,private label
+ESS-00391,CP0391,ALT0391,Dairy,Yogurt,Plain Yogurt Maxi 500g,Top,500,g,1,"€2,99",,eur,limited,Esselunga,MILANO,2026-03-30,6516086249513,seasonal item
+ESS-00392,CP0392,ALT0392,Dairy,Milk,Whole Milk Maxi,Lavazza,1.25,l,4,1.42,,EUR,low stock,Esselunga,Milan,06/02/2026,9191846550636,imported
+ESS-00393,CP0393,ALT0393,Dairy,Milk,Naturama Semi-skimmed Milk Maxi 1l,Naturama,1,l,8,"€3,16",,Euro,available,Esselunga,MILANO,24/04/2026,4499514370434,check allergen label
+ESS-00394,CP0394,ALT0394,Dairy,Milk,Bio Lactose Free Milk Maxi,Bio,1,l,8,,1.45,Euro,limited,Esselunga,Milano,2026-02-05 00:05:00,,limited edition
+ESS-00395,CP0395,ALT0395,Dairy,Butter,unsalted butter maxi 312.5g, Mutti ,312.5,g,4, 1.64 ,,€,limited,Esselunga,milan,20-04-2026,4317191633547,promo shelf
+ESS-00396,CP0396,ALT0396,Dairy,Butter,Naturama Salted Butter Maxi 250g,Naturama,250,g,1,3.33,EUR 3.11,eur,low stock,Esselunga,milan,2026-03-19,8457186919816,private label
+ESS-00397,CP0397,ALT0397,Dairy,Cheese,Bio Parmigiano Reggiano Maxi 150g,Bio,150.0,g,4,"1,84",,Euro,available,Esselunga,MILANO,21-04-2026,5433707367127,new
+ESS-00398,CP0398,ALT0398,Dairy,Cheese,Smart Gorgonzola Maxi,Smart,112.5,g,,3.08,,Euro,limited,Esselunga,MILANO,2026-03-05,8629319167875,
+ESS-00399,CP0399,ALT0399,Dairy,Cheese,Ricotta Maxi,Fidaty,312.5,g,1, 2.50 ,EUR 2.31,EUR,available,Esselunga,Milan,2026/02/21 00:03,,seasonal item
+ESS-00400,CP0400,ALT0400,Bakery,Bread,Whole Wheat Bread Maxi 750g,Smart,750.0,g,8,2.74,,€,available,Esselunga,Milano,2026/04/04 07:39,8231329967834,check allergen label
+ESS-00401,CP0401,ALT0401,Bakery,Bread,Galbani Ciabatta Maxi 450g,Galbani,450.0,g,8, 1.83 ,,€,limited,Esselunga,MILANO,06/04/2026,1171653595539,check allergen label
+ESS-00402,CP0402,ALT0402,Bakery,Bread,Galbani Sandwich Bread Maxi,Galbani,412.5,g,1,"€2,97",,€,OUT OF STOCK,Esselunga,milan,16/04/2026,9431491421544,limited edition
+ESS-00403,CP0403,ALT0403,Bakery,Croissants,Atlante Butter Croissant Maxi,Atlante,4.5,pcs,3,"2,71",,Euro,,Esselunga,Milano,06-04-2026,3077997510906,seasonal item
+ESS-00404,CP0404,ALT0404,Bakery,Croissants,Bio Chocolate Croissant Maxi,Bio,9.0,pcs,2,EUR 2.27,,EUR,low stock,Esselunga,Milan,14/04/2026,1390029501147,limited edition
+ESS-00405,CP0405,ALT0405,Bakery,Cookies,Chocolate Chip Cookies Maxi 300g,Mutti,300,g,4,EUR 1.70,,€,available,Esselunga,milan,2026-03-22 11:01:00,2633338846519,private label
+ESS-00406,CP0406,ALT0406,Bakery,Cookies,Top Digestive Biscuits Maxi 600g,Top,600.0,g,3,3.52,,EUR,limited,Esselunga,Milan,2026-01-10,7334307182182,
+ESS-00407,CP0407,ALT0407,Produce,Tomatoes,Parmalat Cherry Tomatoes Maxi,Parmalat,500,g,2,3.53,,EUR,limited,Esselunga,Milan,04/01/2026,9702579535644,
+ESS-00408,CP0408,ALT0408,Produce,Tomatoes,Round Tomatoes Maxi 1kg,Esselunga,1,kg,,"4,19",,eur,low stock,Esselunga,Milan,24-04-2026,9145090903957,promo shelf
+ESS-00409,CP0409,ALT0409,Produce,Salad,Iceberg Lettuce Maxi 1pcs,Parmalat,1,pcs,1, 2.36 ,,eur,OUT OF STOCK,Esselunga,Milano,2026/01/12 18:16,6899238585520,
+ESS-00410,CP0410,ALT0410,Produce,salad,Smart Rocket Salad Maxi 93.75g,Smart,93.75,g,3,EUR 2.55,,EUR,limited,Esselunga,Milan,18-04-2026,9902549839103,imported
+ESS-00411,CP0411,ALT0411,Produce,Apples,Mulino Bianco Golden Apples Maxi,Mulino Bianco,1,kg,1,EUR 2.35,,€,OUT OF STOCK,Esselunga,Milano,12-04-2026,,
+ESS-00412,CP0412,ALT0412,Produce,Apples,Pink Lady Apples Maxi 1kg,Lavazza,1,kg,8,EUR 1.79,"1,41",EUR,limited,Esselunga,milan,2026-02-17 01:38:00,9565621929590,check allergen label
+ESS-00413,CP0413,ALT0413,Produce,Bananas,Naturama Bananas Maxi 1kg,Naturama,1,kg,4,"1,93",,€,available,Esselunga,milan,2026/02/21 10:02,6695577051865,new
+ESS-00414,CP0414,ALT0414,produce,Potatoes,Potatoes Maxi,Esselunga ,2,kg,3,"€3,70",,Euro,in stock,Esselunga,Milan,2026-03-08 15:36:00,5080466063828,private label
+ESS-00415,CP0415,ALT0415,Meat,Chicken,NATURAMA CHICKEN BREAST MAXI 500G,Naturama,500.0,g,1,"€8,28",,EUR,limited,Esselunga,milan,29-03-2026,2763514874971,
+ESS-00416,CP0416,ALT0416,Meat,Chicken,Chicken Thighs Maxi 750g,Smart,750.0,g,2,"€9,37","€8,32",EUR,available,Esselunga,Milan,2026-01-01 12:01:00,2287512090181,promo shelf
+ESS-00417,CP0417,ALT0417,Meat,Beef,Minced Beef Maxi,Bio,400,g,6, 4.14 ,,€,low stock,Esselunga,Milano,2026/02/11 03:32,,new
+ESS-00418,CP0418,ALT0418,Meat,Beef,Beef Steak Maxi, Bio ,450.0,,3, 6.84 ,5.94,eur,low stock,Esselunga,MILANO,2026-03-21,8725505415190,private label
+ESS-00419,CP0419,ALT0419,Meat, Cured Meats ,Smart Prosciutto Cotto Maxi 180g,Smart,180.0,g,8,"8,25",,€,in stock,Esselunga,milan,21-01-2026,5595827706992,check allergen label
+ESS-00420,CP0420,ALT0420,Meat,Cured Meats ,Smart Salame Milano Maxi,Smart,75.0,g,,6.06,,EUR,,Esselunga,milan,16-03-2026,5734943856337,
+ESS-00421,CP0421,ALT0421,Pantry,Pasta ,Atlante Spaghetti Maxi 750g,Atlante,750.0,g,8,,,eur,limited,Esselunga,milan,09/01/2026,1432417071278,promo shelf
+ESS-00422,CP0422,ALT0422,Pantry,Pasta,Penne Rigate Maxi,Fidaty,500,g,1,"4,43",,eur,in stock,Esselunga,milan,2026/02/06 01:45,7881649571042,promo shelf
+ESS-00423,CP0423,ALT0423,Pantry,Pasta, Bio Fusilli Maxi ,Bio,375.0,g,1,"2,64",,EUR,limited,Esselunga,milan,05/04/2026,0579251733358,limited edition
+ESS-00424,CP0424,ALT0424,Pantry,Rice,Carnaroli Rice Maxi 1kg,Lavazza,1,kg,4,"2,19",,EUR,in stock,Esselunga,MILANO,30-04-2026,8212407664536,seasonal item
+ESS-00425,CP0425,ALT0425,Pantry,Rice,Fidaty Basmati Rice Maxi,Fidaty,1,kg,1,"€2,82",,€,in stock,Esselunga,Milano,2026-01-14 07:42:00,9454949725472,
+ESS-00426,CP0426,ALT0426,Pantry,Sauce,Atlante Tomato Passata Maxi,Atlante,525.0,,1,EUR 2.84,,€,in stock,Esselunga,milan,2026/03/29 14:34,8145252888646,
+ESS-00427,CP0427,ALT0427,Pantry,Sauce ,Pesto Genovese Maxi 142.5g, Esselunga,142.5,g,8, 2.84 ,,eur,low stock,Esselunga,MILANO,01-03-2026,5422412503834,promo shelf
+ESS-00428,CP0428,ALT0428,pantry,Oil,Top Extra Virgin Olive Oil Maxi 1.5l,Top,1.5,l,,,,Euro,limited,Esselunga,MILANO,01/01/2026,2108583755826,seasonal item
+ESS-00429,CP0429,ALT0429,Pantry,Oil,Top Sunflower Oil Maxi,Top,1,l,4,2.94,,EUR,in stock,Esselunga,milan,08-04-2026,8342064339553,
+ESS-00430,CP0430,ALT0430,Pantry,Flour,All Purpose Flour Maxi 1kg,Top,1,kg,8, 4.21 ,,eur,OUT OF STOCK,Esselunga,Milano,2026-01-11,7316332430872,seasonal item
+ESS-00431,CP0431,ALT0431,Pantry,Flour,00 Flour Maxi 1kg,Rio Mare,1,kg,1,"€4,40",,EUR,in stock,Esselunga,Milano,18/02/2026,2449520769915,seasonal item
+ESS-00432,CP0432,ALT0432,Pantry,Sugar,White Sugar Maxi 1.5kg ,Ferrero,1.5,kg,, 3.52 ,,€,OUT OF STOCK,Esselunga,Milan,2026-03-03,2316257510003,
+ESS-00433,CP0433,ALT0433,Pantry,Sugar,Smart Brown Sugar Maxi 1kg,Smart,1,kg,8,"€3,04",,€,OUT OF STOCK,Esselunga,MILANO,02/04/2026,9182363725112,new
+ESS-00434,CP0434,ALT0434,Pantry,Coffee,Fidaty Ground Coffee Maxi,Fidaty,250,g,1, 2.70 ,,eur,,Esselunga,Milan,2026/02/17 18:40,6547631691455,
+ESS-00435,CP0435,ALT0435,Pantry,Coffee,Atlante Coffee Beans Maxi,Atlante,500,g,3,EUR 3.12,,eur,limited,Esselunga,MILANO,2026/03/13 21:29,9045522420596,seasonal item
+ESS-00436,CP0436,ALT0436,Pantry,Cereal,Fidaty Corn Flakes Maxi 375g,Fidaty,375,g,8,"€3,48","€2,67",Euro,limited, Esselunga,Milano,2026/04/16 12:36,9952115424015,
+ESS-00437,CP0437,ALT0437,Pantry,Cereal,Muesli Maxi 1125g,Mulino Bianco,1125.0,g,1, 3.53 ,,€,low stock,Esselunga,Milan,2026/03/08 15:40,7597997425429,promo shelf
+ESS-00438,CP0438,ALT0438,Frozen,Pizza,Esselunga Margherita Pizza Maxi 437.5g,Esselunga,437.5,g,4,EUR 4.60,,Euro,available,Esselunga,milan,2026-04-02 22:12:00,8086789451193,check allergen label
+ESS-00439,CP0439,ALT0439,Frozen,Pizza,Vegetable Pizza Maxi 380g,Atlante,,,1,"€4,14", 3.64 ,Euro,limited,Esselunga,MILANO,2026/03/18 09:57,2093613014464,imported
+ESS-00440,CP0440,ALT0440,Frozen,Vegetables,Frozen Peas Maxi,Esselunga,337.5,,3,4.73,,€,in stock,Esselunga,Milano,04/03/2026,3709718467908,
+ESS-00441,CP0441,ALT0441,Frozen,Vegetables,Frozen Spinach Maxi 337.5g,Atlante,337.5,g,,EUR 6.34,5.10,Euro,available,Esselunga,Milano,2026-02-14,,imported
+ESS-00442,CP0442,ALT0442,frozen,Fish,Frozen Salmon Fillets Maxi,Galbani,500.0,g,6,5.93,,EUR,limited,Esselunga,Milan,29-01-2026,3905101181693,
+ESS-00443,CP0443,ALT0443,Frozen,Fish, Naturama Fish Fingers Maxi,Naturama,300,g,8,EUR 6.12,,eur,limited,Esselunga,Milan,16-03-2026,2958616721170,
+ESS-00444,CP0444,ALT0444,Beverages,Water,Top Still Water Maxi 1.12l,Top,1.12,l,6,"€1,62",,eur,OUT OF STOCK,Esselunga,milan,2026/02/09 07:57,5950242426335,private label
+ESS-00445,CP0445,ALT0445,Beverages,Water,Sparkling Water Maxi,Smart,1.12,l,1,1.59,,eur,in stock,Esselunga,MILANO,05-03-2026,8228780739004,new
+ESS-00446,CP0446,ALT0446,Beverages,Juice,Top Orange Juice Maxi,Top,1,l,8,2.67,,EUR,, Esselunga ,MILANO,2026-04-16 10:41:00,4584465771371,check allergen label
+ESS-00447,CP0447,ALT0447,Beverages,Juice,Apple Juice Maxi 1l,Mulino Bianco,1,l,8, 2.38 ,2.17,€,limited,Esselunga,milan,2026/01/23 04:11,4540300214366,new
+ESS-00448,CP0448,ALT0448,Beverages,Soft Drinks,De Cecco Cola Maxi 1.5l,De Cecco,1.5,l,1,EUR 1.44,,eur,limited,Esselunga,MILANO,17-01-2026,4920398013376,new
+ESS-00449,CP0449,ALT0449,Beverages,Soft Drinks,Bio Lemon Soda Maxi 1.5l,Bio,1.5,l,1,1.93, 1.79 ,eur,low stock,Esselunga,Milano,17-04-2026,6509163975057,
+ESS-00450,CP0450,ALT0450,Beverages ,Tea,Green Tea Maxi 25pcs,Fidaty,,pcs,1,"2,48",2.14,Euro,OUT OF STOCK,Esselunga,milan,13-04-2026,8082632676311,
+ESS-00451,CP0451,ALT0451,Beverages,Tea,Bio Black Tea Maxi,Bio,37.5,pcs,8,"€1,49",,eur,in stock,Esselunga,milan,2026-01-28,3838167428954,
+ESS-00452,CP0452,ALT0452,Household,Detergent,Bio Dish Soap Maxi 937.5ml,Bio,937.5,ml,3, 4.19 ,,€,low stock,Esselunga,Milan,2026/04/08 14:39,0421001499611,imported
+ESS-00453,CP0453,ALT0453,Household,Detergent,Laundry Detergent Maxi,Atlante,2.25,l,1,"4,49","3,38",eur,low stock,Esselunga,Milan,2026-01-03,,private label
+ESS-00454,CP0454,ALT0454,Household,Paper,Top Toilet Paper Maxi 6pcs,Top,6.0,pcs,1, 7.39 ,,eur,OUT OF STOCK,Esselunga,MILANO,18/01/2026,1175173358362,private label
+ESS-00455,CP0455,ALT0455,Household,Paper,Kitchen Towels Maxi 3pcs,Atlante,3.0,pcs,3,3.38,,eur,OUT OF STOCK,Esselunga,Milano,2026/01/05 22:02,4825627396433,limited edition
+ESS-00456,CP0456,ALT0456,Household,Cleaning,Smart Multi Surface Cleaner Maxi,Smart,562.5,ml,1,EUR 2.98,,Euro,OUT OF STOCK,Esselunga,Milan,12/03/2026,,promo shelf
+ESS-00457,CP0457,ALT0457,Household,Cleaning, Atlante Bleach Maxi 2l,Atlante,2,l,1,EUR 4.74,,€,low stock,Esselunga,Milano,2026/01/23 21:55,8540262180603,promo shelf
+ESS-00458,CP0458,ALT0458,Personal Care,Shampoo,Shampoo Maxi 375ml,Smart,375.0,ml,4,5.70,,Euro,,Esselunga,MILANO,2026/04/21 03:18,5443007457774,seasonal item
+ESS-00459,CP0459,ALT0459,Personal Care,Shampoo,Conditioner Maxi,De Cecco,187.5,ml,1,"5,97",,Euro,limited, Esselunga,milan,03-03-2026,0702507666069,promo shelf
+ESS-00460,CP0460,ALT0460,Personal Care,Soap,Bio Hand Soap Maxi,Bio,300,ml,1, 4.30 ,EUR 3.10,€,in stock,Esselunga,milan,2026/04/23 18:17,,check allergen label
+ESS-00461,CP0461,ALT0461,Personal Care,Soap,Body Wash Maxi 750ml,Bio,750.0,ml,2,4.99,,Euro,in stock,Esselunga,Milan,2026-02-23 06:53:00,9271918993819,private label
+ESS-00462,CP0462,ALT0462,Personal Care,Toothpaste,toothpaste maxi 112.5ml,Fidaty,112.5,ml,1,2.76,,€,,Esselunga,MILANO,2026-04-15,8932816651773,imported
+ESS-00463,CP0463,ALT0463,Dairy,Mozzarella,Mozzarella Light,Bio,125,g,8, 2.67 ,2.09,EUR,low stock,Esselunga,milan,2026/03/07 10:20,3917271548362,check allergen label
+ESS-00464,CP0464,ALT0464,Dairy, Mozzarella,Mozzarella di Bufala Light 156.25g,Atlante,156.25,g,2,EUR 1.93,,€,available,Esselunga,milan,2026/03/08 01:40,8218739821255,new
+ESS-00465,CP0465,ALT0465,Dairy,Mozzarella,Fior di latte mozzarella Light,Smart,200,g,1,1.50,,€,,Esselunga,MILANO,2026-02-02 00:46:00,4477134125383,new
+ESS-00466,CP0466,ALT0466,Dairy,Yogurt,Bio Greek Yogurt Light,Bio,127.5,g,,EUR 3.13,,Euro,,ESSELUNGA,Milan,04-04-2026,4108439711820,imported
+ESS-00467,CP0467,ALT0467,Dairy,Yogurt, Top Strawberry Yogurt Light 2pcs ,Top,2,pcs,1,1.96,,eur,in stock,Esselunga,MILANO,12-03-2026,1847887978884,imported
+ESS-00468,CP0468,ALT0468,Dairy,Yogurt,Plain Yogurt Light,Aia ,500,g,8,"€3,36",,EUR,available,Esselunga,Milan,2026-01-19 16:20:00,1083278668689,
+ESS-00469,CP0469,ALT0469,Dairy,Milk,WHOLE MILK LIGHT 0.75L,Bio,0.75,l,4,"1,83",,EUR,,Esselunga,MILANO,15/03/2026,2949576039610,
+ESS-00470,CP0470,ALT0470,Dairy,Milk,Semi-skimmed Milk Light 1l,Atlante,1,l,2,EUR 2.72,EUR 2.43,eur,in stock,Esselunga,Milan,2026/03/20 14:20,1431538348995,promo shelf
+ESS-00471,CP0471,ALT0471,Dairy,Milk,Lactose Free Milk Light 1l,Bio,1,l,1,3.43,"3,06",Euro,,Esselunga,Milano,05/04/2026,4718976217794,limited edition
+ESS-00472,CP0472,ALT0472,Dairy,Butter,Unsalted Butter Light 250g,Naturama,250,g,3,2.51,,Euro,,Esselunga,Milan,2026/04/21 16:51,4961965196627,promo shelf
+ESS-00473,CP0473,ALT0473,Dairy,Butter, Salted Butter Light,Galbani,187.5,g,6,EUR 2.11,,Euro,in stock,Esselunga,MILANO,2026-04-16 18:56:00,3917670700227,promo shelf
+ESS-00474,CP0474,ALT0474,Dairy,Cheese,Parmigiano Reggiano Light 200g,Smart,200,g,3, 2.09 ,EUR 1.73,€,low stock,Esselunga,Milano,2026-02-06 06:34:00,4987493203922,new
+ESS-00475,CP0475,ALT0475,Dairy,Cheese,Gorgonzola Light,Atlante,225.0,g,8,EUR 1.47,,Euro,OUT OF STOCK,Esselunga,Milan,2026/03/29 00:34,8132225750412,private label
+ESS-00476,CP0476,ALT0476,Dairy,Cheese,Parmalat Ricotta Light 312.5g,Parmalat,312.5,g,1,"€2,95",,eur,,Esselunga,MILANO,2026/04/09 19:09,6038280710024,limited edition
+ESS-00477,CP0477,ALT0477,Bakery,Bread,Whole Wheat Bread Light,Aia,750.0,g,2,"€3,12",,eur,limited,Esselunga,Milan,23-02-2026,3868982581738,check allergen label
+ESS-00478,CP0478,ALT0478,Bakery,Bread,Smart Ciabatta Light,Smart,300,g,4,EUR 2.50,"1,84",€,limited,Esselunga,Milano,2026-03-14 07:44:00,3342995086722,
+ESS-00479,CP0479,ALT0479,Bakery,Bread,Sandwich Bread Light,Naturama,550,g,8,EUR 1.79,1.43,EUR,low stock, Esselunga ,MILANO,2026-03-29 10:28:00,3305374062426,imported
+ESS-00480,CP0480,ALT0480,Bakery,Croissants,Butter Croissant Light 6pcs,Barilla,6,pcs,8,EUR 3.99,,Euro,in stock,Esselunga,milan,2026/04/29 11:45,2476398572685,new
+ESS-00481,CP0481,ALT0481,Bakery,Croissants,Chocolate Croissant Light 6pcs,Mutti,6,,2,"€3,24",,Euro,available,Esselunga,Milan,2026/01/21 01:43,5149048735975,promo shelf
+ESS-00482,CP0482,ALT0482,Bakery,Cookies,De Cecco Chocolate Chip Cookies Light 375g,De Cecco,375.0,g,6,"2,51",,eur,limited,Esselunga,milan,2026-01-10,5330027027507,
+ESS-00483,CP0483,ALT0483,Bakery,Cookies,Digestive Biscuits Light,Atlante,300.0,g,2,"€3,28",,EUR,in stock,Esselunga,Milano,2026/04/12 22:29,0069915585939,promo shelf
+ESS-00484,CP0484,ALT0484,Produce,Tomatoes,Cherry Tomatoes Light 500g, Top ,500,g,6,2.42,,eur,low stock,Esselunga,milan,07-02-2026,9330381569590,private label
+ESS-00485,CP0485,ALT0485,Produce,Tomatoes,Round Tomatoes Light,BIO,1,kg,,"€3,64",,Euro,limited,Esselunga,MILANO,2026-02-17 04:46:00,4528789999628,check allergen label
+ESS-00486,CP0486,ALT0486,produce, Salad,Top Iceberg Lettuce Light,Top,1.25,pcs,4,2.23,,eur,,Esselunga,milan,2026/02/01 00:26,8965498184409,seasonal item
+ESS-00487,CP0487,ALT0487,Produce,Salad,Rocket Salad Light,Fidaty,125,g,8,EUR 2.56,"2,29",eur,in stock,Esselunga,Milano,2026-01-15,4461501235066,
+ESS-00488,CP0488,ALT0488,Produce,Apples,Golden Apples Light,Atlante,1,kg,4,EUR 1.87,,€,available,Esselunga,Milan,16/01/2026,9474372990352,
+ESS-00489,CP0489,ALT0489,produce,Apples,Parmalat Pink Lady Apples Light,Parmalat,1,kg,3,1.80,,eur,available,Esselunga,Milan,01/04/2026,8133098314523,imported
+ESS-00490,CP0490,ALT0490,Produce,Bananas,Atlante Bananas Light,Atlante,0.75,kg,1,"€2,77",,Euro,available,Esselunga,Milano,2026-01-26 02:39:00,,promo shelf
+ESS-00491,CP0491,ALT0491,Produce,Potatoes,Galbani Potatoes Light 2.5kg,Galbani,2.5,kg,8,3.62, 2.64 ,Euro,low stock,Esselunga,Milano,2026/03/01 09:21,1488151446619,private label
+ESS-00492,CP0492,ALT0492,Meat,Chicken,Bio Chicken Breast Light 300g,Bio,300.0,g,6, 3.97 ,,€,limited,Esselunga,MILANO,03-04-2026,5995990234423,private label
+ESS-00493,CP0493,ALT0493,Meat,Chicken,Fidaty Chicken Thighs Light,Fidaty,625.0,g,3,"4,83",,eur,available,Esselunga,milan,2026/02/22 22:18,3151313561170,promo shelf
+ESS-00494,CP0494,ALT0494,Meat,Beef,Aia Minced Beef Light 400g,Aia,400,g,2,EUR 5.52,,EUR,low stock,Esselunga,MILANO,19/02/2026,8584313574087,imported
+ESS-00495,CP0495,ALT0495,Meat,Beef,Mulino Bianco Beef Steak Light,Mulino Bianco,300,g,6,EUR 4.92,,EUR,low stock,Esselunga,milan,2026-03-29,0954551924152,
+ESS-00496,CP0496,ALT0496, Meat ,Cured Meats,Prosciutto Cotto Light 150g,Smart,150.0,g,1,"5,25",EUR 4.23,€,limited,esselunga,MILANO,12-02-2026,1641573376840,imported
+ESS-00497,CP0497,ALT0497,Meat,Cured Meats,Salame Milano Light 100g,Esselunga,100,g,1,7.48,,€,low stock,Esselunga,milan,2026/02/16 01:19,3873680729661,
+ESS-00498,CP0498,ALT0498,Pantry,Pasta,Fidaty Spaghetti Light,Fidaty,500,g,1,2.81,,EUR,available,Esselunga,milan,2026/01/29 11:43,3006045199081,check allergen label
+ESS-00499,CP0499,ALT0499,Pantry,Pasta,Penne Rigate Light 500g,Smart,500,g,6,EUR 2.13,,€,in stock,Esselunga,Milan,2026-04-13,0473535226549,new
+ESS-00500,CP0500,ALT0500,Pantry,Pasta,Fusilli Light 500g,Galbani,500,g,3,3.84,,Euro,in stock,Esselunga,MILANO,2026-04-11,1431641199136,private label
+ESS-00501,CP0501,ALT0501,Pantry,RICE,Bio Carnaroli Rice Light,Bio,0.75,kg,3,"€5,17", 4.09 ,eur,OUT OF STOCK,Esselunga,Milan,2026/02/22 03:22,4589225174752,seasonal item
+ESS-00502,CP0502,ALT0502,Pantry,Rice,Basmati Rice Light,Fidaty,1,kg,1,"€3,31",,eur,available,Esselunga,MILANO,18/03/2026,0122133875342,promo shelf
+ESS-00503,CP0503,ALT0503,Pantry,Sauce,Tomato Passata Light 875ml,De Cecco,875.0,ml,4,"3,11",,eur,OUT OF STOCK,Esselunga,milan,04/04/2026,3521517346606,imported
+ESS-00504,CP0504,ALT0504,Pantry,Sauce,Pesto Genovese Light 190g,Naturama,190,g,4,"2,86","2,26",EUR,,Esselunga,milan,2026-03-16,6983232854142,check allergen label
+ESS-00505,CP0505,ALT0505,Pantry,Oil,Extra Virgin Olive Oil Light 1l,Smart,1,l,1,3.36,,Euro,available,Esselunga,MILANO,2026-02-27,1159132684232,
+ESS-00506,CP0506,ALT0506,Pantry,Oil,Sunflower Oil Light 0.75l,Smart,0.75,l,1, 4.58 ,,Euro,in stock,Esselunga,Milan,2026-04-09 17:15:00,4552787626023,new
+ESS-00507,CP0507,ALT0507,Pantry, Flour ,De Cecco All Purpose Flour Light,De Cecco,1,kg,6,"€3,91",EUR 3.34,eur,,Esselunga,Milano,2026-02-18 03:53:00,7461231900241,promo shelf
+ESS-00508,CP0508,ALT0508,Pantry,Flour,00 Flour Light,Esselunga,1,kg,2,"€3,09",,Euro,available,Esselunga,MILANO,2026-01-18 06:37:00,4311621065149,imported
+ESS-00509,CP0509,ALT0509,pantry,Sugar,White Sugar Light 1.5kg,Mutti,1.5,kg,3,5.03,,Euro,OUT OF STOCK,Esselunga,Milano,2026-02-19 03:26:00,8697935843423,new
+ESS-00510,CP0510,ALT0510,Pantry,Sugar,Mulino Bianco Brown Sugar Light 1.25kg,Mulino Bianco,1.25,kg,6,2.36,,€,in stock,Esselunga,Milano,2026/03/22 20:09,4050850134742,
+ESS-00511,CP0511,ALT0511,Pantry,Coffee,Ground Coffee Light,Naturama,375.0,g,1,"4,55", 4.20 ,€,limited,Esselunga,MILANO,2026/04/30 14:52,,check allergen label
+ESS-00512,CP0512,ALT0512,Pantry,Coffee,Smart Coffee Beans Light 500g,Smart,500,g,2,"€2,92",,eur,in stock,Esselunga,Milano,10-04-2026,4280970209790,check allergen label
+ESS-00513,CP0513,ALT0513,pantry,Cereal,Corn Flakes Light 281.25g,Naturama,281.25,g,4,"4,97",,eur,available,Esselunga,Milano,2026/02/22 11:57,3775872537172,
+ESS-00514,CP0514,ALT0514,Pantry,Cereal,Smart Muesli Light 562.5g,Smart,562.5,g,1,2.77,"2,58",eur,in stock,Esselunga,milan,2026-04-20 04:34:00,4842266315430,private label
+ESS-00515,CP0515,ALT0515,Frozen,Pizza,Atlante Margherita Pizza Light,Atlante,350,g,3,EUR 5.04,,Euro,in stock,Esselunga,milan,2026/03/09 01:48,4522823253485,
+ESS-00516,CP0516,ALT0516,Frozen,Pizza,Vegetable Pizza Light,Atlante,380,g,6,4.75,,EUR,,Esselunga,Milano,07/03/2026,1540244783075,private label
+ESS-00517,CP0517,ALT0517,Frozen,Vegetables,Frozen Peas Light 675g,Parmalat,675.0,g,3,"5,01",,Euro,OUT OF STOCK,Esselunga,Milan,28-01-2026,4543676879674,
+ESS-00518,CP0518,ALT0518,Frozen,Vegetables,Frozen Spinach Light 450g,Naturama,450,g,1,4.53,,eur,in stock,Esselunga,Milano,10-04-2026,9614949185147,
+ESS-00519,CP0519,ALT0519,Frozen,Fish,Frozen Salmon Fillets Light,Esselunga,300.0,g,4,"€5,65",,€,,Esselunga,milan,2026-01-22,6615929325789,seasonal item
+ESS-00520,CP0520,ALT0520,Frozen,Fish,Ferrero Fish Fingers Light 225g,Ferrero,225.0,g,2,2.68,,EUR,in stock,Esselunga,Milan,02/03/2026,8595129207223,
+ESS-00521,CP0521,ALT0521,Beverages,Water,Still Water Light 2.25l,Atlante,2.25,l,4,2.05,"1,73",Euro,low stock,Esselunga,MILANO,13/03/2026,0842296651444,
+ESS-00522,CP0522,ALT0522,Beverages, Water ,Smart Sparkling Water Light 1.88l,Smart,1.88,l,1,"€1,44",,EUR,low stock,Esselunga,MILANO,2026-04-13 22:49:00,1300843391419,
+ESS-00523,CP0523,ALT0523,beverages,Juice,Esselunga Orange Juice Light,Esselunga,1,l,2,2.19,,€,OUT OF STOCK,Esselunga,Milan,2026-03-06 20:08:00,8028441616936,new
+ESS-00524,CP0524,ALT0524,Beverages,Juice,Bio Apple Juice Light,Bio,1,l,1,EUR 2.01,,€,in stock, Esselunga,MILANO,03-01-2026,5941525838516,check allergen label
+ESS-00525,CP0525,ALT0525,Beverages,Soft Drinks,Rio Mare Cola Light,Rio Mare,1.88,l,3,"€1,30",,EUR,in stock,Esselunga,Milan,2026-01-15,8511858110146,check allergen label
+ESS-00526,CP0526,ALT0526,Beverages,Soft Drinks,Atlante Lemon Soda Light 2.25l,atlante,2.25,l,6,1.68,,Euro,limited,Esselunga,MILANO,2026-02-27,1689278884787,promo shelf
+ESS-00527,CP0527,ALT0527,Beverages,Tea,Fidaty Green Tea Light,Fidaty,30.0,pcs,2,1.44,,Euro,limited,Esselunga,Milano,2026-04-08,1482414304446,limited edition
+ESS-00528,CP0528,ALT0528,Beverages,Tea,Fidaty Black Tea Light 18.75pcs,Fidaty,18.75,pcs,3,"1,66",,€,OUT OF STOCK,esselunga,Milano,2026-02-11,0307661706166,
+ESS-00529,CP0529,ALT0529,Household,Detergent,Dish Soap Light,Bio,937.5,ml,1,6.21,,EUR,low stock,Esselunga,MILANO,2026/02/13 19:46,4055724772139,
+ESS-00530,CP0530,ALT0530,Household,Detergent,Laundry Detergent Light,Top,2.25,l,6,6.29,,eur,in stock,Esselunga,Milano,23-04-2026,8637218589358,
+ESS-00531,CP0531,ALT0531,Household,Paper,Naturama Toilet Paper Light,Naturama,8,pcs,4,4.41,4.04,Euro,available,Esselunga,Milano,2026-03-20,1207018058935,imported
+ESS-00532,CP0532,ALT0532,Household,Paper,Kitchen Towels Light 4pcs,Smart,4,pcs,4,"7,12","6,27",€,low stock,Esselunga,milan,2026-02-22 22:07:00,8683043422997,seasonal item
+ESS-00533,CP0533,ALT0533,Household,Cleaning,Multi Surface Cleaner Light 562.5ml,Top,562.5,ml,1,3.56,,eur,available,Esselunga,MILANO,2026-03-18 06:41:00,0140565025787,new
+ESS-00534,CP0534,ALT0534,Household,Cleaning,Top Bleach Light 2.5l,Top,2.5,l,1,"€3,65",,eur,low stock,Esselunga,milan,23-02-2026,9616367717752,limited edition
+ESS-00535,CP0535,ALT0535,Personal Care,Shampoo,Naturama Shampoo Light 187.5ml,Naturama,187.5,ml,1,6.14,,EUR,,Esselunga,milan,15-01-2026,7050875505624,private label
+ESS-00536,CP0536,ALT0536,Personal Care,Shampoo,Ferrero Conditioner Light,Ferrero,,ml,6,"€6,85",,eur,low stock,Esselunga,MILANO,2026-01-04,2013498438281,imported
+ESS-00537,CP0537,ALT0537,Personal Care,Soap,Bio Hand Soap Light,Bio,450.0,ml,6,"3,51",,eur,in stock,Esselunga,Milano,2026/04/01 14:40,8432109549686,new
+ESS-00538,CP0538,ALT0538,Personal Care,Soap, Body Wash Light 500ml,Mutti,500,ml,,5.19,EUR 4.44,eur,OUT OF STOCK,Esselunga,MILANO,2026-04-14 21:57:00,,check allergen label
+ESS-00539,CP0539,ALT0539,Personal Care,Toothpaste,Toothpaste Light,Bio,75,ml,4,EUR 6.46,,eur,in stock,Esselunga,milan,28/01/2026,6220217589283,private label
+ESS-00540,CP0540,ALT0540,Dairy, Mozzarella ,Esselunga Mozzarella Fresh 156.25g,Esselunga,,g,8,1.48,,eur,limited,Esselunga,MILANO,2026/01/07 08:02,7946685324148,check allergen label
+ESS-00541,CP0541,ALT0541,Dairy,Mozzarella,Lavazza Mozzarella di Bufala Fresh,Lavazza,93.75,g,3, 2.39 ,,EUR,,Esselunga,milan,14/04/2026,8298516522873,check allergen label
+ESS-00542,CP0542,ALT0542,Dairy,Mozzarella,Fior di latte mozzarella Fresh,Bio,200,g,3,"€2,28",EUR 1.95,EUR,in stock,Esselunga,MILANO,12-01-2026,6068886742050,limited edition
+ESS-00543,CP0543,ALT0543,Dairy,Yogurt,Atlante Greek Yogurt Fresh 255g,Atlante,255.0,g,1,3.56,,€,limited,Esselunga,Milano,25/03/2026,2987908686514,
+ESS-00544,CP0544,ALT0544,Dairy,Yogurt,Smart Strawberry Yogurt Fresh,Smart,2,pcs,4,"1,64","1,46",Euro,OUT OF STOCK,Esselunga,Milan,2026/03/29 11:03,9578735168320,new
+ESS-00545,CP0545,ALT0545,DAIRY,Yogurt,Plain Yogurt Fresh 375g,Top,375.0,g,1,"€2,44", 1.84 ,Euro,,Esselunga,milan,16-03-2026,3282391321836,promo shelf
+ESS-00546,CP0546,ALT0546,Dairy,Milk,Atlante Whole Milk Fresh 1l,Atlante,1,l,1,EUR 1.96,,€,low stock,Esselunga,milan,2026-03-08,3702446984598,promo shelf
+ESS-00547,CP0547,ALT0547,Dairy,Milk,Naturama Semi-skimmed Milk Fresh, Naturama,1.5,l,1,2.25,,Euro,limited,Esselunga,milan,24/01/2026,8420927493909,limited edition
+ESS-00548,CP0548,ALT0548,Dairy,Milk,Naturama Lactose Free Milk Fresh,Naturama,1,l,1, 1.50 ,,EUR,OUT OF STOCK,Esselunga,Milano,2026/01/30 11:18,3700877751900,private label
+ESS-00549,CP0549,ALT0549,Dairy,Butter,UNSALTED BUTTER FRESH,Naturama,312.5,g,3,"2,05",,EUR,in stock,Esselunga,Milan,2026-04-14 17:46:00,5437673058582,new
+ESS-00550,CP0550,ALT0550,Dairy,Butter,Lavazza Salted Butter Fresh 250g,Lavazza,250,g,1, 2.75 ,,eur,,Esselunga,Milan,2026-04-29,2570670779244,seasonal item
+ESS-00551,CP0551,ALT0551,Dairy,Cheese,Atlante Parmigiano Reggiano Fresh 250g,Atlante,250.0,g,8,EUR 3.24,,eur,in stock,Esselunga,Milan,2026/03/24 18:36,6394684583109,
+ESS-00552,CP0552,ALT0552,Dairy,Cheese,Galbani Gorgonzola Fresh 150g,Galbani,150,g,1,2.47,,EUR,limited,Esselunga,MILANO,2026-01-17 18:01:00,8073664970695,imported
+ESS-00553,CP0553,ALT0553,Dairy,Cheese,Fidaty Ricotta Fresh,Fidaty,375.0,g,3,2.93,"2,65",EUR,in stock,Esselunga,MILANO,2026-05-01,,new
+ESS-00554,CP0554,ALT0554,Bakery,Bread,Whole Wheat Bread Fresh 500g,Top,500,g,2,EUR 2.45,1.82,EUR,in stock,Esselunga,Milan,2026/03/29 09:08,9117390665068,private label
+ESS-00555,CP0555,ALT0555,Bakery,Bread,Naturama Ciabatta Fresh 300g,Naturama,300,g,2, 2.63 ,2.15,Euro,limited,Esselunga,MILANO,2026/01/21 22:01,4169456468667,
+ESS-00556,CP0556,ALT0556,Bakery,Bread,Naturama Sandwich Bread Fresh 687.5g,Naturama,687.5,g,3,EUR 3.68,"€2,73",€,available,Esselunga,Milano,2026-01-24 08:45:00,3225833762233,
+ESS-00557,CP0557,ALT0557,Bakery,Croissants,Top Butter Croissant Fresh,Top,7.5,pcs,4,1.86,,€,low stock,Esselunga,Milano,2026/02/23 11:50,3933489140269,imported
+ESS-00558,CP0558,ALT0558,Bakery,Croissants,chocolate croissant fresh 6pcs,Smart,6,pcs,4,3.96,,eur,,Esselunga,Milan,2026-01-01,8444685013813,promo shelf
+ESS-00559,CP0559,ALT0559,Bakery,Cookies,Naturama Chocolate Chip Cookies Fresh 450g,Naturama,450.0,g,2,EUR 2.92,,eur,limited,Esselunga,MILANO,2026-02-06,3605497127931,seasonal item
+ESS-00560,CP0560,ALT0560,Bakery,Cookies,Digestive Biscuits Fresh 600g,Fidaty,600.0,g,,,,EUR,low stock,Esselunga,MILANO,30-04-2026,1182892107586,private label
+ESS-00561,CP0561,ALT0561,Produce,Tomatoes, Cherry Tomatoes Fresh 500g,Galbani,500,g,6,"€2,60",,EUR,low stock,Esselunga,Milano,06-02-2026,3454964220699,new
+ESS-00562,CP0562,ALT0562, Produce ,Tomatoes,Bio Round Tomatoes Fresh 1.25kg,Bio,1.25,kg,4, 2.38 ,2.14,EUR,,Esselunga,Milano,26/02/2026,8831927277834,promo shelf
+ESS-00563,CP0563,ALT0563,Produce,Salad,Iceberg Lettuce Fresh 1.5pcs,Atlante,1.5,pcs,, 3.09 ,,EUR,limited, Esselunga,Milan,2026/03/07 21:29,4179184800000,check allergen label
+ESS-00564,CP0564,ALT0564,Produce,Salad,Rocket Salad Fresh 93.75g,Esselunga,93.75,g,1,3.98,,EUR,OUT OF STOCK,Esselunga,Milano,16-02-2026,4437645618468,
+ESS-00565,CP0565,ALT0565,Produce,Apples,Esselunga Golden Apples Fresh 1kg,Esselunga,1,kg,,3.45,,EUR,OUT OF STOCK,Esselunga,Milano,2026-02-13 18:16:00,8338265619789,new
+ESS-00566,CP0566,ALT0566,Produce,Apples,Pink Lady Apples Fresh 1kg,Esselunga,1,kg,1,EUR 2.84,,EUR,,Esselunga,MILANO,01-02-2026,4865977597767,check allergen label
+ESS-00567,CP0567,ALT0567,Produce,Bananas, Aia Bananas Fresh,Aia,1,kg,6,"2,59",,€,available,Esselunga,Milano,03/01/2026,8865707385460,promo shelf
+ESS-00568,CP0568,ALT0568,PRODUCE,potatoes,Atlante Potatoes Fresh 2.5kg,Atlante,2.5,kg,2,4.36,,EUR,limited,Esselunga,Milan,2026/02/15 02:08,7693088837079,seasonal item
+ESS-00569,CP0569,ALT0569,Meat,Chicken,Naturama Chicken Breast Fresh,Naturama,600.0,g,1, 7.74 ,,EUR,low stock,Esselunga,milan,2026-01-07 10:00:00,4867117249859,check allergen label
+ESS-00570,CP0570,ALT0570,Meat,Chicken,Chicken Thighs Fresh 750g,Bio,750.0,g,1,"8,67",,€,in stock,Esselunga,MILANO,11-04-2026,,limited edition
+ESS-00571,CP0571,ALT0571, Meat ,Beef,Minced Beef Fresh 400g, Top,400,g,6, 5.96 ,,eur,,Esselunga,MILANO,2026-01-18 21:02:00,8022131896050,imported
+ESS-00572,CP0572,ALT0572,Meat,Beef, Beef Steak Fresh ,De Cecco,375.0,g,8,"4,29","3,10",eur,OUT OF STOCK,Esselunga,Milano,2026-03-09 14:13:00,6630363386486,limited edition
+ESS-00573,CP0573,ALT0573,Meat ,Cured Meats,Prosciutto Cotto Fresh,Top,150.0,g,4,5.31,,Euro,,Esselunga,MILANO,2026-02-28,3414524486491,
+ESS-00574,CP0574,ALT0574,Meat,Cured Meats,Salame Milano Fresh 125g,Bio,125.0,g,4,3.91,3.00,EUR,limited,Esselunga,MILANO,2026/04/21 22:58,9126438470981,
+ESS-00575,CP0575,ALT0575,Pantry,Pasta,Top Spaghetti Fresh,Top,500,g,2, 5.02 ,"€3,99",eur,limited,Esselunga,MILANO,2026-03-16,9249128300623,new
+ESS-00576,CP0576,ALT0576,Pantry,Pasta,Penne Rigate Fresh 750g, Esselunga,750.0,g,3,5.22,,Euro,low stock,Esselunga,Milano,02/03/2026,5913353153562,private label
+ESS-00577,CP0577,ALT0577,Pantry,Pasta,Fusilli Fresh,Fidaty,625.0,g,1,4.34,,Euro,low stock,Esselunga,Milan,22/04/2026,6821636297038,limited edition
+ESS-00578,CP0578,ALT0578,Pantry,Rice,Naturama Carnaroli Rice Fresh 1kg,Naturama,1,kg,8,EUR 4.27,,eur,available,Esselunga,Milan,2026-03-12,4145287847590,new
+ESS-00579,CP0579,ALT0579,pantry,Rice,Mutti Basmati Rice Fresh 0.75kg,Mutti,0.75,kg,3, 3.46 ,,eur,limited,Esselunga,Milan,2026/03/28 14:07,3451995508977,limited edition
+ESS-00580,CP0580,ALT0580,Pantry,Sauce,Tomato Passata Fresh,Mulino Bianco,700,ml,8,"3,78","2,95",EUR,OUT OF STOCK,Esselunga,MILANO,2026-03-06 20:44:00,8724849261528,
+ESS-00581,CP0581,ALT0581,Pantry,Sauce, Pesto Genovese Fresh 285g,Naturama,285.0,g,1,"3,80",,eur,in stock,Esselunga,Milan,2026-03-17,,promo shelf
+ESS-00582,CP0582,ALT0582,Pantry,Oil,Fidaty Extra Virgin Olive Oil Fresh 1.5l,Fidaty,1.5,l,3,"€2,66",,EUR,limited,Esselunga,Milano,30/04/2026,9825799883594,imported
+ESS-00583,CP0583,ALT0583,Pantry,Oil,Sunflower Oil Fresh,Top,1,,3,"€2,78",,EUR,available,Esselunga,milan,2026/04/25 11:26,6088895920851,
+ESS-00584,CP0584,ALT0584,Pantry ,Flour,All Purpose Flour Fresh 0.75kg,Esselunga,0.75,kg,6,4.79,,EUR,available,Esselunga,Milano,2026-04-01 11:42:00,3725901259968,
+ESS-00585,CP0585,ALT0585,Pantry,Flour,Atlante 00 Flour Fresh 1kg,Atlante,1,kg,8,"4,28",,€,,Esselunga,milan,2026-01-19 08:55:00,7007191035336,promo shelf
+ESS-00586,CP0586,ALT0586,Pantry,Sugar, White Sugar Fresh 1kg,Bio,1,kg,1,2.61,2.45,eur,low stock,Esselunga,MILANO,2026/04/17 21:39,1188959491926,private label
+ESS-00587,CP0587,ALT0587,Pantry,Sugar,Granarolo Brown Sugar Fresh, Granarolo,1,kg,6,2.78,,EUR,low stock,Esselunga,Milano,16-01-2026,2244326549518,limited edition
+ESS-00588,CP0588,ALT0588, Pantry,Coffee,Naturama Ground Coffee Fresh,Naturama,250,g,4,3.60,,eur,OUT OF STOCK,Esselunga,milan,2026-02-22,4940809100695,private label
+ESS-00589,CP0589,ALT0589,Pantry,Coffee,Fidaty Coffee Beans Fresh,Fidaty,500,g,,4.29,4.04,Euro,OUT OF STOCK,Esselunga ,Milano,2026-02-07,0671091796510,
+ESS-00590,CP0590,ALT0590,Pantry,Cereal,Corn Flakes Fresh 281.25g,Bio,281.25,g,2,"€2,12",,€,,Esselunga,milan,2026/03/30 05:45,8126888107863,imported
+ESS-00591,CP0591,ALT0591,Pantry,Cereal,MUESLI FRESH,Bio,562.5,g,1,2.11,,EUR,,Esselunga,Milano,10-04-2026,5180784424676,imported
+ESS-00592,CP0592,ALT0592,Frozen,Pizza, Atlante Margherita Pizza Fresh ,atlante,350,g,4,EUR 6.23,,€,in stock,Esselunga,Milano,2026-03-30 05:06:00,,imported
+ESS-00593,CP0593,ALT0593,Frozen,Pizza,Atlante Vegetable Pizza Fresh 475g ,Atlante,475.0,g,3, 6.28 ,,eur,low stock,Esselunga,MILANO,2026-01-17 00:47:00,0766675244203,limited edition
+ESS-00594,CP0594,ALT0594,FROZEN,Vegetables,Frozen Peas Fresh,Granarolo,675.0,g,4,"4,46",,€,in stock,Esselunga,MILANO,2026-01-27,2716623935260,promo shelf
+ESS-00595,CP0595,ALT0595,Frozen,Vegetables,Frozen Spinach Fresh 337.5g,Mutti,337.5,g,2,EUR 3.86,,EUR,in stock,Esselunga,Milan,04/04/2026,0025304674071,seasonal item
+ESS-00596,CP0596,ALT0596,Frozen,Fish,Atlante Frozen Salmon Fillets Fresh 500g,Atlante,500.0,g,2,,"€2,37",€,low stock,Esselunga,Milan,2026-04-01 11:42:00,5296458716639,private label
+ESS-00597,CP0597,ALT0597,Frozen ,Fish,Fish Fingers Fresh 375g,Top,375.0,g,1, 3.14 ,,€,available,Esselunga,Milano,2026/01/07 19:09,1883340179194,imported
+ESS-00598,CP0598,ALT0598,Beverages,Water,Granarolo Still Water Fresh 2.25l,Granarolo,2.25,l,6,"2,64",,€,OUT OF STOCK,Esselunga,MILANO,02-02-2026,5923002242237,seasonal item
+ESS-00599,CP0599,ALT0599,Beverages,Water,Parmalat Sparkling Water Fresh 1.5l,Parmalat,1.5,l,4, 1.47 ,,eur,low stock,Esselunga,Milano,2026-01-14 04:01:00,0676420117310,
+ESS-00600,CP0600,ALT0600,Beverages,Juice,Smart Orange Juice Fresh,Smart,1.25,l,1,EUR 2.42,,€,in stock,Esselunga ,milan,05/04/2026,8392902532448,private label
+ESS-00601,CP0601,ALT0601,Beverages,Juice,Atlante Apple Juice Fresh,Atlante,1.25,l,6,"2,82",,EUR,OUT OF STOCK,Esselunga,Milano,2026/04/10 03:11,3474911608478,private label
+ESS-00602,CP0602,ALT0602,Beverages,Soft Drinks,Cola Fresh 1.88l,Esselunga,1.88,l,3,1.47,,€,OUT OF STOCK,Esselunga,Milano,2026-02-01,7299142607133,limited edition
+ESS-00603,CP0603,ALT0603,Beverages,Soft Drinks,Esselunga Lemon Soda Fresh 1.5l,Esselunga,1.5,l,3,2.02,,€,,Esselunga,Milano,14/01/2026,0677309780399,check allergen label
+ESS-00604,CP0604,ALT0604,Beverages,Tea,Green Tea Fresh, Bio ,20,pcs,4,"1,38",,EUR,low stock,Esselunga,Milan,2026-01-08,9848550506815,new
+ESS-00605,CP0605,ALT0605,Beverages,Tea,Bio Black Tea Fresh 18.75pcs,Bio,18.75,pcs,6,1.89,,eur,low stock,Esselunga,milan,2026/03/28 12:34,4997530144633,check allergen label
+ESS-00606,CP0606,ALT0606,Household,Detergent,Bio Dish Soap Fresh 562.5ml,Bio,562.5,ml,1,"6,72",5.81,eur,in stock,Esselunga,Milan,2026-04-24 06:24:00,3092220241766,
+ESS-00607,CP0607,ALT0607,Household,Detergent, Laundry Detergent Fresh ,Fidaty,1.88,l,1,"€4,87",,Euro,available,Esselunga,milan,16/02/2026,9590121355301,promo shelf
+ESS-00608,CP0608,ALT0608,Household,Paper,Barilla Toilet Paper Fresh 8pcs,Barilla,8,pcs,6,3.91,,eur,,Esselunga,Milan,2026-04-08 20:56:00,5720555321685,check allergen label
+ESS-00609,CP0609,ALT0609,Household,Paper, Bio Kitchen Towels Fresh 4pcs,Bio,4,pcs,4,"€6,84",,€,low stock,Esselunga,Milan,2026-01-20 00:08:00,8668980106528,
+ESS-00610,CP0610,ALT0610,Household,Cleaning,MULTI SURFACE CLEANER FRESH 1125ML,De Cecco,1125.0,ml,6,6.07,,Euro,,Esselunga,milan,2026-01-31,,
+ESS-00611,CP0611,ALT0611,Household,Cleaning, Atlante Bleach Fresh 2.5l ,Atlante,2.5,l,1,5.88,,EUR,OUT OF STOCK,Esselunga,Milano,2026-01-01 12:11:00,,imported
+ESS-00612,CP0612,ALT0612,Personal Care,Shampoo,Shampoo Fresh 187.5ml,Bio,187.5,,3,"€4,02",,Euro,available,Esselunga,milan,13-01-2026,2291379016884,
+ESS-00613,CP0613,ALT0613,Personal Care,Shampoo,Conditioner Fresh,Bio,375.0,ml,3,"5,72","€5,12",€,limited,Esselunga,MILANO,2026-02-28,3746678563716,imported
+ESS-00614,CP0614,ALT0614,Personal Care,Soap,Parmalat Hand Soap Fresh, Parmalat,300,ml,4,"€5,79","4,64",€,available,Esselunga,milan,28/01/2026,0110288314914,private label
+ESS-00615,CP0615,ALT0615,Personal Care,Soap,Bio Body Wash Fresh,Bio,375.0,ml,3,"€2,94", 2.39 ,eur,limited,Esselunga,Milano,08/04/2026,8247080709278,imported
+ESS-00616,CP0616,ALT0616,Personal Care,Toothpaste,Toothpaste Fresh,Bio,93.75,ml,1,3.58,,€,,Esselunga,MILANO,07/03/2026,0729722318708,private label
+ESS-00617,CP0617,ALT0617,Dairy,Mozzarella,Mozzarella Tradizionale 125g,Naturama,125,g,3,,,eur,low stock,Esselunga,milan,2026-03-13 01:06:00,2844027836268,private label
+ESS-00618,CP0618,ALT0618,Dairy,Mozzarella,Naturama Mozzarella di Bufala Tradizionale 156.25g,Naturama,156.25,g,3,"€2,07",,eur,available,Esselunga,Milano,2026-01-14 10:59:00,2382000297806,imported
+ESS-00619,CP0619,ALT0619,Dairy,Mozzarella,Fior di latte mozzarella Tradizionale 300g,Naturama,300.0,g,2,"€2,35",,EUR,limited,Esselunga,milan,17/01/2026,2232723442416,
+ESS-00620,CP0620,ALT0620,Dairy,Yogurt,Greek Yogurt Tradizionale 255g,Fidaty,255.0,g,3,3.48,,eur,limited,Esselunga,milan,2026-03-08 11:53:00,7108186321337,promo shelf
+ESS-00621,CP0621,ALT0621,Dairy,Yogurt,Naturama Strawberry Yogurt Tradizionale 3pcs,Naturama,3.0,pcs,4,"€2,92","€2,61",Euro,OUT OF STOCK,Esselunga,Milan,2026/01/05 18:18,7303748508374,private label
+ESS-00622,CP0622,ALT0622,Dairy,Yogurt,Top Plain Yogurt Tradizionale,Top,500,g,6,EUR 3.38,,Euro,available,Esselunga,milan,16-02-2026,5733353837902,
+ESS-00623,CP0623,ALT0623,Dairy,Milk,De Cecco Whole Milk Tradizionale,De Cecco,1.25,l,8,2.73,,EUR,available,Esselunga,MILANO,2026-04-12,9522427561737,check allergen label
+ESS-00624,CP0624,ALT0624,Dairy,Milk,Semi-skimmed Milk Tradizionale,Bio,1.5,l,1,"2,95",,€,in stock, Esselunga,MILANO,2026/01/30 14:05,9989071677880,
+ESS-00625,CP0625,ALT0625,Dairy,Milk,Naturama Lactose Free Milk Tradizionale 1.5l,Naturama,1.5,l,1, 2.69 ,2.34,EUR,limited,Esselunga,Milan,2026-04-24,5431373129504,
+ESS-00626,CP0626,ALT0626,Dairy,Butter,Fidaty Unsalted Butter Tradizionale,Fidaty,312.5,g,,"€2,61",,eur,low stock,Esselunga,MILANO,2026-04-05,0467863038169,new
+ESS-00627,CP0627,ALT0627,Dairy,Butter,Salted Butter Tradizionale,Mulino Bianco ,375.0,g,6,2.45,,eur,OUT OF STOCK,Esselunga,MILANO,2026-04-02,0872584230227,limited edition
+ESS-00628,CP0628,ALT0628,Dairy,Cheese,Parmigiano Reggiano Tradizionale 250g,Atlante,250.0,g,1,"3,42",,EUR,in stock,Esselunga,Milan,26-03-2026,3826775972777,private label
+ESS-00629,CP0629,ALT0629,Dairy,Cheese,Aia Gorgonzola Tradizionale 150g,Aia,150,g,3,EUR 2.19,,eur,OUT OF STOCK,Esselunga,MILANO,2026-01-21 03:22:00,6462929177360,check allergen label
+ESS-00630,CP0630,ALT0630,Dairy,Cheese,Esselunga Ricotta Tradizionale,Esselunga,312.5,g,8,"1,46",,Euro,,Esselunga,MILANO,04/02/2026,2508193392274,promo shelf
+ESS-00631,CP0631,ALT0631,Bakery,Bread,Atlante Whole Wheat Bread Tradizionale 625g,Atlante,625.0,g,3, 3.28 ,,€,available,Esselunga,MILANO,2026/01/03 21:31,,limited edition
+ESS-00632,CP0632,ALT0632,Bakery,Bread,Ciabatta Tradizionale,Fidaty,300,g,1,"3,47",,Euro,available,Esselunga,Milan,22/03/2026,8787909128121,
+ESS-00633,CP0633,ALT0633,Bakery,BREAD,Sandwich Bread Tradizionale 550g,Smart,550,g,1,,,eur,limited,Esselunga,Milan,2026/01/19 07:05,7282840125200,private label
+ESS-00634,CP0634,ALT0634,Bakery,Croissants,Naturama Butter Croissant Tradizionale,Naturama,6,pcs,1,"€1,74","1,55",EUR,limited,Esselunga,MILANO,2026/04/10 04:13,,seasonal item
+ESS-00635,CP0635,ALT0635,Bakery,Croissants, Smart Chocolate Croissant Tradizionale 9pcs,Smart,9.0,pcs,3,2.59,,€,OUT OF STOCK,ESSELUNGA,Milano,2026-02-25 00:43:00,5385194056845,promo shelf
+ESS-00636,CP0636,ALT0636,Bakery,Cookies,Chocolate Chip Cookies Tradizionale 375g,Fidaty,375.0,g,1,"1,70",,€,available,Esselunga,milan,25/04/2026,3122725449550,imported
+ESS-00637,CP0637,ALT0637,Bakery,Cookies,Digestive Biscuits Tradizionale,Esselunga,400,g,6,2.91,,Euro,OUT OF STOCK,Esselunga,MILANO,06-04-2026,6794099073722,imported
+ESS-00638,CP0638,ALT0638,Produce, Tomatoes ,Naturama Cherry Tomatoes Tradizionale,Naturama,500,g,3, 2.47 ,1.98,€,,Esselunga,milan,2026-04-22 03:43:00,2835602293511,private label
+ESS-00639,CP0639,ALT0639,Produce,Tomatoes,Atlante Round Tomatoes Tradizionale 1.25kg,Atlante,1.25,kg,2,EUR 4.41,,EUR,,Esselunga,milan,2026-04-02,9317261084563,check allergen label
+ESS-00640,CP0640,ALT0640,Produce,Salad,Esselunga Iceberg Lettuce Tradizionale 0.75pcs,Esselunga,0.75,pcs,1, 3.33 ,,eur,available,Esselunga,MILANO,2026-02-22,6809651198887,check allergen label
+ESS-00641,CP0641,ALT0641,Produce,Salad,Rocket Salad Tradizionale,De Cecco,125,g,8,EUR 2.21,,EUR,low stock,Esselunga,milan,2026-01-27 13:25:00,4856432754115,promo shelf
+ESS-00642,CP0642,ALT0642,Produce,Apples,Golden Apples Tradizionale,Top,1,kg,4, 4.20 ,,eur,available,Esselunga,Milan,2026/04/28 22:25,3164606649323,check allergen label
+ESS-00643,CP0643,ALT0643,Produce,Apples,Pink Lady Apples Tradizionale 1kg,Bio,1,kg,2,2.27,,eur,, Esselunga,MILANO,2026/03/07 13:47,7109002810003,
+ESS-00644,CP0644,ALT0644,Produce,Bananas,Bananas Tradizionale,Naturama,1,kg,1,4.03,,Euro,limited,Esselunga,MILANO,2026-01-22,9425012291535,promo shelf
+ESS-00645,CP0645,ALT0645,Produce,Potatoes,Potatoes Tradizionale 2kg,Granarolo,2,kg,6,1.92,,EUR,, Esselunga,Milano,2026/04/17 09:31,0834864917507,check allergen label
+ESS-00646,CP0646,ALT0646,Meat,Chicken,CHICKEN BREAST TRADIZIONALE 600G,Atlante,600.0,g,,9.44, 8.63 ,EUR,OUT OF STOCK,Esselunga,milan,19-02-2026,8982397327860,limited edition
+ESS-00647,CP0647,ALT0647,Meat,Chicken,Aia Chicken Thighs Tradizionale 375g,Aia,375.0,,6,9.32,,EUR,OUT OF STOCK,Esselunga,milan,2026/04/15 13:48,3019654970594,new
+ESS-00648,CP0648,ALT0648,MEAT,Beef,Bio Minced Beef Tradizionale,Bio,,g,1,4.64,,EUR,OUT OF STOCK,Esselunga,Milano,2026-04-13,,seasonal item
+ESS-00649,CP0649,ALT0649,Meat,Beef,Beef Steak Tradizionale,Smart,300,g,3,"€4,24",,Euro,limited,Esselunga,Milano,2026/01/26 03:40,1710567392936,promo shelf
+ESS-00650,CP0650,ALT0650,Meat,Cured Meats,Atlante Prosciutto Cotto Tradizionale,Atlante,120,g,8,"€3,82",,€,in stock,Esselunga,milan,2026/02/09 19:57,0048307627325,seasonal item
+ESS-00651,CP0651,ALT0651,Meat,Cured Meats,Salame Milano Tradizionale 125g,Ferrero,125.0,g,6,"8,08",6.13,eur,limited,Esselunga,Milano,29-03-2026,0380954185203,seasonal item
+ESS-00652,CP0652,ALT0652,Pantry,Pasta,Esselunga Spaghetti Tradizionale,Esselunga,500,g,3,"2,43",,€,in stock,Esselunga,MILANO,2026-02-01 23:57:00,6848655842252,limited edition
+ESS-00653,CP0653,ALT0653,Pantry,Pasta,Penne Rigate Tradizionale,Smart,500,g,6,"3,54",,€,limited,Esselunga,MILANO,23/03/2026,2166095238149,limited edition
+ESS-00654,CP0654,ALT0654,Pantry,Pasta,Esselunga Fusilli Tradizionale 375g,Esselunga,375.0,g,2,"2,11",,Euro,,Esselunga,MILANO,13-04-2026,5337347763065,private label
+ESS-00655,CP0655,ALT0655,Pantry,Rice,Carnaroli Rice Tradizionale 1.25kg,Bio,1.25,kg,3,"€4,61",,Euro,limited,Esselunga,Milan,2026-01-30 08:12:00,8144298368761,check allergen label
+ESS-00656,CP0656,ALT0656,Pantry,Rice, Smart Basmati Rice Tradizionale 1.25kg,Smart,1.25,kg,4,"€2,29",,Euro,low stock,Esselunga,Milano,2026-04-20 12:25:00,1718729701268,private label
+ESS-00657,CP0657,ALT0657,Pantry,Sauce,Smart Tomato Passata Tradizionale 700ml,Smart,700,ml,1,EUR 2.58,,Euro,low stock,esselunga,Milan,20-03-2026,2194719023271,
+ESS-00658,CP0658,ALT0658,Pantry,Sauce,Pesto Genovese Tradizionale 285g,RIO MARE,285.0,g,1,,,Euro,,Esselunga,Milan,09/01/2026,1046311867019,
+ESS-00659,CP0659,ALT0659,Pantry,Oil,Extra Virgin Olive Oil Tradizionale 1.25l,Fidaty,1.25,l,3,EUR 4.22,,EUR,low stock,Esselunga,Milan,2026/03/30 20:45,0540764718629,private label
+ESS-00660,CP0660,ALT0660,Pantry, Oil,Lavazza Sunflower Oil Tradizionale,Lavazza,1.25,l,2,"€2,99",,€,,Esselunga,milan,2026-03-20,2776021806672,limited edition
+ESS-00661,CP0661,ALT0661,Pantry,Flour,All Purpose Flour Tradizionale 0.75kg,Mutti,0.75,kg,3,"4,38",,EUR,,Esselunga,Milan,2026/04/30 10:47,7108425754237,private label
+ESS-00662,CP0662,ALT0662,Pantry,Flour,00 Flour Tradizionale 1kg,Bio,1,kg,3,"3,85",,eur,limited,Esselunga,Milan,19/03/2026,7469033847137,promo shelf
+ESS-00663,CP0663,ALT0663,Pantry,Sugar,White Sugar Tradizionale,Bio,1.25,kg,1,4.32,,EUR,,Esselunga,Milan,04/04/2026,0338738453500,seasonal item
+ESS-00664,CP0664,ALT0664,Pantry,Sugar,Brown Sugar Tradizionale,Granarolo,1.25,kg,3,"€2,67",,Euro,low stock,Esselunga,milan,12/01/2026,4455329677375,new
+ESS-00665,CP0665,ALT0665,Pantry,Coffee,Ground Coffee Tradizionale 375g,Atlante,375.0,g,6,2.32,,EUR,in stock,Esselunga,Milano,2026/03/14 07:49,7705491140654,
+ESS-00666,CP0666,ALT0666,Pantry,Coffee,SMART COFFEE BEANS TRADIZIONALE 375G,Smart,375.0,g,3,EUR 5.01,,eur,low stock,Esselunga,milan,05-02-2026,1582230947605,
+ESS-00667,CP0667,ALT0667,Pantry,Cereal,Corn Flakes Tradizionale,Smart,562.5,g,6,4.66,,€,available,Esselunga,MILANO,16/02/2026,2529149373529,
+ESS-00668,CP0668,ALT0668,Pantry,Cereal,Barilla Muesli Tradizionale,Barilla,937.5,g,6,"€2,30",,Euro,limited,Esselunga,MILANO,2026-04-23,4418269718701,imported
+ESS-00669,CP0669,ALT0669,Frozen,Pizza,Margherita Pizza Tradizionale,Ferrero,437.5,g,3,"€5,74",,€,,Esselunga,Milano,04/01/2026,4227404512285,
+ESS-00670,CP0670,ALT0670,Frozen,Pizza,Vegetable Pizza Tradizionale 285g,Atlante ,285.0,g,4,"€2,63","2,33",€,available,Esselunga,Milan,2026/02/21 03:38,9972631508108,imported
+ESS-00671,CP0671,ALT0671,Frozen,Vegetables,Smart Frozen Peas Tradizionale,Smart,450,g,8,5.17,"4,37",€,low stock,Esselunga,milan,18-01-2026,9186484121234,
+ESS-00672,CP0672,ALT0672,Frozen,Vegetables,Esselunga Frozen Spinach Tradizionale 450g,Esselunga,450,g,1,EUR 5.04,,EUR,in stock,Esselunga,MILANO,24-04-2026,6298475487009,check allergen label
+ESS-00673,CP0673,ALT0673,Frozen,Fish,Smart Frozen Salmon Fillets Tradizionale,Smart,500.0,g,4,EUR 4.77,EUR 3.63,€,limited,Esselunga,milan,2026/02/11 09:11,9303619993260,check allergen label
+ESS-00674,CP0674,ALT0674,Frozen,Fish,Fish Fingers Tradizionale,Ferrero,375.0,g,3,"€5,00",,EUR,,Esselunga,Milano,03-03-2026,8074612046545,seasonal item
+ESS-00675,CP0675,ALT0675,Beverages,Water,Still Water Tradizionale,Smart,2.25,l,6,"1,76",,eur,limited,Esselunga,milan,2026-01-25,9982048793701,new
+ESS-00676,CP0676,ALT0676,Beverages,Water,Atlante Sparkling Water Tradizionale 2.25l,Atlante,,l,2,2.54,,eur,in stock,ESSELUNGA,MILANO,2026/04/30 00:42,4085074911392,imported
+ESS-00677,CP0677,ALT0677,Beverages,Juice,Orange Juice Tradizionale,Top,1.5,l,1,"2,39",,eur,limited,Esselunga,MILANO,26-01-2026,,check allergen label
+ESS-00678,CP0678,ALT0678,Beverages,Juice,Esselunga Apple Juice Tradizionale 1l,Esselunga,1,l,4,EUR 1.81,,€,,Esselunga,Milan,2026-04-10 16:56:00,8958932010898,check allergen label
+ESS-00679,CP0679,ALT0679,Beverages,Soft Drinks,Cola Tradizionale,Esselunga,1.88,l,8, 1.35 ,,EUR,in stock,Esselunga,Milan,23/03/2026,7424941785847,limited edition
+ESS-00680,CP0680,ALT0680,Beverages,Soft Drinks,Lemon Soda Tradizionale 1.5l,Esselunga,1.5,l,2,"1,32",,Euro,low stock,Esselunga,Milan,2026-01-03,,
+ESS-00681,CP0681,ALT0681,Beverages,Tea,Top Green Tea Tradizionale 20pcs,Top,20,pcs,6,1.18,,Euro,available,Esselunga,MILANO,20-04-2026,7296204297581,new
+ESS-00682,CP0682,ALT0682,Beverages,Tea, Bio Black Tea Tradizionale 31.25pcs ,Bio,31.25,pcs,1,"€1,15",,eur,OUT OF STOCK,Esselunga,milan,2026-01-08 19:03:00,0496054690508,private label
+ESS-00683,CP0683,ALT0683,Household,Detergent,Granarolo Dish Soap Tradizionale,Granarolo,937.5,ml,1,EUR 7.27,,€,limited,Esselunga,Milan,2026/04/10 00:27,3335802103770,
+ESS-00684,CP0684,ALT0684,Household,Detergent,Laundry Detergent Tradizionale 1.12l,barilla,1.12,l,1,"€3,63",,eur,limited,Esselunga,MILANO,2026-01-12,4354349189245,check allergen label
+ESS-00685,CP0685,ALT0685,Household,Paper,Smart Toilet Paper Tradizionale 10pcs,Smart,10.0,pcs,2,"€5,91",,EUR,low stock,Esselunga,milan,01-04-2026,2580994919437,new
+ESS-00686,CP0686,ALT0686,Household,Paper,Kitchen Towels Tradizionale 4pcs ,Top,4,pcs,6,7.06,,EUR,OUT OF STOCK,Esselunga,milan,2026-01-25 08:08:00,2795132465183,private label
+ESS-00687,CP0687,ALT0687,Household,Cleaning,Fidaty Multi Surface Cleaner Tradizionale,Fidaty,937.5,,3,EUR 3.51,2.56,Euro,, Esselunga ,Milano,19/02/2026,7349963215533,
+ESS-00688,CP0688,ALT0688,Household,Cleaning,Bleach Tradizionale,Atlante,2,l,1,4.48,4.24,eur,OUT OF STOCK,Esselunga,MILANO,2026-01-14 01:39:00,3500228740897,promo shelf
+ESS-00689,CP0689,ALT0689,Personal Care,Shampoo,Shampoo Tradizionale,Naturama,312.5,ml,2,"4,97",3.65,€,low stock,Esselunga,milan,22/04/2026,4477927969392,private label
+ESS-00690,CP0690,ALT0690,Personal Care,Shampoo,Galbani Conditioner Tradizionale,Galbani,250,ml,,"6,20",,€,low stock,Esselunga,Milano,2026-03-16 05:25:00,6874433731402,
+ESS-00691,CP0691,ALT0691, Personal Care ,Soap,Top Hand Soap Tradizionale,Top,450.0,ml,2,EUR 6.15,,eur,in stock,Esselunga,Milan,2026/03/30 07:41,0534475508238,
+ESS-00692,CP0692,ALT0692,Personal Care,Soap,Ferrero Body Wash Tradizionale,Ferrero,750.0,ml,1,EUR 3.09,,EUR,OUT OF STOCK,Esselunga,milan,2026-03-19 14:51:00,8638720323832,private label
+ESS-00693,CP0693,ALT0693,Personal Care,Toothpaste,Smart Toothpaste Tradizionale,Smart,56.25,ml,1, 3.87 ,,€,low stock,Esselunga,Milan,01/04/2026,8185480514388,imported
+ESS-00694,CP0694,ALT0694,Dairy,Mozzarella,Mozzarella Deluxe 156.25g,Smart,156.25,g,3,3.13,2.64,eur,OUT OF STOCK,Esselunga,MILANO,2026/04/12 21:14,1335473370255,limited edition
+ESS-00695,CP0695,ALT0695,Dairy,Mozzarella,Mozzarella di Bufala Deluxe 187.5g,Parmalat,187.5,g,1,"€2,63",,eur,limited,Esselunga,Milan,2026/02/11 10:34,5141908274574,private label
+ESS-00696,CP0696,ALT0696,Dairy,Mozzarella,Fior di latte mozzarella Deluxe 300g,Bio,300.0,g,2,"1,45",,Euro,in stock,Esselunga,milan,12-03-2026,,new
+ESS-00697,CP0697,ALT0697,Dairy,YOGURT,Fidaty Greek Yogurt Deluxe 127.5g,Fidaty,127.5,g,6,EUR 3.20, 2.86 ,€,low stock,Esselunga,MILANO,28/02/2026,0834028974093,new
+ESS-00698,CP0698,ALT0698,Dairy,Yogurt,Strawberry Yogurt Deluxe 1.5pcs,Naturama,1.5,pcs,6, 3.51 ,,Euro,limited,Esselunga,milan,25-03-2026,6718892670136,limited edition
+ESS-00699,CP0699,ALT0699,Dairy,Yogurt,Plain Yogurt Deluxe,Bio,625.0,g,1,EUR 1.90,,Euro,,Esselunga,milan,19/03/2026,7697916276243,imported
+ESS-00700,CP0700,ALT0700,Dairy,Milk,Naturama Whole Milk Deluxe,Naturama,1,l,1,EUR 1.90,"1,55",€,available,Esselunga,Milan,22-04-2026,1626987735105,new
+ESS-00701,CP0701,ALT0701,dairy,Milk,Semi-skimmed Milk Deluxe,Atlante,1.25,l,4,"2,08",,eur,,Esselunga,Milano,13/03/2026,9087929686367,
+ESS-00702,CP0702,ALT0702,Dairy, Milk,Lactose Free Milk Deluxe 1l,Smart,,,1,2.27,,eur,low stock,Esselunga,Milano,2026/04/19 21:31,8207907798861,imported
+ESS-00703,CP0703,ALT0703,Dairy,Butter ,Top Unsalted Butter Deluxe 187.5g,TOP,187.5,g,1,EUR 1.56,,Euro,in stock,Esselunga,MILANO,2026/03/21 21:30,6626570438833,seasonal item
+ESS-00704,CP0704,ALT0704,Dairy,Butter,Salted Butter Deluxe 250g,Top,250,g,1, 2.90 ,,Euro,available,Esselunga,milan,2026/04/10 09:47,4070547209264,
+ESS-00705,CP0705,ALT0705,Dairy,Cheese,Smart Parmigiano Reggiano Deluxe 250g,Smart,250.0,g,,"2,71",,EUR,,Esselunga,Milano,03-01-2026,7660022003642,imported
+ESS-00706,CP0706,ALT0706,Dairy,Cheese,Gorgonzola Deluxe 150g,Naturama,150,g,1,2.12,1.80,eur,OUT OF STOCK,Esselunga,Milano,2026-02-17,9654525517656,seasonal item
+ESS-00707,CP0707,ALT0707,Dairy,Cheese,Ricotta Deluxe 250g,Fidaty,250,g,1,3.29,,eur,,Esselunga,milan,2026-02-02,4328858994709,seasonal item
+ESS-00708,CP0708,ALT0708,Bakery,Bread,Atlante Whole Wheat Bread Deluxe,Atlante,625.0,g,1,EUR 2.99,,EUR,,Esselunga,MILANO,2026-03-30 10:26:00,,promo shelf
+ESS-00709,CP0709,ALT0709,Bakery,Bread,Ciabatta Deluxe,Naturama,300,g,1,EUR 2.90, 2.46 ,EUR,,Esselunga,milan,2026/04/04 00:12,9703977338004,imported
+ESS-00710,CP0710,ALT0710,Bakery,Bread,Sandwich Bread Deluxe 550g,bio,550,g,6,3.80,,EUR,,Esselunga,MILANO,16/03/2026,3348781934211,limited edition
+ESS-00711,CP0711,ALT0711,Bakery,Croissants,Smart Butter Croissant Deluxe 7.5pcs,Smart,7.5,pcs,2,"2,34",,EUR,limited,Esselunga,Milan,17-04-2026,2476174035300,seasonal item
+ESS-00712,CP0712,ALT0712,Bakery,Croissants,Smart Chocolate Croissant Deluxe 6pcs,Smart,6,pcs,3,"2,67",,Euro,limited,Esselunga,Milano,2026-01-05,5089229830922,
+ESS-00713,CP0713,ALT0713,Bakery,Cookies,Chocolate Chip Cookies Deluxe 375g,Barilla,375.0,g,1,EUR 1.64,,eur,low stock,Esselunga,milan,2026-03-20 20:52:00,1972855867931,new
+ESS-00714,CP0714,ALT0714,Bakery,Cookies,Atlante Digestive Biscuits Deluxe,Atlante,400,g,2,,,EUR,available,Esselunga,milan,02/01/2026,1095316156678,limited edition
+ESS-00715,CP0715,ALT0715,Produce,Tomatoes,Cherry Tomatoes Deluxe,Fidaty,,g,1,2.30,2.18,Euro,low stock,Esselunga,milan,2026-03-25 12:58:00,4885980690439,seasonal item
+ESS-00716,CP0716,ALT0716,Produce,Tomatoes,Smart Round Tomatoes Deluxe 1.25kg,Smart,1.25,kg,,3.98,,€,in stock,Esselunga,Milan,2026-04-18 05:27:00,2077730881530,limited edition
+ESS-00717,CP0717,ALT0717,Produce,Salad,Iceberg Lettuce Deluxe 0.75pcs,Barilla,0.75,pcs,8,"2,77",,Euro,low stock,Esselunga,Milan,13/04/2026,5888404162742,
+ESS-00718,CP0718,ALT0718,Produce,Salad,fidaty rocket salad deluxe,Fidaty,187.5,g,4,"€2,54",2.19,EUR,available,Esselunga,MILANO,28-02-2026,9514607372040,
+ESS-00719,CP0719,ALT0719,Produce,Apples,naturama golden apples deluxe 0.75kg,Naturama,0.75,kg,4,EUR 4.23,3.04,€,OUT OF STOCK,Esselunga,Milano,2026-04-21,1286866775646,check allergen label
+ESS-00720,CP0720,ALT0720,Produce,Apples,Pink Lady Apples Deluxe 1kg,Atlante,1,kg,1,"€2,28",,EUR,,Esselunga,Milano,2026-04-23,7027392467831,limited edition
+ESS-00721,CP0721,ALT0721,Produce,Bananas,Parmalat Bananas Deluxe 1kg,Parmalat,1,kg,1,3.82,,Euro,,Esselunga,Milan,12/04/2026,9292133240618,new
+ESS-00722,CP0722,ALT0722,Produce,Potatoes,Fidaty Potatoes Deluxe 1.5kg,Fidaty,1.5,kg,1,"€2,69",,eur,available,Esselunga,MILANO,27/01/2026,3812580256219,imported
+ESS-00723,CP0723,ALT0723,Meat,Chicken, Chicken Breast Deluxe ,Smart,300.0,g,3,5.52,,€,available,Esselunga,Milano,09-01-2026,7660531397837,
+ESS-00724,CP0724,ALT0724,Meat,Chicken,Chicken Thighs Deluxe,Parmalat,375.0,g,8,7.33,"6,00",Euro,,Esselunga,Milano,14/04/2026,1249987799948,seasonal item
+ESS-00725,CP0725,ALT0725,Meat,Beef,De Cecco Minced Beef Deluxe, De Cecco,400,g,6,"€7,02",EUR 5.72,€,low stock,Esselunga,MILANO,13-01-2026,,
+ESS-00726,CP0726,ALT0726,MEAT,beef,Beef Steak Deluxe,Bio,300,g,6,"€7,48",,Euro,OUT OF STOCK,Esselunga,MILANO,2026-05-01 20:34:00,2023362706538,private label
+ESS-00727,CP0727,ALT0727,Meat,Cured Meats,Rio Mare Prosciutto Cotto Deluxe 90g,Rio Mare,90.0,g,4,"€7,84",,Euro,limited,Esselunga,milan,2026/01/14 04:01,0500451066605,limited edition
+ESS-00728,CP0728,ALT0728,Meat,Cured Meats,Esselunga Salame Milano Deluxe 150g,Esselunga,150.0,g,1,"7,56",6.50,EUR,available,Esselunga,MILANO,2026-03-11,8928149896569,private label
+ESS-00729,CP0729,ALT0729,Pantry,Pasta,Spaghetti Deluxe,Esselunga,500,g,4, 5.10 ,,eur,low stock,Esselunga,MILANO,2026/03/13 03:06,3474303426784,limited edition
+ESS-00730,CP0730,ALT0730,Pantry, Pasta,Penne Rigate Deluxe,Atlante,500,g,4, 5.14 ,EUR 4.58,Euro,available,Esselunga,Milano,2026-03-02 06:50:00,1473074802797,check allergen label
+ESS-00731,CP0731,ALT0731,Pantry,Pasta,Fusilli Deluxe 500g,Naturama,500,g,6,4.93,"€3,59",€,limited,Esselunga,MILANO,2026/02/19 14:08,8068414579557,limited edition
+ESS-00732,CP0732,ALT0732,Pantry,Rice,Bio Carnaroli Rice Deluxe 1.25kg,Bio,1.25,kg,8,4.34,,eur,available,Esselunga,MILANO,2026-04-04,9497397687659,seasonal item
+ESS-00733,CP0733,ALT0733, Pantry,Rice,Basmati Rice Deluxe,Bio,0.75,kg,2, 4.20 ,,EUR,in stock,Esselunga,milan,2026/03/09 17:08,0602109162696,limited edition
+ESS-00734,CP0734,ALT0734,Pantry,Sauce,Tomato Passata Deluxe,Smart,1050.0,ml,2,EUR 4.52,,eur,OUT OF STOCK,Esselunga,Milano,2026-01-25,,new
+ESS-00735,CP0735,ALT0735,Pantry,Sauce,Pesto Genovese Deluxe,Naturama,190,g,6,"€3,51",,eur,,Esselunga,milan,2026-02-03,6460715006652,
+ESS-00736,CP0736,ALT0736,Pantry,Oil,top extra virgin olive oil deluxe,Top,1.25,l,6,3.24,,EUR,available,Esselunga,milan,29-01-2026,4144201803420,promo shelf
+ESS-00737,CP0737,ALT0737,Pantry,Oil,Sunflower Oil Deluxe,Naturama,1,l,1,2.59,,EUR,available,Esselunga,Milan,16-04-2026,3046583659980,limited edition
+ESS-00738,CP0738,ALT0738,Pantry,Flour,Naturama All Purpose Flour Deluxe,Naturama,1,kg,1,3.37,,Euro,in stock,Esselunga,Milan,2026-04-19,5096399478348,new
+ESS-00739,CP0739,ALT0739,Pantry,Flour,Naturama 00 Flour Deluxe 1kg,Naturama,1,kg,1,"4,46",,€,OUT OF STOCK,Esselunga,Milano,2026/02/05 09:08,6196213239295,limited edition
+ESS-00740,CP0740,ALT0740,Pantry,Sugar,WHITE SUGAR DELUXE,Rio Mare,1.5,kg,1,,"1,94",eur,,Esselunga,milan,2026-03-19,7291930420185,promo shelf
+ESS-00741,CP0741,ALT0741,Pantry,Sugar,Atlante Brown Sugar Deluxe 1.5kg,Atlante,1.5,kg,6, 2.77 ,,eur,low stock,Esselunga,Milano,2026/04/19 02:24,9922249244406,private label
+ESS-00742,CP0742,ALT0742,Pantry,Coffee,Esselunga Ground Coffee Deluxe 187.5g,Esselunga,187.5,g,8,"2,60", 1.85 ,€,,Esselunga,milan,2026-04-03,7245605182080,check allergen label
+ESS-00743,CP0743,ALT0743,Pantry,Coffee,Coffee Beans Deluxe,Esselunga,500,g,1,"2,05",,EUR,,Esselunga,MILANO,24-04-2026,5925707279290,new
+ESS-00744,CP0744,ALT0744,Pantry,Cereal,Corn Flakes Deluxe,NATURAMA,375,g,1,5.09,,Euro,available,Esselunga,MILANO,08/04/2026,4102621083083,
+ESS-00745,CP0745,ALT0745,Pantry,Cereal,Esselunga Muesli Deluxe,Esselunga,562.5,g,3,"€2,76","2,33",eur,in stock,Esselunga,Milan,21-04-2026,8872877130423,
+ESS-00746,CP0746,ALT0746,Frozen,Pizza,Margherita Pizza Deluxe,Naturama,525.0,g,1,,,Euro,low stock,Esselunga,Milan,2026-03-15 16:07:00,1385413174485,imported
+ESS-00747,CP0747,ALT0747,Frozen,Pizza,Esselunga Vegetable Pizza Deluxe 285g,Esselunga,285.0,g,2,6.24,,EUR,low stock,Esselunga,Milan,2026-02-09,8748531599646,limited edition
+ESS-00748,CP0748,ALT0748,Frozen,Vegetables,Frozen Peas Deluxe,Fidaty,450,g,8,EUR 5.76,,eur,OUT OF STOCK,Esselunga,milan,2026-03-02,,imported
+ESS-00749,CP0749,ALT0749,Frozen,Vegetables,Frozen Spinach Deluxe,Esselunga,675.0,g,8,6.35,,€,,Esselunga,MILANO,2026-03-26 04:53:00,,limited edition
+ESS-00750,CP0750,ALT0750,Frozen,Fish,Mulino Bianco Frozen Salmon Fillets Deluxe 500g,Mulino Bianco,500.0,g,1,4.87,,Euro,,Esselunga,milan,2026/04/11 13:50,7193064739087,new
+ESS-00751,CP0751,ALT0751,Frozen,Fish,Fish Fingers Deluxe 375g,Bio,375.0,g,4, 3.59 ,"3,11",eur,limited,Esselunga,MILANO,2026/02/18 16:38,9788377720439,
+ESS-00752,CP0752,ALT0752,Beverages,Water,Atlante Still Water Deluxe,Atlante,1.5,l,1,"€2,04","1,67",€,in stock,Esselunga,milan,2026-02-28 10:01:00,5440668994253,check allergen label
+ESS-00753,CP0753,ALT0753,Beverages,Water,Sparkling Water Deluxe,Atlante,1.12,l,1,1.11,,EUR,limited,Esselunga,milan,2026/03/08 03:19,2386160186191,
+ESS-00754,CP0754,ALT0754,beverages,Juice,Orange Juice Deluxe,top,1.5,l,4,"2,78",,€,in stock,Esselunga,Milano,2026-02-25 07:41:00,4163228556336,promo shelf
+ESS-00755,CP0755,ALT0755,Beverages,Juice,Atlante Apple Juice Deluxe,Atlante,1,l,1,"€2,61","€1,92",EUR,limited, Esselunga ,milan,22-04-2026,0581479605623,imported
+ESS-00756,CP0756,ALT0756,Beverages,Soft Drinks,Top Cola Deluxe,Top,1.12,l,8, 1.89 ,,€,low stock,Esselunga,milan,29/03/2026,7333003047166,check allergen label
+ESS-00757,CP0757,ALT0757,Beverages,Soft Drinks,Lemon Soda Deluxe 1.5l,Top,1.5,l,,2.22,,EUR,in stock,Esselunga,milan,2026-04-14 22:29:00,7414656637070,
+ESS-00758,CP0758,ALT0758,Beverages,Tea,Green Tea Deluxe 30pcs,Atlante,30.0,pcs,8,1.92,,eur,,Esselunga,milan,2026-03-04,,private label
+ESS-00759,CP0759,ALT0759,Beverages,Tea,Atlante Black Tea Deluxe,Atlante,18.75,pcs,1, 2.67 ,1.97,EUR,OUT OF STOCK,Esselunga,MILANO,2026-03-20 11:00:00,9544956977556,new
+ESS-00760,CP0760,ALT0760,Household,detergent,Atlante Dish Soap Deluxe,Atlante,1125.0,ml,4,4.34,"3,13",EUR,in stock,Esselunga,Milano,04/03/2026,,seasonal item
+ESS-00761,CP0761,ALT0761,Household,Detergent,Laundry Detergent Deluxe 1.12l,Mulino Bianco,1.12,l,1,"5,40",EUR 5.08,eur,limited, Esselunga ,MILANO,2026-04-03,6187749789535,promo shelf
+ESS-00762,CP0762,ALT0762,Household,Paper,Top Toilet Paper Deluxe 8pcs,Top,8,pcs,4,"€7,04",,Euro,limited,Esselunga,Milan,2026/05/01 06:28,6064144250969,private label
+ESS-00763,CP0763,ALT0763,Household, Paper,Rio Mare Kitchen Towels Deluxe 6pcs,Rio Mare,6.0,pcs,4,5.67,4.43,eur,low stock,Esselunga,Milan,2026/03/01 22:06,8098568350518,
+ESS-00764,CP0764,ALT0764,Household,Cleaning,De Cecco Multi Surface Cleaner Deluxe,De Cecco,937.5,ml,1,"€4,68","3,85",Euro,low stock,Esselunga,Milano,2026-04-12,4980460653493,
+ESS-00765,CP0765,ALT0765,Household,Cleaning,Bleach Deluxe,Lavazza,2,l,6,7.25, 6.17 ,€,OUT OF STOCK,Esselunga,Milan,09/03/2026,9312108110387,check allergen label
+ESS-00766,CP0766,ALT0766,Personal Care,Shampoo,Naturama Shampoo Deluxe,Naturama,187.5,ml,1,EUR 6.83,,€,limited,Esselunga,Milano,2026-03-07 13:58:00,3812724901405,check allergen label
+ESS-00767,CP0767,ALT0767,Personal Care,Shampoo,Barilla Conditioner Deluxe 375ml,Barilla,375.0,ml,3,"5,42",,€,,Esselunga,Milano,17/01/2026,5849620032302,imported
+ESS-00768,CP0768,ALT0768,Personal Care,Soap,Hand Soap Deluxe,Fidaty,300,ml,1,6.88,,Euro,,Esselunga,Milano,24-03-2026,4367704110800,
+ESS-00769,CP0769,ALT0769,Personal Care,Soap,Body Wash Deluxe,Top,375.0,ml,8,EUR 5.41, 4.22 ,eur,in stock,Esselunga,Milano,01/05/2026,5656337343488,limited edition
+ESS-00770,CP0770,ALT0770,Personal Care,Toothpaste,Fidaty Toothpaste Deluxe, Fidaty,93.75,ml,1, 6.73 ,EUR 5.01,Euro,OUT OF STOCK,Esselunga,Milano,2026/04/15 00:28,2172742194047,seasonal item
+ESS-00771,CP0771,ALT0771,Dairy,Mozzarella,Fidaty Mozzarella Classic,Fidaty,156.25,g,6,,,eur,available,Esselunga,Milan,2026-03-05,5097333098703,promo shelf
+ESS-00772,CP0772,ALT0772,Dairy,Mozzarella,Mozzarella di Bufala Classic 93.75g,Fidaty,93.75,g,4,EUR 3.28,,eur,,Esselunga,milan,01-03-2026,9131101522181,seasonal item
+ESS-00773,CP0773,ALT0773, Dairy ,Mozzarella,Atlante Fior di latte mozzarella Classic 250g,Atlante,250.0,g,6,"2,59",2.09,eur,limited,Esselunga,milan,2026/02/17 02:10,0317681013247,check allergen label
+ESS-00774,CP0774,ALT0774,Dairy,Yogurt,Greek Yogurt Classic 170g,Rio Mare,170,g,8,,EUR 1.93,eur,,Esselunga,Milano,2026/03/10 13:16,7657815916655,private label
+ESS-00775,CP0775,ALT0775,Dairy,Yogurt,Strawberry Yogurt Classic, Esselunga,2.5,pcs,2,,1.91,€,limited,Esselunga,MILANO,31-01-2026,4180540085380,check allergen label
+ESS-00776,CP0776,ALT0776,Dairy,Yogurt,Fidaty Plain Yogurt Classic 500g,Fidaty,500,g,8,"€1,45",,Euro,OUT OF STOCK,Esselunga,Milano,2026-04-03 20:54:00,0878157491671,check allergen label
+ESS-00777,CP0777,ALT0777,Dairy,Milk,Whole Milk Classic,Bio,1.25,l,6,"2,91",,€,limited,Esselunga,milan,2026-03-03,,check allergen label
+ESS-00778,CP0778,ALT0778,Dairy,Milk,Bio Semi-skimmed Milk Classic, Bio,1,l,4,"€3,50",,Euro,limited,Esselunga,Milano,2026/02/19 13:53,6675716954023,
+ESS-00779,CP0779,ALT0779,Dairy,Milk,Atlante Lactose Free Milk Classic 1.5l,Atlante,1.5,l,6,2.93,,EUR,in stock,Esselunga,milan,18/03/2026,4023878930381,private label
+ESS-00780,CP0780,ALT0780,Dairy,Butter,Unsalted Butter Classic,Naturama,250,g,1,3.24,EUR 2.73,Euro,limited,Esselunga,Milano,2026/01/29 05:25,7272066754905,check allergen label
+ESS-00781,CP0781,ALT0781,Dairy,Butter,Salted Butter Classic 375g,Smart,375.0,g,2,1.94,,EUR,,Esselunga,Milan,2026-02-18,0496729427919,imported
+ESS-00782,CP0782,ALT0782,Dairy,Cheese,Parmigiano Reggiano Classic 300g,Smart,300.0,g,1,"€2,78",,eur,limited,Esselunga,MILANO,01-05-2026,1524244310299,
+ESS-00783,CP0783,ALT0783,DAIRY,Cheese,FIDATY GORGONZOLA CLASSIC,Fidaty,187.5,g,3,3.62,,eur,in stock,Esselunga,Milano,01/01/2026,3071488305450,
+ESS-00784,CP0784,ALT0784,Dairy,Cheese,Ricotta Classic 312.5g,Atlante,312.5,g,6, 2.82 ,,Euro,,Esselunga,Milan,2026-04-10 17:50:00,4250464717426,promo shelf
+ESS-00785,CP0785,ALT0785,Bakery,Bread,Atlante Whole Wheat Bread Classic 625g,Atlante,625.0,g,1, 3.95 ,,EUR,low stock,Esselunga,MILANO,25/04/2026,0969262168472,seasonal item
+ESS-00786,CP0786,ALT0786,Bakery,Bread,Top Ciabatta Classic,Top,450.0,g,, 1.74 ,,Euro,low stock,Esselunga,milan,13-04-2026,7247273188970,seasonal item
+ESS-00787,CP0787,ALT0787,Bakery,Bread,Esselunga Sandwich Bread Classic 550g, Esselunga,550,g,3,,"1,48",EUR,in stock,Esselunga,MILANO,2026-02-07,6649290703839,private label
+ESS-00788,CP0788,ALT0788,Bakery,Croissants,Mutti Butter Croissant Classic,Mutti,6,pcs,1,EUR 2.11,1.63,Euro,,Esselunga,Milano,2026-01-20 23:43:00,9524143456466,check allergen label
+ESS-00789,CP0789,ALT0789,Bakery,Croissants,Rio Mare Chocolate Croissant Classic,Rio Mare,6,pcs,1,"€1,67", 1.47 ,Euro,OUT OF STOCK,Esselunga,MILANO,17-03-2026,7667491348169,check allergen label
+ESS-00790,CP0790,ALT0790,Bakery,Cookies,Atlante Chocolate Chip Cookies Classic 225g,Atlante,225.0,g,1, 2.09 ,,€,,Esselunga,Milano,2026-03-23,,seasonal item
+ESS-00791,CP0791,ALT0791,Bakery,Cookies,Top Digestive Biscuits Classic 400g,Top,400,g,1,1.67,"€1,52",eur,available,Esselunga,Milan,2026-02-11,,promo shelf
+ESS-00792,CP0792,ALT0792,Produce ,Tomatoes,Cherry Tomatoes Classic 625g,Fidaty,625.0,g,8, 1.97 ,,EUR,limited,Esselunga,milan,2026-04-27 19:14:00,2208595031215,private label
+ESS-00793,CP0793,ALT0793,Produce,Tomatoes,Galbani Round Tomatoes Classic 1kg,Galbani,1,kg,8,2.19,1.87,Euro,in stock,Esselunga,Milano,2026/02/05 16:51,3614491792165,
+ESS-00794,CP0794,ALT0794,Produce,Salad,Ferrero Iceberg Lettuce Classic,Ferrero,1.25,pcs,,1.99,,€,limited,Esselunga,milan,18/03/2026,9967313121312,check allergen label
+ESS-00795,CP0795,ALT0795,Produce,Salad,Rocket Salad Classic,Mulino Bianco,187.5,g,1, 2.78 ,,EUR,available,esselunga,MILANO,28/01/2026,,new
+ESS-00796,CP0796,ALT0796,Produce,Apples,Fidaty Golden Apples Classic 1.5kg, Fidaty,1.5,kg,4,2.49,,eur,limited,Esselunga,Milan,2026-03-08,5180075658255,new
+ESS-00797,CP0797,ALT0797,Produce,Apples,Pink Lady Apples Classic,Barilla,1.25,kg,, 4.36 ,,EUR,available,Esselunga,Milano,2026-02-01,2948563666731,
+ESS-00798,CP0798,ALT0798,Produce,Bananas,Bananas Classic,Top,1,kg,2,"3,59",,€,low stock,Esselunga,Milan,2026-01-07 04:46:00,7282881565960,promo shelf
+ESS-00799,CP0799,ALT0799,Produce,Potatoes,Potatoes Classic,Naturama,1.5,kg,6,"€2,97",,eur,OUT OF STOCK,Esselunga,milan,2026/01/03 19:46,6884393939606,limited edition
+ESS-00800,CP0800,ALT0800,Meat,Chicken,Chicken Breast Classic,Atlante,500.0,g,1, 7.92 ,EUR 5.76,EUR,limited,Esselunga,MILANO,2026-02-26 11:37:00,9948129645482,limited edition
+ESS-00801,CP0801,ALT0801,Meat,Chicken,Esselunga Chicken Thighs Classic 500g,Esselunga,500,g,3,9.39,"€8,33",€,OUT OF STOCK,Esselunga,milan,2026-03-05 02:00:00,3196172588284,
+ESS-00802,CP0802,ALT0802,Meat,Beef,Minced Beef Classic 400g,NATURAMA,400,g,1, 9.52 ,,EUR,limited,Esselunga,MILANO,2026/01/06 14:12,5636518370470,limited edition
+ESS-00803,CP0803,ALT0803,Meat,Beef,Beef Steak Classic,Top,375.0,g,1,7.64,"5,39",Euro,low stock,Esselunga,Milano,11/02/2026,5240558972359,
+ESS-00804,CP0804,ALT0804,Meat,cured meats,Aia Prosciutto Cotto Classic 120g,Aia,120,g,1, 5.88 ,,€,OUT OF STOCK,Esselunga,Milano,2026-03-21 14:14:00,7291298967335,imported
+ESS-00805,CP0805,ALT0805,Meat,Cured Meats,Salame Milano Classic 100g,Naturama,100,g,2, 8.75 ,,Euro,available,Esselunga,milan,07-02-2026,5674863747030,seasonal item
+ESS-00806,CP0806,ALT0806,Pantry,Pasta,Spaghetti Classic 500g,Parmalat,500,g,1,3.69,,€,limited,Esselunga,Milano,22-02-2026,5228876172746,seasonal item
+ESS-00807,CP0807,ALT0807,Pantry,Pasta,barilla penne rigate classic 500g,Barilla,500,g,1,4.81,,Euro,OUT OF STOCK,Esselunga,Milano,13-02-2026,4071253461155,promo shelf
+ESS-00808,CP0808,ALT0808,Pantry,Pasta,Top Fusilli Classic 500g,Top,500,g,1,"4,57",,€,limited,Esselunga,MILANO,2026-02-09,2234508960713,
+ESS-00809,CP0809,ALT0809,Pantry,Rice,Carnaroli Rice Classic,Atlante,1.5,kg,1,3.54,,€,in stock,Esselunga,Milan,2026/04/09 06:14,,check allergen label
+ESS-00810,CP0810,ALT0810,Pantry,Rice,Esselunga Basmati Rice Classic 1kg,Esselunga,1,kg,3,"2,17",,eur,OUT OF STOCK,Esselunga,milan,06/01/2026,1134148126892,new
+ESS-00811,CP0811,ALT0811,Pantry,Sauce,Smart Tomato Passata Classic 1050ml,Smart,1050.0,ml,1,"€2,74",,€,available, Esselunga,milan,2026/03/21 11:28,9319579965912,imported
+ESS-00812,CP0812,ALT0812, Pantry ,Sauce,Top Pesto Genovese Classic 142.5g,Top,142.5,g,3,"€4,66",,EUR,,Esselunga,Milan,24-04-2026,4650286011837,new
+ESS-00813,CP0813,ALT0813,Pantry,Oil,Fidaty Extra Virgin Olive Oil Classic, Fidaty,,l,1,4.55,,€,OUT OF STOCK,Esselunga,Milan,2026/01/22 02:52,2119511094526,new
+ESS-00814,CP0814,ALT0814,Pantry,Oil,sunflower oil classic 1l,Atlante,,l,6,"€3,18",,Euro,,Esselunga,Milano,23-03-2026,2855693149354,seasonal item
+ESS-00815,CP0815,ALT0815,Pantry,Flour,Esselunga All Purpose Flour Classic,Esselunga,0.75,,1, 3.62 ,2.91,Euro,,Esselunga,Milan,2026/04/05 13:26,5149400746723,
+ESS-00816,CP0816,ALT0816,Pantry,Flour,Atlante 00 Flour Classic ,Atlante,1,kg,1, 2.50 ,,€,low stock,Esselunga,MILANO,23/01/2026,7769673254966,imported
+ESS-00817,CP0817,ALT0817,Pantry, Sugar,Rio Mare White Sugar Classic,Rio Mare,1.25,kg,8,EUR 4.07,"3,61",Euro,,Esselunga,Milan,01/03/2026,0426854460688,seasonal item
+ESS-00818,CP0818,ALT0818,Pantry,Sugar,Brown Sugar Classic 1.25kg,Fidaty,1.25,kg,2, 2.26 ,2.05,€,available,Esselunga,milan,2026/01/26 23:42,4044163166417,new
+ESS-00819,CP0819,ALT0819,Pantry,Coffee,Ground Coffee Classic 375g,Top,375.0,g,8,3.92, 3.56 ,EUR,,Esselunga,milan,2026-03-09,8917088807242,limited edition
+ESS-00820,CP0820,ALT0820,Pantry,Coffee,Smart Coffee Beans Classic 500g,Smart,500,g,8,"5,12",,€,low stock,Esselunga,MILANO,2026/04/24 21:13,0858549146516,imported
+ESS-00821,CP0821,ALT0821,Pantry,Cereal,Corn Flakes Classic 468.75g,Atlante,468.75,g,4,"2,50",2.13,Euro,limited,Esselunga,Milano,2026-01-23 10:44:00,5471332581963,seasonal item
+ESS-00822,CP0822,ALT0822,Pantry,Cereal,Muesli Classic 937.5g,Bio,937.5,g,2,3.01,,eur,in stock,Esselunga,Milano,02-01-2026,4046610106195,check allergen label
+ESS-00823,CP0823,ALT0823,Frozen,Pizza,Atlante Margherita Pizza Classic,Atlante,437.5,g,1,,,EUR,low stock,Esselunga,milan,10-01-2026,3612514261891,promo shelf
+ESS-00824,CP0824,ALT0824,Frozen,Pizza,Bio Vegetable Pizza Classic 285g, Bio,285.0,g,2,"€3,14","€2,82",Euro,low stock,Esselunga,milan,03-03-2026,4108945207259,new
+ESS-00825,CP0825,ALT0825,Frozen,Vegetables,Naturama Frozen Peas Classic,Naturama,337.5,g,1, 4.03 ,,€,limited,Esselunga,Milan,2026/01/16 12:40,9422851413632,new
+ESS-00826,CP0826,ALT0826,Frozen,Vegetables,Frozen Spinach Classic,Bio,450,g,2,3.44,,Euro,limited,Esselunga,MILANO,2026-03-02 01:16:00,,
+ESS-00827,CP0827,ALT0827,Frozen,Fish ,Frozen Salmon Fillets Classic 400g,Smart,400,g,1,3.97,,Euro,low stock,Esselunga,Milan,2026-04-05,9198602082896,
+ESS-00828,CP0828,ALT0828,Frozen,Fish,Naturama Fish Fingers Classic,Naturama,375.0,g,6,"€3,56","€2,77",Euro,available,Esselunga,MILANO,26-02-2026,9024464423598,seasonal item
+ESS-00829,CP0829,ALT0829,BEVERAGES,Water,Still Water Classic,Naturama,1.5,l,1,"1,57",,€,low stock,Esselunga,Milano,20-04-2026,8363915965866,imported
+ESS-00830,CP0830,ALT0830,Beverages,Water,Naturama Sparkling Water Classic,Naturama,1.5,l,3,"2,44",,Euro,limited,Esselunga,milan,2026-02-03 09:57:00,1759661446658,private label
+ESS-00831,CP0831,ALT0831,Beverages,Juice,Fidaty Orange Juice Classic,Fidaty,1.5,l,4,"2,14",,eur,,Esselunga,MILANO,2026/04/30 11:02,5229509443604,imported
+ESS-00832,CP0832,ALT0832,Beverages,Juice,Atlante Apple Juice Classic 1l,Atlante,1,l,1,EUR 2.31,,eur,available,Esselunga,Milano,2026-02-09 22:02:00,7303659077467,promo shelf
+ESS-00833,CP0833,ALT0833,Beverages,Soft Drinks,Cola Classic 1.88l, Bio ,1.88,l,8, 2.71 ,,eur,,Esselunga,MILANO,29-01-2026,9631885340261,
+ESS-00834,CP0834,ALT0834,Beverages,Soft Drinks,Esselunga Lemon Soda Classic,Esselunga,2.25,l,1,2.00,,€,available,Esselunga,milan,2026/03/09 19:58,2011866827263,check allergen label
+ESS-00835,CP0835,ALT0835,Beverages,Tea,Esselunga Green Tea Classic,Esselunga,30.0,pcs,8,2.04,,€,,Esselunga,Milan,2026/01/25 20:23,8827634394635,imported
+ESS-00836,CP0836,ALT0836,Beverages,Tea,Black Tea Classic,Esselunga,25,pcs,3,EUR 2.41,,eur,available,Esselunga,MILANO,2026-02-14 17:53:00,7123367812155,imported
+ESS-00837,CP0837,ALT0837,Household,Detergent,Dish Soap Classic 937.5ml,Naturama,937.5,ml,8,EUR 5.74,,EUR,limited,Esselunga,Milan,2026-04-12 16:37:00,0632877554840,
+ESS-00838,CP0838,ALT0838,Household,Detergent,Laundry Detergent Classic 2.25l,Bio,2.25,l,8,7.55,,Euro,low stock,Esselunga,Milan,27/02/2026,0798909789207,promo shelf
+ESS-00839,CP0839,ALT0839,Household,Paper,Toilet Paper Classic 8pcs,Naturama,8,pcs,1,"€6,25",,€,,Esselunga,MILANO,2026/03/29 11:30,5632250546788,
+ESS-00840,CP0840,ALT0840,Household,PAPER,Bio Kitchen Towels Classic,Bio,4,pcs,3,"7,17",,Euro,in stock,Esselunga,Milan,13/01/2026,8013724928840,imported
+ESS-00841,CP0841,ALT0841,Household,Cleaning,Multi Surface Cleaner Classic,Atlante,937.5,ml,4,4.94,,€,low stock,Esselunga,Milano,20/03/2026,2470321337800,new
+ESS-00842,CP0842,ALT0842,Household,Cleaning,Bio Bleach Classic,Bio,2,l,1,4.89,,EUR,,Esselunga,Milan,2026/02/06 19:09,9130610855704,new
+ESS-00843,CP0843,ALT0843,Personal Care,Shampoo,Shampoo Classic,Atlante,250,ml,3,"6,24",,eur,,Esselunga,milan,24/04/2026,3213992858142,
+ESS-00844,CP0844,ALT0844,Personal Care,Shampoo,Bio Conditioner Classic,Bio,250,ml,1,3.17,2.96,€,low stock,Esselunga,milan,2026-02-06 18:08:00,4351941997981,check allergen label
+ESS-00845,CP0845,ALT0845,Personal Care,Soap,Top Hand Soap Classic,Top,300,ml,1,5.31,,EUR,,Esselunga,Milano,2026-01-01 14:17:00,0645620098327,
+ESS-00846,CP0846,ALT0846,Personal Care,Soap,Body Wash Classic 375ml,Galbani,375.0,ml,8, 5.63 ,,Euro,,Esselunga,Milano,2026-01-09,2794401305972,seasonal item
+ESS-00847,CP0847,ALT0847,Personal Care,Toothpaste,Toothpaste Classic 75ml,Atlante,75,ml,8,"€3,46",,Euro,in stock,Esselunga,Milano,30/01/2026,2854040261668,
+ESS-00848,CP0848,ALT0848,Dairy,Mozzarella, Bio Mozzarella Premium,Bio,125,g,3,"€3,07","2,41",Euro,low stock, Esselunga,Milano,19-03-2026,7172912698153,promo shelf
+ESS-00849,CP0849,ALT0849,Dairy,Mozzarella,Mozzarella di Bufala Premium 93.75g,Galbani,93.75,g,1,2.07,"€1,77",€,,Esselunga,milan,2026-03-11 15:39:00,3440585659519,check allergen label
+ESS-00850,CP0850,ALT0850,Dairy,Mozzarella,Naturama Fior di latte mozzarella Premium 300g,Naturama,300.0,g,1,3.13,,eur,,esselunga,milan,2026-03-22 12:43:00,8311794944228,limited edition
+ESS-00851,CP0851,ALT0851,dairy,Yogurt,Greek Yogurt Premium,Granarolo,170,g,6, 2.07 ,,Euro,low stock,Esselunga,MILANO,31-01-2026,8281059251211,new
+ESS-00852,CP0852,ALT0852,Dairy,Yogurt,Fidaty Strawberry Yogurt Premium 2pcs,Fidaty,2,pcs,6,1.95,1.41,eur,limited,Esselunga,Milano,2026/04/21 12:35,,private label
+ESS-00853,CP0853,ALT0853,Dairy,Yogurt,Naturama Plain Yogurt Premium 500g,Naturama,500,g,3,"3,09",,eur,,Esselunga,MILANO,18-01-2026,4161656657640,
+ESS-00854,CP0854,ALT0854,Dairy,Milk,Whole Milk Premium,Top,1.25,l,1, 2.54 ,"€1,85",Euro,limited,Esselunga,milan,06/04/2026,5156283794774,check allergen label
+ESS-00855,CP0855,ALT0855,Dairy,Milk,Semi-skimmed Milk Premium 1l,Atlante,1,l,,"2,33",,€,,Esselunga,Milano,2026-04-05 13:01:00,1654980618464,
+ESS-00856,CP0856,ALT0856,Dairy,Milk,Lactose Free Milk Premium,Atlante,,l,4,"3,55",,eur,OUT OF STOCK,Esselunga,MILANO,11-03-2026,9217366566739,imported
+ESS-00857,CP0857,ALT0857,Dairy,Butter,Unsalted Butter Premium,Top,375.0,g,1, 2.52 ,,Euro,,Esselunga,milan,28-04-2026,2349457244917,new
+ESS-00858,CP0858,ALT0858,Dairy,Butter,Salted Butter Premium 375g,Fidaty,375.0,g,1,"€2,08",,eur,limited,Esselunga,Milano,28/02/2026,5667053308519,
+ESS-00859,CP0859,ALT0859,Dairy,Cheese,Parmigiano Reggiano Premium ,FIDATY,,g,4,EUR 2.30, 2.18 ,Euro,limited,Esselunga,Milano,2026/01/02 15:57,1616613063548,check allergen label
+ESS-00860,CP0860,ALT0860,Dairy,Cheese,Lavazza Gorgonzola Premium,Lavazza,112.5,g,1, 3.08 ,,Euro,OUT OF STOCK,Esselunga,milan,2026-01-21,9387138992793,limited edition
+ESS-00861,CP0861,ALT0861,Dairy,Cheese,De Cecco Ricotta Premium 250g,De Cecco,250,g,1,"€2,16",,€,limited,Esselunga,milan,01-02-2026,2456636305128,private label
+ESS-00862,CP0862,ALT0862,Bakery,Bread,Whole Wheat Bread Premium 500g,Smart,500,g,1,3.09,,€,available, Esselunga ,Milano,2026-01-20,3431629235621,imported
+ESS-00863,CP0863,ALT0863,Bakery,Bread,Ciabatta Premium 300g,Bio,300,g,,"€3,93","3,53",Euro,limited,Esselunga,MILANO,2026/04/27 19:44,5310769070096,private label
+ESS-00864,CP0864,ALT0864,Bakery,Bread,Sandwich Bread Premium,Lavazza,550,g,2, 2.13 ,,Euro,limited,Esselunga,Milano,2026-03-10,1323123036726,limited edition
+ESS-00865,CP0865,ALT0865,Bakery,Croissants,Butter Croissant Premium 6pcs,Smart,6,pcs,1,1.66,1.41,EUR,OUT OF STOCK,Esselunga,milan,2026-01-17,8839211436785,new
+ESS-00866,CP0866,ALT0866,Bakery,Croissants,Chocolate Croissant Premium 6pcs,Top,6,pcs,6,3.40,,EUR,,Esselunga,MILANO,2026-04-30 16:03:00,7464385088257,check allergen label
+ESS-00867,CP0867,ALT0867,Bakery,Cookies,Mulino Bianco Chocolate Chip Cookies Premium 225g,Mulino Bianco,225.0,g,4,"€2,19",,EUR,OUT OF STOCK,Esselunga,MILANO,2026/01/14 05:19,9830186080753,promo shelf
+ESS-00868,CP0868,ALT0868,Bakery,Cookies,Top Digestive Biscuits Premium 600g,Top,600.0,g,6,"€2,68",,Euro,OUT OF STOCK,Esselunga,milan,10/02/2026,8053634716780,
+ESS-00869,CP0869,ALT0869,Produce,Tomatoes,Mutti Cherry Tomatoes Premium,Mutti,500,g,3,"€3,58",,EUR,low stock,Esselunga,milan,2026-02-17 18:54:00,1058768694618,private label
+ESS-00870,CP0870,ALT0870,Produce,Tomatoes,Atlante Round Tomatoes Premium,Atlante,1,kg,,EUR 3.71,EUR 2.69,eur,limited,Esselunga,Milan,13/01/2026,0257865357866,promo shelf
+ESS-00871,CP0871,ALT0871,Produce,Salad,Iceberg Lettuce Premium,Top,0.75,pcs,1,EUR 1.80,,€,OUT OF STOCK,Esselunga,Milano,2026-02-21,6832762890823,
+ESS-00872,CP0872,ALT0872,Produce,Salad,Esselunga Rocket Salad Premium 93.75g,Esselunga,93.75,g,1,"1,76",1.33,Euro,OUT OF STOCK,Esselunga,Milano,2026/04/18 10:52,9718511477716,limited edition
+ESS-00873,CP0873,ALT0873,Produce,Apples,Golden Apples Premium 1.5kg,Granarolo,1.5,kg,8,"€3,33",,eur,,Esselunga,milan,2026-04-27,3588974354085,promo shelf
+ESS-00874,CP0874,ALT0874,Produce,Apples,Fidaty Pink Lady Apples Premium 1kg,Fidaty,1,kg,4, 1.73 ,,eur,low stock,Esselunga,Milano,23/03/2026,2413373326408,limited edition
+ESS-00875,CP0875,ALT0875,Produce,Bananas,De Cecco Bananas Premium 1kg,De Cecco,1,kg,1,3.27, 3.08 ,Euro,,Esselunga,milan,2026-01-31 15:15:00,2961205287001,promo shelf
+ESS-00876,CP0876,ALT0876,Produce,Potatoes,Potatoes Premium 2.5kg,Smart,2.5,kg,1,EUR 2.88,,Euro,limited,Esselunga,Milan,29-01-2026,4566703707010,
+ESS-00877,CP0877,ALT0877,Meat,Chicken,Bio Chicken Breast Premium 300g,Bio,300.0,g,1,9.51,7.86,€,,Esselunga,Milano,02-02-2026,8188758158918,private label
+ESS-00878,CP0878,ALT0878,Meat,chicken,Chicken Thighs Premium 375g,Smart,375.0,g,1,"4,98",,EUR,in stock,Esselunga,Milano,2026-03-29,4065685900370,promo shelf
+ESS-00879,CP0879,ALT0879,Meat,Beef,Smart Minced Beef Premium,Smart,600.0,g,1,"5,55",,Euro,,Esselunga,Milan,2026/04/17 00:05,1260562926692,
+ESS-00880,CP0880,ALT0880,Meat,Beef,Beef Steak Premium 300g,Smart,300,g,1,"9,63","€7,08",EUR,in stock,Esselunga,Milan,2026-04-16 05:35:00,3591358263747,limited edition
+ESS-00881,CP0881,ALT0881,Meat,Cured Meats,Prosciutto Cotto Premium 150g,Fidaty,150.0,g,8,"€7,82",,eur,,Esselunga,Milan,31-01-2026,1387055440547,promo shelf
+ESS-00882,CP0882,ALT0882,MEAT,Cured Meats,Salame Milano Premium 125g,Atlante,125.0,g,1,4.43,4.19,EUR,available,Esselunga,MILANO,25-02-2026,3600454579427,imported
+ESS-00883,CP0883,ALT0883,Pantry,Pasta,Spaghetti Premium,Top,625.0,g,4,"2,70",,Euro,low stock,Esselunga,Milano,25/03/2026,2009125853402,new
+ESS-00884,CP0884,ALT0884,Pantry,Pasta,Esselunga Penne Rigate Premium 500g,ESSELUNGA,500,g,8,EUR 5.23,,Euro,low stock,Esselunga,MILANO,14-01-2026,2461059931804,
+ESS-00885,CP0885,ALT0885,Pantry,Pasta,Fusilli Premium,Atlante,500,g,4,"5,20",,Euro,in stock,Esselunga,Milano,2026-04-29,,
+ESS-00886,CP0886,ALT0886,Pantry,Rice,Carnaroli Rice Premium, Esselunga,0.75,kg,4,"€5,16",,€,available,Esselunga,milan,2026-02-06,4516433982883,new
+ESS-00887,CP0887,ALT0887,Pantry,Rice,Basmati Rice Premium,Atlante,1,kg,1,EUR 2.17,,€,available,Esselunga,MILANO,16/01/2026,,promo shelf
+ESS-00888,CP0888,ALT0888,Pantry,Sauce,Naturama Tomato Passata Premium 875ml,Naturama,875.0,ml,,"€4,69",,eur,limited,Esselunga,MILANO,2026-03-25,6729836194102,check allergen label
+ESS-00889,CP0889,ALT0889,Pantry,Sauce,Pesto Genovese Premium 142.5g,Naturama,142.5,g,1,2.68,,eur,in stock,Esselunga,Milan,2026/04/10 00:33,8177292578363,seasonal item
+ESS-00890,CP0890,ALT0890,Pantry,Oil,Fidaty Extra Virgin Olive Oil Premium,Fidaty,0.75,l,1,"2,09",,EUR,available,Esselunga,Milano,02/01/2026,2436521010745,private label
+ESS-00891,CP0891,ALT0891,Pantry,Oil,Top Sunflower Oil Premium 1.25l,Top,1.25,l,1,2.15,,EUR,,esselunga,Milano,2026-02-05,2501128750826,
+ESS-00892,CP0892,ALT0892,Pantry,Flour,All Purpose Flour Premium 1.25kg,Esselunga,1.25,kg,, 3.93 ,2.76,€,in stock,Esselunga,Milano,21-01-2026,,limited edition
+ESS-00893,CP0893,ALT0893,Pantry,Flour,00 Flour Premium 0.75kg,Fidaty,0.75,kg,4,EUR 2.99,,EUR,OUT OF STOCK,Esselunga,Milan,2026/02/03 17:14,0917835636405,
+ESS-00894,CP0894,ALT0894,Pantry,Sugar,bio white sugar premium,Bio,1.5,kg,8,EUR 3.16,,EUR,in stock,Esselunga,MILANO,18/04/2026,0307353868281,
+ESS-00895,CP0895,ALT0895,Pantry,Sugar, Mutti Brown Sugar Premium,Mutti ,0.75,kg,6, 5.02 ,,EUR,,Esselunga,Milano,2026/03/29 14:01,9446926626395,
+ESS-00896,CP0896,ALT0896,Pantry,Coffee,Aia Ground Coffee Premium,Aia,250,g,2,"2,77",,eur,available,Esselunga,MILANO,2026-04-20 17:37:00,6160013113787,new
+ESS-00897,CP0897,ALT0897,Pantry,Coffee,Coffee Beans Premium,Ferrero,500,g,1,4.55,,EUR,low stock,Esselunga,MILANO,2026/01/01 18:20,,new
+ESS-00898,CP0898,ALT0898,Pantry,CEREAL,Corn Flakes Premium,Bio,562.5,g,1,"€4,17","€3,84",Euro,limited,Esselunga,milan,2026-04-28,1902416177237,check allergen label
+ESS-00899,CP0899,ALT0899,Pantry,Cereal,Muesli Premium 750g,Smart,750,g,1,3.09, 2.81 ,€,,Esselunga,Milano,10/04/2026,4471565037150,
+ESS-00900,CP0900,ALT0900,Frozen,Pizza,Margherita Pizza Premium 262.5g,Mulino Bianco,262.5,g,1,EUR 3.10,,eur,in stock,Esselunga,MILANO,2026/02/03 08:24,7571869725006,
+ESS-00901,CP0901,ALT0901,Frozen,Pizza,Vegetable Pizza Premium 380g,Smart,380,g,3,6.21,,Euro,low stock,Esselunga,Milan,2026-03-20 09:56:00,,seasonal item
+ESS-00902,CP0902,ALT0902,Frozen,Vegetables,Frozen Peas Premium,Naturama,337.5,g,4,EUR 2.94,,EUR,available, Esselunga ,MILANO,2026/04/22 19:38,7584939178264,promo shelf
+ESS-00903,CP0903,ALT0903,Frozen,Vegetables,Frozen Spinach Premium 675g,Atlante,675.0,g,3,5.12,,EUR,low stock,Esselunga,Milano,28-02-2026,3579038186832,
+ESS-00904,CP0904,ALT0904,Frozen,Fish,Frozen Salmon Fillets Premium 500g,Mutti,500.0,g,3,"€5,21",,Euro,,Esselunga,milan,2026-02-17,3487760131098,new
+ESS-00905,CP0905,ALT0905,Frozen,Fish,Top Fish Fingers Premium 450g,Top,450.0,g,8,2.82,EUR 2.20,€,available,Esselunga,MILANO,2026-03-17 10:37:00,4291037497364,
+ESS-00906,CP0906,ALT0906,Beverages,Water,Smart Still Water Premium,Smart,2.25,l,8,,1.05,EUR,,Esselunga,Milano,2026-03-31 05:36:00,9028297672207,check allergen label
+ESS-00907,CP0907,ALT0907,Beverages,Water,Esselunga Sparkling Water Premium,Esselunga,2.25,l,2,EUR 1.73,,eur,available,Esselunga,milan,25/03/2026,5719554968472,new
+ESS-00908,CP0908,ALT0908,Beverages,Juice,Orange Juice Premium,Naturama,1,l,8, 2.68 ,"2,24",eur,low stock,Esselunga,Milan,2026-03-28,9554712007316,imported
+ESS-00909,CP0909,ALT0909,Beverages,Juice,Fidaty Apple Juice Premium,Fidaty,1.5,l,8,"2,06","€1,57",EUR,low stock,Esselunga,milan,2026/02/13 05:57,4194824641188,imported
+ESS-00910,CP0910,ALT0910,Beverages,Soft Drinks,Barilla Cola Premium 1.88l,Barilla,1.88,l,6,EUR 1.18,0.86,Euro,limited,Esselunga,milan,27/04/2026,6340546498590,new
+ESS-00911,CP0911,ALT0911,Beverages,Soft Drinks ,Smart Lemon Soda Premium 1.88l,Smart,1.88,l,1,"2,51",EUR 2.37,Euro,in stock,Esselunga,milan,2026-04-01 17:04:00,2839291238118,imported
+ESS-00912,CP0912,ALT0912,Beverages,Tea, Bio Green Tea Premium,Bio,25.0,pcs,6,1.53,,eur,OUT OF STOCK,Esselunga,Milan,15/02/2026,7222647283334,seasonal item
+ESS-00913,CP0913,ALT0913,Beverages,Tea, Black Tea Premium ,Top,25,pcs,8,2.26,1.67,Euro,limited,Esselunga ,Milano,2026-01-28,9242412963597,private label
+ESS-00914,CP0914,ALT0914,Household,Detergent,Dish Soap Premium 1125ml,Top,1125.0,ml,3, 6.54 ,5.38,€,OUT OF STOCK,Esselunga,milan,2026/03/26 15:14,9737268323348,promo shelf
+ESS-00915,CP0915,ALT0915,Household,Detergent,Rio Mare Laundry Detergent Premium 1.88l,Rio Mare,1.88,l,2,EUR 6.21,,€,limited,Esselunga,MILANO,2026-03-30 12:36:00,5705717159183,imported
+ESS-00916,CP0916,ALT0916,HOUSEHOLD,Paper,Toilet Paper Premium 8pcs,Atlante,8,pcs,4,"4,83",,€,in stock,Esselunga,Milan,06/03/2026,,private label
+ESS-00917,CP0917,ALT0917,Household,Paper,Kitchen Towels Premium 6pcs,Naturama,6.0,pcs,2,"€3,37",,Euro,,Esselunga,MILANO,09-03-2026,,promo shelf
+ESS-00918,CP0918,ALT0918,Household,Cleaning,Smart Multi Surface Cleaner Premium 1125ml,SMART,1125.0,ml,8,5.51,,EUR,in stock,Esselunga,milan,2026-02-16 03:47:00,5093275329694,private label
+ESS-00919,CP0919,ALT0919,Household,Cleaning,Bleach Premium,Naturama,1.5,l,1,"6,20","€5,42",Euro,low stock,Esselunga,Milano,06-02-2026,1151644659239,new
+ESS-00920,CP0920,ALT0920,Personal Care,Shampoo,Shampoo Premium,Bio,375.0,,1,"€4,61", 3.83 ,eur,low stock,Esselunga,milan,2026-02-11,0538889312904,limited edition
+ESS-00921,CP0921,ALT0921,Personal Care,Shampoo,Naturama Conditioner Premium 187.5ml,Naturama ,187.5,ml,2,"€6,53",,eur,,Esselunga,Milano,2026-04-15,,check allergen label
+ESS-00922,CP0922,ALT0922,Personal Care,Soap, Atlante Hand Soap Premium, Atlante ,300,ml,8,6.94,,Euro,,Esselunga,MILANO,2026-02-05,,promo shelf
+ESS-00923,CP0923,ALT0923,Personal Care,Soap, Body Wash Premium 500ml ,Bio,500,ml,3,EUR 6.44,,eur,,Esselunga,Milano,01/03/2026,2750944483174,seasonal item
+ESS-00924,CP0924,ALT0924,Personal Care,Toothpaste,Toothpaste Premium 75ml,Atlante,75,ml,6,2.78,,Euro,limited,Esselunga,Milan,14-01-2026,4836391701389,
+ESS-00925,CP0925,ALT0925,Dairy,Mozzarella,Esselunga Mozzarella Bio,Esselunga,93.75,g,1, 2.12 ,,Euro,limited,Esselunga,Milan,2026/02/06 19:46,2264101442305,seasonal item
+ESS-00926,CP0926,ALT0926,Dairy,Mozzarella,Smart Mozzarella di Bufala Bio 125g,Smart,125,g,1,"2,41","€2,15",eur,,Esselunga,Milano,31-03-2026,4668026874851,seasonal item
+ESS-00927,CP0927,ALT0927,Dairy,Mozzarella,Fior di latte mozzarella Bio,Esselunga,200,g,6, 2.35 ,,Euro,available,Esselunga,MILANO,18-02-2026,0282774694825,
+ESS-00928,CP0928,ALT0928,Dairy,Yogurt,Atlante Greek Yogurt Bio 170g,Atlante,170,g,8,"1,95",,EUR,limited,Esselunga,milan,09-04-2026,3521705726779,promo shelf
+ESS-00929,CP0929,ALT0929,Dairy,Yogurt,Esselunga Strawberry Yogurt Bio,Esselunga,,pcs,2,3.07, 2.36 ,eur,limited,Esselunga,milan,2026/04/24 05:21,0627181063198,
+ESS-00930,CP0930,ALT0930,Dairy,Yogurt,Bio Plain Yogurt Bio,Bio,375.0,g,3,EUR 2.41,,€,in stock,Esselunga,Milano,2026/04/15 11:40,3704214152387,check allergen label
+ESS-00931,CP0931,ALT0931, Dairy ,Milk,Whole Milk Bio,Atlante,1,l,3,"€3,11",,eur,OUT OF STOCK,Esselunga,Milan,01-01-2026,,private label
+ESS-00932,CP0932,ALT0932,Dairy,Milk,Semi-skimmed Milk Bio 0.75l,Esselunga,0.75,l,8,EUR 2.33,"€2,10",Euro,available, Esselunga ,Milano,28-03-2026,,
+ESS-00933,CP0933,ALT0933,Dairy,Milk,Barilla Lactose Free Milk Bio,Barilla,1.25,l,,"€2,03",,Euro,low stock,Esselunga,Milan,09/03/2026,5574194508906,limited edition
+ESS-00934,CP0934,ALT0934,Dairy,Butter,Unsalted Butter Bio,Top,312.5,g,6,"1,44",,€,OUT OF STOCK,Esselunga,Milan,22/02/2026,6444581649461,
+ESS-00935,CP0935,ALT0935,Dairy,Butter,Salted Butter Bio,Top,375.0,g,1,"€2,14",,EUR,available,Esselunga,Milano,2026-03-08 23:18:00,1257060298224,private label
+ESS-00936,CP0936,ALT0936,Dairy,Cheese, Parmigiano Reggiano Bio,Fidaty,250.0,g,4,"€1,53",,Euro,low stock,Esselunga,MILANO,2026-03-24,8601656124662,check allergen label
+ESS-00937,CP0937,ALT0937,Dairy, Cheese,Galbani Gorgonzola Bio,Galbani,150,g,1,"2,24",,€,available,Esselunga,MILANO,2026-02-24,8194804463580,promo shelf
+ESS-00938,CP0938,ALT0938,Dairy,Cheese,Ricotta Bio 187.5g,Naturama,187.5,g,1, 2.41 ,,€,in stock,Esselunga,Milan,12/03/2026,3134946078182,imported
+ESS-00939,CP0939,ALT0939,Bakery,Bread,Top Whole Wheat Bread Bio,Top,500,g,4,"3,20",,EUR,in stock,Esselunga,milan,01-03-2026,0499883120605,seasonal item
+ESS-00940,CP0940,ALT0940,Bakery,Bread,Fidaty Ciabatta Bio 300g,FIDATY,300,g,1,"€2,33",,Euro,,Esselunga,milan,06-04-2026,1487642730092,promo shelf
+ESS-00941,CP0941,ALT0941,Bakery,Bread, Sandwich Bread Bio,Smart,550,g,2,3.14,,EUR,available,Esselunga,Milano,02/01/2026,1975077218890,seasonal item
+ESS-00942,CP0942,ALT0942,Bakery,Croissants,Bio Butter Croissant Bio,BIO,7.5,pcs,2,2.62,,Euro,limited,Esselunga,MILANO,2026-03-22 16:17:00,5431611869814,limited edition
+ESS-00943,CP0943,ALT0943,Bakery,Croissants,Top Chocolate Croissant Bio,Top,4.5,pcs,2, 2.99 ,,Euro,low stock,Esselunga,MILANO,10-02-2026,1857001092073,
+ESS-00944,CP0944,ALT0944,Bakery,Cookies,Chocolate Chip Cookies Bio,Naturama,300,g,8,2.45,,Euro,OUT OF STOCK,Esselunga,MILANO,27/02/2026,2725906359312,
+ESS-00945,CP0945,ALT0945,Bakery,Cookies,Naturama Digestive Biscuits Bio 400g,Naturama,400,g,1,EUR 1.64,,EUR,limited,Esselunga,Milano,2026/05/01 17:04,0771091204593,seasonal item
+ESS-00946,CP0946,ALT0946,Produce,Tomatoes,Fidaty Cherry Tomatoes Bio 750g,Fidaty,750.0,g,4,"4,22",3.65,EUR,limited,Esselunga,Milan,2026/03/12 17:31,0815180778336,new
+ESS-00947,CP0947,ALT0947,Produce,Tomatoes,Smart Round Tomatoes Bio,Smart,1,kg,3,EUR 4.00,,Euro,low stock,Esselunga,MILANO,2026/03/23 18:30,1489125529165,private label
+ESS-00948,CP0948,ALT0948,Produce,Salad,Rio Mare Iceberg Lettuce Bio 1.25pcs,Rio Mare,1.25,pcs,4,"2,41",EUR 2.24,eur,OUT OF STOCK,Esselunga,Milan,10/01/2026,2308912294397,promo shelf
+ESS-00949,CP0949,ALT0949,Produce,Salad,GRANAROLO ROCKET SALAD BIO,Granarolo,93.75,g,3,4.00,,Euro,available,Esselunga,milan,2026-02-11,8324951109670,
+ESS-00950,CP0950,ALT0950,Produce,Apples,Top Golden Apples Bio 1.5kg,Top,1.5,kg,2, 1.92 ,,Euro,available,Esselunga,Milano,2026-02-02,7821927900684,limited edition
+ESS-00951,CP0951,ALT0951,Produce,Apples,Smart Pink Lady Apples Bio 1kg,Smart,1,kg,8,"3,08", 2.44 ,€,,Esselunga,milan,2026/02/19 11:30,4431328156136,check allergen label
+ESS-00952,CP0952,ALT0952,Produce,Bananas ,Bananas Bio 1kg,Top,1,kg,1, 3.69 ,,EUR,available,Esselunga,Milano,2026-01-24 01:54:00,9971790848152,limited edition
+ESS-00953,CP0953,ALT0953,Produce,Potatoes, Naturama Potatoes Bio ,Naturama,2,kg,1,"4,19",,EUR,OUT OF STOCK, Esselunga,Milan,22/01/2026,2819799111307,imported
+ESS-00954,CP0954,ALT0954,Meat,Chicken,Chicken Breast Bio ,Lavazza,400,g,1,EUR 7.93,,Euro,available,Esselunga,milan,2026-04-23 10:10:00,5970073212712,imported
+ESS-00955,CP0955,ALT0955,Meat,Chicken,Galbani Chicken Thighs Bio,Galbani,375.0,g,1,"€8,50",,eur,low stock,Esselunga,Milan,07-03-2026,7840548512061,check allergen label
+ESS-00956,CP0956,ALT0956,Meat,Beef,Minced Beef Bio,Parmalat,300.0,g,8,"6,54",EUR 5.01,EUR,,Esselunga,milan,14/02/2026,9919793686421,imported
+ESS-00957,CP0957,ALT0957,Meat,Beef,Beef Steak Bio 300g,Bio,300,g,1,"€6,07",,eur,available,Esselunga,MILANO,2026/04/02 18:34,2667730142352,seasonal item
+ESS-00958,CP0958,ALT0958,Meat,Cured Meats,Fidaty Prosciutto Cotto Bio 120g,Fidaty,120,g,1, 3.98 ,,Euro,in stock,Esselunga,MILANO,2026-03-30,6660297294513,check allergen label
+ESS-00959,CP0959,ALT0959,Meat, Cured Meats,Salame Milano Bio ,Bio,150.0,g,1,4.07,,eur,,Esselunga,Milan,03/02/2026,7505432260278,check allergen label
+ESS-00960,CP0960,ALT0960,Pantry,Pasta,Spaghetti Bio 750g,Parmalat,750.0,g,2,2.22,,eur,limited,Esselunga,MILANO,2026/02/09 21:58,0067415867952,imported
+ESS-00961,CP0961,ALT0961,Pantry,Pasta,Penne Rigate Bio,Esselunga,500,g,4,"€4,72",,eur,in stock,Esselunga,Milano,18/02/2026,0436545191600,
+ESS-00962,CP0962,ALT0962,Pantry,Pasta,Fusilli Bio 625g,Naturama,625.0,g,6,4.22,,EUR,available,Esselunga,Milano,2026-01-13,6586146921193,imported
+ESS-00963,CP0963,ALT0963,Pantry,Rice,Carnaroli Rice Bio,Smart,0.75,kg,1,3.57,,Euro,low stock,Esselunga,Milano,2026/04/02 04:57,,seasonal item
+ESS-00964,CP0964,ALT0964,Pantry,Rice,Basmati Rice Bio 1.25kg,Lavazza,1.25,kg,2,3.71,,EUR,,Esselunga,Milano,2026-04-12 13:10:00,3532412666206,private label
+ESS-00965,CP0965,ALT0965,Pantry,Sauce,Tomato Passata Bio,Bio,700,ml,1,"4,47",,EUR,in stock,Esselunga,Milan,2026-01-21,5542771410452,seasonal item
+ESS-00966,CP0966,ALT0966,Pantry,Sauce,Pesto Genovese Bio,Fidaty,237.5,g,1,4.38,,€,OUT OF STOCK,Esselunga,MILANO,27/03/2026,8112231448863,
+ESS-00967,CP0967,ALT0967,Pantry,Oil,Fidaty Extra Virgin Olive Oil Bio,Fidaty,1,l,8,3.06, 2.56 ,Euro,limited,Esselunga,milan,26/03/2026,0811609629395,private label
+ESS-00968,CP0968,ALT0968,Pantry,Oil, Sunflower Oil Bio,Naturama,1.5,l,1,2.34,,Euro,low stock,Esselunga,MILANO,27-04-2026,5715556239476,
+ESS-00969,CP0969,ALT0969,Pantry,Flour,Lavazza All Purpose Flour Bio,Lavazza,1.5,kg,4,"€4,71",,EUR,OUT OF STOCK,Esselunga,Milan,16-01-2026,2510315308703,
+ESS-00970,CP0970,ALT0970,Pantry,Flour,Naturama 00 Flour Bio 1.25kg,Naturama,,kg,6,"€5,00",,EUR,low stock,Esselunga,Milano,01/05/2026,9672248551570,promo shelf
+ESS-00971,CP0971,ALT0971, Pantry ,Sugar,White Sugar Bio 1.25kg,Bio,1.25,kg,1,"€4,58","4,13",eur,,Esselunga,milan,2026/03/31 03:29,0636853992863,
+ESS-00972,CP0972,ALT0972,Pantry,Sugar,Brown Sugar Bio 0.75kg,Fidaty,0.75,kg,4, 4.20 ,,eur,,Esselunga,Milano,18-03-2026,5148268272563,seasonal item
+ESS-00973,CP0973,ALT0973,Pantry,Coffee, Top Ground Coffee Bio ,Top,375.0,g,3,2.51,,Euro,OUT OF STOCK,Esselunga,Milano,2026-04-18,9269360997073,
+ESS-00974,CP0974,ALT0974,Pantry,Coffee,Fidaty Coffee Beans Bio 375g,Fidaty,375.0,g,6,2.78, 2.11 ,Euro,available,Esselunga,Milan,2026-03-03,4225638516031,promo shelf
+ESS-00975,CP0975,ALT0975,Pantry,Cereal,Bio Corn Flakes Bio 468.75g,Bio,468.75,g,1,EUR 4.40,,€,limited,Esselunga,milan,18/02/2026,9207441148629,limited edition
+ESS-00976,CP0976,ALT0976,Pantry,Cereal,Muesli Bio,Naturama,750,g,3,EUR 2.64,2.18,€,, Esselunga ,Milano,2026-01-27 05:25:00,6870172151847,private label
+ESS-00977,CP0977,ALT0977,Frozen,Pizza,Bio Margherita Pizza Bio 525g,Bio,525.0,g,2,"2,75",,eur,limited,Esselunga,milan,2026/02/09 14:11,3893476499523,
+ESS-00978,CP0978,ALT0978,Frozen,Pizza,Vegetable Pizza Bio 380g,granarolo,380,g,1, 4.38 ,,€,OUT OF STOCK,Esselunga,MILANO,2026/04/14 11:58,8555885991890,seasonal item
+ESS-00979,CP0979,ALT0979,Frozen,Vegetables,Frozen Peas Bio,Mulino Bianco,337.5,g,4,6.19,"5,29",EUR,low stock,Esselunga,Milan,27/01/2026,6176251973102,promo shelf
+ESS-00980,CP0980,ALT0980,Frozen,Vegetables,Frozen Spinach Bio 337.5g,Naturama,337.5,g,1,"€2,88",,Euro,in stock,Esselunga,milan,2026-03-30,3800866658153,promo shelf
+ESS-00981,CP0981,ALT0981,Frozen,Fish,Frozen Salmon Fillets Bio 400g,Smart,400,g,2,5.96,,eur,in stock,Esselunga,milan,25/04/2026,7916290772692,check allergen label
+ESS-00982,CP0982,ALT0982,Frozen,Fish,Fish Fingers Bio 450g ,Top,,g,, 5.07 ,,eur,limited,Esselunga,Milan,2026/02/04 14:28,3178587873405,seasonal item
+ESS-00983,CP0983,ALT0983,Beverages,Water,Still Water Bio,Parmalat,2.25,l,1,"1,79",,EUR,limited,Esselunga,Milano,2026-01-31 05:01:00,6501235782239,new
+ESS-00984,CP0984,ALT0984,Beverages,Water,Mutti Sparkling Water Bio,Mutti,1.12,l,1,EUR 1.48,1.09,€,in stock,Esselunga,Milan,2026-03-14,8809320796448,private label
+ESS-00985,CP0985,ALT0985,Beverages,Juice,Orange Juice Bio,Esselunga,1,l,1, 2.74 ,,eur,OUT OF STOCK,Esselunga,Milan,25-04-2026,7602787033215,private label
+ESS-00986,CP0986,ALT0986,Beverages,Juice,Apple Juice Bio 1.5l,Fidaty,1.5,l,1,EUR 1.46,1.34,€,low stock,Esselunga,Milan,2026-04-01 11:52:00,1750609471888,promo shelf
+ESS-00987,CP0987,ALT0987,Beverages,Soft Drinks,PARMALAT COLA BIO 1.12L,parmalat,1.12,l,1,1.24,EUR 1.11,€,available,Esselunga,Milano,2026-01-07 00:31:00,1277949176558,check allergen label
+ESS-00988,CP0988,ALT0988,Beverages ,Soft Drinks,Lemon Soda Bio 1.5l,Fidaty,1.5,l,1,EUR 2.13,,eur,limited,Esselunga,Milan,2026-02-22,2900372470941,imported
+ESS-00989,CP0989,ALT0989,Beverages,Tea,Bio Green Tea Bio,Bio,25.0,pcs,1,EUR 1.94,,EUR,low stock,Esselunga,Milan,16-01-2026,0307837164294,
+ESS-00990,CP0990,ALT0990,Beverages,Tea,Smart Black Tea Bio,Smart,37.5,pcs,8,EUR 2.67,,EUR,limited, Esselunga ,Milan,04-02-2026,1140215308040,promo shelf
+ESS-00991,CP0991,ALT0991,Household,Detergent,Lavazza Dish Soap Bio,Lavazza,937.5,ml,1,5.27,,EUR,,Esselunga,MILANO,24-02-2026,1427656570762,promo shelf
+ESS-00992,CP0992,ALT0992,Household, Detergent ,Mulino Bianco Laundry Detergent Bio,Mulino Bianco,1.5,l,3,7.03, 5.17 ,€,OUT OF STOCK,Esselunga,Milan,2026-05-01 23:17:00,1244516194653,seasonal item
+ESS-00993,CP0993,ALT0993,Household,Paper,Toilet Paper Bio 8pcs,Esselunga,8,pcs,2,5.37,,€,limited,Esselunga,Milan,2026-03-17,1358812155524,seasonal item
+ESS-00994,CP0994,ALT0994,Household,Paper,Kitchen Towels Bio 6pcs,Fidaty,6.0,pcs,1,7.08,,EUR,,Esselunga,Milano,2026-02-06,,new
+ESS-00995,CP0995,ALT0995,Household,Cleaning,Naturama Multi Surface Cleaner Bio,Naturama,937.5,ml,, 3.53 ,,eur,in stock,Esselunga,Milan,2026/01/29 04:47,5574908574717,check allergen label
+ESS-00996,CP0996,ALT0996,Household,Cleaning,Bio Bleach Bio 2.5l,Bio,2.5,l,3,,,Euro,in stock,Esselunga,Milan,31/01/2026,4309262048240,new
+ESS-00997,CP0997,ALT0997,Personal Care,Shampoo,SHAMPOO BIO 187.5ML,Galbani,187.5,ml,8, 5.07 ,"€4,38",Euro,available,Esselunga,Milan,2026-02-12,9728188584073,new
+ESS-00998,CP0998,ALT0998,Personal Care,Shampoo,Conditioner Bio 312.5ml,Bio,312.5,ml,4,6.67,,Euro,OUT OF STOCK,Esselunga,MILANO,2026/04/24 21:39,2709557720053,imported
+ESS-00999,CP0999,ALT0999,Personal Care,Soap,Fidaty Hand Soap Bio,Fidaty,300,ml,2,"€4,61", 4.28 ,€,,Esselunga,Milano,2026-03-15,1270736620627,promo shelf
+ESS-01000,CP1000,ALT1000,Personal Care,Soap,Body Wash Bio,Mulino Bianco,625.0,ml,6,"6,30",,Euro,,Esselunga,milan,20-03-2026,7681120056555,imported
