@@ -6,11 +6,14 @@ const sb = supabase.createClient(SUPABASE_URL, SUPABASE_KEY);
 const authContainer = document.getElementById('auth-container');
 const dashboardContainer = document.getElementById('dashboard-container');
 const loginForm = document.getElementById('login-form');
+const loginBtn = document.getElementById('login-btn');
+const errorMsg = document.getElementById('error-msg');
 const statsGrid = document.getElementById('stats-grid');
 const inventoryBody = document.getElementById('inventory-body');
 const logoutBtn = document.getElementById('logout-btn');
 
-// Check Session
+// --- Session Handling ---
+
 async function checkSession() {
     const { data: { session } } = await sb.auth.getSession();
     if (session) {
@@ -30,29 +33,40 @@ function showDashboard() {
 function showLogin() {
     authContainer.classList.remove('hidden');
     dashboardContainer.classList.add('hidden');
+    errorMsg.classList.add('hidden');
 }
 
-// Login
+// --- Auth Events ---
+
 loginForm.addEventListener('submit', async (e) => {
     e.preventDefault();
+    loginBtn.disabled = true;
+    loginBtn.textContent = 'Verifying...';
+    errorMsg.classList.add('hidden');
+
     const email = document.getElementById('email').value;
     const password = document.getElementById('password').value;
 
     const { error } = await sb.auth.signInWithPassword({ email, password });
+    
+    loginBtn.disabled = false;
+    loginBtn.textContent = 'Authorize Access';
+
     if (error) {
-        alert('Login failed: ' + error.message);
+        errorMsg.textContent = error.message;
+        errorMsg.classList.remove('hidden');
     } else {
         showDashboard();
     }
 });
 
-// Logout
 logoutBtn.addEventListener('click', async () => {
     await sb.auth.signOut();
     showLogin();
 });
 
-// Load Stats (Data Health)
+// --- Data Operations ---
+
 async function loadStats() {
     const { data, error } = await sb
         .from('store_prices')
@@ -74,7 +88,6 @@ async function loadStats() {
     `).join('');
 }
 
-// Load Inventory
 async function loadInventory() {
     const { data, error } = await sb
         .from('store_prices')
@@ -88,22 +101,19 @@ async function loadInventory() {
         .order('last_updated', { ascending: false })
         .limit(50);
 
-    if (error) {
-        console.error(error);
-        return;
-    }
+    if (error) return console.error(error);
 
     inventoryBody.innerHTML = data.map(item => `
         <tr>
-            <td>${item.products?.name || 'Unknown'}</td>
+            <td style="font-weight: 600">${item.products?.name || 'Unknown Item'}</td>
             <td>${item.store_name}</td>
-            <td>€ ${item.price_eur.toFixed(2).replace('.', ',')}</td>
+            <td><span style="color: var(--accent-emerald); font-weight: 700">€ ${item.price_eur.toFixed(2).replace('.', ',')}</span></td>
             <td>${new Date(item.last_updated).toLocaleDateString()}</td>
             <td>
                 <button class="action-btn" onclick="editPrice('${item.id}', ${item.price_eur})">
                     <i data-lucide="edit-2" size="16"></i>
                 </button>
-                <button class="action-btn" onclick="deleteRecord('${item.id}')" style="color: var(--alert-red);">
+                <button class="action-btn" onclick="deleteRecord('${item.id}')" style="color: var(--alert-red); margin-left:10px;">
                     <i data-lucide="trash-2" size="16"></i>
                 </button>
             </td>
@@ -114,34 +124,35 @@ async function loadInventory() {
 }
 
 window.editPrice = async (id, currentPrice) => {
-    const newPriceStr = prompt('Enter new price (e.g. 1.99):', currentPrice);
+    const newPriceStr = prompt('Edit Price (EUR):', currentPrice);
     if (newPriceStr === null) return;
     
     const newPrice = parseFloat(newPriceStr.replace(',', '.'));
-    if (isNaN(newPrice)) return alert('Invalid price format');
+    if (isNaN(newPrice)) return alert('Invalid price');
 
     const { error } = await sb
         .from('store_prices')
         .update({ price_eur: newPrice, last_updated: new Date().toISOString() })
         .eq('id', id);
 
-    if (error) alert('Update failed: ' + error.message);
+    if (error) alert('Update error: ' + error.message);
     else loadInventory();
 };
 
 window.deleteRecord = async (id) => {
-    if (!confirm('Are you sure you want to delete this record?')) return;
+    if (!confirm('Are you sure you want to remove this data point?')) return;
 
     const { error } = await sb
         .from('store_prices')
         .delete()
         .eq('id', id);
 
-    if (error) alert('Delete failed: ' + error.message);
+    if (error) alert('Delete error: ' + error.message);
     else {
         loadInventory();
         loadStats();
     }
 };
 
+// Initial check
 checkSession();

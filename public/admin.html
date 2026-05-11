@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>SpesaSmart Admin | Management Dashboard</title>
+    <title>SpesaSmart Admin | Secure Management</title>
     <link rel="stylesheet" href="css/style.css">
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
@@ -88,6 +88,11 @@
             border: 1px solid var(--border-glass);
             border-radius: 2rem;
             box-shadow: var(--shadow-lg);
+            animation: slideUp 0.6s ease;
+        }
+        @keyframes slideUp {
+            from { opacity: 0; transform: translateY(20px); }
+            to { opacity: 1; transform: translateY(0); }
         }
         .form-group {
             margin-bottom: 1.5rem;
@@ -106,6 +111,7 @@
             border-radius: 1rem;
             color: white;
             outline: none;
+            transition: border-color 0.3s;
         }
         .form-group input:focus { border-color: var(--accent-emerald); }
         .btn {
@@ -119,11 +125,13 @@
             font-weight: 800;
             text-transform: uppercase;
             letter-spacing: 0.05em;
-            transition: transform 0.2s;
+            transition: transform 0.2s, opacity 0.2s;
         }
         .btn:hover { transform: scale(1.02); }
-        .hidden { display: none; }
+        .btn:active { transform: scale(0.98); }
+        .btn:disabled { opacity: 0.5; cursor: not-allowed; }
         
+        .hidden { display: none !important; }
         h2 { font-size: 1.5rem; font-weight: 800; margin-bottom: 1rem; }
     </style>
 </head>
@@ -138,16 +146,16 @@
         </div>
     </header>
 
-    <main style="max-width: 1000px; margin: 3rem auto;">
-        <!-- Login Section -->
+    <main style="max-width: 1000px; margin: 3rem auto; padding: 0 1rem;">
+        <!-- Auth View -->
         <div id="auth-container">
             <form id="login-form">
                 <div style="text-align: center; margin-bottom: 2rem;">
                     <div style="background: hsla(142, 70%, 50%, 0.1); width: 60px; height: 60px; border-radius: 1.5rem; display: flex; align-items: center; justify-content: center; margin: 0 auto 1.5rem;">
-                        <i data-lucide="lock" size="30" style="color: var(--accent-emerald);"></i>
+                        <i data-lucide="shield-check" size="30" style="color: var(--accent-emerald);"></i>
                     </div>
-                    <h2>Secure Access</h2>
-                    <p style="color: var(--text-secondary); font-size: 0.9rem;">Management portal for Milan engine</p>
+                    <h2>Secure Login</h2>
+                    <p style="color: var(--text-secondary); font-size: 0.9rem;">Sign in to access Milan Price Engine</p>
                 </div>
                 <div class="form-group">
                     <label>Email Address</label>
@@ -157,11 +165,12 @@
                     <label>Password</label>
                     <input type="password" id="password" required>
                 </div>
-                <button type="submit" class="btn">Authorize Login</button>
+                <button type="submit" class="btn" id="login-btn">Authorize Access</button>
+                <p id="error-msg" style="color: var(--alert-red); font-size: 0.8rem; text-align: center; margin-top: 1rem;" class="hidden"></p>
             </form>
         </div>
 
-        <!-- Dashboard Section -->
+        <!-- Dashboard View -->
         <div id="dashboard-container" class="hidden">
             <div class="admin-nav">
                 <h2>Database Health</h2>
@@ -171,12 +180,12 @@
             </div>
 
             <div class="stats-grid" id="stats-grid">
-                <!-- Stats injected here -->
+                <!-- Data Health stats -->
             </div>
 
             <div style="display: flex; justify-content: space-between; align-items: center; margin-top: 2rem;">
                 <h2>Inventory Management</h2>
-                <span style="font-size: 0.8rem; color: var(--text-secondary);">Showing last 50 updates</span>
+                <span style="font-size: 0.8rem; color: var(--text-secondary);">Latest price points</span>
             </div>
             <div class="table-container">
                 <table id="inventory-table">
@@ -185,19 +194,18 @@
                             <th>Product Name</th>
                             <th>Retailer</th>
                             <th>Current Price</th>
-                            <th>Verified At</th>
+                            <th>Date</th>
                             <th>Actions</th>
                         </tr>
                     </thead>
-                    <tbody id="inventory-body">
-                        <!-- Data injected here -->
-                    </tbody>
+                    <tbody id="inventory-body"></tbody>
                 </table>
             </div>
         </div>
     </main>
 
     <script src="https://cdn.jsdelivr.net/npm/@supabase/supabase-js@2"></script>
+    <script src="js/config.js"></script>
     <script src="js/admin.js"></script>
     <script>
         lucide.createIcons();
