@@ -67,25 +67,35 @@ logoutBtn.addEventListener('click', async () => {
 
 // --- Data Operations ---
 
+// Load Stats (Accurate counts bypassed 1000 limit)
 async function loadStats() {
-    const { data, error } = await sb
-        .from('store_prices')
-        .select('store_name', { count: 'exact' });
-
-    if (error) return;
-
-    const counts = data.reduce((acc, curr) => {
-        acc[curr.store_name] = (acc[curr.store_name] || 0) + 1;
-        return acc;
-    }, {});
-
     const stores = ['Lidl', 'Pam', 'Esselunga', 'Conad'];
-    statsGrid.innerHTML = stores.map(store => `
-        <div class="stat-card">
-            <span class="stat-val">${counts[store] || 0}</span>
-            <span class="stat-label">${store}</span>
-        </div>
-    `).join('');
+    
+    try {
+        const counts = {};
+        
+        // Execute 4 parallel count queries for precision
+        const countQueries = stores.map(async (store) => {
+            const { count, error } = await sb
+                .from('store_prices')
+                .select('*', { count: 'exact', head: true })
+                .eq('store_name', store);
+            
+            if (error) throw error;
+            counts[store] = count || 0;
+        });
+
+        await Promise.all(countQueries);
+
+        statsGrid.innerHTML = stores.map(store => `
+            <div class="stat-card">
+                <span class="stat-val">${counts[store].toLocaleString()}</span>
+                <span class="stat-label">${store}</span>
+            </div>
+        `).join('');
+    } catch (err) {
+        console.error('Stats error:', err);
+    }
 }
 
 async function loadInventory() {
