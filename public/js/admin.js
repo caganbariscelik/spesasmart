@@ -69,7 +69,7 @@ logoutBtn.addEventListener('click', async () => {
 
 // Load Stats (Accurate counts bypassed 1000 limit)
 async function loadStats() {
-    const stores = ['Lidl', 'Pam', 'Esselunga', 'Conad'];
+    const stores = ['Lidl', 'PAM', 'Esselunga', 'Conad'];
     
     try {
         const counts = {};
