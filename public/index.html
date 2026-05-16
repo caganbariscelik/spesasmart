@@ -4,7 +4,30 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>SpesaSmart | Milan Grocery Engine</title>
-    <meta name="description" content="Premium grocery price comparison for Milan. Compare Lidl, Pam, Esselunga, and Conad.">
+    
+    <!-- SEO & Global Readiness -->
+    <meta name="description" content="Compare grocery prices across Milan instantly. Save money on every shop at Lidl, Pam, Esselunga, and Conad with SpesaSmart.">
+    <meta name="keywords" content="SpesaSmart, Milan, Grocery Price Comparison, Milan Supermarkets, Lidl, Pam, Esselunga, Conad, Savings">
+    <meta name="author" content="SpesaSmart Team">
+    
+    <!-- OpenGraph / Social Sharing -->
+    <meta property="og:type" content="website">
+    <meta property="og:url" content="https://spesasmart.vercel.app/">
+    <meta property="og:title" content="SpesaSmart | Milan's Premium Grocery Engine">
+    <meta property="og:description" content="Stop overpaying for groceries in Milan. Compare prices effortlessly and find the best deals today.">
+    <meta property="og:image" content="images/preview.png">
+    
+    <!-- Twitter -->
+    <meta property="twitter:card" content="summary_large_image">
+    <meta property="twitter:title" content="SpesaSmart | Milan Grocery Engine">
+    <meta property="twitter:description" content="The smartest way to shop in Milan. Price comparisons for 4,000+ items.">
+    <meta property="twitter:image" content="images/preview.png">
+
+    <!-- PWA -->
+    <meta name="theme-color" content="#10b981">
+    <link rel="manifest" href="manifest.json">
+    <link rel="apple-touch-icon" href="images/icon.png">
+    
     <link rel="stylesheet" href="css/style.css">
     <!-- Google Fonts: Outfit & Inter -->
     <link rel="preconnect" href="https://fonts.googleapis.com">
@@ -45,11 +68,21 @@
     </a>
 
     <script src="https://cdn.jsdelivr.net/npm/@supabase/supabase-js@2"></script>
-    <script src="js/config.js"></script>
     <script src="js/app.js"></script>
     <script>
         lucide.createIcons();
         renderInitialState();
+
+        // PWA Service Worker Registration
+        if ('serviceWorker' in navigator) {
+            window.addEventListener('load', () => {
+                navigator.serviceWorker.register('/sw.js').then(reg => {
+                    console.log('SW registered:', reg);
+                }).catch(err => {
+                    console.log('SW registration failed:', err);
+                });
+            });
+        }
     </script>
 </body>
 </html>

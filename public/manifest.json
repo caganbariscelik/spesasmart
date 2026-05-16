@@ -1,0 +1,17 @@
+{
+  "name": "SpesaSmart | Milan Grocery Engine",
+  "short_name": "SpesaSmart",
+  "description": "High-performance grocery price comparison in Milan. Compare Lidl, Pam, Esselunga, and Conad instantly.",
+  "start_url": "/index.html",
+  "display": "standalone",
+  "background_color": "#0a0a0a",
+  "theme_color": "#10b981",
+  "icons": [
+    {
+      "src": "images/icon.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
