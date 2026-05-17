@@ -39,41 +39,28 @@ const i18n = {
 
 // --- Italian Synonym Map ---
 const synonyms = {
-    'pasta':      ['spaghetti', 'penne', 'rigate', 'fusilli', 'linguine', 'tagliatelle', 'pasta'],
-    'pane':       ['bread', 'pane', 'loaf', 'sandwich'],
-    'bread':      ['bread', 'pane', 'sandwich', 'loaf'],
-    'latte':      ['latte', 'milk', 'lactose'],
-    'milk':       ['milk', 'latte', 'lactose'],
-    'riso':       ['rice', 'riso', 'basmati', 'carnaroli'],
-    'rice':       ['rice', 'riso', 'basmati', 'carnaroli'],
-    'burro':      ['butter', 'burro'],
-    'butter':     ['butter', 'burro'],
-    'formaggio':  ['cheese', 'mozzarella', 'parmigiano', 'formaggio', 'grana'],
-    'cheese':     ['cheese', 'mozzarella', 'parmigiano', 'grana'],
-    'yogurt':     ['yogurt', 'yoghurt'],
-    'farina':     ['flour', 'farina'],
-    'flour':      ['flour', 'farina'],
-    'acqua':      ['water', 'acqua'],
-    'water':      ['water', 'acqua'],
-    'pollo':      ['chicken', 'pollo'],
-    'chicken':    ['chicken', 'pollo'],
-    'manzo':      ['beef', 'manzo', 'steak'],
-    'beef':       ['beef', 'manzo', 'steak'],
-    'te':         ['tea', 'tè', 'green tea', 'black tea'],
-    'tea':        ['tea', 'tè', 'green tea', 'black tea'],
-    'uova':       ['egg', 'uova'],
-    'eggs':       ['egg', 'uova'],
-    'verdure':    ['salad', 'lettuce', 'spinach', 'peas', 'tomato', 'verdure'],
-    'pomodoro':   ['tomato', 'pomodoro'],
-    'tomato':     ['tomato', 'pomodoro', 'cherry'],
-    'insalata':   ['salad', 'lettuce', 'rocket', 'insalata'],
-    'salame':     ['salame', 'salami'],
-    'mozzarella': ['mozzarella', 'bufala', 'fior di latte'],
+    'pasta':      { terms: ['spaghetti', 'penne', 'rigate', 'fusilli', 'linguine', 'tagliatelle', 'pasta'] },
+    'pane':       { terms: ['bread', 'pane', 'loaf', 'sandwich'] },
+    'bread':      { terms: ['bread', 'pane', 'sandwich', 'loaf'] },
+    'latte':      { terms: ['latte', 'milk', 'lactose'], exclude: ['mozzarella', 'formaggio', 'cheese', 'fior di latte'] },
+    'milk':       { terms: ['milk', 'latte', 'lactose'], exclude: ['mozzarella', 'formaggio', 'cheese', 'fior di latte'] },
+    'riso':       { terms: ['rice', 'riso', 'basmati', 'carnaroli'] },
+    'rice':       { terms: ['rice', 'riso', 'basmati', 'carnaroli'] },
+    'burro':      { terms: ['butter', 'burro'] },
+    'butter':     { terms: ['butter', 'burro'] },
+    'formaggio':  { terms: ['cheese', 'mozzarella', 'parmigiano', 'formaggio', 'grana'] },
+    'cheese':     { terms: ['cheese', 'mozzarella', 'parmigiano', 'grana'] },
+    'yogurt':     { terms: ['yogurt', 'yoghurt'] },
+    'farina':     { terms: ['flour', 'farina'] },
+    'flour':      { terms: ['flour', 'farina'] },
+    'acqua':      { terms: ['water', 'acqua'] },
+    'water':      { terms: ['water', 'acqua'] },
+    'mozzarella': { terms: ['mozzarella', 'bufala', 'fior di latte'] },
 };
 
-function getSearchTerms(query) {
+function getSearchContext(query) {
     const lower = query.toLowerCase().trim();
-    return synonyms[lower] || [lower];
+    return synonyms[lower] || { terms: [lower] };
 }
 
 function applyLanguage(lang) {
@@ -129,7 +116,8 @@ async function performSearch(query) {
         <div class="skeleton-card"></div>
     `;
     
-    const terms = getSearchTerms(query);
+    const context = getSearchContext(query);
+    const terms = context.terms;
 
     try {
         // Build OR filter for synonym expansion
@@ -152,7 +140,7 @@ async function performSearch(query) {
 
         if (error) throw error;
 
-        setTimeout(() => renderResults(data, query), 300);
+        setTimeout(() => renderResults(data, query, context), 300);
     } catch (err) {
         console.error('Search error:', err);
         resultsContainer.innerHTML = `
@@ -165,9 +153,21 @@ async function performSearch(query) {
     }
 }
 
-function renderResults(products, query) {
+function renderResults(products, query, context = {}) {
     const t = i18n[currentLang];
+    const excludes = context.exclude || [];
+
     if (!products || products.length === 0) {
+        // ... (existing no results logic)
+    }
+
+    const filteredProducts = products.filter(product => {
+        const name = product.name.toLowerCase();
+        // If any exclude term is found in the name, filter it out
+        return !excludes.some(ex => name.includes(ex.toLowerCase()));
+    });
+
+    if (filteredProducts.length === 0) {
         resultsContainer.innerHTML = `
             <div style="text-align: center; margin-top: 6rem; animation: fadeIn 0.5s ease;">
                 <div style="background: hsla(0, 0%, 100%, 0.05); width: 80px; height: 80px; border-radius: 2rem; display: flex; align-items: center; justify-content: center; margin: 0 auto 2rem;">
@@ -181,7 +181,7 @@ function renderResults(products, query) {
         return;
     }
 
-    resultsContainer.innerHTML = products.map(product => {
+    resultsContainer.innerHTML = filteredProducts.map(product => {
         // Filter out zero prices
         const prices = (product.store_prices || []).filter(p => p.price_eur > 0);
         
