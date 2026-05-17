@@ -158,7 +158,17 @@ function renderResults(products, query, context = {}) {
     const excludes = context.exclude || [];
 
     if (!products || products.length === 0) {
-        // ... (existing no results logic)
+        resultsContainer.innerHTML = `
+            <div style="text-align: center; margin-top: 6rem; animation: fadeIn 0.5s ease;">
+                <div style="background: hsla(0, 0%, 100%, 0.05); width: 80px; height: 80px; border-radius: 2rem; display: flex; align-items: center; justify-content: center; margin: 0 auto 2rem;">
+                    <i data-lucide="search-x" size="40" style="color: var(--text-secondary);"></i>
+                </div>
+                <h2 style="font-weight: 700; margin-bottom: 0.5rem;">${t.noResultsTitle}</h2>
+                <p style="color: var(--text-secondary);">${t.noResultsSubtitle}</p>
+            </div>
+        `;
+        lucide.createIcons();
+        return;
     }
 
     const filteredProducts = products.filter(product => {
