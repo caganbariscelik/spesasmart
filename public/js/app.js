@@ -182,7 +182,12 @@ function renderResults(products, query) {
     }
 
     resultsContainer.innerHTML = products.map(product => {
-        const prices = product.store_prices || [];
+        // Filter out zero prices
+        const prices = (product.store_prices || []).filter(p => p.price_eur > 0);
+        
+        // Skip products that have no valid prices after filtering
+        if (prices.length === 0) return '';
+
         const sortedPrices = [...prices].sort((a, b) => a.price_eur - b.price_eur);
         const minPrice = sortedPrices.length > 0 ? sortedPrices[0].price_eur : null;
 
@@ -210,7 +215,6 @@ function renderResults(products, query) {
                             </div>
                         `;
                     }).join('')}
-                    ${prices.length === 0 ? '<p style="color: var(--text-secondary); font-size: 0.8rem; text-align: center;">No price data available for this store.</p>' : ''}
                 </div>
             </div>
         `;
