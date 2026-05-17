@@ -37,13 +37,18 @@ const i18n = {
     }
 };
 
-// --- Italian Synonym Map ---
+// --- Italian Synonym Map with strict relevance filtering ---
 const synonyms = {
-    'pasta':      { terms: ['spaghetti', 'penne', 'rigate', 'fusilli', 'linguine', 'tagliatelle', 'pasta'] },
-    'pane':       { terms: ['bread', 'pane', 'loaf', 'sandwich'] },
-    'bread':      { terms: ['bread', 'pane', 'sandwich', 'loaf'] },
-    'latte':      { terms: ['latte', 'milk', 'lactose'], exclude: ['mozzarella', 'formaggio', 'cheese', 'fior di latte'] },
-    'milk':       { terms: ['milk', 'latte', 'lactose'], exclude: ['mozzarella', 'formaggio', 'cheese', 'fior di latte'] },
+    'pasta':      { terms: ['spaghetti', 'penne', 'rigate', 'fusilli', 'linguine', 'tagliatelle', 'pasta'],
+                    exclude: ['dentifricio', 'toothpaste'] },
+    'pane':       { terms: ['bread', 'pane', 'loaf', 'sandwich'],
+                    exclude: ['panettone', 'grissini'] },
+    'bread':      { terms: ['bread', 'pane', 'sandwich', 'loaf'],
+                    exclude: ['panettone', 'grissini'] },
+    'latte':      { terms: ['latte', 'milk'],
+                    exclude: ['mozzarella', 'formaggio', 'cheese', 'fior di latte', 'burrata', 'ricotta', 'mascarpone', 'stracchino', 'crescenza', 'fiordilatte', 'latticini'] },
+    'milk':       { terms: ['milk', 'latte'],
+                    exclude: ['mozzarella', 'formaggio', 'cheese', 'fior di latte', 'burrata', 'ricotta', 'mascarpone', 'stracchino', 'crescenza', 'fiordilatte', 'latticini'] },
     'riso':       { terms: ['rice', 'riso', 'basmati', 'carnaroli'] },
     'rice':       { terms: ['rice', 'riso', 'basmati', 'carnaroli'] },
     'burro':      { terms: ['butter', 'burro'] },
@@ -55,12 +60,56 @@ const synonyms = {
     'flour':      { terms: ['flour', 'farina'] },
     'acqua':      { terms: ['water', 'acqua'] },
     'water':      { terms: ['water', 'acqua'] },
-    'mozzarella': { terms: ['mozzarella', 'bufala', 'fior di latte'] },
+    'mozzarella': { terms: ['mozzarella', 'bufala', 'fior di latte', 'fiordilatte'] },
+    'uova':       { terms: ['uova', 'eggs', 'egg'] },
+    'eggs':       { terms: ['eggs', 'egg', 'uova'] },
+    'olio':       { terms: ['olio', 'oil', 'oliva', 'olive'] },
+    'oil':        { terms: ['oil', 'olio', 'oliva', 'olive'] },
+    'zucchero':   { terms: ['zucchero', 'sugar'] },
+    'sugar':      { terms: ['sugar', 'zucchero'] },
+    'caffe':      { terms: ['caffe', 'caffè', 'coffee', 'espresso'] },
+    'coffee':     { terms: ['coffee', 'caffe', 'caffè', 'espresso'] },
+    'te':         { terms: ['tea', 'tè', 'infuso'] },
+    'tea':        { terms: ['tea', 'tè', 'infuso'] },
 };
 
 function getSearchContext(query) {
     const lower = query.toLowerCase().trim();
     return synonyms[lower] || { terms: [lower] };
+}
+
+// --- Relevance scoring: ranks products by match quality ---
+function scoreProduct(product, query, context) {
+    const name = product.name.toLowerCase();
+    const queryLower = query.toLowerCase().trim();
+    const excludes = context.exclude || [];
+
+    // HARD REJECT: if product name contains any excluded term, score = -1
+    for (const ex of excludes) {
+        if (name.includes(ex.toLowerCase())) return -1;
+    }
+
+    let score = 0;
+
+    // Exact query match in name gives highest score
+    if (name.includes(queryLower)) score += 100;
+
+    // Exact word boundary match (e.g. "latte" as a standalone word, not inside "fior di latte")
+    const wordBoundaryRegex = new RegExp(`\\b${queryLower.replace(/[.*+?^${}()|[\]\\]/g, '\\$&')}\\b`, 'i');
+    if (wordBoundaryRegex.test(product.name)) score += 50;
+
+    // Synonym term matches
+    const terms = context.terms || [queryLower];
+    for (const term of terms) {
+        if (name.includes(term.toLowerCase())) score += 20;
+    }
+
+    // Products with valid (non-zero) prices get a bonus
+    const validPrices = (product.store_prices || []).filter(p => p.price_eur > 0);
+    if (validPrices.length > 0) score += 10;
+    else score -= 50; // Penalize products with no valid prices
+
+    return score;
 }
 
 function applyLanguage(lang) {
@@ -123,7 +172,7 @@ async function performSearch(query) {
         // Build OR filter for synonym expansion
         const orFilter = terms.map(t => `name.ilike.%${t}%`).join(',');
         
-        const { data, error } = await sb
+        let queryBuilder = sb
             .from('products')
             .select(`
                 id,
@@ -135,8 +184,15 @@ async function performSearch(query) {
                     last_updated
                 )
             `)
-            .or(orFilter)
-            .limit(20);
+            .or(orFilter);
+
+        // Apply database-level exclusions for faster filtering
+        const excludes = context.exclude || [];
+        for (const ex of excludes) {
+            queryBuilder = queryBuilder.not('name', 'ilike', `%${ex}%`);
+        }
+
+        const { data, error } = await queryBuilder.limit(30);
 
         if (error) throw error;
 
@@ -155,7 +211,6 @@ async function performSearch(query) {
 
 function renderResults(products, query, context = {}) {
     const t = i18n[currentLang];
-    const excludes = context.exclude || [];
 
     if (!products || products.length === 0) {
         resultsContainer.innerHTML = `
@@ -171,13 +226,13 @@ function renderResults(products, query, context = {}) {
         return;
     }
 
-    const filteredProducts = products.filter(product => {
-        const name = product.name.toLowerCase();
-        // If any exclude term is found in the name, filter it out
-        return !excludes.some(ex => name.includes(ex.toLowerCase()));
-    });
+    // Score and filter products by relevance
+    const scoredProducts = products
+        .map(product => ({ ...product, _score: scoreProduct(product, query, context) }))
+        .filter(product => product._score > 0)
+        .sort((a, b) => b._score - a._score);
 
-    if (filteredProducts.length === 0) {
+    if (scoredProducts.length === 0) {
         resultsContainer.innerHTML = `
             <div style="text-align: center; margin-top: 6rem; animation: fadeIn 0.5s ease;">
                 <div style="background: hsla(0, 0%, 100%, 0.05); width: 80px; height: 80px; border-radius: 2rem; display: flex; align-items: center; justify-content: center; margin: 0 auto 2rem;">
@@ -191,7 +246,7 @@ function renderResults(products, query, context = {}) {
         return;
     }
 
-    resultsContainer.innerHTML = filteredProducts.map(product => {
+    resultsContainer.innerHTML = scoredProducts.map(product => {
         // Filter out zero prices
         const prices = (product.store_prices || []).filter(p => p.price_eur > 0);
         
