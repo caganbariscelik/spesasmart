@@ -209,25 +209,7 @@ main {
     animation: fadeIn 0.4s ease forwards;
 }
 
-/* Admin / Status */
-.admin-badge {
-    position: fixed;
-    bottom: 2rem;
-    right: 2rem;
-    background: white;
-    color: black;
-    padding: 0.75rem 1.5rem;
-    border-radius: 1rem;
-    font-weight: 700;
-    font-size: 0.9rem;
-    text-decoration: none;
-    box-shadow: 0 10px 30px rgba(0,0,0,0.5);
-    transition: transform 0.2s;
-}
 
-.admin-badge:hover {
-    transform: scale(1.05);
-}
 
 /* Skeleton Premium */
 .skeleton-card {
