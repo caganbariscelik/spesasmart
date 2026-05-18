@@ -26,6 +26,8 @@ body {
   color: var(--text-primary);
   line-height: 1.6;
   min-height: 100vh;
+  display: flex;
+  flex-direction: column;
   -webkit-font-smoothing: antialiased;
 }
 
@@ -275,6 +277,56 @@ main {
         top: 1rem;
         right: 1rem;
         padding: 0.4rem 0.8rem;
+    }
+}
+
+/* Footer & Hidden Admin Panel Styles */
+.site-footer {
+    margin-top: auto;
+    padding: 2rem 1rem;
+    border-top: 1px solid var(--border-glass);
+    background: hsla(224, 71%, 3%, 0.5);
+    backdrop-filter: blur(8px);
+}
+
+.footer-content {
+    max-width: 700px;
+    margin: 0 auto;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.footer-text {
+    font-size: 0.85rem;
+    color: var(--text-secondary);
+    font-weight: 400;
+    letter-spacing: 0.01em;
+}
+
+.hidden-admin-btn {
+    color: var(--text-secondary);
+    opacity: 0.15;
+    text-decoration: none;
+    transition: opacity 0.3s ease, color 0.3s ease, transform 0.2s ease;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 0.5rem;
+    border-radius: 50%;
+}
+
+.hidden-admin-btn:hover {
+    opacity: 0.8;
+    color: var(--accent-emerald);
+    transform: scale(1.1);
+}
+
+@media (max-width: 480px) {
+    .footer-content {
+        flex-direction: column;
+        gap: 1rem;
+        text-align: center;
     }
 }
 

@@ -131,6 +131,13 @@ function applyLanguage(lang) {
 searchInput.addEventListener('input', (e) => {
     clearTimeout(searchTimeout);
     const query = e.target.value.trim();
+    
+    // Hidden Admin Panel shortcut: typing "admin" or "/admin" in the search bar
+    if (query.toLowerCase() === 'admin' || query.toLowerCase() === '/admin') {
+        window.location.href = 'admin.html';
+        return;
+    }
+    
     if (query.length < 2) { renderInitialState(); return; }
     searchTimeout = setTimeout(() => performSearch(query), 300);
 });
@@ -139,9 +146,21 @@ searchInput.addEventListener('keydown', (e) => {
     if (e.key === 'Enter') {
         clearTimeout(searchTimeout);
         const query = searchInput.value.trim();
+        if (query.toLowerCase() === 'admin' || query.toLowerCase() === '/admin') {
+            window.location.href = 'admin.html';
+            return;
+        }
         if (query.length >= 2) performSearch(query);
     }
 });
+
+// Hidden Admin Panel shortcut: Double click the SpesaSmart logo
+const logoTitle = document.getElementById('site-logo-title');
+if (logoTitle) {
+    logoTitle.addEventListener('dblclick', () => {
+        window.location.href = 'admin.html';
+    });
+}
 
 function renderInitialState() {
     const t = i18n[currentLang];
