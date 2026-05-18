@@ -39,7 +39,7 @@ header {
   background: hsla(224, 71%, 4%, 0.8);
   border-bottom: 1px solid var(--border-glass);
   padding: 2rem 1rem;
-  z-index: 100%;
+  z-index: 1000;
 }
 
 .hero-section {
