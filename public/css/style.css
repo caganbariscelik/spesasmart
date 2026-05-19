@@ -280,6 +280,24 @@ main {
     }
 }
 
+@media (max-width: 480px) {
+    .lang-switcher {
+        position: relative;
+        top: auto;
+        right: auto;
+        margin: 0 auto 1.25rem auto;
+        width: fit-content;
+    }
+    
+    .hero-section h1 {
+        font-size: 2rem;
+    }
+    
+    .hero-section p {
+        font-size: 0.95rem;
+    }
+}
+
 /* Footer & Hidden Admin Panel Styles */
 .site-footer {
     margin-top: auto;
