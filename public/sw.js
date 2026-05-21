@@ -1,10 +1,12 @@
-const CACHE_NAME = 'spesasmart-v3';
+const CACHE_NAME = 'spesasmart-v4';
 const ASSETS = [
   '/',
   '/index.html',
   '/css/style.css',
   '/js/app.js',
   '/images/icon.png',
+  '/favicon.png',
+  '/favicon.ico',
   'https://fonts.googleapis.com/css2?family=Inter:wght@400;600&family=Outfit:wght@400;700;800&display=swap'
 ];
 
